@@ -1,11 +1,1 @@
-[
- {
-  "guid": "tomcast-builder-20261004",
-  "title": "Builder: Sun Oct 4. Claude Code Mods explained, HTML-to-video agents",
-  "description": "First Builder practice episode: Bea and Christina explain Claude Code Mods from the docs, then HTML-to-video, Sonnet 5.5 for GridKings, and the week in AI news.",
-  "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/73b071de9688691890c4cf7d/ep1.mp3",
-  "audio_bytes": 16085725,
-  "duration_s": 1340,
-  "published_utc": "2026-10-04T06:50:00Z"
- }
-]
+[{"guid": "tomcast-builder-20261004", "title": "Builder: Sun Oct 4. Claude Code Mods explained, HTML-to-video agents", "description": "First Builder practice episode: Bea and Christina explain Claude Code Mods from the docs, then HTML-to-video, Sonnet 5.5 for GridKings, and the week in AI news.", "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/73b071de9688691890c4cf7d/ep1.mp3", "audio_bytes": 16301392, "duration_s": 1358, "published_utc": "2026-10-04T06:50:00Z"}]
