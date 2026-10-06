@@ -1,0 +1,1304 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261005",
+ "show": "work",
+ "title": "Who owns an agency now?",
+ "date": "2026-10-04",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-ep1.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-ep1-art1.png",
+ "duration_s": 947,
+ "published_utc": "2026-10-05T02:15:00Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": null,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "industry-agency-model",
+   "tag": "Zambezi + Stagwell",
+   "headline": "Who owns an agency now? Zambezi sells to an unusual buyer as Stagwell builds owned media",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "industry-entertainment-as-ads",
+   "tag": "KFC's game show",
+   "headline": "KFC launches its own game show, and brands keep buying entertainment instead of ads",
+   "start_s": null
+  },
+  {
+   "n": 3,
+   "story_id": "clients-ripple-open-usd",
+   "tag": "Open USD vs RLUSD",
+   "headline": "Visa, Mastercard, Stripe and Coinbase put $1B behind Open USD as Ripple unveils privacy tools and AI wallets",
+   "start_s": null
+  },
+  {
+   "n": 4,
+   "story_id": "clients-polymarket-promo-war",
+   "tag": "Kalshi promo war",
+   "headline": "NFL Sunday promo war: Kalshi offers $55–60 bonuses while Polymarket offers $25, and Coplan teases a Token 2049 reveal",
+   "start_s": null
+  },
+  {
+   "n": 5,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": null
+  },
+  {
+   "n": 6,
+   "story_id": "thinking-consistency",
+   "tag": "Pick a line, hold it",
+   "headline": "Helen Edwards on Boots: marketing doesn't value consistency enough",
+   "start_s": null
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack. You there? You've got the face.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It's audio, Bea. I don't have a face.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "You have an audio face. It's the face of a man who reorganized something this weekend.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "...The spice rack.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Ha! Alphabetical?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Alphabetical, then by cuisine, then back to alphabetical. Leave it alone. How was pottery?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Collapsed. Thursday I had a bowl going and it just folded in on itself, like it heard some bad news.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Ha.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And I loved it? I pay a woman in Echo Park to watch me fail slowly and it's the best two hours of my week. Okay, your turn. Is Nora texting?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "About football. Only football. Saturday she sent a picture of the stadium with one word. \"Loud.\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Aw.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "I've looked at it maybe forty times. It's a good picture. Anyway. Morning, Tom. I want to start with an agency selling itself, because it's been rattling around in my head all week.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Zambezi.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Zambezi. Independent agency, and they just sold a majority stake to a buyer nobody saw coming. Private equity.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Wait. An agency doing that well, and they sold?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "And here's the part I like. I'd bet the money isn't even the main thing. A buyer like that comes with brands that suddenly have a reason to hand an agency their strategy, creative, media and sports work.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Oh, that's sneaky. So it's money and a client list in one envelope.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Then the same week Stagwell keeps buying deeper into owned media. Different move, same itch. Revenue that doesn't start with someone sending you a brief.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Creative people never look at this stuff, by the way. We look at the reel. Who owns the building is someone else's slide.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. Once a holding company owns media, what does it run out of first?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Uh... readers?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Stuff to put on the shelf. Things people actually want to watch.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "bea",
+   "text": "Oh. So, a studio. And think about the kind of agency Tom's building. Picture a cross between A24 and MSCHF. What those two share is they own the thing people show up for. A24 owns a look. MSCHF owns its drops.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "So that's the fork. Either the system for building cultural force becomes something Stagwell needs, or it stays where the leftovers go. And on the line, I'd toss \"72's best answer to the clients it can't take\" straight away.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "bea",
+   "text": "It reads like a loading dock. And honestly? I'd toss \"chosen, not sent\" too.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Really? I kind of liked that one.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "bea",
+   "text": "It's still about 72! Every version of it has 72 standing just offstage. If the line needs the parent to make sense, it's the parent's line.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "...Yeah. Okay. I was soft on it. So pitch me a better one.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "bea",
+   "text": "Build on the idea of prototyping in public. Something about an audacious future, and getting there before it's safe.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "That sounds like a warning label on a ladder.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "bea",
+   "text": "Ha! It's supposed to scare procurement a little. Fine, yours.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "Mine's the same idea with receipts. An audacious future, made in public. It says what they do, and you can check it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "bea",
+   "text": "It's so polite, Jack. It sounds like a library.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "jack",
+   "text": "Libraries last. Yours works on Polymarket. Does it survive Adobe procurement? I genuinely don't know.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "bea",
+   "text": "Me neither. Maybe the answer's somewhere between the ladder and the library.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "jack",
+   "text": "Tom, here's the one I'd actually sit with. What has your agency made this year that 72 would miss if it disappeared tomorrow? Whatever that answer is, it's probably your second clause.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of making things people show up for. Can I talk about chicken?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "You were always going to talk about chicken.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Okay, picture this. Thirty real KFC superfans, no actors, doing challenges in a half-hour game show called \"Don't Crack.\" Sixty-seven thousand dollars and the title \"The Ultimate Believer.\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "The Ultimate Believer. That's a lot to put on a business card.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Mother made it. And KFC's reason is great: \"We haven't rented someone else's audience for this.\" And it's a whole show instead of a quick spot, because that's how long it takes before you care who wins.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I like it more than I wanted to. But you know my question.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Where's the chicken.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Where's the chicken. People buy KFC because it pops into their head when they're hungry. If the bucket and the red and the Colonel are part of the game, great. If it's a logo in the corner, they bought a lot of attention and handed the credit to the show.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Okay, but a ton of people applied. Off a call-out on TV and social.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Okay...",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "So the casting call was the ad. I'd bet way more people saw a call-out asking if you're enough of a fan to compete than ever applied, and the brand sits dead center in that ask. That's reach. Most of the people it reached never got near the show.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. The show's the trophy and the call-out does the heavy lifting.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Somebody write it down. Jack Vernon, culture doing reach work.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Don't frame it. Asics is the cleaner one for me, though. Sigourney Weaver narrating a nature documentary about humans on the couch, on Zoom, doomscrolling. Then: go move for fifteen minutes. The joke and the product point the same way.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "bea",
+   "text": "I love it. Tiny worry that people remember Sigourney and forget the shoe.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Same worry. And KFC has a lot of branding already in the bank. A brand in its first big moment doesn't get that cushion.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Which is Hurley. Culture-forward, youth, social into experience. That's the sweet spot on paper.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "jack",
+   "text": "On paper. And the agency's slice of the budget is a fraction of the whole thing. Venues eat money like that for breakfast.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "bea",
+   "text": "So steal the KFC trick. Shrink the unit. The casting call is the campaign. Real Hurley people, social first, and the live thing comes last, as the finale. Idea, casting and the edit stay in house.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "jack",
+   "text": "And the physical stuff?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Partner. Has to be.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Then pick carefully, because picking the partner is picking who gets to say the idea was theirs. I've watched a production partner walk off with the case study. Not fun.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 22,
+   "speaker": "bea",
+   "text": "Oof. Yeah.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Tom, so, honestly: does the casting-call version fit inside your budget, or does it still need somebody else's money to stand up?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of first big moments. Did you see who walked into crypto last week?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "The suits! Actual suits!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Visa, Mastercard, Stripe, Coinbase, Shopify, all behind one new stablecoin. That's the whole lineup of names nobody has to explain.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "I've been sitting on this all week. The XRP campaign is \"subverting the suit,\" and the suit just showed up with a press release.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Ha. It's funny. Here's what worries me. Nobody needs to be taught what Visa is. Once Visa's in, people pick whoever they already think of when money moves. Right now that's Visa.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "And the smaller brand has fewer buyers who are also a bit less loyal. I know. I've heard the sermon.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Eleven times.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Twelve. But that's exactly why the suit idea works. You get it without knowing what a ledger is. The hook is the blazer.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Okay. Then show me. Day one, the Open USD headline's everywhere. What's the post?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "bea",
+   "text": "A kid at a laundromat at midnight. Oversized thrifted blazer, sleeves shoved up, sitting on a dryer eating cereal out of the box. Doesn't look at camera. One line on screen, something like: the suits finally showed up, we've been wearing the blazer for years.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Ha. Okay, that's good. That's actually good.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Right?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Now my test. It's November. Nobody's talking about Open USD. Does that post still work?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "bea",
+   "text": "...The first half of the line dies. Anything that says the suits just showed up is dated by Halloween.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "jack",
+   "text": "And the rest?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "bea",
+   "text": "The laundromat kid works any week. The cereal works any week. Huh. So the news just gave us permission to post it. The post never needed the news.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "jack",
+   "text": "That's the one I'd make. Then it's a series, and the headlines are just good days to drop the next one.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "bea",
+   "text": "And Tom, that's the part for you. It's built to move fast when a headline lands, but it doesn't need one. Do you have a quick-turnaround voice like that on any of your accounts?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Then that's how you pitch it. Don't ask for a whole new scope, ask for a series that runs all year, with the news as a bonus. Clients smell a scope grab from across the street. A series they can picture is a different conversation.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 19,
+   "speaker": "bea",
+   "text": "One rule though. The second the character starts clapping back at Visa, kill it. A small brand picking a fight hands the big one free attention.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 20,
+   "speaker": "jack",
+   "text": "That's my line. You stole my line.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 21,
+   "speaker": "bea",
+   "text": "Twenty years of sitting across from you at award shows. Things rub off.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 22,
+   "speaker": "jack",
+   "text": "Mostly the losing, I hope.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 23,
+   "speaker": "bea",
+   "text": "Oh, you wish.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Did you open a sports site on Sunday?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Tried to check a score. Walked straight into a coupon aisle. Kalshi's got a sixty dollar bonus up front. And the fine print is where it gets good. Deposit first, trade first, then maybe you see the bonus.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "bea",
+   "text": "So it's a rental.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "A bigger bonus buys a download. In my experience, bonus users are the leakiest bucket there is. They came for the money, they leave for the next money. I don't have anyone's retention numbers, though. I'd love to.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "So if Kalshi wins on price, Polymarket has to win on the stuff a coupon can't copy. HQ, the cast, Squads. Somewhere you'd hang out even with zero bonus.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Okay, that's good. A place beats a discount. I'd buy that. But does someone who's never traded anything know HQ exists? People who talk about a place are usually already in it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Ha.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Honestly? I can't prove it today. I'd want to see whether people outside the app are talking about the work. If they aren't, it's very expensive wallpaper.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Which gets me to the Marketing Dive interview. On the record. And the prep has two different versions of the \"number one app\" line. Number one what, though? And on which day? It's a great day! So say it like a great day. Sports chart, the date, done. Say \"number one app\" loosely and the reporter checks it, and now that's the headline instead of the work.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Ugh. Fine. A precise brag still counts as a brag.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Fully agree. Okay, other thing. Everyone's waiting to see what Coplan does next, and I'd guess people are hoping for a big reveal.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "bea",
+   "text": "I wouldn't plan a single thing around that.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 13,
+   "speaker": "jack",
+   "text": "No. Here's the bit I actually like, though. Everyone's throwing bonus money at NFL Sunday, and nobody's touched NWSL. Next year's Women's World Cup is sitting wide open.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 14,
+   "speaker": "bea",
+   "text": "And nobody's built a place to hang out there yet. You get to make it from scratch. That's the fun part.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 15,
+   "speaker": "jack",
+   "text": "And the cheap part, compared to buying everybody's download one coupon at a time.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Quick ones. Jon Cook is stepping down at VML after a very long run, and Eric Campbell takes over.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Three decades anywhere? I've had houseplants with less commitment.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Next. Gartner says a lot of marketing leaders have already cut roles because of AI. And I keep wondering what that does to the entry-level jobs.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Which is the Cook story backwards. Somebody stays thirty years because somebody let them be junior once.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "That one bugs me. If nobody's junior, where do the senior people come from in ten years? Small teams with powerful tools is great. Somebody still has to get the reps.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Nike's putting more into brand marketing while the business is hurting, with a big cost-cutting program running alongside it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Brand as the thing you protect when it hurts. I'll take that every time.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Canva's biggest campaign in India, with Farah Khan, Raghu Ram and Terence Lewis.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Right use of famous faces. A challenger needs reach more than loyalty, and stars are a shortcut to reach. If I'm at Adobe, I'm not filing that under \"just India.\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Okay, can I break the lightning round for one second?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "jack",
+   "text": "You were always going to break the lightning round.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "bea",
+   "text": "High Noon. The direction went simple and design-forward. So I think the agency walks in with less. One idea. One image, the can, a line. Done.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Mm. I don't buy it. Picture a client meeting a new shop. Less idea from an agency they haven't hired yet reads like less effort. They want to see you sweat a little.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 13,
+   "speaker": "bea",
+   "text": "They want to see taste. Taste is what you left out.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 14,
+   "speaker": "jack",
+   "text": "And procurement can't see what you left out. That's my whole problem.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 15,
+   "speaker": "bea",
+   "text": "...Okay, that's annoyingly true.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 16,
+   "speaker": "jack",
+   "text": "So show them. One idea up front, clean, design-forward, the way they asked. Then the pile you cut, in the back, so they know it was a choice.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 17,
+   "speaker": "bea",
+   "text": "The cut pile as proof of taste. I'd actually love making that slide.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Of course you would. It's a slide full of things you killed.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Last one. Boots, and a new CMO taking on the brand positioning. This one I felt in my chest.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Why your chest?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Because I've been the agency guy selling the bold reset. Then I was the client who had to live with it after the new CMO left. It looks very different from that chair.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Ha. I've pitched the bold new thing too. It was fun. I'm a little embarrassed now.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Nike's had its line since '88. Red Bull since '87. L'Oréal since 1971. A line pays off when people have seen it so long it's what they think of. Every reset puts the clock back to zero.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Maker version, though. Those brands kept one line and made a thousand different things under it. The line stays still and the work moves. Boots keeps swapping the line, so the work under it starts over every time too.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Yeah. That's a better way to say what I mean. I'll take it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Two concessions in one episode. Are you okay?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "jack",
+   "text": "It's the quiet apartment. Nobody to argue with on a Tuesday.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "bea",
+   "text": "...You can call me on Tuesdays, you know.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 10,
+   "speaker": "jack",
+   "text": "I might. Okay. Why it's the agency's problem. The name is still moving, and the platform line still reads \"An audacious future,\" comma, blank. Everyone agreed in late September that \"audacious future\" is the one talk track. Add a different swim lane against 72 for every room, and that's how you become your own Boots.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 11,
+   "speaker": "bea",
+   "text": "But don't freeze it before it's good. A bad line that lasts is still a bad line. Make a handful of real versions, put them on actual pitch slides, then cut hard.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 12,
+   "speaker": "jack",
+   "text": "And the belief layer in the framework is still blank. I'd write one sentence a stranger would get, what the agency stands for, then the clause.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Then say it out loud in two very different rooms. Adobe, where they need something they can own, and High Noon. See who winces.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 14,
+   "speaker": "jack",
+   "text": "So Tom, for your week. One: finish the second clause around something your agency owns, leave 72 out of it, and write it so it's still true in five years. Solve it before October twenty-ninth, then stop touching it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Two: on Hurley, find out if the casting call can be the whole campaign. If it can, the budget goes a lot further. And in the Marketing Dive chair, date your number!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 16,
+   "speaker": "jack",
+   "text": "Good luck. See you next week.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Bye, Tom. Jack, go put the spice rack back how it was.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 18,
+   "speaker": "jack",
+   "text": "It's fine where it is.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 6
+  }
+ ]
+}

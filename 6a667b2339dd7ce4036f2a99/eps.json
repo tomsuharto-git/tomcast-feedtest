@@ -34,7 +34,9 @@
     "audio_bytes": 8342718,
     "duration_s": 695,
     "published_utc": "2026-10-02T22:43:51Z",
-    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep4-art1.png"
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep4-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep4.episode.json"
   },
   {
     "guid": "tomcast-sports-news-20261002-v5",
@@ -44,7 +46,9 @@
     "audio_bytes": 9538917,
     "duration_s": 795,
     "published_utc": "2026-10-04T01:11:28Z",
-    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep5-art1.png"
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep5-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep5.episode.json"
   },
   {
     "guid": "tomcast-sports-news-20261003",
@@ -54,7 +58,9 @@
     "audio_bytes": 12037895,
     "duration_s": 1003,
     "published_utc": "2026-10-04T02:33:21Z",
-    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep6-art1.png"
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep6-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep6.episode.json"
   },
   {
     "guid": "tomcast-builder-20261004",
@@ -64,7 +70,9 @@
     "audio_bytes": 16301392,
     "duration_s": 1358,
     "published_utc": "2026-10-04T12:59:27Z",
-    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-ep1-art1.png"
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-ep1-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-ep1.episode.json"
   },
   {
     "guid": "tomcast-work-20261005",
@@ -74,7 +82,9 @@
     "audio_bytes": 11362995,
     "duration_s": 947,
     "published_utc": "2026-10-05T02:15:00Z",
-    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-ep1-art1.png"
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-ep1-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-ep1.episode.json"
   },
   {
     "guid": "tomcast-culture-20261005",
@@ -84,6 +94,8 @@
     "audio_bytes": 9301621,
     "duration_s": 775,
     "published_utc": "2026-10-06T00:26:52.775364Z",
-    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261005-art1.png"
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261005-art1.png",
+    "show": "culture",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261005.episode.json"
   }
 ]

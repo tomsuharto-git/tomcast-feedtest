@@ -1,0 +1,1348 @@
+{
+ "schema": 1,
+ "guid": "tomcast-culture-20261005",
+ "show": "culture",
+ "title": "The invisible hit",
+ "date": "2026-10-05",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261005.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261005-art1.png",
+ "duration_s": 775,
+ "published_utc": "2026-10-06T00:26:52.775364Z",
+ "hosts": [
+  "christina",
+  "mikey"
+ ],
+ "speech_start_s": null,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "lead",
+   "tag": "The invisible hit",
+   "headline": "The invisible hit: the record-breaking No. 1 nobody you know has heard",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "closer",
+   "tag": "Watch Lanterns before it",
+   "headline": "Watch Lanterns before it becomes a movie footnote",
+   "start_s": null
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Hi, hello. Mikey Okada is here, which means the normal-person level in this room just went way up.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Hi. That's the nicest way anyone's ever called me boring.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "It's the highest compliment I have. I mean it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "You sent me a voice memo at twelve-forty last night.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "I did. That was research!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "It sounded like a hostage tape.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Ha. Okay, it was a little bit of a hostage tape.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Did you eat dinner at any point during this research?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "I had crackers. Over the sink.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Christina.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Fancy crackers! They had rosemary in them.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Oh, rosemary. Sorry, I didn't realize it was a dinner party. Wait, hold on. I heard you on the Builder show with Bea. You were going to deal with that email. The offer one.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "...You listen to the Builder show?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "I listen to everything. I don't have a group chat. Did you answer it?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "I wrote a reply.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Nice!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "And I sent it to myself.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Ha. Oh no.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "It's in my inbox right now, looking up at me. It's progress! It moved one inbox over.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Does Bea know?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Bea's going to find out when she hears this, so, hi Bea. Can we please talk about a song now?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "Yes. The humming song.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "The humming song. I was trying to hum the biggest song in America and I couldn't get past the first line. \"Choosin' Texas.\" Ella Langley. It just passed \"All I Want for Christmas Is You\" for the most weeks at number one ever.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "mikey",
+   "text": "Which is a song that has an entire season working for it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "It has December on the payroll! And this song beat it, and the reaction from basically everyone I read was confusion. Who is this, where did it come from?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "mikey",
+   "text": "CNN had to run an explainer, right? And the explanation was the algorithm. Everybody's in their own little feed, so nobody shares a song anymore.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "And I think that's backwards. If feeds broke the hit into a million pieces, number ones would get weaker. Shorter stays, more churn. This one has more weeks on top than anything in the chart's history. Fragmentation doesn't make that.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "mikey",
+   "text": "Mm.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "So here's my read. The hit is huge. The part that splintered is the little group of people who decide what counts as culture. And we mostly don't live where this song is on in the truck.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "mikey",
+   "text": "\"We.\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "christina",
+   "text": "Me! I mean me. Okay, I'm too online, but I can at least see the outline of my own blind spot.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "mikey",
+   "text": "Can you, though?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "christina",
+   "text": "...Some days. Tuesdays.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "mikey",
+   "text": "Who are you fighting with on this? Somebody's gotta be on the other side.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "christina",
+   "text": "Two people. First, Ryan Broderick, who writes the Garbage Day newsletter. He went down every song that's ever held this record, and the only one he'd never heard, other than this one, was Morgan Wallen's \"Last Night.\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "mikey",
+   "text": "Also country.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "christina",
+   "text": "Also country. He flags that. But his explanation is the industry. In January all the Christmas songs fall off the streaming chart, there's a big hole, and Nashville pushed this song into it with radio.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "mikey",
+   "text": "See, I kind of believe him. Sorry.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 38,
+   "speaker": "christina",
+   "text": "The second one is Chuck Klosterman, and he's about critics versus the charts. Park him, I'm coming back for him.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 39,
+   "speaker": "mikey",
+   "text": "Parked.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 40,
+   "speaker": "christina",
+   "text": "So, the push. I think it's the least interesting part. Argue with me.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 41,
+   "speaker": "mikey",
+   "text": "Okay. Stay with me here. There's a guy at the bar, sits at the far end, and every night he puts the same song on the jukebox. Same one, over and over. If you pulled the jukebox numbers, that song is the biggest hit in the building. Not close.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 42,
+   "speaker": "christina",
+   "text": "What's the song?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 43,
+   "speaker": "mikey",
+   "text": "I'm not saying. He'd find out. Point is, ask anybody else in there to hum it. Nobody can. The bartender can't stand it, but he only cares about the over/under, so he lets it ride.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 44,
+   "speaker": "christina",
+   "text": "Ha.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 45,
+   "speaker": "mikey",
+   "text": "So that's my worry. The chart counts plays now, and plays reward the guy at the end of the bar. A group that loves one song a lot can sit on top for months while the rest of the room never learns the words. That's a narrower hit than Mariah. Smaller footprint, deeper hole.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 46,
+   "speaker": "christina",
+   "text": "That's a great image. I think it's wrong for this song.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 47,
+   "speaker": "mikey",
+   "text": "Go.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 48,
+   "speaker": "christina",
+   "text": "Radio. Your guy can stream it all night. He can't make radio play it. And radio keeps playing it. People in cars and kitchens and dentist's offices heard it without ever picking it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 49,
+   "speaker": "mikey",
+   "text": "Okay. That's a lot of guys at the end of a lot of bars.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 50,
+   "speaker": "christina",
+   "text": "That's every bar!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 51,
+   "speaker": "mikey",
+   "text": "But hang on. Radio is a machine too. Somebody in an office decided to play it. That's Broderick's whole point, and you just told me you don't care about it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 52,
+   "speaker": "christina",
+   "text": "I care! I just think every hit has a machine. Mariah has a machine. It's called Christmas.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 53,
+   "speaker": "mikey",
+   "text": "Ha. Okay.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 54,
+   "speaker": "christina",
+   "text": "Radio pushing a country song is how country songs have always become hits. Nobody called Garth a fake hit because radio played him.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 55,
+   "speaker": "mikey",
+   "text": "Fair. Here's the part that bugs me more, though. If this record keeps falling, isn't it kind of inflated? Like home runs in a certain era.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 56,
+   "speaker": "christina",
+   "text": "Ooh.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 57,
+   "speaker": "mikey",
+   "text": "Streaming's sticky. People don't move on, the playlists just keep running. So twenty-four weeks now might be worth, I don't know, twelve in 1995.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 58,
+   "speaker": "christina",
+   "text": "Okay, that's the best argument against me and I hate it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 59,
+   "speaker": "mikey",
+   "text": "Thank you.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 60,
+   "speaker": "christina",
+   "text": "But it cuts my way too. If the shared hit were dying, why are the biggest runs in history all from the last few years? \"Old Town Road.\" \"Despacito.\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 61,
+   "speaker": "mikey",
+   "text": "Shaboozey.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 62,
+   "speaker": "christina",
+   "text": "Shaboozey! \"A Bar Song\" had the record right before this one, if you take out Mariah's Christmas bump. Did everybody hear \"A Bar Song\"?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 63,
+   "speaker": "mikey",
+   "text": "Everybody heard \"A Bar Song.\" My mom heard \"A Bar Song.\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 64,
+   "speaker": "christina",
+   "text": "Did everybody hear it? Or did we hear it, because it got into our feeds as a meme?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 65,
+   "speaker": "mikey",
+   "text": "...Oh, that's annoying.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 66,
+   "speaker": "christina",
+   "text": "Right? Two songs, pretty close in sound, a lot of the same listeners. One went viral with people like us and one didn't. And we decided the first one was a big shared moment and the second one needs an explainer.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 67,
+   "speaker": "mikey",
+   "text": "Yeah. I don't have an answer for that. I'm gonna sit with it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 68,
+   "speaker": "christina",
+   "text": "Okay, history bit, and I'm saying up front it's one example.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 69,
+   "speaker": "mikey",
+   "text": "Disclaimer noted.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 70,
+   "speaker": "christina",
+   "text": "Think about country when Garth Brooks showed up. The people who covered music lost their minds.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 71,
+   "speaker": "mikey",
+   "text": "And people lost their minds.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 72,
+   "speaker": "christina",
+   "text": "The people who covered music lost their minds. The people buying it weren't surprised at all. They'd been buying it the whole time! These are the same story, 1991 and this week. The audience was always there, and the people looking were standing somewhere else.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 73,
+   "speaker": "mikey",
+   "text": "I like it. I don't trust it, but I like it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 74,
+   "speaker": "christina",
+   "text": "Why don't you trust it?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 75,
+   "speaker": "mikey",
+   "text": "Because in '91 nobody could see those people. The count was broken. Now the count's great. The radio numbers are sitting right there in public. Anybody could look.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 76,
+   "speaker": "christina",
+   "text": "That's my point! ...Yeah. Okay. That's a lot worse, actually.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 77,
+   "speaker": "mikey",
+   "text": "Sorry.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 78,
+   "speaker": "christina",
+   "text": "No, you're right. I turned it into a measurement story so it would be nobody's fault. And that one's on us. On me.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 79,
+   "speaker": "mikey",
+   "text": "And I'll give you one back. I came in buying the January push. But a trick gets you a week, right? It got knocked off in the spring and climbed back up and stayed all summer.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 80,
+   "speaker": "christina",
+   "text": "It came back!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 81,
+   "speaker": "mikey",
+   "text": "Nobody pushes a song back to the top in July. People went back to it. So I moved. A little.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 82,
+   "speaker": "christina",
+   "text": "Okay, unparking Klosterman. The idea that critics and the charts have drifted together. I think he's half right.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 83,
+   "speaker": "mikey",
+   "text": "Hasn't it kind of happened, though? Critics love pop now. Nobody's sneering at Taylor Swift.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 84,
+   "speaker": "christina",
+   "text": "They love the pop they can see. He's right about the part of the map critics actually visit. This is the biggest song in the country by the oldest measure we've got, and the press response was an explainer.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 85,
+   "speaker": "mikey",
+   "text": "So the gap closed, except in the parts of the country they don't drive through.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 86,
+   "speaker": "christina",
+   "text": "Yes. That's my whole disagreement with him, right there.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 87,
+   "speaker": "mikey",
+   "text": "Did you ask anybody normal? Outside your phone?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 88,
+   "speaker": "christina",
+   "text": "I texted my brother. Dev, he's a nurse in Chicago, he doesn't have a single app I write about. I asked if he'd heard \"Choosin' Texas.\" He wrote back in a minute: yes, it's on in the break room constantly.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 89,
+   "speaker": "mikey",
+   "text": "Of course it is.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 90,
+   "speaker": "christina",
+   "text": "And then a second text. Just: \"why?\"",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 91,
+   "speaker": "mikey",
+   "text": "Ha!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 92,
+   "speaker": "christina",
+   "text": "That's his thing. Whatever I send him, he wants to know what it's for. I didn't have a great answer.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 93,
+   "speaker": "mikey",
+   "text": "My dad would know it too, I bet. Radio's always on in that kitchen. He's never once asked me what's trending.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 94,
+   "speaker": "christina",
+   "text": "Your dad and Dev should start a podcast.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 95,
+   "speaker": "mikey",
+   "text": "Nobody would hear about it and it'd be number one for six months.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 96,
+   "speaker": "christina",
+   "text": "Ha! And honestly, Tom, that's your clients. The feed they live in is a sample, and a small one. When somebody says \"nobody's talking about it,\" that tells you who's talking. So when a brand says it wants to be big, ask which big. Reach with a huge audience that doesn't post, or buzz with the people who do. Those used to come together. Now you buy them separately.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 97,
+   "speaker": "mikey",
+   "text": "Check the brief against the radio numbers.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 98,
+   "speaker": "christina",
+   "text": "Against the radio numbers! In 2026. Who knew. Okay, I'll put a bet down. December, when all the big best-songs-of-the-year lists come out. Take the five songs that show up on the most lists. Zero of them will be songs that got played on country radio.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 99,
+   "speaker": "mikey",
+   "text": "Zero? Not one?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 100,
+   "speaker": "christina",
+   "text": "Zero.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 101,
+   "speaker": "mikey",
+   "text": "I'll take that. One sneaks in. Somebody puts a country song on there to look brave.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 102,
+   "speaker": "christina",
+   "text": "Loser buys dinner at your bar.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 103,
+   "speaker": "mikey",
+   "text": "Deal. Wait. Are you making one of those lists?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 104,
+   "speaker": "christina",
+   "text": "...I'm making one of those lists.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 105,
+   "speaker": "mikey",
+   "text": "So you could just not put one on yours.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 106,
+   "speaker": "christina",
+   "text": "Or I could put one on mine and lose on purpose because I'm a person of integrity. Oh no.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 107,
+   "speaker": "mikey",
+   "text": "Here's where I'm still stuck, though. Radio, fine, I'll give you reach. But to me shared culture is a wedding. A song comes on and the whole room sings. Your aunt, the bride's college roommate, the DJ. If half that room can't hum it, that's a big hit in a small room. I'm not sure it belongs to everybody.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 108,
+   "speaker": "christina",
+   "text": "Half the room can hum it, though. My half can't.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 109,
+   "speaker": "mikey",
+   "text": "Then that's two rooms.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 110,
+   "speaker": "christina",
+   "text": "Or it's one room and I'm standing by the coat check.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 111,
+   "speaker": "mikey",
+   "text": "Ha. No. I think it's two rooms. I think two rooms is the actual news.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 112,
+   "speaker": "christina",
+   "text": "And I think the record says it's one room and we picked bad seats. We're not settling this.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 113,
+   "speaker": "mikey",
+   "text": "Nope. Never.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Okay, give me the pick. Please let it involve a cape. I need my comfort zone after that.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "christina",
+   "text": "It has a ring, which is close. Lanterns. The whole first season's on HBO Max now that the finale's out.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Oh, good.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "christina",
+   "text": "And the finale hands John Stewart over to the Superman sequel. So watch it now, while it's still a show.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Ominous.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "christina",
+   "text": "A little. If the studio treats the show as the audition and the movie as the job, that tells you what they think the real product is. Everything weekly TV is good at gets filed under warm-up.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "And weekly's the thing that made Aaron Pierre.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "christina",
+   "text": "Aaron Pierre is a different name now than he was a couple of months ago. And it happened week by week. You meet him, every week you get a little more used to having him around, and then one day he's just a star.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "That's my whole religion. The kid who looks lost in November and different in March. You only get that if you show up every week. A movie hands you the finished guy in two hours and says, here, love him.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "christina",
+   "text": "Right. Weekly makes you wait together, and the waiting is where you get attached.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "And Kyle Chandler's in it, which, come on.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "christina",
+   "text": "Kyle Chandler walks in and you trust him in four seconds. He's been building that for twenty years.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "He's the dad you'd want yelling at the refs.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "christina",
+   "text": "Ha. Is yours still doing the two languages?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Both languages. My mom says the refs can't hear him in either one.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "christina",
+   "text": "Ha!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "But see, I came in ready to mourn it too. What if it goes the other way? John Stewart shows up in a giant movie, a bunch of people go, wait, who is this guy, and they go back and find the show.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "christina",
+   "text": "Hm.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "Okay, that's the optimism talking.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "christina",
+   "text": "No, some of them will. I'll give you that. The movie could be a door back in.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "Thank you.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 21,
+   "speaker": "christina",
+   "text": "But the people who come through that door are watching a guy they already know becomes a star. Every scene where he's unsure of himself, they've seen the poster.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "...Ugh. Yeah. That's scouting a player off his highlight reel.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 23,
+   "speaker": "christina",
+   "text": "So I'd still watch it now, before the movie tells you how to feel about him.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "And I'll still bet the movie sends people back.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 25,
+   "speaker": "christina",
+   "text": "To a show where they already know the ending. Fine. We'll see. That's the pick: Lanterns, season one. And then go ask somebody outside your feed what's playing in their break room.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "And eat a real dinner.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 27,
+   "speaker": "christina",
+   "text": "I'll eat a real dinner. And I'll send the email. To someone other than me.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 28,
+   "speaker": "mikey",
+   "text": "I'm telling Bea you said that.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 29,
+   "speaker": "christina",
+   "text": "She already heard. Thanks, Mikey.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 30,
+   "speaker": "mikey",
+   "text": "Bye, Tom. Bye, rosemary crackers.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 31,
+   "speaker": "christina",
+   "text": "Bye!",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  }
+ ]
+}

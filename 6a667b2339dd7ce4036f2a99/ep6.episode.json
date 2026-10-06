@@ -1,0 +1,1396 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-news-20261003",
+ "show": "sports",
+ "title": "Hired and fired in seven hours",
+ "date": "2026-10-03",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep6.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/ep6-art1.png",
+ "duration_s": 1003,
+ "published_utc": "2026-10-04T02:33:21Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": null,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Hired and fired in seven",
+   "headline": "Hired and fired in seven hours: the Braiden Bell mess and the Dundon pattern",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Lillard and Morant",
+   "headline": "Lillard and Morant in the same backcourt: does it work, and who starts?",
+   "start_s": null
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Spurs bottom and winless",
+   "headline": "Spurs bottom and winless on £380m, with the City verdict hanging over everyone",
+   "start_s": null
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Verstappen on pole in Sepang",
+   "headline": "Verstappen on pole in Sepang while upgraded Mercedes stumbles",
+   "start_s": null
+  },
+  {
+   "n": 5,
+   "story_id": "s5",
+   "tag": "USMNT vs Mexico",
+   "headline": "USMNT vs Mexico: Adams gets the armband and Pochettino needs a rivalry win",
+   "start_s": null
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack Vernon. You're on.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I'm on. Are you chewing?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Breakfast burrito. One second. Okay. So yesterday I tell my nephew, meet me in the lot by the Kinko's.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Oh no.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "There's no Kinko's. There hasn't been a Kinko's on that corner for, I don't know, a decade? He sends me a photo of a dispensary with a question mark.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "So you're giving directions to a city that doesn't exist anymore.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "I'm giving directions to 2014. Two years home and I'm still a tourist with a really old map.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "For what it's worth, in my head the arena is still the Rose Garden.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Everybody's is. The building keeps changing its name and we just refuse.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Ha. Meanwhile the new TV guy didn't stick around long enough for anybody to learn his name.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Hired at noon Thursday. Gone by dinner.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Seven hours, give or take.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Okay, gut first. Firing him was right. Those posts are ugly, and one of them was about Asian people, and, look, I'm a Japanese-American kid from a family that's been in this city for generations. That one I felt in my chest. I'm not going to pretend I read it like a neutral guy.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "No, you shouldn't.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "But then I did the math. Those posts are from 2012, 2013. He was fifteen. A high school freshman. He's twenty-nine now. I sat with that for a minute, and I still don't know exactly where I land on him as a person.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "I'm very glad nobody can scroll back through me at fifteen. Very glad.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Ha. What was fifteen-year-old Jack like?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Bad haircut, worse opinions, and luckily no internet. Nora, though. I'll admit something. I check what she posts.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "Jack.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I know. She's a good kid, and I'm not worried she's cruel. What I worry about is some dumb thing she types at nineteen that somebody pulls up when she's twenty-nine and up for a job. Which is exactly this. So I came into this one less sure than I'd like.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "That's the first time you've told me you lurk on your daughter.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Don't tell her. Anyway. The firing I can live with. What I keep chewing on is who found it. A reporter at a local TV station found it. The team didn't. Was it anybody's job to spend one afternoon scrolling back through this guy?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "You'd do that for a guy running trivia night at the bar. Ten minutes.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Okay, but did they skip it, or run a lazy one and miss stuff from 2012? Those are two different problems. One you fix with a checklist. The other means nobody upstairs thought it mattered.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "And we don't know which.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "We don't. Their apology had a line, 'We did not meet our own bar in this process.' Which, honestly, is plainer than I expected from them.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "Can I argue the weird side for a second? I think the seven hours is the one thing they did right.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "Go.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "mikey",
+   "text": "Every other thing this ownership touches, it drags. The July firings, the arena talk, and that's where I go cold, by the way. The team belongs to the city, and I don't love anybody pointing at the city's wallet. But this? They found out, they owned it, they apologized to Rip City by name, done by evening. The fast part was the competent part.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "Hm. Yeah. Okay, I'll give you that one. The cleanup was the most decisive thing I've seen out of that front office.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "mikey",
+   "text": "Which is a pretty sad sentence.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "Here's what I'd add, though. You're hiring in a hurry, a week before preseason. In my experience the homework is the first thing a cost-cutting building squeezes. I can't prove that's what happened. It just fits.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "mikey",
+   "text": "It stings because it fits. And the guy who pays for it is a young broadcaster, while whoever skipped the check keeps their badge.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "jack",
+   "text": "That's the part I hate. Every time I've seen it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "mikey",
+   "text": "I'll criticize the process all day. I'm leaving him alone. He hasn't said anything yet. I hope someday he gets to.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "jack",
+   "text": "So tell me about the Benetti thing. You laughed when people started begging for him.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "mikey",
+   "text": "I laughed and winced. I don't know if it's realistic. But I think what fans want is a voice that sounds like it's staying. Somebody who'll be there for the worst losses, the voice you hear in your head when you're eighty. My dad yelled at refs over that broadcast every road game for thirty years. That's a lot of trust to hand a stranger, and this ownership hasn't earned any.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "jack",
+   "text": "So it's a trust vote.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 38,
+   "speaker": "mikey",
+   "text": "Basically, yeah.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 39,
+   "speaker": "jack",
+   "text": "Then the Fan Fest question. Can they get through Sunday clean? My bar is on the floor. Hold the event, nobody says anything strange into a microphone.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 40,
+   "speaker": "mikey",
+   "text": "Mine's a little higher. Kids on the court, a decent scrimmage, and by Monday the headlines are about basketball. Okay, that's the optimism talking.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 41,
+   "speaker": "jack",
+   "text": "That's the optimism winning the whole argument.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Fine. Basketball. You've got a crowded guard room and a first-year coach. Give me three lineups, worst to best. Guards and Deni only, assume a real center back there for now.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Assume a center. Love the confidence. Okay. Number three: Dame, Ja, Jrue, Deni. The closing group. It's good! It's also two thirty-six-year-olds, and it's the exact thing I'm scared of. The kids' minutes get traded for feeling safe.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Noted. Two.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "The starting group everybody expects. Dame, Ja, Shaedon, Deni. Three guys who've always had the ball, I know. But Dame said it himself, he's a shot-maker, he can live off the ball. And nobody leaves Dame in the corner.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Walk me through that, though. Who cuts? None of those guys has ever been the role player.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Ja. Here's the picture in my head. Dame comes off a high screen, two guys jump him because everybody always jumps Dame, and Ja's guy turns his head for half a second. Ja's already gone, backdoor, baseline, ball's in the air. That dunk has been sitting in his legs for years and Memphis never had the setup for it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And when they don't turn their heads? Thirty-one point one from three for his career. Never above thirty-four in a season.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Then he has to make the open one. That's the bet. A guy adding something new at twenty-seven, I'm in.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Okay. Number one.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Scoot's unit. Scoot with the ball, Jrue next to him as the adult in the room, Shaedon getting shots. For a twenty-two-year-old that beats being the fourth guy who wants the ball in a starting five. Every trip, his ball, against backups. I'm telling you, that's the March version of Scoot.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Every kid you love is two years away and different in March.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "And someday I'll be right and it'll be unbearable. Your turn.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "jack",
+   "text": "I've got one. And it breaks my own rule. Take the center off the floor. Dame, Ja, Jrue, Shaedon, Deni at the five.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Deni at the five? Who's rebounding? Who's at the rim?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Deni, and nobody, for six minutes. But listen to your own story. Your backdoor cut needs an empty paint. A center's guy is standing right where Ja wants to land. Pull him out, five guys who can dribble, and Ja's cut is wide open every trip.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Ugh. You used my dunk against me.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "jack",
+   "text": "It was a good dunk.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Okay, for the Ja cut, that's actually the best version of it. I'll give you that. But you've got two thirty-six-year-olds chasing guys bigger than them, and a guy who just told me he's never been a role player now playing center. One bad rebounding stretch and Nori's calling timeout.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Six minutes. Start of a fourth quarter, when the other team's got its own center sitting.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Six minutes I'll sign. You were going to say it closes games.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 20,
+   "speaker": "jack",
+   "text": "I was absolutely going to say it closes games.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "Ha. And Shaedon, honestly, I flip on him every day. Fourth starter some days, the scorer in Scoot's group other days. Nori keeps saying it's all about combinations. I think he doesn't know yet either.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 22,
+   "speaker": "jack",
+   "text": "Okay, verdict. Name the one the other guy ranked too high.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 23,
+   "speaker": "mikey",
+   "text": "Yours, past six minutes. Every minute past that comes out of Scoot's year.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 24,
+   "speaker": "jack",
+   "text": "Your Scoot unit at number one. You ranked a feeling.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 25,
+   "speaker": "mikey",
+   "text": "I ranked a feeling with a jump shot.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 26,
+   "speaker": "jack",
+   "text": "Ha. Golden State, Wednesday, ten Eastern. I'm watching whether Nori ever goes small.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 27,
+   "speaker": "mikey",
+   "text": "I'm watching Ja when he doesn't have it. Hey, quick one for you: did you ever get your bookshelves the way you want?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 28,
+   "speaker": "jack",
+   "text": "Third arrangement. By color now. Don't.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 29,
+   "speaker": "mikey",
+   "text": "By color. Okay. My dad's all over this stuff, by the way. He watched one camp clip, said 'one ball,' held up one finger, and asked my mom where the remote was. She was holding it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 30,
+   "speaker": "jack",
+   "text": "Of course she was.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 31,
+   "speaker": "mikey",
+   "text": "He's counting Sundays till the season starts. I'm sort of counting them too. Different reasons. Anyway, he wants Jrue on the floor at the end. You two would get along.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 32,
+   "speaker": "jack",
+   "text": "Tell him I said he's right.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 33,
+   "speaker": "mikey",
+   "text": "Absolutely not.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Can I do Spurs before you enjoy it too much?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I would never.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Bottom of the table. No win in five. Ten new signings this summer and still nothing. Tom, you know this feeling. A Spurs start where you can't even enjoy being mad because there's too much to be mad about.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "So which one gets you more? City guilty on basically everything, appeal lodged Thursday night, a whole decade that looks rigged. Or your own club, bottom? I figured. I think it's the same fire, though.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Go on.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Spurs haven't turned a profit since 2019. No European money this year. Their own CEO says the financial rules are a genuine constraint, so they have to get better at selling players. So they sold. Including that teenager to Brighton.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Vuskovic. Don't.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "So this whole summer got built around rules City just got found guilty of breaking for years. The breaking back then is part of why your club is selling teenagers now.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Ugh. Okay. That's annoying, because now I have to be angry at both at the same time.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Welcome to being a Spurs fan, I assume.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Ha. Ten years of watching Son at four in the morning in a Shibuya bar, and then he leaves for LA, and I came home thinking at least the misery would be on my time zone.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "And now it's on your time zone and worse.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Way worse. And the line from the club is 'underlying performances.' Chances against Newcastle, Forest, Everton, nothing going in. I'm sympathetic! Ten new signings, and Romero, Vicario, Palhinha, Danso, Spence all gone. That's a whole spine. A group like that needs reps.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "jack",
+   "text": "When a board says 'underlying performances' in October, I hear a board that can't afford to change course yet.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Cold.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Maybe it's true too. I just want to hear what they say if it's still zero in November.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Chances and no goals is something you can say for about three weeks. Then it's just who you are.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "jack",
+   "text": "So the break. Time, or a deadline with a nicer name?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "I want it to be time. Time together on the training ground is the one thing that group is short on. And they rebuilt the whole medical and fitness side because of all the injuries. Let that settle.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I think it's a deadline. A winless start just sits there for two weeks with nothing to change it. Every pundit gets a fortnight to sharpen.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "Win the first game back and the break was a gift.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Lose and it was a countdown. Okay, who are you angrier at when they go a goal down in the first twenty minutes? Honestly.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "Honestly? Me. For still setting the alarm.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of alarms. Formula One, Sunday. Four a.m. for me.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "One a.m. for me, and I'll be up. In Tokyo, F1 was a normal-hour sport. Sunday afternoon, a little bar near my apartment, a guy behind the counter who'd go silent for the last ten laps and then pour everybody a drink when it was over, whoever won. I got hooked on the room before I understood the racing.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "So you watch for the bartender.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "I watch because of the bartender. Anyway. Max on pole, his first since Abu Dhabi last December. And the upgraded Mercedes falls on its face.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Which is your kind of story.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "It's every young Blazers lineup I've ever defended. The upgrade looks better on paper, and then you check the lap times and go, hmm.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Ha. And there's no clean test for it. You can't bolt the old car back on and run it again.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "So is Red Bull back, or is this one weird track?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Everybody's blaming the asphalt. Sounds like it's rough out there, and the lap times are way off what they used to be.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "That's where I am, honestly. Tyres get eaten, the order gets shuffled, Singapore next week tells us the truth.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "I started there too, and I can't make it hold. Mercedes is losing time to Max on the straights, and the straights don't care about tyres. That's the car. Something else is going on there. So I'll split it. Red Bull's genuinely better than they were, and Sepang makes it look bigger.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Huh. Okay, the straights thing gets me. I'll move. Red Bull's real, a little.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "jack",
+   "text": "A little. And they get a gift on top, Hadjar's up there and an engine-part penalty drops him down the grid.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Which helps Antonelli. Title in trouble, though?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 14,
+   "speaker": "jack",
+   "text": "I don't think so. He's still the one with the points lead, and he's the one who got the clean side of the grid today.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "And Antonelli's the kid who got better today. Car doesn't know what it is, and he still squeezes out the clean side of the grid.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 16,
+   "speaker": "jack",
+   "text": "And then he talks like an accountant. 'If we have to settle for P3, P4, we'll take that.' Very calm for a kid.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Meanwhile Norris, the reigning champion: 'We're just slow.' I respect that. No spin.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 18,
+   "speaker": "jack",
+   "text": "That's a guy who's tired of watching his car lose on every straight.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "But my one a.m. guy is Hamilton. Front row in a Ferrari, and he sounds like a grown man who's happy as a kid. I'll take that.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 20,
+   "speaker": "jack",
+   "text": "So that's who you're losing sleep for.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "I'm up at one a.m. rooting for a guy who's happy. My bartender would approve.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Before your Hamilton date, U.S.-Mexico in Arizona tonight. With a new captain.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Tyler Adams. I love it, honestly. He's a craftsman. Does the unglamorous work in front of the back line and never asks for credit. He already wore it in Qatar. It feels right.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "My worry's different. He and Pochettino are close. Two years of talking every week. Does a captain who already knows exactly what the coach wants ever push back when it counts?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Okay, but isn't that the whole point of giving him the armband? A captain who can stand up to the coaches.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Coaches always say that. I've hired people who were told to challenge me. Took them about a year to try.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Ha. Okay, fair. Year one, though, you want the guy who works with the staff. The pushing back comes once the room trusts him.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And somebody asks if Adams is captain through 2030, and Pochettino goes, 'If he behaved well.'",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Great line. My only real worry is the body. He plays the position that gets kicked, and he's got to stay on the field for four years.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Okay, the game. Does beating Mexico matter for Pochettino as much as everyone's saying?",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Less, I think. It's a friendly. Treat it like a rehearsal, mix vets and kids, see who holds up in a building that's mostly green. But I could flip on that by halftime.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "jack",
+   "text": "I was right there with you, and then I moved a little. Mexico beat you in the Gold Cup final. They won the Nations League too. They've got the bragging rights. Lose tonight and that follows them home, and every bad half for the rest of the window gets read through it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "So it shouldn't matter, but it will.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 12,
+   "speaker": "jack",
+   "text": "And Pochettino doesn't get to decide which.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Yeah. That's probably right. Márquez needs it more, though. Everybody's got their eyes on the other bench, and I think he knows it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Smart. All the pressure lands on the other bench. And Gil Mora's cleared after the ankle.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Seventeen, with a building full of noise on him. That's what I'm tuning in for. Who looks scared in the first ten minutes, on both sides.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 16,
+   "speaker": "jack",
+   "text": "I've got a soft spot for anybody trying to lead a bunch of young players. I've been watching a frankly unreasonable amount of Oregon football.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Because Nora texts you about it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 18,
+   "speaker": "jack",
+   "text": "It's the one thing she texts me about. It's a funny feeling, wanting to be useful to kids who are doing completely fine without you.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Jack. That's the guy who checks her posts, by the way. Same guy.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 20,
+   "speaker": "jack",
+   "text": "Yeah. I heard it as I said it.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "Call her after the game.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 22,
+   "speaker": "jack",
+   "text": "She'll be out. It's Saturday night, she's nineteen.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 23,
+   "speaker": "mikey",
+   "text": "Then text her a score. That's how she'll know you're watching.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 24,
+   "speaker": "jack",
+   "text": "Okay. Fine. I'll text her a score. Tonight Mexico, Sunday Fan Fest, Wednesday the Warriors.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 25,
+   "speaker": "mikey",
+   "text": "And one a.m. Hamilton in between. Tom, thanks for hanging out. We'll see you after Golden State.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 26,
+   "speaker": "jack",
+   "text": "Go find a Kinko's, Mikey.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 27,
+   "speaker": "mikey",
+   "text": "There are no Kinko's, Jack. That's the whole point.",
+   "start_s": null,
+   "end_s": null,
+   "chapter": 5
+  }
+ ]
+}
