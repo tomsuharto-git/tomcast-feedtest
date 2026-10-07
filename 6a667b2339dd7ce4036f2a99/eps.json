@@ -109,5 +109,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261007-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261007.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261007",
+    "title": "Work: Wed Oct 7. The RFP Goes Human, Stagwell Media Relaunch, Us vs. Them at G2E, Figma's Agent Goes Live, Hurman + Tindall",
+    "description": "Work (Bea and Jack): The RFP Goes Human, Stagwell Media Relaunch, Us vs. Them at G2E, Figma's Agent Goes Live and Hurman + Tindall.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261007.mp3",
+    "audio_bytes": 10873043,
+    "duration_s": 906,
+    "published_utc": "2026-10-07T09:02:41.387394Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261007-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261007.episode.json"
   }
 ]

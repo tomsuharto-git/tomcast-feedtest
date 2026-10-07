@@ -1,0 +1,1222 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261007",
+ "show": "work",
+ "title": "AI is flattening the pitch document, so agencies now win on their people",
+ "date": "2026-10-07",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261007.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261007-art1.png",
+ "duration_s": 906,
+ "published_utc": "2026-10-07T09:02:41.387394Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "lead-rfp-people",
+   "tag": "The RFP Goes Human",
+   "headline": "AI is flattening the pitch document, so agencies now win on their people",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "stagwell-media",
+   "tag": "Stagwell Media Relaunch",
+   "headline": "Stagwell sunsets Assembly and relaunches it as Stagwell Media on the 'Stagwell Machine'",
+   "start_s": 225.684
+  },
+  {
+   "n": 3,
+   "story_id": "polymarket-g2e",
+   "tag": "Us vs. Them at G2E",
+   "headline": "G2E turns into 'us vs. them' on prediction markets as Kalshi wins in court and sells gold",
+   "start_s": 383.85
+  },
+  {
+   "n": 4,
+   "story_id": "adobe-figma-agent",
+   "tag": "Figma's Agent Goes Live",
+   "headline": "Figma's Design Agent leaves beta and starts charging AI credits",
+   "start_s": 556.656
+  },
+  {
+   "n": 5,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 737.942
+  },
+  {
+   "n": 6,
+   "story_id": "thinking-effectiveness",
+   "tag": "Hurman + Tindall",
+   "headline": "Planning for effective outcomes: Andrew Tindall and James Hurman on the state of effectiveness",
+   "start_s": 785.105
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack. Hi. You sound like you've been up for hours.",
+   "start_s": 8.995,
+   "end_s": 13.395,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Since five. I bought a label maker yesterday.",
+   "start_s": 13.395,
+   "end_s": 17.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Oh no.",
+   "start_s": 17.235,
+   "end_s": 19.075,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "The pantry has labels now. There's a label on the drawer the labels live in.",
+   "start_s": 19.075,
+   "end_s": 23.155,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Who are the labels for, Jack? You live alone.",
+   "start_s": 23.155,
+   "end_s": 26.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I'm going to pretend I didn't hear that. How's the photo thing? You owed us a report.",
+   "start_s": 26.675,
+   "end_s": 31.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "One folder. Done. Nineteen eighty-four to eighty-seven. It's mostly my mother's perm.",
+   "start_s": 31.635,
+   "end_s": 37.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Ha. Done-done?",
+   "start_s": 37.875,
+   "end_s": 39.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Done-done. It did decide my aunt was two different people, before the perm and after. Which, honestly, fair.",
+   "start_s": 39.555,
+   "end_s": 47.715,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "And Christina's email? That was her half of the deal.",
+   "start_s": 47.715,
+   "end_s": 50.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Ask Christina. I'm only responsible for my own unfinished things.",
+   "start_s": 50.435,
+   "end_s": 55.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Did you show your mom?",
+   "start_s": 55.475,
+   "end_s": 56.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Sunday. She asked if the computer knows who everybody is. I said sort of. And she goes, \"Oh, so it's like me at a reunion.\"",
+   "start_s": 56.595,
+   "end_s": 65.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "That's the best description of your job I've ever heard.",
+   "start_s": 65.795,
+   "end_s": 69.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Forty years, and she finally has a sentence she can repeat to her friends.",
+   "start_s": 69.555,
+   "end_s": 74.195,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "A sentence people can repeat. Morning, Tom, that's kind of the whole week. Reviews are getting faster, and when every agency's written answers come back sounding the same, the pick happens in the room. The meetings, the prototypes, the people.",
+   "start_s": 74.195,
+   "end_s": 88.995,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Cover the logos and you can't tell the documents apart.",
+   "start_s": 88.995,
+   "end_s": 91.955,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "So if the paper's a tie, what does the buyer pick on?",
+   "start_s": 91.955,
+   "end_s": 95.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "You tell me. You've sat on that side.",
+   "start_s": 95.235,
+   "end_s": 97.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I think... what they remember. And who they believe shows up in week twelve. Which makes me want to argue for boring. Same few things every meeting, same faces. The team is the distinctive asset. Do they recognize you the second time?",
+   "start_s": 97.795,
+   "end_s": 112.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Mm, partly. Saying your people are the difference is the most boring sentence in advertising. People count when they walk in with a point of view and work that's already out in the world. Then the buyer doesn't have to imagine anything.",
+   "start_s": 112.798,
+   "end_s": 127.918,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. If the point of view changes every pitch, isn't that a costume?",
+   "start_s": 127.918,
+   "end_s": 134.398,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "bea",
+   "text": "Sure, if it changes. So don't change it. Same point of view, new proof every time.",
+   "start_s": 134.398,
+   "end_s": 140.798,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Okay. I can live with that.",
+   "start_s": 140.798,
+   "end_s": 143.838,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "bea",
+   "text": "And Tom, this is your week, not just a trend. High Noon is in your inbox, and whoever sits next to you in that room is part of the answer.",
+   "start_s": 143.838,
+   "end_s": 152.878,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "I'll tell you why this one gets to me. I sit across from thirty-year-old founders who decide in about ten minutes whether I'm useful or just old.",
+   "start_s": 152.878,
+   "end_s": 162.158,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "bea",
+   "text": "And you win them by being annoying in a very specific way.",
+   "start_s": 162.158,
+   "end_s": 166.078,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "Ha. Okay, one. Last spring. Founder, a snack company, deck open, thirty slides about community. I never touched the deck. I asked him where his bag sits in the store, and who walks past it every week and has never bought it. Long pause. Then he turned his laptop toward himself and started typing notes. Maybe four minutes in. That's when I knew.",
+   "start_s": 166.078,
+   "end_s": 189.838,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "bea",
+   "text": "He stopped performing for you.",
+   "start_s": 189.838,
+   "end_s": 192.078,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "Yeah. And the part I don't love: half the time I ask that exact question and the founder looks at me like I'm his dad. I don't always know which half I'm in until I'm in the elevator.",
+   "start_s": 192.078,
+   "end_s": 202.398,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "bea",
+   "text": "That's the most honest thing you've said on this show.",
+   "start_s": 202.398,
+   "end_s": 205.278,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "Don't spread it around. So, Tom, one question. When Gallo turns to the person next to you and asks what they stand for, what do they say?",
+   "start_s": 205.278,
+   "end_s": 214.398,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "bea",
+   "text": "Here's the version you can fix. One sentence per person, each one pointing at work that already shipped, and the same sentences go straight into the case studies due December first.",
+   "start_s": 214.361,
+   "end_s": 224.921,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of names nobody can repeat. Assembly's gone.",
+   "start_s": 225.684,
+   "end_s": 229.764,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Stagwell Media now. Built around the Stagwell Machine. Platforms get renamed, creative chiefs turn over. I want to know one thing. Has a client ever picked an agency because of its operating system? In my experience they buy a person they trust and a result they can point to. I'd love to see the deal the machine closed by itself.",
+   "start_s": 229.764,
+   "end_s": 250.964,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "It's a tidy story, though. A CFO gets \"machine\" in five seconds. Try explaining culture to a CFO.",
+   "start_s": 250.964,
+   "end_s": 259.044,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "And the move behind the move. They launched a Media Machine back in June, a pile of agents with humans at the decision gates. Now this. They keep folding brands together so the buyer sees one door.",
+   "start_s": 259.044,
+   "end_s": 271.204,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Which is the opening for a small studio. The more the big networks turn into machines, the more somebody has to make the thing people actually pass around.",
+   "start_s": 271.204,
+   "end_s": 279.644,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Maybe. Push back for me, though. What does a culture shop do for a buyer's sales that a machine can't?",
+   "start_s": 279.644,
+   "end_s": 285.844,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it.",
+   "start_s": 285.844,
+   "end_s": 289.284,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Ha.",
+   "start_s": 289.284,
+   "end_s": 290.244,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Honest answer? It gets noticed for free. The machine makes the spend efficient. Culture gets people to show up without being paid to. The Polymarket work is the kind of thing I mean.",
+   "start_s": 290.244,
+   "end_s": 301.284,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Okay, that's a start. Now the awkward bit for Tom. The vision deck floats SUPERORGANISM. \"We are a system.\"",
+   "start_s": 301.284,
+   "end_s": 309.204,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Oof. Right next to the parent's Machine.",
+   "start_s": 309.204,
+   "end_s": 312.324,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Any reporter with both press releases open will assume it's one idea. So I figured you'd tell him to lean on a plain claim about culture instead.",
+   "start_s": 312.324,
+   "end_s": 320.364,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Mm, actually, I'd fight that one too.",
+   "start_s": 320.364,
+   "end_s": 323.764,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Wait. You're the culture person.",
+   "start_s": 323.764,
+   "end_s": 326.084,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "bea",
+   "text": "That's why it bugs me. I've written lines like that. Half the shops in LA have some version on their website. A buyer reads it, nods, and has no idea what they'd walk out with.",
+   "start_s": 326.047,
+   "end_s": 337.807,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "jack",
+   "text": "So what would they walk out with?",
+   "start_s": 337.807,
+   "end_s": 339.887,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Say what a buyer gets. Something they can picture and point at. Nobody's machine builds a basketball court. A concrete list does more work than the slogan.",
+   "start_s": 339.887,
+   "end_s": 349.647,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Okay, I agree with you and I'm a little upset about it. So the second clause. Define the agency against the system story, or plug into it?",
+   "start_s": 349.647,
+   "end_s": 359.967,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Against it, for who you are. Use the network when it's useful.",
+   "start_s": 359.967,
+   "end_s": 364.927,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "jack",
+   "text": "Yeah. Stagwell access is worth one plain sentence when a reporter asks. Keep it out of the name.",
+   "start_s": 364.927,
+   "end_s": 371.087,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 20,
+   "speaker": "bea",
+   "text": "And the hard room is still Adobe, against 72. A buyer there needs something they can picture.",
+   "start_s": 371.087,
+   "end_s": 377.407,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Tom, if you can't say what's different from 72 in one breath, you've found where the clause goes.",
+   "start_s": 377.407,
+   "end_s": 383.087,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Bea, you brought up Polymarket. The casinos had a week.",
+   "start_s": 383.85,
+   "end_s": 388.57,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "They had a meltdown. The head of the casino trade group stood up and called prediction markets a \"generational opponent\" and said they're on \"wartime footing.\" They added a whole bonus main-stage session called \"A United Front.\"",
+   "start_s": 388.57,
+   "end_s": 403.53,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Meanwhile a federal judge in Illinois sided with Kalshi, Coinbase and the CFTC on October second. A tribal band is backing New Jersey's Supreme Court petition against Kalshi. And Polymarket shipped Protocol V2.",
+   "start_s": 403.53,
+   "end_s": 417.61,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "And Kalshi just keeps going, doesn't it. Gold, every fifteen minutes, is where my head went.",
+   "start_s": 417.61,
+   "end_s": 424.17,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Gold. Every fifteen minutes. That's the most stressful sentence I've heard all week.",
+   "start_s": 424.17,
+   "end_s": 429.69,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Ha. And the promo-code posts are all over the baseball playoffs.",
+   "start_s": 429.69,
+   "end_s": 433.77,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "So the category's getting bigger and louder at the same time. When it's that noisy, the brand people think of first at the big sports moments is the one that wins.",
+   "start_s": 433.77,
+   "end_s": 443.13,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Sure. But Jack, the old guard just named a villain on a main stage. That's a gift for a brand voice. Polymarket gets to be the opposite of that room for free.",
+   "start_s": 443.13,
+   "end_s": 453.863,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "I don't buy it. A villain works when the audience knows who the villain is. Most people have no idea what happened at a casino conference. Picking a fight with the establishment mostly gets applause from people who already agree with you.",
+   "start_s": 453.863,
+   "end_s": 466.81,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "bea",
+   "text": "In a settled category, sure. Here, the people who haven't picked a side are watching. When the casinos call you an existential threat, a twenty-eight-year-old who's never opened a sportsbook hears that you're the new thing. The incumbents are doing your reach for you.",
+   "start_s": 466.81,
+   "end_s": 482.986,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. Their fear works as your ad buy.",
+   "start_s": 482.986,
+   "end_s": 487.863,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Write that down, Tom. The date and the time.",
+   "start_s": 487.863,
+   "end_s": 490.81,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Don't get used to it. I still wouldn't put any of the fight in the business case. The courts could flip by spring, and a case built on a ruling dies with the ruling.",
+   "start_s": 490.773,
+   "end_s": 500.373,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Yeah, agreed. Keep the war out of the deck. Maybe it shows up in the voice later.",
+   "start_s": 500.373,
+   "end_s": 506.293,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "jack",
+   "text": "So, Tom, the 3pm. You're building the case to take to Avi, going around Scott and Dan, leading with March Madness and the Women's World Cup. Does the competition go in?",
+   "start_s": 506.293,
+   "end_s": 516.773,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "bea",
+   "text": "One slide. Kalshi is spending on promos and spreading beyond sports, and nobody owns women's sports. The open space is your lead.",
+   "start_s": 516.773,
+   "end_s": 525.573,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "jack",
+   "text": "And leave the gold out. Great story, does nothing for you. Then the interview-prep rule holds: the controversy doesn't get to be the story, you move to effectiveness. Who can Polymarket reach that it doesn't reach now?",
+   "start_s": 525.573,
+   "end_s": 539.693,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Here's what I genuinely don't know. Does Avi even want a stance, or does he just want the number? Because I think that's two different decks.",
+   "start_s": 539.693,
+   "end_s": 549.413,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Me neither. Which might be the one thing worth finding out before you send anything.",
+   "start_s": 549.413,
+   "end_s": 555.893,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, the thing I've had my nose pressed against all week. Figma's Design Agent came out of beta on the sixth, and now it burns credits.",
+   "start_s": 556.656,
+   "end_s": 565.536,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It was free during the beta?",
+   "start_s": 565.536,
+   "end_s": 567.936,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Free. Now it draws from the same credit pot as their other AI tools. Cost depends on how complicated your ask is and what you attach, and they haven't published a price per action.",
+   "start_s": 567.936,
+   "end_s": 578.736,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "A taxi with the meter hidden.",
+   "start_s": 578.736,
+   "end_s": 580.896,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Yes! And nobody falls in love with a meter. You get timid. You stop asking the weird question, because the weird question might be the expensive one.",
+   "start_s": 580.896,
+   "end_s": 590.256,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "And underneath it, a free open-source suite getting attention in Korea that looks an awful lot like Adobe.",
+   "start_s": 590.256,
+   "end_s": 596.416,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Paid agents above, free lookalikes below.",
+   "start_s": 596.416,
+   "end_s": 599.456,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Adobe wins on whose name you think of at eleven at night when you're stuck. That's a memory job, and you build memory by reaching every stuck person, including the ones who don't pay you yet.",
+   "start_s": 599.456,
+   "end_s": 609.856,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Mostly with you. You remember the place that actually got you unstuck.",
+   "start_s": 609.856,
+   "end_s": 614.256,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "And your meter point is better than mine, so I'm stealing it. If every prompt costs money now, somebody gets to be the place where the dumb question is free.",
+   "start_s": 614.256,
+   "end_s": 623.536,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Ooh. Okay, wait. I love that, and I want to fight it. Who pays for free? Adobe's spend guidance is down for next year. Free is the first line somebody cuts.",
+   "start_s": 623.536,
+   "end_s": 634.656,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Free to the person asking. Somebody already paid for the answer once. Tom's Lightroom and Photoshop work is exactly that. One real photographer question per piece. HDR. Rule of thirds.",
+   "start_s": 634.656,
+   "end_s": 647.136,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Sure, but then it's helpful videos with a nicer name. What makes anybody think of Adobe the next time they're stuck?",
+   "start_s": 647.136,
+   "end_s": 655.056,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 13,
+   "speaker": "jack",
+   "text": "The answer has to look and sound like Adobe, every single time. If it's generic, you've helped a photographer and taught him nothing about who helped.",
+   "start_s": 655.056,
+   "end_s": 663.536,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Fine. And what stops Figma doing the same thing next month?",
+   "start_s": 663.499,
+   "end_s": 668.379,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Nothing, eventually. But right now Figma just put a meter on every question, and that's a lousy ad for itself. The window's open. I honestly don't know for how long.",
+   "start_s": 668.379,
+   "end_s": 680.539,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Okay. That's a decent answer. I'm still not sure free survives a budget meeting, but I believe it more than I did ten minutes ago.",
+   "start_s": 680.539,
+   "end_s": 689.179,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 17,
+   "speaker": "jack",
+   "text": "That's all I ever want from you.",
+   "start_s": 689.179,
+   "end_s": 691.819,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Tom, did Adobe ever answer the bots-or-humans question? Your notes stop before the answer. And the two briefs still disagree on talent.",
+   "start_s": 691.819,
+   "end_s": 700.499,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 19,
+   "speaker": "jack",
+   "text": "Your rule that questions get picked by value to Adobe is the best thing in the pile. The cute question and the valuable one are rarely the same question.",
+   "start_s": 700.499,
+   "end_s": 708.859,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 20,
+   "speaker": "bea",
+   "text": "So is \"the human answer in an agent world\" the lane against 72?",
+   "start_s": 708.859,
+   "end_s": 714.219,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Who says no to that? Every agency will be saying \"human\" by Friday.",
+   "start_s": 714.219,
+   "end_s": 719.259,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 22,
+   "speaker": "bea",
+   "text": "Ugh. Yeah. So show it before you name it. One Lightroom piece, one Photoshop piece, each on a stuck question that's worth something to Adobe. 72 can say the line. They can't show your work.",
+   "start_s": 719.259,
+   "end_s": 732.939,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 23,
+   "speaker": "jack",
+   "text": "And with spend down, small and sharp is a lot easier to say yes to.",
+   "start_s": 732.939,
+   "end_s": 737.179,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Quick ones?",
+   "start_s": 737.942,
+   "end_s": 738.822,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Quick ones. SAMY bought Get Engaged, and DoorDash, Sephora and Raising Cane's come along with it.",
+   "start_s": 738.822,
+   "end_s": 745.142,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Somebody wrote a big check to agree with your meeting notes, Tom. The bottom-up social lane is a real business.",
+   "start_s": 745.142,
+   "end_s": 752.422,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Okay, my bet is brands are leaning way harder on price promotions than on paid media right now.",
+   "start_s": 752.422,
+   "end_s": 758.502,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Way harder. Keep that in your pocket for High Noon. That aisle is a promo fight, and this is the case for building the brand anyway.",
+   "start_s": 758.502,
+   "end_s": 766.182,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Get your label maker. Stick it on every can.",
+   "start_s": 766.182,
+   "end_s": 769.702,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Don't tempt me. Chemistry bought Colossus, and that's their way into Boston.",
+   "start_s": 769.702,
+   "end_s": 775.062,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Independents buying their way into a new city. Good for them.",
+   "start_s": 775.062,
+   "end_s": 778.662,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Boston would like a word about being called ripe.",
+   "start_s": 778.662,
+   "end_s": 781.782,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Ha. That's the round.",
+   "start_s": 781.782,
+   "end_s": 784.342,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "jack",
+   "text": "One more, and it's the nerdy one. The ON Strategy Effie series had Andrew Tindall from System1 and James Hurman, who wrote Future Demand, on the state of effectiveness.",
+   "start_s": 785.105,
+   "end_s": 796.385,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "bea",
+   "text": "And I keep chewing on this idea that whatever's easy to measure ends up running the show, and the slow stuff gets starved.",
+   "start_s": 796.385,
+   "end_s": 804.145,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Which lands right on Tom's desk. Tom, your case-study framework is due December first, and one of the checks is \"proven numbers.\"",
+   "start_s": 804.145,
+   "end_s": 812.465,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Proven numbers of what, though?",
+   "start_s": 812.465,
+   "end_s": 814.465,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Exactly. Short-term activation, people doing the thing right now. Or future demand, the brand getting bigger in people's heads so it sells later. Different evidence, different clocks.",
+   "start_s": 814.465,
+   "end_s": 826.225,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "bea",
+   "text": "So one line at the top of each case. This one proves activation. This one proves future demand.",
+   "start_s": 826.225,
+   "end_s": 832.985,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And let the client's original goal pick which. If the goal was downloads and you call it future demand because that story's prettier, a prospect will see right through it.",
+   "start_s": 832.985,
+   "end_s": 842.065,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "bea",
+   "text": "The app ranking moves and then it's gone. Somebody should be capturing it on a schedule starting this week. Same for XRP and the Firefly social franchise. Firefly might be the slow one, which is harder to prove and probably the better story.",
+   "start_s": 842.065,
+   "end_s": 857.052,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "jack",
+   "text": "I've done the November scramble. Story written first, numbers found after. I'm not proud of it.",
+   "start_s": 857.052,
+   "end_s": 863.505,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "bea",
+   "text": "The template's the fun part. Collecting the evidence is the boring last ten percent. Believe me, I know about the last ten percent.",
+   "start_s": 863.505,
+   "end_s": 872.705,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Ha. So, Tom, two things for your week. Give everyone going into the High Noon check-in one sentence they stand for, tied to work you've already shipped.",
+   "start_s": 872.705,
+   "end_s": 881.985,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 11,
+   "speaker": "bea",
+   "text": "And decide what each case is proving, then collect the evidence while the work's still live. In November it's gone.",
+   "start_s": 881.985,
+   "end_s": 888.905,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 12,
+   "speaker": "jack",
+   "text": "That's the show. Have a good 3pm.",
+   "start_s": 888.905,
+   "end_s": 891.105,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 13,
+   "speaker": "bea",
+   "text": "And Jack, step away from the label maker.",
+   "start_s": 891.105,
+   "end_s": 894.225,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Never. Bye, Tom.",
+   "start_s": 894.188,
+   "end_s": 896.828,
+   "chapter": 6
+  }
+ ],
+ "cost": {
+  "real_usd": 1.1438,
+  "api_usd": 8.297,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 6,
+    "input_tokens": 12,
+    "output_tokens": 47664,
+    "cache_write": 186392,
+    "api_usd": 2.4454,
+    "cache_read": 4842,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 103,
+    "input_tokens": 236,
+    "output_tokens": 74785,
+    "cache_read": 605187,
+    "cache_write": 733528,
+    "api_usd": 3.8035,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "input_tokens": 275897,
+    "output_tokens": 9945,
+    "api_usd": 0.5656,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 12,
+    "chars": 14297,
+    "real_usd": 1.1438,
+    "api_usd": 1.1438
+   },
+   {
+    "kind": "background",
+    "calls": 7,
+    "real_usd": 0.0,
+    "api_usd": 0.3387,
+    "since": "2026-09-30T09:02:41Z",
+    "until": "2026-10-07T09:02:41Z"
+   }
+  ]
+ }
+}
