@@ -1,0 +1,1369 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261007",
+ "show": "sports",
+ "title": "Dundon's letter, the Bell firing and a Moda Center promise",
+ "date": "2026-10-07",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261007.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261007-art1.png",
+ "duration_s": 874,
+ "published_utc": "2026-10-07T08:58:32.088099Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Dundon's Letter",
+   "headline": "Dundon's letter, the Bell firing and a Moda Center promise: is the owner losing the room?",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Scoot, Ja, Dame",
+   "headline": "A big year for Scoot Henderson and Ja Morant's role in a crowded backcourt",
+   "start_s": 244.384
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Verstappen in Sepang",
+   "headline": "Verstappen wins the Bahrain GP in Malaysia, and the engine regs take the blame for the farce",
+   "start_s": 450.79
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "City Guilty Verdict",
+   "headline": "Man City found guilty on 114 charges: what punishment, and what it means for Spurs and everyone else",
+   "start_s": 588.156
+  },
+  {
+   "n": 5,
+   "story_id": "s5",
+   "tag": "Ducks vs UCLA",
+   "headline": "Oregon-UCLA: is Dante Moore back, or is it Raiola's time?",
+   "start_s": 720.162
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. You know it's a ten o'clock tip your time, right? For a preseason game.",
+   "start_s": 10.175,
+   "end_s": 15.535,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I did the math. I've got a pot of coffee and a granola bar I don't trust.",
+   "start_s": 15.535,
+   "end_s": 20.335,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "You don't trust a granola bar.",
+   "start_s": 20.335,
+   "end_s": 22.895,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "It came out of a hotel lobby in August. It's been in my bag ever since. It's been to three cities.",
+   "start_s": 22.895,
+   "end_s": 28.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "That bar's seen more of the country than I have since I moved back.",
+   "start_s": 28.975,
+   "end_s": 32.575,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "It's earned a game. What's the scene at your place?",
+   "start_s": 32.575,
+   "end_s": 35.375,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "So the bartender put a board up. Over/under on Dame's minutes tonight, nineteen and a half. People are betting wings on it.",
+   "start_s": 35.375,
+   "end_s": 43.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "On a preseason game.",
+   "start_s": 43.295,
+   "end_s": 44.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "On a preseason game. I took the under. The coaching staff isn't crazy. But I might not even be at the bar. My dad called and asked if I'd come over tonight.",
+   "start_s": 44.975,
+   "end_s": 55.615,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "On a Wednesday?",
+   "start_s": 55.615,
+   "end_s": 56.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "On a Wednesday. Sundays are our thing. He has never once asked for a Wednesday.",
+   "start_s": 56.655,
+   "end_s": 62.175,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Huh. You going?",
+   "start_s": 62.175,
+   "end_s": 63.775,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "I'm going. The bartender's going to text me Dame's minutes like it's a medical update. Anyway, my dad also forwarded me the letter. No note. Just the forward.",
+   "start_s": 63.775,
+   "end_s": 72.895,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "A forward with no note is a review.",
+   "start_s": 72.895,
+   "end_s": 75.455,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Ha. One star. Okay, the line that got me comes right before the track record one. \"I'm still getting to know Portland and this fanbase.\" Hotels, two-way guys' travel, the layoffs, Calabro walking out the door, a broadcaster hired and fired the same day. And you're still getting to know us?",
+   "start_s": 75.455,
+   "end_s": 94.335,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "I mean, it's probably true.",
+   "start_s": 94.335,
+   "end_s": 96.755,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "That's what makes it bad!",
+   "start_s": 96.755,
+   "end_s": 98.335,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "The Raleigh line I'd have cut. You don't bring photos of your old girlfriend on the first date. And \"my track record speaks for itself\" is a guy answering a question nobody put in the email.",
+   "start_s": 98.335,
+   "end_s": 109.575,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "So is he rattled?",
+   "start_s": 109.575,
+   "end_s": 110.895,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I go back and forth. I read the arena paragraph twice and kept landing on \"Our focus is the long term.\" \"We'll keep pushing until we get there.\" They're stuck on rent, ticket taxes, property taxes, union labor. My read is he's playing for leverage. You don't promise a long lease while you're still haggling over rent.",
+   "start_s": 110.858,
+   "end_s": 130.458,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "Okay, but look who he sent it to. Season ticket holders. Those are the people sitting at the kitchen table right now with the renewal form. There's one question on that form, and it's whether there's a team here in 2031. He answered with \"long term.\"",
+   "start_s": 130.458,
+   "end_s": 145.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Hm.",
+   "start_s": 145.178,
+   "end_s": 146.058,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "If he's using us to lean on the state, fine. But he just told his best customers he won't say the word \"stay.\"",
+   "start_s": 146.058,
+   "end_s": 152.218,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. So the leverage costs him with the exact people he's writing to.",
+   "start_s": 152.218,
+   "end_s": 158.778,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "With the people who already paid! The lease runs out in 2030. Put Portland and stay in one sentence or don't hit send.",
+   "start_s": 158.778,
+   "end_s": 166.378,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Okay, I'll move on that. I still think it's leverage. It's just leverage he's paying for out of the wrong pocket.",
+   "start_s": 166.378,
+   "end_s": 173.738,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "And then Bell asks to come back, and the answer's \"We wish Mr. Bell the best.\"",
+   "start_s": 173.738,
+   "end_s": 178.538,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "A no in a nice shirt.",
+   "start_s": 178.538,
+   "end_s": 180.538,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "mikey",
+   "text": "Ha. Yeah. And I think the no was right. Limbo would've been worse for everybody, him included. I just don't want anybody piling on the guy. The building skipped the homework. He didn't hire himself.",
+   "start_s": 180.538,
+   "end_s": 192.378,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "Agreed. And now it's Miles, Draper or Winer. For me that's the real test this week. Pick a voice people trust inside ten minutes and a lot of this gets quiet. Go cheap again and the story writes itself.",
+   "start_s": 192.378,
+   "end_s": 205.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "mikey",
+   "text": "Somebody who sounds like he's staying.",
+   "start_s": 205.178,
+   "end_s": 207.338,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "Ha. Everything with you comes back to staying.",
+   "start_s": 207.338,
+   "end_s": 210.858,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "mikey",
+   "text": "It's a good theme! So, tonight. Is Moda mad or happy?",
+   "start_s": 210.858,
+   "end_s": 215.978,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "jack",
+   "text": "I was going to ask you.",
+   "start_s": 215.941,
+   "end_s": 217.861,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "mikey",
+   "text": "Both? If Dame hits one from the logo and Ja does something dumb in transition, half the city forgives a lot for two hours. I'm in that half. I know that's not healthy.",
+   "start_s": 217.861,
+   "end_s": 229.381,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "jack",
+   "text": "In my experience a win buys about a week. The arena's still sitting there on Thursday.",
+   "start_s": 229.381,
+   "end_s": 234.741,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "mikey",
+   "text": "A week in October. In April, a win buys you a summer. That's my real fear with this guy. He needs the team good enough that nobody looks upstairs.",
+   "start_s": 234.741,
+   "end_s": 243.621,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of the logo. Did you see the Fan Fest stuff? Dame made the whole team film dance videos walking in, and anybody who didn't do it had to dance on the court afterward.",
+   "start_s": 244.384,
+   "end_s": 254.504,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Because there are no rookies to sing karaoke this year. I love that so much. That's a thirty-six-year-old making sure the locker room still feels like one.",
+   "start_s": 254.504,
+   "end_s": 263.904,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "And Ja with the 360 layup.",
+   "start_s": 263.904,
+   "end_s": 266.064,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "And the halfcourt shot to break the tie, and telling everybody he's dunking again. I read that and grinned like an idiot at my kitchen counter.",
+   "start_s": 266.064,
+   "end_s": 273.984,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Okay, here's what I actually want to know. Where do Scoot's minutes come from? Dame plays. Ja plays. Jrue's Jrue. That's a lot of guards ahead of the kid.",
+   "start_s": 273.984,
+   "end_s": 284.144,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Yeah.",
+   "start_s": 284.144,
+   "end_s": 285.104,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And everybody's \"high priority\" in October.",
+   "start_s": 285.104,
+   "end_s": 288.144,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Sure. But here's what stuck with me about him. He's a combo guy, and he looks great until he's in a crowd going faster than he can think. That's Scoot. And that's a craft thing. Craft gets fixed.",
+   "start_s": 288.144,
+   "end_s": 299.424,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Okay, but the backcourt is the crowd. Three guards who want the ball, and a kid who gets in trouble in a crowd.",
+   "start_s": 299.424,
+   "end_s": 306.224,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "So put him with Jrue on the second unit. Jrue's the adult, Scoot runs. Nobody in his way but the other team's bench.",
+   "start_s": 306.224,
+   "end_s": 312.544,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "And Ja?",
+   "start_s": 312.544,
+   "end_s": 313.344,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "My dad has exactly one ask for this season. Jrue on the floor at the end of games. So Ja off the bench? He'd sign that tonight. In two languages.",
+   "start_s": 313.344,
+   "end_s": 323.6,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Ha. And you?",
+   "start_s": 323.6,
+   "end_s": 325.024,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Me, I still want Dame and Ja figuring each other out in the first six minutes. But honestly, part of me hears my dad and thinks, you want the guy you trust out there at the end. He's not wrong about much.",
+   "start_s": 325.024,
+   "end_s": 337.024,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "jack",
+   "text": "If I'm the coach, I'd do it. A healthy Ja running a second unit is the best luxury in the league. The problem is whose ego can handle being told that, and I don't think it's his.",
+   "start_s": 337.024,
+   "end_s": 347.984,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "So who loses minutes? Because you're about to say Scoot.",
+   "start_s": 347.947,
+   "end_s": 352.547,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "jack",
+   "text": "I'm saying Scoot, and I don't love saying it. Follow the money. If he's a second-unit guy this year, why pay him now? Watch him for a year, pay him next summer.",
+   "start_s": 352.547,
+   "end_s": 363.147,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Because he'll be better next summer and cost more!",
+   "start_s": 363.147,
+   "end_s": 365.867,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Walk me through that. You're sure he's better?",
+   "start_s": 365.867,
+   "end_s": 368.427,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "By March? Yeah. He looks like a guy who finally stopped carrying the whole offense up a flight of stairs every trip. Okay, that's the optimism talking. But I'll put it down. He signs before the deadline.",
+   "start_s": 368.427,
+   "end_s": 380.427,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 20,
+   "speaker": "jack",
+   "text": "I'll take the other side. Deadline passes, everybody says nice things, they sort it out next summer. Loser buys wings.",
+   "start_s": 380.427,
+   "end_s": 387.627,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "Deal. Not off the board, though. The bartender's got those riding on Dame.",
+   "start_s": 387.627,
+   "end_s": 391.867,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "Can I make a case for Sidy for one second?",
+   "start_s": 391.867,
+   "end_s": 395.787,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 23,
+   "speaker": "jack",
+   "text": "You get one second.",
+   "start_s": 395.787,
+   "end_s": 397.467,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "Seventy-five games last year. The shot's rough, but he sticks to his guy and he's forward-sized, which is the thing we're thin on. Krejci's the shooter who has to actually start shooting.",
+   "start_s": 397.467,
+   "end_s": 406.867,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 25,
+   "speaker": "jack",
+   "text": "So Krejci shoots or he's a towel guy.",
+   "start_s": 406.867,
+   "end_s": 409.547,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "Brutal. Fair. And Yang at Fan Fest looked like he finally knew where he was supposed to stand. One scrimmage, I know.",
+   "start_s": 409.547,
+   "end_s": 417.587,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 27,
+   "speaker": "jack",
+   "text": "I'll believe Yang in March. Clingan's the five till somebody takes it.",
+   "start_s": 417.587,
+   "end_s": 421.387,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 28,
+   "speaker": "mikey",
+   "text": "And Sharpe's out till about March, so nobody gets to fix the logjam with him. That one stings.",
+   "start_s": 421.387,
+   "end_s": 427.467,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 29,
+   "speaker": "jack",
+   "text": "Can I say something? I kind of get Scoot right now. Twenty-two, and everybody's measuring you on somebody else's clock.",
+   "start_s": 427.467,
+   "end_s": 435.067,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 30,
+   "speaker": "mikey",
+   "text": "Says the independent advisor.",
+   "start_s": 435.067,
+   "end_s": 437.28,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 31,
+   "speaker": "jack",
+   "text": "Says the independent advisor. Yeah. Some weeks the phone's quiet and I'm running the same math on myself.",
+   "start_s": 437.28,
+   "end_s": 444.107,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 32,
+   "speaker": "mikey",
+   "text": "For what it's worth, I'd extend you.",
+   "start_s": 444.107,
+   "end_s": 446.187,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 33,
+   "speaker": "jack",
+   "text": "Ha. Before the deadline?",
+   "start_s": 446.187,
+   "end_s": 448.867,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 34,
+   "speaker": "mikey",
+   "text": "Before the deadline.",
+   "start_s": 448.867,
+   "end_s": 450.027,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "You know who else was on somebody else's clock this year? Max. He thinks about walking away, signs the new deal last month, and Sunday he wins.",
+   "start_s": 450.79,
+   "end_s": 459.51,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "You were up for it?",
+   "start_s": 459.51,
+   "end_s": 460.63,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Midnight start, my time. And then I sat there for a hundred minutes while the whole grid basically restarted like a laptop.",
+   "start_s": 460.63,
+   "end_s": 467.59,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Max on the radio, laughing. \"Lol, look at this.\"",
+   "start_s": 467.59,
+   "end_s": 472.07,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "I laughed out loud, alone in my apartment. And Hamilton calling it the Lego race. Five cars wide on the straight because nobody knew if they were allowed to pass. Best bad day I've ever watched in a sport this expensive.",
+   "start_s": 472.07,
+   "end_s": 484.63,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "What gets me is how ordinary the cause was. Some rain, a slow formation lap, the software decides you don't really want power, and the whole field parks. The fix was a patch they wrote during the delay.",
+   "start_s": 484.63,
+   "end_s": 497.03,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "In like twenty minutes. Credit there.",
+   "start_s": 497.03,
+   "end_s": 499.43,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Sure, but they'd barely run in the wet all year. Nobody tested the one weather that was always coming to Malaysia. To me that's a management problem.",
+   "start_s": 499.43,
+   "end_s": 508.23,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Mm, no. I mean, partly. But if my car stalled every time I eased off the gas in the rain, I'd return it. More testing days don't fix that.",
+   "start_s": 508.23,
+   "end_s": 517.51,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Okay, both. A bad engine, and nobody checked the bad engine in the rain.",
+   "start_s": 517.51,
+   "end_s": 523.19,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "That I'll sign.",
+   "start_s": 523.19,
+   "end_s": 524.23,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Poor Russell, though. Engine dies late while he's running third, and that's a podium gone.",
+   "start_s": 524.23,
+   "end_s": 530.55,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Singapore. The one track where nobody can pass. That's a parking ticket on the way out of a funeral.",
+   "start_s": 530.55,
+   "end_s": 536.23,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Ha. Okay, Red Bull. Real?",
+   "start_s": 536.23,
+   "end_s": 539.27,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Real. Their own engine, first year, miserable start, and they just kept fixing it. That's my favorite kind of story. And they showed his dad on the podium looking emotional and... I don't know. Given my week, that got me a little.",
+   "start_s": 539.27,
+   "end_s": 552.726,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Yeah. I bet.",
+   "start_s": 552.726,
+   "end_s": 554.39,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "jack",
+   "text": "I think it's real too, but Sepang flattered them. Hot, rough track, half the field out of its window.",
+   "start_s": 554.353,
+   "end_s": 561.233,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "So what would make you buy it?",
+   "start_s": 561.233,
+   "end_s": 562.833,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Singapore. Different demands, sprint weekend. If they're fighting up front there, I'm in. My guess is they don't win it.",
+   "start_s": 562.833,
+   "end_s": 571.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Podium for Max. Minimum.",
+   "start_s": 571.393,
+   "end_s": 573.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 20,
+   "speaker": "jack",
+   "text": "And Hamilton. Eighteenth to third after Ferrari put him on slicks on a damp track.",
+   "start_s": 573.393,
+   "end_s": 578.513,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "And then he's the one on the radio telling them to stay out and gamble, and it works. That's a veteran who knows exactly how much he's got left and spends every bit of it.",
+   "start_s": 578.513,
+   "end_s": 587.393,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "City, then.",
+   "start_s": 588.156,
+   "end_s": 588.956,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "A hundred and fourteen out of a hundred and fifteen. You'd think I'd feel better.",
+   "start_s": 588.956,
+   "end_s": 594.316,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "You don't?",
+   "start_s": 594.316,
+   "end_s": 595.196,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "We're at the bottom, Jack, and it's ugly. We spent like grown-ups all summer, and a guilty verdict doesn't get us a point at Old Trafford on Saturday.",
+   "start_s": 595.196,
+   "end_s": 603.436,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "And it's slow. The appeal gets heard around mid-December, a decision maybe end of January, and only then do they even get to the punishment.",
+   "start_s": 603.436,
+   "end_s": 612.756,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "And the betting markets have City actually going down now. A month ago I'd have laughed.",
+   "start_s": 612.756,
+   "end_s": 617.676,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "So, the money. Spurs reserved the right to go after City for compensation. Other clubs did too.",
+   "start_s": 617.676,
+   "end_s": 623.916,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Okay, I have to own something. Friday I said I cared more about the league admitting the table was wrong than about any money. I've moved.",
+   "start_s": 623.916,
+   "end_s": 632.196,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "What moved you?",
+   "start_s": 632.196,
+   "end_s": 633.596,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Stay with me here. The retired guy at the bar, the one who won't talk about 2007. Somebody asked him once, if the league handed you a piece of paper saying it should've gone different, would you want it? He just shrugged. Like, what would I do with that? Went back to his beer.",
+   "start_s": 633.596,
+   "end_s": 647.636,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Ha.",
+   "start_s": 647.636,
+   "end_s": 648.796,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "And he's right. Paper doesn't give you the nights back. Spurs finished below City, and that's real Champions League money. Players we didn't buy. So send the bill.",
+   "start_s": 648.796,
+   "end_s": 658.156,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Look at you.",
+   "start_s": 658.156,
+   "end_s": 659.436,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Don't. I'll make you eat the granola bar.",
+   "start_s": 659.436,
+   "end_s": 662.236,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 14,
+   "speaker": "jack",
+   "text": "My worry is whether anybody at Spurs wants the fight. Levy's gone, and he might've loved this one. The new CEO was at Arsenal back then. And they've hired a bunch of people out of City's group.",
+   "start_s": 662.236,
+   "end_s": 673.596,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "That's the part that makes me cold. If they let it slide because it's awkward at the office, they're treating fans like a line item.",
+   "start_s": 673.596,
+   "end_s": 680.529,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 16,
+   "speaker": "jack",
+   "text": "I'd push back a little. Nobody has to decide anything until the sanction lands. And the four of them can go in together and split the lawyers.",
+   "start_s": 680.529,
+   "end_s": 688.476,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Four guys holding one umbrella. Okay. I like that.",
+   "start_s": 688.519,
+   "end_s": 692.759,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 18,
+   "speaker": "jack",
+   "text": "But you're dodging my real question. What's broken on the field? They spent. They're bottom.",
+   "start_s": 692.759,
+   "end_s": 698.439,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Honestly? I don't know. I want it to be confidence, one result and it flips, because it's mostly the same guys as last spring. But I watch them and I can't name the thing. That scares me more than City does.",
+   "start_s": 698.439,
+   "end_s": 712.319,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 20,
+   "speaker": "jack",
+   "text": "That's the most honest Spurs take you've ever given me.",
+   "start_s": 712.319,
+   "end_s": 715.879,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "Enjoy it. Saturday I'm irrational again.",
+   "start_s": 715.879,
+   "end_s": 719.399,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "My turn to be irrational. Oregon-UCLA.",
+   "start_s": 720.162,
+   "end_s": 725.282,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "How are you holding up?",
+   "start_s": 725.282,
+   "end_s": 726.482,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Badly. I've refreshed Ducks injury news more than my email this week. Dante Moore practiced Monday. Helmet, shoulder pads, throwing. That's all there is, and I have it memorized.",
+   "start_s": 726.482,
+   "end_s": 739.842,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "The thing I can't get past is that the kid tried to slide. He did the smart thing and still got hit late and left in an ambulance. You don't get cute with that.",
+   "start_s": 739.842,
+   "end_s": 748.482,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "I'd sit him. Unless the injury report says he's fully cleared, and even then I'd lean Raiola.",
+   "start_s": 748.482,
+   "end_s": 754.962,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "I'm with you. And Reddit's already halfway to saying Moore makes bad decisions and Raiola should keep the job.",
+   "start_s": 754.962,
+   "end_s": 760.402,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Moore has zero interceptions.",
+   "start_s": 760.402,
+   "end_s": 763.042,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Zero! Name one bad decision!",
+   "start_s": 763.042,
+   "end_s": 765.842,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Ha. But Raiola was good, though. Nineteen of twenty-five, 289 yards, two touchdowns for Raiola. Off the bench, on the road.",
+   "start_s": 765.842,
+   "end_s": 775.122,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Which is the best case for patience. The backup can run the thing, so nobody has to rush the starter. That's what a program looks like when it actually develops people.",
+   "start_s": 775.122,
+   "end_s": 784.002,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "jack",
+   "text": "And here's the piece I like. Oregon's scored on every red zone trip this year, and UCLA's red zone defense is one of the worst in the country. Whoever's back there, once they get close, it's points.",
+   "start_s": 784.002,
+   "end_s": 795.682,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Okay, that settles my stomach a little. I was ready to panic about their run game.",
+   "start_s": 795.682,
+   "end_s": 801.042,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 12,
+   "speaker": "jack",
+   "text": "I'd still keep an eye on the run game. You can be a little worried.",
+   "start_s": 801.042,
+   "end_s": 804.962,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Also, think about Raiola for a second. If he starts Saturday, next week is Nebraska. His old team.",
+   "start_s": 804.962,
+   "end_s": 811.362,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Oh, that's a good week to be him.",
+   "start_s": 811.362,
+   "end_s": 813.922,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Second shot, came in cold on a bad night, played like he belonged. Whatever happens, I'm happy for that kid.",
+   "start_s": 813.922,
+   "end_s": 820.442,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 16,
+   "speaker": "jack",
+   "text": "So we agree. Moore waits till he's right, Raiola's fine, and today's injury report tells us the rest.",
+   "start_s": 820.442,
+   "end_s": 826.322,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "We agree. Write it down, it won't happen again.",
+   "start_s": 826.322,
+   "end_s": 830.002,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Hey. Before you go. The Wednesday thing.",
+   "start_s": 829.965,
+   "end_s": 833.925,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Yeah. Honestly, it got me a little. He's never needed company for a game in his life. And now he calls on a Wednesday, and I'm sitting here wondering what he's not saying.",
+   "start_s": 833.925,
+   "end_s": 844.472,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 20,
+   "speaker": "jack",
+   "text": "Maybe nothing. Maybe he just wants his kid on the couch for the first one with Dame back. Either way, you go, you sit there, and you stay off your phone.",
+   "start_s": 844.472,
+   "end_s": 853.925,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "Not even for the minutes?",
+   "start_s": 853.925,
+   "end_s": 855.485,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 22,
+   "speaker": "jack",
+   "text": "Fine. Once. For the minutes.",
+   "start_s": 855.485,
+   "end_s": 858.605,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 23,
+   "speaker": "mikey",
+   "text": "Deal. Go eat your three-city granola bar. Warriors at ten your time.",
+   "start_s": 858.605,
+   "end_s": 862.445,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 24,
+   "speaker": "jack",
+   "text": "Tell Ken I said hi. Take care, Tom.",
+   "start_s": 862.445,
+   "end_s": 864.925,
+   "chapter": 5
+  }
+ ],
+ "cost": {
+  "real_usd": 1.1506,
+  "api_usd": 8.0863,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 92,
+    "input_tokens": 184,
+    "output_tokens": 90519,
+    "cache_write": 927290,
+    "api_usd": 4.6943,
+    "cache_read": 398083,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 5,
+    "input_tokens": 10,
+    "output_tokens": 47174,
+    "cache_write": 162184,
+    "api_usd": 2.2414,
+    "cache_read": 2275,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 14383,
+    "real_usd": 1.1506,
+    "api_usd": 1.1506
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-09-30T08:58:32Z",
+    "until": "2026-10-07T08:58:32Z"
+   }
+  ]
+ }
+}

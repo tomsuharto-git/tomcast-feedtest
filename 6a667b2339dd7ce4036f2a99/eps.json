@@ -97,5 +97,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261005-art1.png",
     "show": "culture",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261005.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261007",
+    "title": "Sports: Wed Oct 7. Dundon's Letter, Scoot, Ja, Dame, Verstappen in Sepang, City Guilty Verdict, Ducks vs UCLA",
+    "description": "Sports (Mikey and Jack): Dundon's Letter, Scoot, Ja, Dame, Verstappen in Sepang, City Guilty Verdict and Ducks vs UCLA.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261007.mp3",
+    "audio_bytes": 10489356,
+    "duration_s": 874,
+    "published_utc": "2026-10-07T08:58:32.088099Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261007-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261007.episode.json"
   }
 ]
