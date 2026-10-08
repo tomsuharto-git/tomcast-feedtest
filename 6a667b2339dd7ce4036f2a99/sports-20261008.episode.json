@@ -1,0 +1,721 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261008",
+ "show": "sports",
+ "title": "Dame and Ja share a backcourt for the first time",
+ "date": "2026-10-08",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261008.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261008-art1.png",
+ "duration_s": 903,
+ "published_utc": "2026-10-08T13:04:18.009273Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Dame + Ja debut",
+   "headline": "Dame and Ja share a backcourt for the first time: smiles, but four turnovers",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Deni's ceiling",
+   "headline": "Deni Avdija: 23 on 9-13 in 21 minutes. What's the ceiling?",
+   "start_s": 332.987
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Bench battle",
+   "headline": "Bench and fringe: Sochan's 10 in the 4th, RW3's 5 blocks, Yang's debut",
+   "start_s": 478.193
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Dundon and Kerr",
+   "headline": "Dundon promises a title; Kerr calls leaving Portland a 'tragedy'",
+   "start_s": 642.119
+  },
+  {
+   "n": 5,
+   "story_id": "s5",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 793.245
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. You're alive. That game tipped at ten o'clock your time.",
+   "start_s": 10.175,
+   "end_s": 14.095,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Stayed up for every minute. Cereal for dinner at nine-forty so I'd be ready for tip. I'm told that's what a single man in New York does.",
+   "start_s": 14.095,
+   "end_s": 22.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "That's the saddest pregame meal I've ever heard.",
+   "start_s": 22.255,
+   "end_s": 24.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "It had raisins. I made a choice. Forget the cereal, how was your dad's? You were nervous about it all day yesterday. He'd never once asked you over on a Wednesday.",
+   "start_s": 24.975,
+   "end_s": 34.575,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "So I get there forty minutes before tip. He's already in his chair, TV on. My mom's in the kitchen asking me the score. There is no score. Nobody has played. And he says nothing about why I'm there. Not a word. Then first quarter, Dame hits his first three, and my dad taps the arm of the chair. Twice. Tap tap. That's it.",
+   "start_s": 34.575,
+   "end_s": 55.695,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "That's the whole speech?",
+   "start_s": 55.695,
+   "end_s": 57.135,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "That was the whole speech. Then I'm putting my shoes on to leave and he goes, \"Next Wednesday?\" Like it's a standing thing now. I still don't know what it's about. I've decided not to push.",
+   "start_s": 57.135,
+   "end_s": 67.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Well, a guy asking about next Wednesday is planning on a next Wednesday. I'd take that and say yes before he changes his mind.",
+   "start_s": 67.295,
+   "end_s": 74.495,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "And the tap tap was earned. Dame Lillard back in a Blazers jersey, after the Achilles. Fifteen points in nineteen minutes, three threes, two steals, and he sat the whole fourth quarter. Let me have one minute of that before we get serious.",
+   "start_s": 74.495,
+   "end_s": 88.735,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "You get one minute. I'm happy for you, I mean it. But the guy everybody tuned in for was the other guard, and I'll be honest, I know the headlines on Ja Morant better than the player. Why is everybody so nervous about him?",
+   "start_s": 88.735,
+   "end_s": 101.135,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Ja's the point guard we traded for this summer. At his best he's the fastest guy in the league going downhill, which just means attacking straight at the rim off the dribble. But he played twenty games last season, between injuries and suspensions from his Memphis days. So coming in, three questions. Is the body okay. Is the head okay. And can two small guards who are both used to having the ball share it. Last night: eight points, five assists, four turnovers, three of eight. And an airball from three.",
+   "start_s": 101.098,
+   "end_s": 130.618,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "And somehow this morning the story is how much he's smiling.",
+   "start_s": 130.618,
+   "end_s": 134.138,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Teeth everywhere, apparently. Every practice.",
+   "start_s": 134.138,
+   "end_s": 137.338,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "And I believe the smiles. A happy guy usually means a calm locker room. What a smile can't tell me is whether two six-foot-something guards can guard anybody. Golden State made nineteen of thirty-four threes. Fifty-six percent. And that was basically their third string, no Curry, no Draymond, no Butler. That's a lot of open looks for a roster like that to get.",
+   "start_s": 137.338,
+   "end_s": 159.898,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Okay, I'll give you the threes. That number scared me too. But look at where the disaster was supposed to be. People have been calling this backcourt Swiss cheese since the trade. Ja had two steals, Dame had two steals, and both of them were up on the ball, meaning right in the face of the guy dribbling instead of sagging off. It didn't fall apart. They had moments. I'll take competing on night one.",
+   "start_s": 159.898,
+   "end_s": 181.738,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Fair. Now the four turnovers. Walk me through that. When he tries to split a double team and coughs it up, is that a bad decision, or is it the All-Star Ja trying the All-Star move and the legs just aren't there yet? Those look the same in a box score.",
+   "start_s": 181.738,
+   "end_s": 195.818,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "I chewed on that all night on my dad's couch. And I think it's the decisions. He got by people fine. There's one play where he darts through the lane and glides it in through traffic. That's a body that works. The turnovers were him barging into space that wasn't there. And honestly, you don't sand down the thing that makes a guy special in game one. Ja lives going at the rim, and I'd rather he keep going and fix the decisions than start second-guessing himself.",
+   "start_s": 195.781,
+   "end_s": 221.541,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "I like that. Decisions get better with reps. If it's the legs, that's a different conversation, and nobody knows that for a month.",
+   "start_s": 221.541,
+   "end_s": 229.221,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "And Nori had this test for whether a guy's real. How do you treat people who can do nothing for you? The night security guy, the chefs. Who says hello first. I love that test.",
+   "start_s": 229.221,
+   "end_s": 239.461,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "It works. When I was hiring, my first call after an interview was to whoever sat at the front desk. How'd the candidate treat them in the lobby? That call was right more often than the interview.",
+   "start_s": 239.461,
+   "end_s": 249.701,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "So a happy kid with rust, you can fix. Two weeks and those turnovers come way down. Okay, that's the optimism talking.",
+   "start_s": 249.701,
+   "end_s": 257.221,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Ha. It never stops talking. Here's what I think actually won the game, though. Portland turned it over twenty-one times, more than Golden State. And they still won, because they owned the rebounds. Fifty to forty. Eighteen offensive rebounds, so eighteen times they grabbed their own miss and got another shot. Fifty-four points in the paint to thirty-six. The Warriors' shooting won't hold up. Rebounding like that usually does.",
+   "start_s": 257.221,
+   "end_s": 284.141,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "That's the Rip City stuff. That's the city's nickname for the team, the thing the building chants. To me it means the grind nobody puts on a poster. Going and getting the ball back. I want that every night.",
+   "start_s": 284.141,
+   "end_s": 295.541,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Now. The sleeve.",
+   "start_s": 295.541,
+   "end_s": 297.221,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "I could feel it coming.",
+   "start_s": 297.221,
+   "end_s": 299.541,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Quick setup. A week ago we bet on Ja's first week of preseason. If he catches it in the corner and lets the three fly, I mail Mikey the shooting sleeve I wore in my old church rec league. If he passes it on every time, Mikey buys dinner at his bar. Last night: one three. Airball. Not exactly letting it fly.",
+   "start_s": 299.504,
+   "end_s": 319.664,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "But he didn't pass it every time either. One shot. So nobody wins. That's a push, a tie, like when a bet lands right on the number.",
+   "start_s": 319.664,
+   "end_s": 327.664,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "A push. Fine. The sleeve stays in my drawer. For now.",
+   "start_s": 327.664,
+   "end_s": 332.224,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Can I say something that might hurt your feelings? The best Blazer last night wasn't Dame. And it wasn't Ja.",
+   "start_s": 332.987,
+   "end_s": 340.027,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Doesn't hurt at all. Deni Avdija. He's our starting forward, came over from Washington, had a breakout last year. Twenty-three points on nine of thirteen in twenty-one minutes. Three of six from three. And now people are asking if he can be the number one guy on a team that wins a title.",
+   "start_s": 340.027,
+   "end_s": 355.547,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "So here's where I'm a grump. Great line, against a team missing most of its rotation. Hitting shots against a thin defense doesn't move me much. What moved me was where he took them from. I went back and watched his touches. He spent a lot more time off the ball, spotting up, and he got freedom to shoot threes from the corner. That's a role the coaches chose for him. That part I believe.",
+   "start_s": 355.547,
+   "end_s": 378.987,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Ha, you just made my argument. A guy comes back from the summer with a new job and he does it. That's the whole reason I watch. But let me argue against my own heart. He was a minus-two, so we got outscored by two with him on the floor, in a game we won by five. And he sat the entire fourth. A number one option is the guy you want out there when it's tight. Last night nobody found out.",
+   "start_s": 378.987,
+   "end_s": 401.067,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Hang on. You're using one fact two ways. Ten minutes ago, Dame sitting the fourth was just the coach being careful. Now Deni sitting the fourth means he's no number one? If Nori wanted a look at the end of the bench, the empty fourth tells us nothing about Deni. And minus-two over twenty-one minutes is a coin flip.",
+   "start_s": 401.067,
+   "end_s": 419.387,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "...Okay. Yeah. I got caught. I wanted it both ways.",
+   "start_s": 419.387,
+   "end_s": 423.307,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "You got caught. But flip it for me. What jumped out to me on the rewatch was how shaky the team looked whenever Deni sat. If they wobble without him, I'd give that real weight. Maybe that's the case for running everything through him.",
+   "start_s": 423.307,
+   "end_s": 436.267,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "I think that's the whole case. The lineup Golden State picked apart had four guards out there at once. That's night-one tinkering. The thing holding it together was Deni. So my honest answer is I don't know yet. Right now I'd call him a co-lead next to Dame, and I'd love to be wrong in the good direction.",
+   "start_s": 436.23,
+   "end_s": 453.59,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Then what does number one even mean? For me it's who the offense runs through when the other team knows the plan. Nobody's built a plan for him yet. So watch the corner threes. The first good team that takes them away shows you what he does next.",
+   "start_s": 453.59,
+   "end_s": 468.15,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "February, then. A real team, a real scouting report, a close fourth quarter. If he's still finding those corners then, I'm telling you, I crown him on this show.",
+   "start_s": 468.15,
+   "end_s": 477.35,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Can we talk about Robert Williams? Robert Williams the Third. He's our backup big man, a pure shot-blocker, and his whole career the problem has been staying healthy enough to play real minutes. Last night, fourteen minutes. Five blocks. Plus-sixteen, best of anybody in the game.",
+   "start_s": 478.193,
+   "end_s": 495.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Five blocks in fourteen minutes? If he gets thirty minutes, does that turn into ten?",
+   "start_s": 495.393,
+   "end_s": 500.753,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "That's the dream and the heartbreak in one sentence. He can't play thirty. But fourteen minutes of a guy who swats everything and cleans up the glass, that plays against anybody.",
+   "start_s": 500.753,
+   "end_s": 510.753,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I'll partly buy it. He didn't play the fourth, so those numbers came against whatever Golden State had left in the first three quarters. That helps him. The guy I keep thinking about is Jeremy Sochan, the forward fighting for the last roster spot. Ten points, all in the fourth, two for two from three. Zero rebounds, zero assists. Scored and did nothing else.",
+   "start_s": 510.753,
+   "end_s": 532.033,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "But for the fifteenth guy, two threes is the right thing to do nothing else with. A forward who can hit that shot pulls a defender out to the three-point line and leaves room inside for everybody else. Coaches remember that.",
+   "start_s": 532.033,
+   "end_s": 543.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "And the big kid, Yang Hansen. Second year, played the whole fourth quarter. Four assists, two turnovers. I'd rather see a kid try the pass and lose it than hide.",
+   "start_s": 543.393,
+   "end_s": 553.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Last year he looked lost out there. Last night he looked like he knew where to stand. And yes, I say that about every kid, I know.",
+   "start_s": 553.393,
+   "end_s": 560.673,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Okay. Now Scoot Henderson. Let me lay out where I am so Tom knows what we're fighting about. Scoot's the young guard the team drafted a few years back. He's up for a contract extension, a long-term deal the team has to decide on by a deadline this month. My position: don't pay him yet. Let the deadline pass. Nine points, three turnovers last night, and in this backcourt he's the guy who loses minutes to Dame and Ja.",
+   "start_s": 560.636,
+   "end_s": 585.916,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "And that's where I get off the bus. Scoot ran the second unit, the bench group, and it was a bench full of guys auditioning for their jobs. That's chaos to steer, and he still finished plus-four. His minutes next to Jrue Holiday, the veteran guard, were the best our offense looked all night. The ball moved. And you can't hold Scoot to a harder standard than Sochan. Both are tiny samples. You want depth behind him, sure, and he's still your guy.",
+   "start_s": 585.916,
+   "end_s": 610.636,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "He still misses a lot at the rim, though. That's been true for years. That's what keeps me off the check.",
+   "start_s": 610.636,
+   "end_s": 616.156,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "He got fouled on the worst one. I'll die on that.",
+   "start_s": 616.156,
+   "end_s": 619.196,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "I'll let you die on it. I'll say this, though. I root for every one of those fringe guys. It's the last audition, and they all know it. Ten days of good tape or you're on a plane. I know a little about that feeling. You do the work, you show up sharp, and some weeks the phone still doesn't ring.",
+   "start_s": 619.196,
+   "end_s": 636.636,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Hey. Is it ringing this week?",
+   "start_s": 636.636,
+   "end_s": 638.476,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Twice. One was the dentist. I'm counting it.",
+   "start_s": 638.476,
+   "end_s": 641.356,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Okay. Then the stuff that has nothing to do with basketball. Tom Dundon, the new owner, took over at the end of last season. He emailed season-ticket holders saying his intention is to bring a championship to Portland. Same summer he laid off about seventy people. Same summer he's asking for five hundred eighty-five million in public money to renovate the arena. The state, county and city agreed on the money, but the lease with the city still isn't signed, and the deadline's December.",
+   "start_s": 642.119,
+   "end_s": 669.239,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "And the fear under all of it is that no lease means he tries to move the team.",
+   "start_s": 669.239,
+   "end_s": 673.719,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "That's the fear. And the line that got me is, \"I don't believe in making promises I can't back up.\" Then he points to Raleigh, where his hockey team, the Hurricanes, just won the Stanley Cup. Sir. That's hockey. Seventy people lost their jobs and there's no line for them. And watching last night from my dad's couch, the broadcast looked thin. The announcers at what looked like a folding table. Mics that sounded off. My dad noticed before I did.",
+   "start_s": 673.719,
+   "end_s": 700.359,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Here's what I can't stop looking at. The word \"intend.\" That's a hope wearing a lawyer's coat. And look at the timing, two months before the lease deadline. A title promise is the cheapest thing an owner can spend. Fans who feel loved are harder for a politician to campaign against. So he's buying goodwill now to spend at the negotiating table later.",
+   "start_s": 700.359,
+   "end_s": 721.559,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "So help me with the part I don't get. Does an email like that change anything for the people with a vote, the city council? Or does it only change how a guy like my dad feels reading it?",
+   "start_s": 721.559,
+   "end_s": 730.919,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Mostly your dad, honestly. A council member doesn't care about a parade. But if the fans stay calm, nobody's yelling at the council, and he gets a quieter room to negotiate in. That's worth a lot to him.",
+   "start_s": 730.919,
+   "end_s": 742.519,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Okay, but from our side. He put it in writing, to the people who pay for the seats. A championship, his words, his name on it. So every time he cuts a corner from now on, somebody gets to forward him that email. He just handed us the yardstick.",
+   "start_s": 742.482,
+   "end_s": 757.602,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. He wrote it to calm the room, and it becomes the thing the room holds over him. That's a real cost for him, and I don't think he priced it.",
+   "start_s": 757.602,
+   "end_s": 768.162,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "And then Steve Kerr, the Warriors coach, the guy on the other bench last night, says it'd be a tragedy if the Blazers ever left, and he hopes more than money gets considered. A coach from another team said the thing our owner wouldn't. That stung. It's also right.",
+   "start_s": 768.162,
+   "end_s": 783.362,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I learned my whole job in that city, so I'm rooting against my own cynicism here. Sign the lease. Hire some people back. Then I'll listen to banner talk.",
+   "start_s": 783.362,
+   "end_s": 792.482,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Couple quick ones. Tyrese Haliburton is back. He's the Pacers' star point guard who tore his Achilles in Game 7 of the 2025 Finals. First game back in a very long time. Seven points, six assists. And he played it at Iowa State, his old college, where he bought out the whole student section.",
+   "start_s": 793.245,
+   "end_s": 811.885,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "And in the fourth the students start chanting for him, and he points down at his feet. White sandals. With socks. Done for the night. So they start chanting \"Put your shoes on.\" After watching Dame come back from the same injury last night, that one got me a little.",
+   "start_s": 811.885,
+   "end_s": 826.125,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "He said he felt like a rookie, playing too fast. Same thing you said about Ja. Next one's mine, the business one. The NBA wants its own league in Europe. The EuroLeague, Europe's top club competition, voted down the NBA's merger offer because they thought it undervalued them. So the NBA and FIBA, the sport's world governing body, say they're going ahead without them, aiming for 2027. Their statement had the word \"unlock\" in it. I stopped reading there.",
+   "start_s": 826.125,
+   "end_s": 854.765,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Of course you did. Last one. Mike Breen, the longtime Knicks and ESPN voice, said on air that LeBron, who's on the Sixers now, got on Joel Embiid for being late to practice. LeBron posted, \"He ain't been late so stop the lies.\" Breen apologized, said if LeBron says it didn't happen, he believes him.",
+   "start_s": 854.765,
+   "end_s": 873.085,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "And that was during the Knicks' preseason game. Which we lost, and not by a little. Nobody talked about the game, only the announcer. Kindest thing to happen to the Knicks all week.",
+   "start_s": 873.085,
+   "end_s": 883.565,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Ha! Jack, please go eat something that isn't cereal. Tom, thanks for hanging out. I've got a Wednesday to get ready for.",
+   "start_s": 883.565,
+   "end_s": 890.885,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Next Wednesday. Tap tap. See you, Tom.",
+   "start_s": 890.885,
+   "end_s": 893.565,
+   "chapter": 5
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2048,
+  "api_usd": 7.9934,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 78,
+    "input_tokens": 156,
+    "output_tokens": 108409,
+    "cache_write": 844671,
+    "api_usd": 4.5296,
+    "cache_read": 332361,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 7,
+    "input_tokens": 14,
+    "output_tokens": 56700,
+    "cache_write": 140097,
+    "api_usd": 2.259,
+    "cache_read": 20646,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 15060,
+    "real_usd": 1.2048,
+    "api_usd": 1.2048
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-10-07T08:58:32Z",
+    "until": "2026-10-08T13:04:18Z"
+   }
+  ]
+ }
+}

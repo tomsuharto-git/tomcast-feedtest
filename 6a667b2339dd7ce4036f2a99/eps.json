@@ -133,5 +133,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261008-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261008.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261008",
+    "title": "Sports: Thu Oct 8. Dame + Ja debut, Deni's ceiling, Bench battle, Dundon and Kerr",
+    "description": "Sports (Mikey and Jack): Dame + Ja debut, Deni's ceiling, Bench battle and Dundon and Kerr.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261008.mp3",
+    "audio_bytes": 10832919,
+    "duration_s": 903,
+    "published_utc": "2026-10-08T13:04:18.009273Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261008-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261008.episode.json"
   }
 ]
