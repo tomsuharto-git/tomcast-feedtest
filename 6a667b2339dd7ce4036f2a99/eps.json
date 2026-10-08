@@ -121,5 +121,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261007-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261007.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261008",
+    "title": "Builder: Thu Oct 8. Haiku 5.5 vs GridKings, Claude Code mods, Dots: rent or build, OpenAI's math papers, Rogue OpenAI agents, Open-weight wave",
+    "description": "Builder (Christina and Bea): Haiku 5.5 vs GridKings, Claude Code mods, Dots: rent or build, OpenAI's math papers, Rogue OpenAI agents and Open-weight wave.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261008.mp3",
+    "audio_bytes": 15455652,
+    "duration_s": 1288,
+    "published_utc": "2026-10-08T08:40:43.087399Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261008-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261008.episode.json"
   }
 ]
