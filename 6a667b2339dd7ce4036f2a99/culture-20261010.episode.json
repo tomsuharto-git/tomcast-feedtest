@@ -1,0 +1,583 @@
+{
+ "schema": 1,
+ "guid": "tomcast-culture-20261010",
+ "show": "culture",
+ "title": "The cheapest fix in luxury",
+ "date": "2026-10-10",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261010.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261010-art1.png",
+ "duration_s": 933,
+ "published_utc": "2026-10-10T09:20:54.412892Z",
+ "hosts": [
+  "christina",
+  "jack"
+ ],
+ "speech_start_s": 9.755,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "lead",
+   "tag": "luxury",
+   "headline": "The cheapest fix in luxury: fire the designer",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "closer",
+   "tag": "Listen",
+   "headline": "Listen: Revisionist History, 'Wolfgang's Law – Part One'",
+   "start_s": 733.736
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Hi Tom. Jack Vernon's with me on Culture today. And Jack, before we start: somebody sent me a photo of you at a founder breakfast on Tuesday.",
+   "start_s": 9.755,
+   "end_s": 18.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Oh no. Who sent it?",
+   "start_s": 18.635,
+   "end_s": 21.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Fleece vest. Quarter-zip under the fleece vest. Collared shirt under the quarter-zip. You were layered like a lasagna, Jack.",
+   "start_s": 21.675,
+   "end_s": 30.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "That room was freezing! They keep the air at about sixty degrees. Everybody in there is twenty-nine and runs hot. I was the only one at that table who's ever used a fax machine. I was also the only one who was comfortable. I'm calling that a win.",
+   "start_s": 30.635,
+   "end_s": 45.355,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "But who took it? I need to know who's on my side.",
+   "start_s": 45.355,
+   "end_s": 48.715,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I protect my sources. How's the newsletter, by the way? Did the line go up this week? Or is it still the platform's fault?",
+   "start_s": 48.715,
+   "end_s": 55.315,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "It's flat. Very steady. Steady is a look, Jack. Okay, but your vest is actually on topic. Some version of that vest is walking a runway in Paris this season, for roughly the price of a used car. And whoever designed it may be gone by next spring.",
+   "start_s": 55.315,
+   "end_s": 73.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Gone? Why would the designer be gone?",
+   "start_s": 73.675,
+   "end_s": 76.155,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Because that's what luxury does right now. Lately a lot of the big fashion houses have replaced their creative director. That's the head designer. The one person whose taste decides what the clothes look like, the ads, the stores, the whole feel of the brand. Chanel, Gucci, Dior, Balenciaga, Celine, Loewe. Musical chairs on a scale nobody in fashion remembers. So here's where I stand. The bosses keep pulling this lever because it changes the story. And it doesn't touch prices, or how many clothes they make, or the factories. I still think designers matter a lot. I'm asking why the bosses keep picking this one fix.",
+   "start_s": 76.155,
+   "end_s": 118.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Okay, slow down for me. I'm the guy in the vest here. These other levers. What are they, concretely? If a house skipped the designer swap, what would it be doing instead?",
+   "start_s": 118.475,
+   "end_s": 128.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Three things. One, prices. Luxury raised prices for years, way past what the bags felt worth. And people walked. Two, volume. Marc Jacobs, the designer, just had his brand sold out of LVMH. That's the giant group that owns Louis Vuitton and Dior. And the industry keeps making a huge number of collections, and nobody asks whether they're making too many clothes. Three, the factories.",
+   "start_s": 128.598,
+   "end_s": 157.158,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "The Milan thing?",
+   "start_s": 157.158,
+   "end_s": 158.278,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "The Milan thing, and Tom may not know it. In 2024 prosecutors in Milan looked into the Italian workshops that make bags and clothes for some very big luxury names. They found sweatshop-like conditions, people reportedly working fifteen-hour days for a few euros an hour. Two years later the brands have added audits, cut their supplier lists, banned subcontracting. And the labour groups say not much has changed on the ground, because the brands still push on price and speed. A reporter who covers this put it in one line: 'Everyone knows, no one tells, because it is convenient to have them exist.'",
+   "start_s": 158.278,
+   "end_s": 197.478,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "That's a rough line.",
+   "start_s": 197.478,
+   "end_s": 198.838,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "And here's what Marc Jacobs said about the designer carousel: 'What I see is a bunch of non-creative people thinking that this all hangs on a creative person.' So at the top, you've got a designer saying the bosses are blaming the wrong person. At the bottom, workers where nothing moved. These are the same story. Changing the designer means a press release and a show. Changing the rest means paying suppliers more. Waiting longer. Making fewer things. And all of that hits the margin, the money they keep on every sale.",
+   "start_s": 198.838,
+   "end_s": 231.798,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Alright, I'll take the other side. And to be honest up front, I think it's the weaker side. But it has the best number in the whole story. About a year ago, Chanel hired a designer named Matthieu Blazy. Chanel's sales were reportedly up about sixteen percent in the first half of this year. That's in a luxury market that's barely growing. Chanel never confirmed it, so hold it loosely. But that's a designer swap. And that's a lot of money. In luxury, the story is a big part of what you're buying. So why isn't the designer the highest-return move a house has?",
+   "start_s": 231.761,
+   "end_s": 266.721,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "Okay, that's a real number. I'm not going to wave it off. Why do you think it worked? I have a read, but I want yours first.",
+   "start_s": 266.721,
+   "end_s": 274.481,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Honestly? I don't totally know. What I've read is the clothes got easier to wear. Younger. And you can see the craft in them. People feel like they got their money's worth. Which is a little awkward for the side I'm arguing. That sounds like a pricing fix dressed up as a design fix. The new guy made the price feel fair again, and he didn't cut it.",
+   "start_s": 274.481,
+   "end_s": 296.001,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Right, and Chanel's win wasn't only the designer. The clothes, the stores, the pitch all moved together. So here's my real question back, Jack. If Chanel's win is the designer, why is Gucci still shrinking? Gucci hired Demna, who is about as famous as a designer gets right now. He's the guy who made Balenciaga the brand everyone argued about for a decade. What does that tell you?",
+   "start_s": 296.001,
+   "end_s": 320.321,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "Okay, two things. Gucci's slide looks like it's slowing, and if I'm the CEO, I'll take that curve. But here's the part I really can't tell you, and I'd be suspicious of anybody who says they can. Is that the new designer? Or is it the new CEO cleaning up pricing and the product range? Kering, the group that owns Gucci, also got a new boss. And he's talking about rethinking prices. Two people walked in the door around the same time. Which one gets the credit?",
+   "start_s": 320.284,
+   "end_s": 349.084,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Whichever one has better photos.",
+   "start_s": 349.084,
+   "end_s": 351.804,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Ha. Probably, yeah. Which is sort of your point, I guess.",
+   "start_s": 351.804,
+   "end_s": 355.964,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "It is my point! The designer gets the credit because you can see him. You can't see a CFO re-pricing a handbag line.",
+   "start_s": 355.964,
+   "end_s": 364.204,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Okay, but let me push on a word you keep using. Cheap. You keep calling the swap the cheap lever. These designers get paid a fortune. The old one gets a big payout on the way out the door. New team, new shows, sometimes new stores. That's real money. So walk me through that. Is the cheap part the money? Or is it that nobody inside the company has to change how they work?",
+   "start_s": 364.204,
+   "end_s": 387.804,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "Okay, that's better than mine. I think it's the second one. A swap is expensive in dollars and painless every other way. The merchandising team, the people planning what gets made, keeps hitting its numbers. The factory contracts stay the same. The calendar stays just as packed. One person leaves, and everyone else gets to keep their habits. And honestly, I can't show you a spreadsheet that says swaps cost less than cutting volume. That's my read of the incentives, and I could be wrong. But nobody in that building has to make the uncomfortable call. Except the person who gets fired.",
+   "start_s": 387.804,
+   "end_s": 423.404,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Yeah. I've sort of been in that room. When the numbers are bad, somebody wants a face on the fix. And it isn't always cynical. Sometimes the brand really is tired, and a new idea is the answer. I once talked a brand out of signing a young athlete everybody else wanted. Too raw, I said. He turned into a star for somebody else. So I don't get to say talent doesn't matter.",
+   "start_s": 423.367,
+   "end_s": 446.487,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "Wait, you never told me that one. Who was it?",
+   "start_s": 446.487,
+   "end_s": 449.367,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "Nope. Not on air, not off air, not ever. Point is, I'm careful about deciding a person doesn't matter. Now here's what I actually want to know. Picture a house that skips the designer and fixes volume and price first. Fewer collections. Lower prices. The workshops paid properly. What does that brand look like? And has anybody ever grown that way?",
+   "start_s": 449.367,
+   "end_s": 472.007,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "Ugh. Okay. I don't have a clean example, and that bugs me. I think it looks like a brand that sells fewer things, slower. The news cycle forgets it for a while. Probably two quiet years. And the danger, which I think is where you're headed: lower the price, make it easier to get, and you might just turn into a really nice premium brand. Like a very good department store label. And then you're competing on value.",
+   "start_s": 472.007,
+   "end_s": 500.567,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "That's exactly where I'm going. In luxury the price is part of the message. If the bag costs less and there are more of them, some of the people paying for it are paying for the fact that most people can't. You fix the volume and you might fix the factory, but you also might sand off the reason anyone wanted it. So why do you think nobody's tried it? Fear, or because it actually wouldn't work?",
+   "start_s": 500.567,
+   "end_s": 523.207,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "christina",
+   "text": "This designer-as-savior move has a long history. Tom Ford took over Gucci in 1994, when it was close to bankrupt, and turned it around with the CEO at the time. Then Bernard Arnault, the man who runs LVMH, started moving designers like chess pieces. The designer John Galliano to Givenchy, then to Dior. The designer Alexander McQueen to Givenchy. And I think the glamour of the name has always covered for what the groups do with volume and production.",
+   "start_s": 523.17,
+   "end_s": 553.41,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "So the Milan stuff is the old story, still going.",
+   "start_s": 553.41,
+   "end_s": 556.77,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "christina",
+   "text": "It fits her account really well. I think she was right about how it works. Where I'd push is on the hopeful reading. In 2026, the industry still reaches for the story first. Nobody got shamed into craft. Chanel just proved the story plus a real plan still sells. So why would anyone stop?",
+   "start_s": 556.77,
+   "end_s": 577.25,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "jack",
+   "text": "Can I ask you a different kind of question? Last time we talked about this kind of thing, you said who-gets-paid hits close to home. You don't have to answer. But you've had a look on your face this whole segment.",
+   "start_s": 577.25,
+   "end_s": 588.53,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "christina",
+   "text": "Ha. Okay. On this show last week, I admitted I'd written a reply to a work offer and emailed it only to myself. Small update. I sent it to someone who isn't me. Just a friend, not the people who sent the offer. Baby steps. And yes, it's a little uncomfortable to sit here asking who gets paid in fashion while I'm figuring out my own version. But it makes me notice something. I'm drawn to the designer-as-hero story because that's the story I get paid to write. Taste is my whole job. So saying the industry overrates taste as a fix? That's a weird thing for me to say out loud.",
+   "start_s": 588.53,
+   "end_s": 628.13,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "jack",
+   "text": "That's honest. And I'll take the other half of it. The guys in my old rooms got paid to believe the spreadsheet. So we're both a little compromised.",
+   "start_s": 628.13,
+   "end_s": 636.61,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "christina",
+   "text": "Who gets paid? In this story, the designer gets the headline. The people in the Milan workshops don't. Okay, Tom, here's where this lands for your work. A client wants a new look. Or fires the agency. Or hires a famous creative lead. Same move. Change the thing everyone can see. So when a brief asks for a new story, ask what the story is meant to keep them from touching underneath. Product, price, distribution. If the answer is that nothing changes, audiences figure that out.",
+   "start_s": 636.573,
+   "end_s": 669.373,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "jack",
+   "text": "Especially a status audience. If Chanel's pitch now is that the clothes are worth the money, then value is part of how luxury sells. A campaign that's only mood won't hold up against that.",
+   "start_s": 669.373,
+   "end_s": 681.453,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 38,
+   "speaker": "christina",
+   "text": "Huh, yeah. Okay, I'll put a number on my side. By the end of June next year, at least two of the houses that changed designers in this round announce another new one. Balenciaga first. They hired Pierpaolo Piccioli, who used to run Valentino. And the rumours about him have been going for months.",
+   "start_s": 681.453,
+   "end_s": 700.333,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 39,
+   "speaker": "jack",
+   "text": "I'd probably take that bet, and I'm supposed to be on the other side. But here's where I'm staying. Chanel shows a designer can drive it when he's the center of a real plan. I think the designer was the engine. You think the plan was.",
+   "start_s": 700.333,
+   "end_s": 714.093,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 40,
+   "speaker": "christina",
+   "text": "I do. And I think the scarier question is yours, honestly, which is whether fixing volume and price saves luxury or just turns it into premium. I don't know. I think it saves it. You think it kills it.",
+   "start_s": 714.093,
+   "end_s": 727.533,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 41,
+   "speaker": "jack",
+   "text": "I think it might. I'm not sure. Which, for me, counts as growth.",
+   "start_s": 727.533,
+   "end_s": 732.973,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, I want a pick from you. You texted me at eleven at night about a podcast. That's unlike you.",
+   "start_s": 733.736,
+   "end_s": 740.616,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It's Malcolm Gladwell's show, Revisionist History. He's the writer with the big counterintuitive ideas. The Tipping Point, all that. The new episode is called 'Wolfgang's Law, Part One.' It came out this week, and it's about Baltimore. Murders there have dropped hard.",
+   "start_s": 740.616,
+   "end_s": 756.376,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Wait, so what does Gladwell say did it? Is this a policing story? A small slice. Okay, why did that get you? You don't usually text me about criminology.",
+   "start_s": 756.376,
+   "end_s": 767.656,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Because it's every bad marketing plan I ever sat through, flipped over. Those plans said everybody, everywhere, a little bit. The people who actually got results in Baltimore picked out the few hundred who mattered and stopped pretending otherwise. And the part that got me is who does the work. A guy named Termite. He runs a group for young people in the city. He tells a story about a young man who's about to retaliate for something. And the young man says to him, 'I'm going to let this go because I owe you.' That's the whole strategy, in one sentence.",
+   "start_s": 767.656,
+   "end_s": 799.856,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Oh, that's lovely. So is the city's job just to stay out of the way?",
+   "start_s": 799.856,
+   "end_s": 804.416,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Not exactly. There's still enforcement for people who refuse the help. It just doesn't lead. I'd say Gladwell tells it a little bigger than the evidence. But the core of it is solid.",
+   "start_s": 804.416,
+   "end_s": 815.016,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Okay, I'm going to push on one thing, though. Tom's world is audiences, and I think the lesson for him is the person, more than the targeting. Ads have been targeting for a long time. What a creator has, what a good store manager has, is Termite's thing. Somebody whose word counts in that room. So what did it actually look like when a client was scared to narrow down? Was it ego?",
+   "start_s": 815.016,
+   "end_s": 839.896,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Mostly fear, I think. Nobody wanted to be the one who said out loud that a small group of people is the business. Because if it goes wrong, it's your name on it. 'Everybody' is safe. Nobody gets blamed for missing everybody. So we bought reach, because it fit on a slide. Even when we knew the heavy buyers were doing most of it. So let me flip it. Who's the Termite for a brand? Whose word holds?",
+   "start_s": 839.859,
+   "end_s": 865.619,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Honestly, usually someone the brand isn't paying. The friend who works at the shop. The one person in the group chat everyone copies. Which is the hard part. The second you pay them, their word counts for a little less. And that's what worries me about Baltimore, too. These programs live inside a few people's relationships. When those people burn out or move, the whole thing walks out the door with them.",
+   "start_s": 865.619,
+   "end_s": 891.779,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "And my guess for Part Two is money. Once the numbers look good, the city stops feeling the emergency. Then it stops paying for it. Success is what kills it. I could be wrong. That's what I'll be listening for.",
+   "start_s": 891.779,
+   "end_s": 904.899,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "christina",
+   "text": "So, Tom: Revisionist History, 'Wolfgang's Law, Part One,' on any podcast app. Listen for Termite. Then count how many people really make up your client's audience. Jack, thank you. Go home and take off the vest.",
+   "start_s": 904.899,
+   "end_s": 921.219,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Never. Thanks, Christina. See you, Tom.",
+   "start_s": 921.219,
+   "end_s": 924.579,
+   "chapter": 2
+  }
+ ],
+ "cost": {
+  "real_usd": 1.1348,
+  "api_usd": 9.2986,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 10,
+    "input_tokens": 20,
+    "output_tokens": 78731,
+    "cache_write": 227353,
+    "api_usd": 3.3991,
+    "cache_read": 27835,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 56,
+    "input_tokens": 136,
+    "output_tokens": 85467,
+    "cache_read": 544269,
+    "cache_write": 445204,
+    "api_usd": 2.6902,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 549817,
+    "output_tokens": 40614,
+    "api_usd": 0.4765,
+    "calls": 1,
+    "cache_write": 5967,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "openai",
+    "model": "text-embedding-3-small",
+    "calls": 3,
+    "input_tokens": 50,
+    "real_usd": 0.0,
+    "api_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 9,
+    "chars": 14185,
+    "real_usd": 1.1348,
+    "api_usd": 1.1348
+   },
+   {
+    "kind": "background",
+    "calls": 16,
+    "real_usd": 0.0,
+    "api_usd": 1.598,
+    "since": "2026-10-03T09:20:54Z",
+    "until": "2026-10-10T09:20:54Z"
+   }
+  ]
+ }
+}

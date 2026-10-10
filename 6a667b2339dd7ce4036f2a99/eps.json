@@ -145,5 +145,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261008-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261008.episode.json"
+  },
+  {
+    "guid": "tomcast-culture-20261010",
+    "title": "Culture: Sat Oct 10. luxury, Listen",
+    "description": "Culture (Christina and Jack): luxury and Listen.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261010.mp3",
+    "audio_bytes": 11191841,
+    "duration_s": 933,
+    "published_utc": "2026-10-10T09:20:54.412892Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261010-art1.png",
+    "show": "culture",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261010.episode.json"
   }
 ]
