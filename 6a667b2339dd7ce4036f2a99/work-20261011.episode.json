@@ -1,0 +1,945 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261011",
+ "show": "work",
+ "title": "Jaguar's mocked rebrand finally gets its car, and Skydance shows which name really holds the power",
+ "date": "2026-10-11",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261011.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261011-art1.png",
+ "duration_s": 1035,
+ "published_utc": "2026-10-11T08:37:32.960328Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "jaguar-skydance-rebrands",
+   "tag": "Jaguar + the WB tower",
+   "headline": "Jaguar's mocked rebrand finally gets its car, and Skydance shows which name really holds the power",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "kalshi-gold-polymarket",
+   "tag": "Kalshi's gold, explained",
+   "headline": "Kalshi everywhere: what the gold markets story means and why it matters for Polymarket",
+   "start_s": 383.647
+  },
+  {
+   "n": 3,
+   "story_id": "adobe-ai-clones",
+   "tag": "Free Adobe clones",
+   "headline": "AI-built Adobe clones go viral, and that makes the case for Photoshop as the home of craft",
+   "start_s": 582.613
+  },
+  {
+   "n": 4,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 725.339
+  },
+  {
+   "n": 5,
+   "story_id": "cultural-entry-points",
+   "tag": "Cultural entry points",
+   "headline": "Dashi's cultural entry points: finding where a brand's moments show up in culture",
+   "start_s": 799.862
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack! Hi. Hi, Tom. You sound weirdly rested.",
+   "start_s": 8.995,
+   "end_s": 13.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I slept nine hours. No idea why. I walked into the kitchen and the coffee maker looked at me like I was a stranger.",
+   "start_s": 13.555,
+   "end_s": 20.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Nine hours. Who are you?",
+   "start_s": 20.435,
+   "end_s": 23.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "A man with nowhere to be on a Saturday, apparently. Okay. Thursday was pottery. Did the clay win again?",
+   "start_s": 23.875,
+   "end_s": 30.115,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Something survived! A cup. It leans about ten degrees, like it's trying to hear what the next table is saying. But it stood up, it went in the kiln, and I am way too proud of it.",
+   "start_s": 30.115,
+   "end_s": 41.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "A cup that eavesdrops. Does your mom get it?",
+   "start_s": 41.555,
+   "end_s": 45.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "My mom gets the cup. She calls this afternoon, and for once I've got a thing she can tell her friends about in one sentence. 'My daughter made a cup.' Done. Nobody has to say 'the computer thing.'",
+   "start_s": 45.235,
+   "end_s": 57.395,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Ha. I mean it, that's a real win. Something people can just look at.",
+   "start_s": 57.395,
+   "end_s": 61.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Which is basically Jaguar's week, so thank you for the setup.",
+   "start_s": 61.795,
+   "end_s": 65.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I saw pictures of the car. Walk me through it from the start, though, because all I remember from 2024 is pink.",
+   "start_s": 65.475,
+   "end_s": 72.035,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Pink, yes. November 2024. Jaguar throws out its whole old look. New logo, a slogan, 'Copy Nothing', and a launch film full of models in bright colors. No car in it. Anywhere. Then they show pastel concept cars, and the internet buries them. People wrote obituaries for the brand. Even Elon Musk piled on. And there was nothing to point at, so everybody fought about the logo and the mood, because that was all there was.",
+   "start_s": 72.035,
+   "end_s": 102.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "And this week?",
+   "start_s": 102.675,
+   "end_s": 103.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "This week in New York they showed the real one, the Type 01, a 2028 model. It's enormous. A four-door electric car, sitting super low on huge wheels, and no rear window at all. And the sky didn't fall. Plenty of people still hate it. Top Gear called it a 'selfish car.' But my favorite was a guy on Reddit: 'This is dumb, but for Jaguar to remain on their previous path was dumber.'",
+   "start_s": 103.795,
+   "end_s": 131.155,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Ha. That's about the warmest thing the internet says about anybody. I'd have bet money the whole thing was a mistake, so this humbles me a little. The noise was loud because the only thing to argue about was an idea, and ideas are easy to mock. A car is a thing you can stand next to. Now people are fighting about the back end of a car. For a car brand, that's a much better fight to be in.",
+   "start_s": 131.118,
+   "end_s": 155.598,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "The identity was the promise, and the car is the first proof. And honestly it stings a bit, because I'm the one who falls for the launch before the product exists. I've shipped the gorgeous film with nothing behind it. If that car had shown up beige, every one of those obituaries would've been right. But almost every rename starts with the name. The name is the thing you can announce on a Tuesday. The proof never lines up neatly behind it. Jaguar just had an unusually long, painful gap.",
+   "start_s": 155.598,
+   "end_s": 187.478,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "So what's the lesson, if that order is normal?",
+   "start_s": 187.478,
+   "end_s": 190.398,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Shrink the gap. Whatever you announce, have something people can point at the same week.",
+   "start_s": 190.398,
+   "end_s": 195.998,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Okay. I'll take that. It's better than what I had. And there's a water tower this week that makes the same point from the other side.",
+   "start_s": 195.998,
+   "end_s": 203.358,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "A water tower.",
+   "start_s": 203.358,
+   "end_s": 204.878,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "So Warner Bros. Discovery, the company behind Warner Bros. movies, HBO, CNN, just got bought. Roughly eighty-one billion dollars. The buyer is Paramount Skydance.",
+   "start_s": 204.878,
+   "end_s": 216.798,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Wait, who's Skydance? I know Paramount. I know Warner Bros. Skydance, I've got nothing.",
+   "start_s": 216.798,
+   "end_s": 223.998,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "That's the whole point. Skydance is David Ellison's company. He's the son of Larry Ellison, the Oracle billionaire. It started as a movie production company, merged with Paramount, and now it's bought Warner Bros. too. Within hours of the deal closing, workers went up the famous Warner Bros. water tower on the studio lot in Burbank. Giant WB shield on top. And under it they added one small line: 'A Skydance Corporation.' That's all. The shield stays huge. The owner is a footnote.",
+   "start_s": 224.441,
+   "end_s": 256.281,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "bea",
+   "text": "That's weirdly humble, for a billionaire.",
+   "start_s": 256.281,
+   "end_s": 259.401,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "I think it's just smart. Nobody buys a movie ticket because of Skydance. That shield has decades of fame behind it. The famous mark is where the value lives, and the new owner admitted it in public, on a tower. A Fast Company writer said Skydance has a 'fleece vest approach to branding.' Which, as a man who owns two fleece vests, hurt.",
+   "start_s": 259.401,
+   "end_s": 280.841,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "bea",
+   "text": "Ha!",
+   "start_s": 280.841,
+   "end_s": 282.361,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "The less fun part. The combined company carries about eighty billion dollars of debt, and the new bosses already talked about 'difficult decisions that affect our workforce.' That means layoffs. A lot of people at those studios are having a rough weekend, and I don't want to skip past that.",
+   "start_s": 282.361,
+   "end_s": 299.401,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "bea",
+   "text": "Yeah. That's the part nobody paints on a tower. Okay, Tom, this one's really about your agency. Moon needs a piece of work that makes it click the second somebody sees it. So what's Moon's Type 01?",
+   "start_s": 299.401,
+   "end_s": 314.521,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "The obvious pick is Polymarket HQ, the Polymarket campaign that's been getting nice write-ups in the trade press. The test I'd use: could someone who's never heard of Moon look at it and go, oh, that's who they are? If it needs a paragraph of explaining first, it isn't doing that job yet. My guess is it's close.",
+   "start_s": 314.521,
+   "end_s": 333.561,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "bea",
+   "text": "And then the water tower question. Hecho came out of 72andSunny, the much bigger agency its leaders came from. So when somebody credits that work, which name do people walk away with?",
+   "start_s": 333.524,
+   "end_s": 346.004,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "My hunch is they say 72andSunny first right now. Just a hunch. And it matters most at Adobe. If Moon is the small line under somebody else's shield in that room, the work has to carry the whole load.",
+   "start_s": 346.004,
+   "end_s": 359.044,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "bea",
+   "text": "Which is a weird spot for an agency whose whole pitch is that it makes culture. Sooner or later Moon has to be the shield.",
+   "start_s": 359.044,
+   "end_s": 366.484,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "Sooner or later. For this week, though: every rename moment, the announcement, a pitch, the new email signature, put the proof right in front of the name.",
+   "start_s": 366.484,
+   "end_s": 376.164,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "bea",
+   "text": "And have it ready the same week as the name. Jaguar waited two years. You get about two days.",
+   "start_s": 376.164,
+   "end_s": 382.884,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of proof. Jack, you owe Tom something.",
+   "start_s": 383.647,
+   "end_s": 387.647,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I do. The gold story. Last time I told it like Tom had been sitting inside my head. So, properly this time.",
+   "start_s": 387.647,
+   "end_s": 395.407,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "From zero. Who's Kalshi?",
+   "start_s": 395.407,
+   "end_s": 397.727,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Kalshi is Polymarket's biggest rival in the US. They're both prediction markets. You buy a yes-or-no contract on whether something happens. Who wins the game, whether a bill passes. If you're right, it pays out. Kalshi's the big one here.",
+   "start_s": 397.727,
+   "end_s": 412.367,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Okay. And gold? Every fifteen minutes. On gold.",
+   "start_s": 412.367,
+   "end_s": 417.487,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Every fifteen minutes.",
+   "start_s": 417.487,
+   "end_s": 419.327,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Nobody's forecasting the world in fifteen minutes. That's a slot machine with a stock ticker taped to the front.",
+   "start_s": 419.327,
+   "end_s": 425.407,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "That's exactly why it matters. The whole pitch for a prediction market is that the crowd knows what's going to happen. Elections, the Oscars, the weather. A fifteen-minute gold bet is day trading. So I think the category is sliding toward trading and gambling. That's my read. I could be early.",
+   "start_s": 425.407,
+   "end_s": 443.807,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And Kalshi was everywhere this week. Like, everywhere. The one I can't stop thinking about is the addiction group. The National Council on Problem Gambling, the main US group helping people with gambling problems. Kalshi's money got tangled up with them, and it turned into a fight. That's the moment culture starts to turn. When the addiction people are arguing over your money, you're the bad guy in the story. And Polymarket does not want to be standing next to that holding a promo code.",
+   "start_s": 443.807,
+   "end_s": 473.367,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "And the room's getting crowded. The sports leagues are split. Baseball, the NBA and college sports sent comments to the CFTC, the federal regulator for this stuff, and the NBA is leaning toward treating these like sports betting. The NFL and NHL stayed quiet. And more crypto companies want in.",
+   "start_s": 473.367,
+   "end_s": 492.407,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "So, Tom. What does he do with gold?",
+   "start_s": 492.407,
+   "end_s": 495.087,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Depends what Avi asked for. He's the senior guy at Polymarket, above Tom's day-to-day contacts. My guess is a guy that senior wants to know what he got for his money. If so, gold dropped into a results case is a sidebar about a rival, and it blurs what the case proves. As a view on where the category's headed, though, it's the best thing he's got. Kalshi is turning into a trading floor. Polymarket gets to be the one about people. Squads, their feature for betting with your friends. 'Check Poly' as something you'd say the way you say 'look it up.' Women's sports.",
+   "start_s": 495.05,
+   "end_s": 528.41,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Then lead with that. The stance up front, the number as the proof.",
+   "start_s": 528.41,
+   "end_s": 532.73,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "jack",
+   "text": "I'd flip it. If he asked for a result and you open with a worldview, it looks like you wandered off the brief. Number first. Then one line of stance, as the reason the number matters.",
+   "start_s": 532.73,
+   "end_s": 543.61,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "bea",
+   "text": "But anyone can show him a number! The stance is the thing only your team brings.",
+   "start_s": 543.61,
+   "end_s": 548.57,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Sure, and for the smaller brand, the scarier thing is people forgetting it exists. Those promo codes are making sure Kalshi comes to mind first, in every town with a newspaper. A stance on a slide gets seen by one guy in one room.",
+   "start_s": 548.57,
+   "end_s": 563.05,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Fine. Then make the stance something Avi can look at. Rough it up as a picture before anyone writes a deck. Kalshi's fifteen-minute world next to Polymarket's world. He'll believe it faster if he can see it.",
+   "start_s": 563.05,
+   "end_s": 577.09,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "jack",
+   "text": "I can live with that. Tom, it's your call. Number first or stance first.",
+   "start_s": 577.09,
+   "end_s": 581.85,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of rivals coming out of nowhere. Jack, did you see the Adobe clones?",
+   "start_s": 582.613,
+   "end_s": 587.853,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I saw the phrase. What are they?",
+   "start_s": 587.853,
+   "end_s": 590.213,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Free copies of Adobe's big apps, Photoshop and the rest, are all over the feed. They went viral overnight, and a lot of the energy is people being fed up with paying Adobe every month.",
+   "start_s": 590.213,
+   "end_s": 601.733,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Do they actually work?",
+   "start_s": 601.733,
+   "end_s": 603.093,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Kind of! They're super early and glitchy. People are already arguing about whether it's legal.",
+   "start_s": 603.093,
+   "end_s": 609.253,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "So it's a price story. The people who'd jump to a free test version are the light users who grumble at the bill. The heavy ones, the pros in Photoshop all day, are most of the business, and they aren't moving client work onto glitchy software. Adobe's defence is staying the obvious place for serious work. That's where I'd spend.",
+   "start_s": 609.253,
+   "end_s": 628.853,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Mostly agree. But the heavy users are watching this too. They pay every month, then a free rebuild of Photoshop is all over their feed and they think, wait, am I a sucker? That doubt lives inside the clone conversation right now. And Tom, that's your Photoshop brief: Photoshop as the home of craft, in a world that assumes making an image should be easy. Well, here's the world assuming it, loudly. So the answer is the people whose work obviously can't be cloned. Designers mixing AI with Photoshop, showing the messy layers and the fortieth try.",
+   "start_s": 628.853,
+   "end_s": 665.733,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. I was treating the clone as a threat to the light users. You're saying it plants a doubt in the heavy ones, and the craft story answers the doubt.",
+   "start_s": 665.733,
+   "end_s": 676.533,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And it travels further, because it's answering something everybody's already talking about. Same with the Lightroom work, the idea of helping photographers get unstuck. The guy who saved a hundred and twenty bucks is a guy who got stuck on the price.",
+   "start_s": 676.533,
+   "end_s": 691.173,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Okay, that round's yours. And the agency part?",
+   "start_s": 691.173,
+   "end_s": 694.373,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Now the agency side. The clone story flipped around is real makers using Adobe's tools and AI together, with campaigns that start on social and grow from there. That's the lane I'd go after, and it could separate your agency from 72andSunny.",
+   "start_s": 694.336,
+   "end_s": 710.256,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "The catch is every shop in that review will claim the same by Friday. So it has to be shipped work. If I'm guessing, Tom, it's your Firefly work, since that's already Adobe and AI in one piece. Put that on the one-pager, first thing.",
+   "start_s": 710.256,
+   "end_s": 724.576,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Okay. Quick ones, a line each.",
+   "start_s": 725.339,
+   "end_s": 727.499,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Go.",
+   "start_s": 727.499,
+   "end_s": 728.059,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Ferrero, the Nutella and Ferrero Rocher candy company, is buying Super Bowl ads for 2027. Part of a big bet on sports.",
+   "start_s": 728.059,
+   "end_s": 736.619,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Worth knowing who's paying to be in that room, Tom. Big money is going into sports.",
+   "start_s": 736.619,
+   "end_s": 741.819,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Mine. A good breakdown of ChatGPT's Sponsored Agents, a new paid way for brands to show up inside ChatGPT, and what brands can and can't control.",
+   "start_s": 741.819,
+   "end_s": 752.779,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Tom, worth a read, since Adobe's search work is about who finds the answer, people or bots.",
+   "start_s": 752.779,
+   "end_s": 758.699,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Brazil's big securities depository, the place that keeps records of who owns what funds, is doing something with the XRP Ledger, the blockchain behind XRP.",
+   "start_s": 758.699,
+   "end_s": 768.939,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "bea",
+   "text": "A real bank-grade use, right before your XRP campaign launches. Nice timing.",
+   "start_s": 768.939,
+   "end_s": 775.259,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "bea",
+   "text": "The World Health Summit in Berlin was basically about a global health system running on less money.",
+   "start_s": 775.259,
+   "end_s": 781.099,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Aid budgets shrinking. That's the weather your Gates campaign lands in.",
+   "start_s": 781.099,
+   "end_s": 784.859,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Last one. Gen Z wants a break, and brands are working out how to make room for digital detoxes.",
+   "start_s": 784.859,
+   "end_s": 791.579,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Which is High Noon's whole tension, screens eating our time. And it gets me to the thing I've wanted to talk about all week.",
+   "start_s": 791.579,
+   "end_s": 799.099,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "bea",
+   "text": "So. Loes Hendryckx writes a newsletter called Dashi, and Tom asked about one of her pieces, the one that puts the blame for weak brands on the people who run them. I've read it twice. But it starts on your home turf, Jack, so you do the first half.",
+   "start_s": 799.862,
+   "end_s": 814.822,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Gladly. Category entry points. It comes from Byron Sharp and Jenni Romaniuk at the Ehrenberg-Bass Institute, the marketing-science people. Nobody thinks about a brand out of nowhere. Something happens first. It's a sunny Saturday and friends are coming over. You're packing for a tailgate. Those moments are the entry points. The brand tied to more of them gets thought of more, and bought more. For me that's most of the game.",
+   "start_s": 814.822,
+   "end_s": 840.262,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "bea",
+   "text": "And the piece takes it one step further. Cultural entry points. Where do those same moments show up in culture? In the words people use, in what they do, in what they're paying attention to. And you can see that. You can count it. So culture stops being a vibe in a deck and turns into something you can measure.",
+   "start_s": 840.262,
+   "end_s": 859.302,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Okay, I like that a lot. Then what does a brand do with it once it finds one?",
+   "start_s": 859.302,
+   "end_s": 864.022,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Think of it as a ladder, each rung more committed. Comment: you talk about the moment. Act: you do something inside it. Collaborate: you make it with the people who are in it. Innovate: you build something new for it. The way I'd sort the examples, Sweethearts is comment. You know those chalky little candy hearts with messages on them for Valentine's? A couple of years ago they put out 'Situationship' boxes, the hearts printed blurry and mixed-up, for relationships nobody's defined.",
+   "start_s": 864.022,
+   "end_s": 896.302,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Mixed-message candy hearts. Ha. Cheap, and people pass that around.",
+   "start_s": 896.302,
+   "end_s": 901.382,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Then Heineken, 'Could Have Been a Heineken,' made with WhatsApp. Long voice notes are replacing actually meeting up. So if you forwarded a way-too-long voice note to their bot, it gave you a free beer at a bar nearby. Go say it in person. That's act. It won the top prize at Cannes this year, the big ad awards festival. Anywhere 'when did having fun get so hard?' already shows up. Over-scheduling. Wellness tracking. The detox talk. And when people do log off, they usually add something analog to fill the time.",
+   "start_s": 901.345,
+   "end_s": 934.785,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Wait, that's the useful bit. Leave the phone alone. Make High Noon the thing you add when you put it down.",
+   "start_s": 934.785,
+   "end_s": 941.425,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Yes! That's it.",
+   "start_s": 941.425,
+   "end_s": 943.025,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Then the hard part. A bunch of brands are already chasing the people who want to log off. KitKat, Svedka vodka, L.L.Bean, Claire's. Heineken worked because the habit was so specific: the voice note. 'Fun got hard' is a feeling, and any brand can claim a feeling. A manifesto is the comment rung. How far up does the pitch go?",
+   "start_s": 943.025,
+   "end_s": 964.865,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it. Because I don't think the rungs are a score. Sweethearts sits on the bottom rung and it's great. A big collaboration built on a flat idea is just a bigger flat thing. So fix the insight first. Then show where it climbs.",
+   "start_s": 964.865,
+   "end_s": 982.145,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Fine. Then my test: a rung only counts if somebody standing at a cooler on a Saturday thinks of the can.",
+   "start_s": 982.145,
+   "end_s": 988.705,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 12,
+   "speaker": "bea",
+   "text": "And the collaborate rung is the one I'd look for in the plan. Make it with the people already out at those Saturday hangouts.",
+   "start_s": 988.705,
+   "end_s": 995.025,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 13,
+   "speaker": "jack",
+   "text": "And for Moon, 'culture is the product' has always been a nice line, and a slippery one. This makes it testable. Here's where the moment shows up, here's the count, here's the rung we're on.",
+   "start_s": 995.025,
+   "end_s": 1006.465,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 14,
+   "speaker": "bea",
+   "text": "So Tom, two things for your week. Whatever the new name goes out on, have the proof sitting right next to it.",
+   "start_s": 1006.465,
+   "end_s": 1012.865,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 15,
+   "speaker": "jack",
+   "text": "And for High Noon, find the one specific habit and the can's place in it. Then decide how high you're climbing.",
+   "start_s": 1012.828,
+   "end_s": 1019.868,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 16,
+   "speaker": "bea",
+   "text": "That's us. I have a mother to tell about a cup.",
+   "start_s": 1019.868,
+   "end_s": 1023.068,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Tell her I said it's a real cup. See you, Tom.",
+   "start_s": 1023.068,
+   "end_s": 1026.188,
+   "chapter": 5
+  }
+ ],
+ "cost": {
+  "real_usd": 1.257,
+  "api_usd": 10.4134,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 80784,
+    "cache_write": 262681,
+    "api_usd": 3.7219,
+    "cache_read": 23648,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 129,
+    "input_tokens": 276,
+    "output_tokens": 147725,
+    "cache_read": 984932,
+    "cache_write": 899470,
+    "api_usd": 5.1742,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 298741,
+    "output_tokens": 20873,
+    "api_usd": 0.2603,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 12,
+    "chars": 15713,
+    "real_usd": 1.257,
+    "api_usd": 1.257
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-10-07T09:02:41Z",
+    "until": "2026-10-11T08:37:32Z"
+   }
+  ]
+ }
+}

@@ -157,5 +157,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261010-art1.png",
     "show": "culture",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261010.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261011",
+    "title": "Work: Sun Oct 11. Jaguar + the WB tower, Kalshi's gold, explained, Free Adobe clones, Cultural entry points",
+    "description": "Work (Bea and Jack): Jaguar + the WB tower, Kalshi's gold, explained, Free Adobe clones and Cultural entry points.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261011.mp3",
+    "audio_bytes": 12425343,
+    "duration_s": 1035,
+    "published_utc": "2026-10-11T08:37:32.960328Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261011-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261011.episode.json"
   }
 ]
