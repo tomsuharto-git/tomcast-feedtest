@@ -169,5 +169,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261011-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261011.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261012",
+    "title": "Builder: Mon Oct 12. Claude Code mods, Grand Central needs-you, Haiku 5.5 + Playbook, OpenAI's math drop, Agents loose online, GPT-6 Intelligent UI",
+    "description": "Builder (Christina and Bea): Claude Code mods, Grand Central needs-you, Haiku 5.5 + Playbook, OpenAI's math drop, Agents loose online and GPT-6 Intelligent UI.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261012.mp3",
+    "audio_bytes": 13813386,
+    "duration_s": 1151,
+    "published_utc": "2026-10-12T08:33:52.862520Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261012-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261012.episode.json"
   }
 ]
