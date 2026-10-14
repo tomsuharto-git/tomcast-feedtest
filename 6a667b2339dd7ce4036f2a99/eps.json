@@ -181,5 +181,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261012-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261012.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261014",
+    "title": "Sports: Wed Oct 14. Blazers beat Kings, Dundon's email, Nori's Hemingway",
+    "description": "Sports (Mikey and Jack): Blazers beat Kings, Dundon's email and Nori's Hemingway.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261014.mp3",
+    "audio_bytes": 6043420,
+    "duration_s": 504,
+    "published_utc": "2026-10-14T08:24:30.189347Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261014-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261014.episode.json"
   }
 ]

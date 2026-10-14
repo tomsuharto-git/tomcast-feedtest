@@ -1,0 +1,500 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261014",
+ "show": "sports",
+ "title": "Blazers beat the Kings 110-98 in the preseason",
+ "date": "2026-10-14",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261014.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261014-art1.png",
+ "duration_s": 504,
+ "published_utc": "2026-10-14T08:24:30.189347Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "por-kings-preseason",
+   "tag": "Blazers beat Kings",
+   "headline": "Blazers beat the Kings 110-98 in the preseason: Deni, Clingan's rim protection, and the Dame/Scoot/Ja rotation",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "dundon-self-awareness",
+   "tag": "Dundon's email",
+   "headline": "Dundon and the season-ticket email: Tom wants self-awareness",
+   "start_s": 212.224
+  },
+  {
+   "n": 3,
+   "story_id": "nori-hemingway",
+   "tag": "Nori's Hemingway",
+   "headline": "Micah Nori gave his coaches a Hemingway paperback",
+   "start_s": 333.59
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. Good morning. You sound like you've been up for hours.",
+   "start_s": 10.175,
+   "end_s": 13.615,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Since five. Nobody warns you a quiet apartment comes with a free alarm clock. So I made coffee and watched the Blazers highlights. Twice.",
+   "start_s": 13.615,
+   "end_s": 22.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Twice? It's a highlight video.",
+   "start_s": 22.255,
+   "end_s": 24.495,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I took notes. Don't laugh at me. Did you sleep?",
+   "start_s": 24.495,
+   "end_s": 28.175,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Some. So yesterday I go to a new barber, because mine closed. A year ago, it turns out. Everybody knew but me. The new guy asks what I want, and I say, 'Same as last time.'",
+   "start_s": 28.175,
+   "end_s": 38.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Ha. He's never seen you before in his life. What did he do?",
+   "start_s": 38.815,
+   "end_s": 42.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "He just stood there holding the clippers. Anyway. I wanted to look decent, because my dad texted me. Dinner tomorrow, six o'clock, bring nothing. It's a Wednesday, and there's no game.",
+   "start_s": 42.295,
+   "end_s": 53.095,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "No game at all? So it's just dinner now.",
+   "start_s": 53.095,
+   "end_s": 55.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Just dinner. I'm going to leave the question alone. I'm bringing something, obviously. Okay. The Kings.",
+   "start_s": 55.815,
+   "end_s": 61.935,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Okay, I'm happy for you. I am. But it's a Kings team that sat its best guys. And your guys shot 11 for 44 from three. Twenty-five percent. And still won by twelve. That's the funniest sentence I've read all week. So which part of that is real?",
+   "start_s": 61.935,
+   "end_s": 78.735,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Two things are real. First, Clingan. Five blocks in twenty minutes. And it's how he's doing it. Last year he was a big kid figuring out where to stand. Now he meets guys early, before they've even gathered. The one to start the second half, on Achiuwa, that one was all over the replays. Guys stop driving when that happens. That holds up against anybody.",
+   "start_s": 78.735,
+   "end_s": 98.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Rim protection travels. Hot shooting doesn't. I'll give you that one. What's the second?",
+   "start_s": 98.975,
+   "end_s": 103.935,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Deni at the free throw line. He's the forward we got from Washington, our best player, and everybody knows it. 26 on 9 of 13, sure. But six for six at the line in 25 minutes is the part I like. It means he's putting his shoulder into people and they have to foul him. You can't scheme a bad team into that.",
+   "start_s": 103.898,
+   "end_s": 122.138,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Fine. Okay, but here's my question. Scoot and Dame start, then Ja comes in for Dame. Is that a real lineup? Or just one nice night?",
+   "start_s": 122.138,
+   "end_s": 131.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "I think it's real. I think. With Ja coming off the bench, he runs the second group with Jrue. Nobody's standing in his driveway, so the ball's his. Fourteen and six assists on 4 of 6. Floaters, finishes after he got bumped. And zero turnovers. Now, I did say his turnovers would come way down within two weeks. I'm not collecting on one preseason night. But it's a nice start.",
+   "start_s": 131.178,
+   "end_s": 154.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Let me push on Scoot, though. He went three for nine. Why's the kid starting over Jrue, a guy with a ring?",
+   "start_s": 154.178,
+   "end_s": 160.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Because he had four assists and he looked comfortable. And I'm not going to grade a kid that young harder than the guys at the end of the bench. Okay, that's the optimism talking. But Jrue had four turnovers, and nobody's writing a thread about Jrue.",
+   "start_s": 160.418,
+   "end_s": 172.818,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Huh. That's fair, honestly. Dame was plus 32 in 23 minutes, which I'm going to treat as a fun number and nothing else.",
+   "start_s": 172.818,
+   "end_s": 180.858,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "Throw it out. What I'd keep is Dame moving without the ball. Setting back screens, cutting, finding the gaps that open up when everyone's watching Deni. He's been the guy with the ball in his hands for a long time, and he's learning to be the second guy. I love that.",
+   "start_s": 180.858,
+   "end_s": 194.498,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "So the summary is the top of the roster fits, and nobody's been tested yet. Fair?",
+   "start_s": 194.498,
+   "end_s": 199.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "Fair. Top of the roster fits, and the real test comes when somebody good guards us. Honestly, I'll take a win on a night we shot 25 percent from three. Okay, that's the optimism talking.",
+   "start_s": 199.381,
+   "end_s": 211.461,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Which takes me right to Tom. Last week in the chat I asked him something. You get to add one sentence to Dundon's email to season ticket holders. What does it say? Dundon's the owner, the guy fans have been nervous about since he bought the team. Tom's answer was about self-awareness, and it was sharp.",
+   "start_s": 212.224,
+   "end_s": 229.984,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Which is better than mine. I wrote 'We're staying in Portland.' Five words. His beats it and I'm a little annoyed. But what does self-aware actually sound like, coming from a guy like that? Because I've never read an owner's letter that had any.",
+   "start_s": 229.984,
+   "end_s": 244.704,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Pretty short, I think. He says, you've got good reason to doubt me. He says if he were a fan, he'd be skeptical too. He says trust got hurt, and an email can't fix it. And then he stops. That's the hard part. No 'but.' No asking anyone to have faith. He lets the doubt sit there and says, judge me on what happens next.",
+   "start_s": 244.704,
+   "end_s": 266.544,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Why does stopping matter so much?",
+   "start_s": 266.544,
+   "end_s": 268.544,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Because everybody reading that email already knows what happened. If he skips it, it reads like he thinks they forgot. That's when people feel talked down to. And saying it costs him nothing. That's my hunch, anyway. Some people won't believe anything until there's a signed lease, and they might be right.",
+   "start_s": 268.544,
+   "end_s": 285.637,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "I'd want one more line. The small stuff. Last night people couldn't watch their own team. If the stay-in-Portland promise comes from the same building where the stream went dark in the third quarter, people throw it out. So he owns last night, plainly, as a mess that's on them. Own the little thing and then maybe they believe the big thing.",
+   "start_s": 285.637,
+   "end_s": 303.944,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Okay, honest question, since you're the one who lives there. Would that move you? Or are you done listening to this guy?",
+   "start_s": 303.944,
+   "end_s": 310.064,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "I'll still listen. I just don't trust the words yet. People hand a team decades of Tuesday nights. You don't get that back with a paragraph. A paragraph could open the door, though. Then he has to do things to back it up. Will he write it? I'm telling you, no. But if he did, I'd read it twice. And I'd be embarrassed by how much I wanted to believe it.",
+   "start_s": 310.027,
+   "end_s": 329.947,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "That's the most Portland thing you've ever said.",
+   "start_s": 329.947,
+   "end_s": 332.827,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Speaking of saying less, did you see the thing about Nori and the book?",
+   "start_s": 333.59,
+   "end_s": 337.35,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I saw the headline. Our new coach likes Hemingway. Tell me the rest.",
+   "start_s": 337.35,
+   "end_s": 341.67,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "So the Athletic had it. First staff meeting, back in August, Nori hands every coach a paperback of The Old Man and the Sea. Eighty-two pages. Old fisherman, giant fish, and sharks eat it on the way home. His point was that you can get your point across with very few words. He said players live on ten-second videos, and he doesn't want to turn into, quote, 'that Charlie Brown teacher.' The one who just drones on. Then a month later, no warning, he gives them a ten-question pop quiz.",
+   "start_s": 341.67,
+   "end_s": 370.63,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Wait. He quizzed his own coaches? On the book?",
+   "start_s": 370.63,
+   "end_s": 374.39,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Multiple choice! Mike Williams, one of the assistants, got nine. Nine out of ten on an 82-page book. And then the best part. He wanted to thank Chris Finch, the Minnesota coach he worked under, who gave him the idea. So he printed one off and bought Finch a hat for his boat. His words: 'Instead of $33,000, I spent 33 bucks.'",
+   "start_s": 374.39,
+   "end_s": 395.67,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "That's a good Plan B. But the book is a cute story. What actually changes anything is the practice. Sloppy scrimmage, three minutes in, he blows the whistle, says it can't happen, and they go again. After 21 turnovers in the preseason opener. That's what changes how people play.",
+   "start_s": 395.67,
+   "end_s": 413.63,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "And Scoot loved it. He said, 'We don't need any sugarcoating, especially with the team we have.' A guy on this roster wanting it straight. That's the best thing I've heard all camp.",
+   "start_s": 413.63,
+   "end_s": 423.75,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Let me play the other side for a second. Short is easy when you're yelling about turnovers. Telling a veteran he's losing minutes is harder. That's a conversation about what someone's worth. Usually that takes more words.",
+   "start_s": 423.75,
+   "end_s": 436.47,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "I think it takes the right few. Hemingway's whole trick was a short sentence with a ton sitting under it. If Nori spent the whole camp prepared and straight with these guys, a short sentence carries all of that. Players can smell cushioning a mile off.",
+   "start_s": 436.433,
+   "end_s": 450.273,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Okay. Then what's the sentence for Dame? The night he's sitting for the last five minutes.",
+   "start_s": 450.273,
+   "end_s": 455.713,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Uh. Something like, tonight is Ja's group, I need you fresh for Friday. And then walk away?",
+   "start_s": 455.713,
+   "end_s": 462.353,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "That only works if Dame already believes him. I don't know if he's earned that yet. Nobody's minutes have actually gone down. Ask me the first week they do.",
+   "start_s": 462.353,
+   "end_s": 471.153,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Deal. Although the book does end with the big fish getting eaten. So maybe nobody should read too much into the reading list.",
+   "start_s": 471.153,
+   "end_s": 478.593,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Ha. I'll say this, I'm a sucker for a guy who knows when to stop talking. My daughter texts like Hemingway. Three words, and I read them like a novel.",
+   "start_s": 478.593,
+   "end_s": 487.873,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Have a good dinner with them, Jack. Or with the three words, anyway.",
+   "start_s": 487.873,
+   "end_s": 491.313,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "jack",
+   "text": "You too. Bring your dad something good. See you Friday.",
+   "start_s": 491.313,
+   "end_s": 494.433,
+   "chapter": 3
+  }
+ ],
+ "cost": {
+  "real_usd": 0.6514,
+  "api_usd": 5.7066,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 72,
+    "input_tokens": 144,
+    "output_tokens": 84186,
+    "cache_write": 624337,
+    "api_usd": 3.3696,
+    "cache_read": 300664,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 7,
+    "input_tokens": 14,
+    "output_tokens": 38134,
+    "cache_write": 114813,
+    "api_usd": 1.6856,
+    "cache_read": 21966,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 7,
+    "chars": 8143,
+    "real_usd": 0.6514,
+    "api_usd": 0.6514
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-10-08T13:04:18Z",
+    "until": "2026-10-14T08:24:30Z"
+   }
+  ]
+ }
+}
