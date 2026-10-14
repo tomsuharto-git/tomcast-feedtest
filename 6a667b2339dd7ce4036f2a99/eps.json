@@ -193,5 +193,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261014-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261014.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261014",
+    "title": "Work: Wed Oct 14. AI Pixel Pushers, Virtue + Jack Morton, Gates $100M Stillbirths, Kalshi + Women's T20, Life Stage > Generation",
+    "description": "Work (Bea and Jack): AI Pixel Pushers, Virtue + Jack Morton, Gates $100M Stillbirths, Kalshi + Women's T20 and Life Stage > Generation.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261014.mp3",
+    "audio_bytes": 12015952,
+    "duration_s": 1001,
+    "published_utc": "2026-10-14T08:46:36.625718Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261014-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261014.episode.json"
   }
 ]

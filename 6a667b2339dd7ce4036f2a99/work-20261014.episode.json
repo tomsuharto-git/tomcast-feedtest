@@ -1,0 +1,844 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261014",
+ "show": "work",
+ "title": "Clients send ChatGPT mock-ups, designers become 'pixel pushers', and Shotton names the 'beige trap'",
+ "date": "2026-10-14",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261014.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261014-art1.png",
+ "duration_s": 1001,
+ "published_utc": "2026-10-14T08:46:36.625718Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "industry-ai-pixel-pushers",
+   "tag": "AI Pixel Pushers",
+   "headline": "Clients send ChatGPT mock-ups, designers become 'pixel pushers', and Shotton names the 'beige trap'",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "industry-rebrands",
+   "tag": "Virtue + Jack Morton",
+   "headline": "Two agencies rebrand in one day: Virtue gets a new president, Jack Morton gets a post-merger identity",
+   "start_s": 302.164
+  },
+  {
+   "n": 3,
+   "story_id": "clients-gates-stillbirth",
+   "tag": "Gates $100M Stillbirths",
+   "headline": "Gates Foundation and Wellcome Leap commit $100M to cut stillbirths as Berlin calls global health 'a team sport'",
+   "start_s": 477.05
+  },
+  {
+   "n": 4,
+   "story_id": "clients-polymarket-kalshi",
+   "tag": "Kalshi + Women's T20",
+   "headline": "Kalshi draws money on a women's T20 match while Polymarket's CEO teases a token",
+   "start_s": 624.576
+  },
+  {
+   "n": 5,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 823.462
+  },
+  {
+   "n": 6,
+   "story_id": "thinking-life-stage",
+   "tag": "Life Stage > Generation",
+   "headline": "Life stage over generational cohorts",
+   "start_s": 883.745
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack. You're eating something. I can hear it.",
+   "start_s": 8.995,
+   "end_s": 12.515,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It's a pear. It's ten in the morning. A pear is allowed.",
+   "start_s": 12.515,
+   "end_s": 16.115,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "You eat a pear like it owes you money.",
+   "start_s": 16.115,
+   "end_s": 18.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "That's a Midwestern pear. You take what it gives you. How's the photo thing for your mom? Last I heard, the program sorting her old pictures by who's in them had a floor lamp down as a wedding guest.",
+   "start_s": 18.595,
+   "end_s": 29.715,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Folder four is done! And now it thinks every baby in my family is the same baby. My brother, my cousin, the neighbor kid. One baby. About four years. Many outfits.",
+   "start_s": 29.715,
+   "end_s": 41.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "In fairness to the machine, babies do look alike.",
+   "start_s": 41.635,
+   "end_s": 45.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "That's what my mom said! She's on its side now. Four folders left, and I'm not starting anything shiny until it's done. Mostly.",
+   "start_s": 45.635,
+   "end_s": 54.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "\"Mostly\" is doing a lot of lifting there.",
+   "start_s": 54.435,
+   "end_s": 57.315,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "It always is. Okay, you sent me that designer piece last night. No message. Just the link. Very ominous.",
+   "start_s": 57.315,
+   "end_s": 65.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Because it made me wince, and I wanted to know if it reads as badly from your side. What are these designers actually saying?",
+   "start_s": 65.635,
+   "end_s": 72.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "So a magazine talked to a bunch of graphic designers. The one everyone's quoting is Emily Foran. She runs her own studio and heads the Maine chapter of AIGA, the big designers' association. She says no client has asked her for an original idea from scratch in a year. They send her whatever ChatGPT or Claude mocked up and say, clean it up. She calls herself a pixel pusher now. And then some clients ask for a lower rate, because hey, the creative's basically done.",
+   "start_s": 72.675,
+   "end_s": 102.275,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Is it, though? Is it actually less work?",
+   "start_s": 102.275,
+   "end_s": 104.995,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "More, usually. One designer in Boston says what used to take her an hour takes three, because she's untangling twenty bullet points the chatbot scattered into twenty boxes. She says when she opens a file and can tell Claude built it, there goes her afternoon.",
+   "start_s": 104.995,
+   "end_s": 120.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "That's the part that gets me. Somebody junior gets handed the cleanup and gets told it's progress. And I think there's a bigger trap under it. These tools hand you the most likely answer, so the ideas drift toward average. The weak ones get lifted, the sharp ones get sanded down. Call it the beige trap. That's a hunch, mine.",
+   "start_s": 120.638,
+   "end_s": 141.198,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Oh. So the floor comes up, the ceiling stays where it was, and everybody meets in the middle.",
+   "start_s": 141.198,
+   "end_s": 147.198,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "And the middle is the worst address a brand can have. The whole job of a distinctive asset, a color, a shape, a character you'd know without the logo, is that nobody else has it. Beige is what everybody has. Now, that study was short stories. Ads are my leap. So call it a hunch with some support behind it.",
+   "start_s": 147.198,
+   "end_s": 166.931,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "I'll give you beige. I see it in my own drafts. They're fine, and fine is the enemy. But I'm holding onto one bit of hope. Design gets declared dead every few years and keeps coming back as something new. I want that to be true. I think it's half true.",
+   "start_s": 166.931,
+   "end_s": 184.638,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "So Tom, here's what I'd bet happens with AI and small teams in a pitch. Some client hears, great, you'll tidy up our ChatGPT draft for less. That's the exact relationship those designers hate. What do your clients actually hear?",
+   "start_s": 184.638,
+   "end_s": 199.118,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it. Because the honest answer is some clients will hear exactly that. So here's the version I'd want to be true. A person with a real eye makes the original, and gets paid properly for it. The machine makes versions of something only she could have made. The person makes the original. The machine makes copies.",
+   "start_s": 199.118,
+   "end_s": 221.438,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I like that a lot, and here's why it matters beyond one beer brand. Your team's been hunting for the second half of the positioning, the part after 'audacious future' that tells Adobe why your agency and why not 72andSunny, the bigger shop yours grew out of. A clear stance on where the human sits could be that half.",
+   "start_s": 221.641,
+   "end_s": 242.201,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Maybe. But push it one step further. Half the clients hear 'a person makes the first one' as 'so the machine does almost all of it.' Who looks at version one hundred and says, that one's off, kill it? If that's the illustrator, or somebody with her eye, you have a stance. If it's nobody, it's beige with a nice origin story.",
+   "start_s": 242.201,
+   "end_s": 264.001,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. I was stuck on who draws first. The power sits with whoever's allowed to say no to number one hundred. And honestly, that helps me too. Founders half my age show me what a chatbot gave them, and I catch myself sighing before I've even looked. Could be wisdom. Could be I'm old. Now I've got a better question for them: who gets to say no?",
+   "start_s": 264.001,
+   "end_s": 287.881,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "bea",
+   "text": "Tom, I'd love to know what happens to a client's ChatGPT draft when it lands at your agency. Kept, binned, or quietly turned into the brief? Whatever the true answer is, that's probably your stance.",
+   "start_s": 287.881,
+   "end_s": 301.401,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of saying what you are in one breath. Two agencies changed their look on the same day this week?",
+   "start_s": 302.164,
+   "end_s": 308.404,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Same day. Virtue, the ad agency owned by the media company Vice, named Shannon Washington its president. She's run creative at a couple of big-name agencies, and part of her job now is choosing Virtue's new name and how much it leans on Vice. Then Jack Morton, a big agency that does live events and brand experiences, showed off its new identity. It merged with another experience shop, Impact XM, back in January, kept the Jack Morton name, and is out from under Omnicom, one of the giant companies that own dozens of agencies.",
+   "start_s": 308.404,
+   "end_s": 341.604,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Jack Morton. Any relation?",
+   "start_s": 341.604,
+   "end_s": 343.844,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "None. Much bigger events budget than me. The Virtue one interests me more, because of the order. They hired the person first, and she picks the name. So the name shows up after somebody has a point of view. A name on its own changes almost nothing in a buyer's head. People remember a name because it's stuck to something. A piece of work, a color, an argument. Change it with nothing attached and you've reset the clock to zero and called it a launch.",
+   "start_s": 343.844,
+   "end_s": 371.484,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "So the order matters more than the name. Okay. Then my question is when a rebrand actually feels like an event. And I think it's when a stranger gets something to see or do on day one. A memo just sits in an inbox. Tom, your agency's whole pitch is that it makes culture. So the name should arrive wrapped in a piece of culture. Which recent project could carry it?",
+   "start_s": 371.484,
+   "end_s": 396.484,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Tom, I'd ask you this. What's the one line you'd put on the door? Pick one somebody could disagree with, because that's my test. If nobody could argue with a line, it says nothing.",
+   "start_s": 396.484,
+   "end_s": 407.284,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "I'd go for a line that names an enemy. Something that says who you're a bad match for, like a client chasing safety and approval. You can feel that one in your chest.",
+   "start_s": 407.247,
+   "end_s": 417.567,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Good filter for a pitch. But let me play the other side for a second. Would you say the enemy line to Adobe's face? Tom, which is it? If the answer's no, the line isn't finished yet.",
+   "start_s": 417.567,
+   "end_s": 428.727,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Ugh. Fair. Okay, the culture line goes on the door, and the enemy line comes out for the pitches where it fits.",
+   "start_s": 428.727,
+   "end_s": 436.847,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Then there's the coffee test. A marketing director who's never met you hears 'Today on the Moon' next month. What does she tell a colleague over coffee? If she can say what you made, you're done. If all she can say is that there's a new name, then the big switchover day was a file migration.",
+   "start_s": 436.847,
+   "end_s": 453.327,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "And the window's open right now. Some reporter is going to ask what the name means. If the answer takes a paragraph, they'll print the name and drop the rest.",
+   "start_s": 453.327,
+   "end_s": 462.327,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "I feel for the Virtue people, honestly. Renaming is the fun, visible part. Everybody gets to feel like something happened. The hard part is writing the enemy on the whiteboard, and nobody in those rooms ever wants to hold the marker.",
+   "start_s": 462.327,
+   "end_s": 475.967,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, the Gates news made me happy. I don't get to say that about the news much.",
+   "start_s": 477.05,
+   "end_s": 482.25,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Walk me through that, because I saw the word stillbirth in the headline and stopped reading. That's hard to sit with. I'm glad, and a little jealous. I spent years telling clients my idea matched what their company actually did, and mostly I was guessing. But I'd push on one thing. That's science money. Campaign money sits with different people. Does Amanda's team, the client leads on the campaign, even sit near whoever runs this program? If not, the proof is thinner than it feels this morning.",
+   "start_s": 482.25,
+   "end_s": 513.29,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Oof. I hadn't separated those.",
+   "start_s": 513.29,
+   "end_s": 515.93,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "And there's a stranger problem. Stillbirth is the loss of the baby. The brief bans the word death from titles, taglines and core imagery. So the foundation's money backs birth as the way in, and it might also be the one corner of birth the campaign can't show.",
+   "start_s": 515.93,
+   "end_s": 532.57,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Which is what the team's own notes already say. Childbirth is the front door. Then the other bit. Everyone talking global health keeps saying 'a team sport.' I laughed out loud, because the team has been playing with mother and child as a team.",
+   "start_s": 532.57,
+   "end_s": 548.25,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Isn't that a gift?",
+   "start_s": 548.25,
+   "end_s": 549.53,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Half a gift. The old 5 for 5 idea was built around kids under five, and a team frame can tip into sporty real fast. So mother and baby as a pair, yes. A scoreboard, no. And when everyone is saying team sport, it's a cliché by spring. I'd test a few ways in before anyone falls in love.",
+   "start_s": 549.53,
+   "end_s": 570.73,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "So the jersey stays in the closet. The story I'd put in front of Amanda first is the quieter one. After the 2025 US aid freeze, PEPFAR, the big American HIV program, took a hit, and my hunch is that's where the heat is. Foreign aid is a live fight in a way babies never are.",
+   "start_s": 570.73,
+   "end_s": 589.21,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Moms and babies is about the safest subject in America.",
+   "start_s": 589.21,
+   "end_s": 592.81,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "And foreign aid is one of the least safe. My hunch is the political risk lives in the overseas half of the message. So the question for Amanda is who carries that half, and how early a parent in Ohio hears it.",
+   "start_s": 592.773,
+   "end_s": 606.373,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Same question from my side. Tom, has Amanda said how much of the global part a parent should meet in the first ten seconds? That decides what the Amsterdam and LA teams make before the briefing the week of the nineteenth. And I'd want both teams bringing something rough that parents can react to with their gut.",
+   "start_s": 606.373,
+   "end_s": 623.813,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "From babies to betting. Sorry. That's a rough turn.",
+   "start_s": 624.576,
+   "end_s": 629.056,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "bea",
+   "text": "It's the show. Okay, I need help on this one. Kalshi. Who are they to Polymarket?",
+   "start_s": 629.056,
+   "end_s": 635.616,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "The biggest US rival. Both run prediction markets: you buy a yes or a no on whether something happens, a game, an election. Kalshi's the regulated one. This week it drew real money on a women's T20 cricket match, the short, fast version of cricket, and that got people talking in Melbourne.",
+   "start_s": 635.616,
+   "end_s": 654.176,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Oh no. The deck.",
+   "start_s": 654.176,
+   "end_s": 656.416,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "The deck. Tom's Play To Win pitch calls women's sports the space no competitor is playing. Somebody on Polymarket's side reads about Kalshi on a women's match and that pillar looks lazy. I'd make the claim smaller and harder before the New York pitch later this month. Next year's Women's World Cup is the obvious place to plant a flag. That's a race Polymarket can still win.",
+   "start_s": 656.416,
+   "end_s": 678.896,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "bea",
+   "text": "I'm with you on cutting the line. I'd push on the flag, though. Owning a tournament is a calendar claim, and anyone with money can show up to a calendar. What can Polymarket make that Kalshi can't copy by next month? Okay, picture this. Friends following one national team together inside Polymarket, all tournament long, and the thing they share is the group. Avi could react to that. Somebody could prototype it before anyone builds a slide.",
+   "start_s": 678.896,
+   "end_s": 707.136,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Avi being the senior guy above Tom's day-to-day contacts, the one the team wants to reach. Yeah. A pillar with a working thing behind it beats a pillar with a better adjective. Then there's the token.",
+   "start_s": 707.136,
+   "end_s": 718.896,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Explain the token and the airdrop to me. I've only ever seen people yell about it.",
+   "start_s": 718.896,
+   "end_s": 723.696,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "A token is Polymarket's own crypto coin. An airdrop is when a company hands some out free, usually to its early users. Shayne Coplan, the CEO, hinted at a big crypto conference in Singapore last week that he had news, and the internet decided it was the token. Their marketing chief said a year ago there would be one.",
+   "start_s": 723.659,
+   "end_s": 743.579,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "bea",
+   "text": "That's the part that makes me nervous. Tom's pitch is about bringing in regular people. Stuff your mom would open. Airdrop talk is insiders asking what they get for free. Those two voices don't share a room well.",
+   "start_s": 743.579,
+   "end_s": 756.939,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Maybe. But do regular people even see that corner of the internet? My guess is most never hear about it. I'd worry more about the courts. A federal appeals court said Ohio and Tennessee can enforce their gambling laws on Kalshi's sports bets, and Kalshi's asked the full court to rehear it. Another appeals court went the other way. And the NFL just asked the Supreme Court to let states regulate these markets.",
+   "start_s": 756.939,
+   "end_s": 782.139,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Wait. The NFL wants states in charge? Most of that money is riding on their games.",
+   "start_s": 782.139,
+   "end_s": 787.819,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "jack",
+   "text": "That's exactly why they want a say. The Supreme Court could decide as soon as December whether to take the case, or it slides a year. So the whole category is wobbly right when everybody's trying to look friendly.",
+   "start_s": 787.819,
+   "end_s": 799.859,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 13,
+   "speaker": "bea",
+   "text": "I still think the token is the bigger risk to the brand. The courts hang over everybody. A token is Polymarket picking its own voice.",
+   "start_s": 799.859,
+   "end_s": 808.539,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Okay, that's fair. They can't steer the courts. They can steer how they sound. Maybe that's the growth story for Avi: how Polymarket wins regular people while the lawsuits and the token chatter run, with women's sports as the proof.",
+   "start_s": 808.539,
+   "end_s": 822.619,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Lightning round. Duolingo, the language app, made a cartoon starring Duo, its green owl.",
+   "start_s": 823.462,
+   "end_s": 829.942,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "jack",
+   "text": "The owl has a TV show. The owl is having a better year than me.",
+   "start_s": 829.942,
+   "end_s": 834.502,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "bea",
+   "text": "The owl is the one thing everybody remembers about them, so of course they put him on a screen.",
+   "start_s": 834.502,
+   "end_s": 839.862,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Somebody should tell agencies. Next: Chipotle's first campaign from Gut, the indie shop, launched a new bag. It has a name.",
+   "start_s": 839.862,
+   "end_s": 848.662,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Say the name.",
+   "start_s": 848.662,
+   "end_s": 849.542,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I'm not saying the name. You can guess. Moving on.",
+   "start_s": 849.542,
+   "end_s": 853.062,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Ha! Alibaba passed Amazon as the biggest advertiser in the world.",
+   "start_s": 853.062,
+   "end_s": 858.582,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "jack",
+   "text": "I'd have lost money on that one.",
+   "start_s": 858.582,
+   "end_s": 860.342,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Don't tell Polymarket. Okay, Adobe next, and that one is your client. Adobe at the tennis. The Adobe team should know that one before the client brings it up.",
+   "start_s": 860.342,
+   "end_s": 870.982,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Last one. I'd bet the big banks want their own stablecoin, which is a crypto coin pegged to the dollar.",
+   "start_s": 870.982,
+   "end_s": 877.062,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Big banks building their own coin makes the timing on your XRP campaign interesting.",
+   "start_s": 877.062,
+   "end_s": 882.982,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Last one, and I liked it more than I expected. Matt Carmichael runs consumer trends at Ipsos, the research firm. His argument is to plan around life stages, the big moments: marriage, kids, a house.",
+   "start_s": 883.745,
+   "end_s": 897.265,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Oh, that's good. We keep mistaking a milestone for a personality. Nobody holding a newborn at three a.m. is thinking about her birth year. Tom, what's the Gates brief, who is it actually for?",
+   "start_s": 897.265,
+   "end_s": 909.905,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Agreed, with one catch. Swap the generation label for 'new parents' and you can end up just renaming the box. The partner, the grandparent, the nurse are all in this story. Brands grow by reaching more people who might buy, and I'd bet the best brief reaches all of them.",
+   "start_s": 909.905,
+   "end_s": 927.425,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "bea",
+   "text": "And the milestones keep moving later. People marry, have kids and buy homes later than they used to, so 'new parent' covers a much wider range of ages than people picture. Better lens. Not a finished answer.",
+   "start_s": 927.425,
+   "end_s": 941.105,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Where I think it really helps is High Noon. Tom, I'd ask what the client's own picture of the market is, because whatever split the CEO uses, I'd keep his idea and point it at the occasions. The tailgate, the dock, the backyard. If his groups show up at all of them, that's the strategy, and it just needs to be said back to him in his own words.",
+   "start_s": 941.105,
+   "end_s": 961.425,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "bea",
+   "text": "I love that, because the client keeps the idea and you get to keep the strategy.",
+   "start_s": 961.425,
+   "end_s": 966.385,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "jack",
+   "text": "So, Tom, two things for your week. Your AI story might come down to who gets to say no to the hundredth version. Find out who that is. And in every brief, swap the generation word for the moment in life. If you can't name the moment, all you had was an age range. I've written plenty of those.",
+   "start_s": 966.385,
+   "end_s": 984.591,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "bea",
+   "text": "And Jack, eat something better than a pear. Bye, Tom.",
+   "start_s": 984.591,
+   "end_s": 989.105,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "jack",
+   "text": "The pear was fine. See you next time, Tom.",
+   "start_s": 989.105,
+   "end_s": 992.065,
+   "chapter": 6
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2283,
+  "api_usd": 12.0955,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 80694,
+    "cache_write": 283022,
+    "api_usd": 3.8828,
+    "cache_read": 23502,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 145,
+    "input_tokens": 306,
+    "output_tokens": 154407,
+    "cache_read": 1112197,
+    "cache_write": 991818,
+    "api_usd": 5.6232,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 245291,
+    "output_tokens": 16916,
+    "api_usd": 0.213,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 15354,
+    "real_usd": 1.2283,
+    "api_usd": 1.2283
+   },
+   {
+    "kind": "background",
+    "calls": 21,
+    "real_usd": 0.0,
+    "api_usd": 1.1482,
+    "since": "2026-10-11T08:37:32Z",
+    "until": "2026-10-14T08:46:36Z"
+   }
+  ]
+ }
+}
