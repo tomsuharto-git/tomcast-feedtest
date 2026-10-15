@@ -205,5 +205,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261014-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261014.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261015",
+    "title": "Builder: Thu Oct 15. GPT-Live 1 + Trivia, Managed Agents: for you?, Idle compaction, Gemini 4 Argon, Anthropic drops Git, Agents loose on the web, Meta Muse Wonder",
+    "description": "Builder (Christina and Bea): GPT-Live 1 + Trivia, Managed Agents: for you?, Idle compaction, Gemini 4 Argon, Anthropic drops Git, Agents loose on the web and Meta Muse Wonder.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261015.mp3",
+    "audio_bytes": 12101216,
+    "duration_s": 1008,
+    "published_utc": "2026-10-15T08:34:20.553496Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261015-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261015.episode.json"
   }
 ]
