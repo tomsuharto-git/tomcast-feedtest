@@ -1,0 +1,1034 @@
+{
+ "schema": 1,
+ "guid": "tomcast-builder-20261022",
+ "show": "builder",
+ "title": "Eleven v4 for two voices",
+ "date": "2026-10-22",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261022.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261022-art1.png",
+ "duration_s": 1216,
+ "published_utc": "2026-10-22T08:41:14.390155Z",
+ "hosts": [
+  "christina",
+  "bea"
+ ],
+ "speech_start_s": 9.425,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "b1-eleven-v4",
+   "tag": "Eleven v4 + Allister",
+   "headline": "Eleven v4 for two voices: what this week's sources can and can't tell you",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "b2-dots-duet",
+   "tag": "Dots vs Duet",
+   "headline": "OpenAI's Dot, Anthropic's Duet, and an approval gate a builder copied into Claude Code",
+   "start_s": 355.437
+  },
+  {
+   "n": 3,
+   "story_id": "b3-managed-agents",
+   "tag": "Managed Agents: skip it",
+   "headline": "Claude Managed Agents: what the sources show, and why Tom's subscription runs don't need it",
+   "start_s": 603.006
+  },
+  {
+   "n": 4,
+   "story_id": "n1-php2shell",
+   "tag": "PHP2Shell",
+   "headline": "AI-found 'PHP2Shell' flaw forces emergency PHP patches",
+   "start_s": 685.529
+  },
+  {
+   "n": 5,
+   "story_id": "n2-ecdsa",
+   "tag": "Claude cracks curve seeds",
+   "headline": "Anthropic says a Claude research model traced where the NIST curve seeds came from",
+   "start_s": 823.375
+  },
+  {
+   "n": 6,
+   "story_id": "n3-open-weights",
+   "tag": "Muse Spark Open + DeepInfer",
+   "headline": "Open-weight week: Meta's Muse Spark Open and DeepSeek's open-sourced DeepInfer",
+   "start_s": 980.821
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Bea, hi. You sound like you're still under the covers.",
+   "start_s": 9.425,
+   "end_s": 13.505,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "bea",
+   "text": "I'm upright. Mostly. It's eight here. You've been up since, what, five?",
+   "start_s": 13.505,
+   "end_s": 19.425,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Six. And I made eggs first. I have standards.",
+   "start_s": 19.425,
+   "end_s": 23.265,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "bea",
+   "text": "What kind of eggs?",
+   "start_s": 23.265,
+   "end_s": 24.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Scrambled, badly. I was scrolling with one hand and stirring with the other, so they went rubbery. I ate every bite standing at the counter.",
+   "start_s": 24.465,
+   "end_s": 33.265,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "bea",
+   "text": "That is the most you breakfast possible. Bad eggs, great links.",
+   "start_s": 33.265,
+   "end_s": 38.865,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Okay, I'm collecting. Last week you swore: twenty photos from the birthday folder of your mom's photo sorter, and then no more release notes. Did you?",
+   "start_s": 38.865,
+   "end_s": 49.025,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "bea",
+   "text": "I did twenty! And it's actually good at faces now. Except. It decided anybody holding a birthday cake is the same person. So my family has a new relative. In the software's head his name is basically Cake. One photo, Cake is my grandma. Next photo, Cake is my cousin. Then Cake is me at seven, in a paper crown.",
+   "start_s": 49.025,
+   "end_s": 72.625,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Cake really gets around.",
+   "start_s": 72.625,
+   "end_s": 74.385,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Cake has been to every party since 1983. Then I closed the laptop, like I said I would. And read release notes in bed for forty minutes. So. Half credit.",
+   "start_s": 74.385,
+   "end_s": 85.985,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Half credit counts. Your mom's going to adore Cake.",
+   "start_s": 85.985,
+   "end_s": 89.585,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "bea",
+   "text": "She's going to ask if Cake's single. Okay, before anything else. Tom asked us something in the chat on Saturday, and he gets a straight answer first. Christina, you went through everything that came in this week. His question: GPT-Live 1, the live voice model he's been eyeing. Can it speak in his ElevenLabs voices, the ones he already built his game host out of?",
+   "start_s": 89.585,
+   "end_s": 112.945,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Straight answer, Tom: we don't know. Nothing that came in this week mentions GPT-Live 1 at all. So nothing tells us whether it'll talk in a voice you bring over from ElevenLabs, or only in the voices it ships with. And I won't guess. If I said yes and you lost a Saturday wiring the game around it, that's on me. When something real shows up, you'll hear it here first. Bea, the other voice news. Eleven v4. Anything new?",
+   "start_s": 112.908,
+   "end_s": 141.948,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Nothing from ElevenLabs this week, and Tom's heard more v4 than we have. He told us it came out September 28th and everything he makes has run on it since. But there was a Reddit post with ElevenLabs right in the headline, and it made me laugh.",
+   "start_s": 141.948,
+   "end_s": 157.308,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "The one I sent you with three skulls. Tell it properly, because I only read the title.",
+   "start_s": 157.308,
+   "end_s": 162.108,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Okay. Somebody posted a breathless roundup on the Claude subreddit. People are using AI to write free copies of big paid apps. Photo editors that copy Adobe's. Word, Excel, PowerPoint. Outlook. And a free voice-cloning app that runs on your own computer, no internet, doing what people pay ElevenLabs for: copying a voice, dubbing, audiobooks. All written in Rust, which is a programming language people pick when they want something fast that doesn't fall over. The whole mood is that Adobe should be nervous. Fun to read. It tells you nothing about how v4 sounds.",
+   "start_s": 162.108,
+   "end_s": 201.228,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "Here's what gets me about it, though. The cheering is for a free lookalike of something people pay for. And nobody in that thread asks whose voices the free one learned from. Or whether those voice actors can still make rent.",
+   "start_s": 201.228,
+   "end_s": 214.828,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "bea",
+   "text": "That's fair, and the post never says. But flip it. Free means a tiny press can finally make the audiobook it could never afford. Ten authors who'd never get a narrator. I'm not handing that over easily.",
+   "start_s": 214.828,
+   "end_s": 228.268,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "But the narrator they'd never have hired is still a narrator. If the free tool learned from people like her, she paid for those ten audiobooks. Nobody asked her.",
+   "start_s": 228.231,
+   "end_s": 238.631,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Okay, that one lands. I still want the ten books to exist. I'd just want to know whose voice is in the box.",
+   "start_s": 238.631,
+   "end_s": 245.751,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Both true at once, and I honestly don't know which wins.",
+   "start_s": 245.751,
+   "end_s": 249.831,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "bea",
+   "text": "Me neither. I'll take a tie this early. Okay, the useful part. The family game. First, thank you, Tom, for answering me in the chat. Marcus and Riley are retired, Allister's the only host now. Got it, and I'm done asking. So here's the game as it stands. In the newer mode, the phone sits on the table and listens to the whole room. A host brain decides what to say, Allister says it, and the screen follows his voice. And the next step on Tom's list is literally: play a live game and see how he does.",
+   "start_s": 249.831,
+   "end_s": 284.271,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "So game night is the experiment.",
+   "start_s": 284.271,
+   "end_s": 286.551,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "bea",
+   "text": "Game night is the test bench. One host voice, and the real Kasper, Zavien and Jenna talking over him. The app already saves a log after every turn Allister takes. Afterward, ask Claude to read the log and make a plain list of every moment somebody talked over him and what he did next. Plowed through? Tripped? Went quiet? Then change one thing about how he handles being interrupted, play another night, same list. One change a night, or you'll never know what helped.",
+   "start_s": 286.551,
+   "end_s": 316.551,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "Wait, why trust a log over just asking the kids if it was fun?",
+   "start_s": 316.551,
+   "end_s": 320.711,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "bea",
+   "text": "Ask the kids too! But kids shrug and say it was fine, or that he's weird. The log tells you the exact moment he got weird. And it ignores everybody's claims about voices, including ours.",
+   "start_s": 320.711,
+   "end_s": 333.511,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "Especially ours.",
+   "start_s": 333.511,
+   "end_s": 335.111,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "bea",
+   "text": "Ours most of all. And no gimmicks. No fake whispering. Tom hates it, and so do I.",
+   "start_s": 335.111,
+   "end_s": 341.911,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "A family shouting over a robot is the toughest review any voice will ever get. My money's on Jenna cutting him off first.",
+   "start_s": 341.911,
+   "end_s": 349.351,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "bea",
+   "text": "No way. Kasper. Thirty seconds in, just to see what happens.",
+   "start_s": 349.314,
+   "end_s": 354.594,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Speaking of things that are supposed to be on all the time. Tom asked us a while back what OpenAI's Dots are, and I realized I've been nodding along for weeks without knowing. Bea. What's a Dot?",
+   "start_s": 355.437,
+   "end_s": 369.117,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Okay. A Dot is OpenAI's always-on assistant that lives inside ChatGPT. Picture a very keen intern who never goes home. It sorts your day in the morning, chases the conversations you forgot to answer, and pushes things forward without waiting for you to ask. Nothing official from OpenAI came in this week. But Anthropic just launched a rival, and that's the story.",
+   "start_s": 369.117,
+   "end_s": 394.477,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Wait. It dropped his taxes and just said nothing?",
+   "start_s": 394.477,
+   "end_s": 397.837,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Not a word. The silence is the part that gets me. All software drops stuff, I've shipped plenty that did. You still want to hear about it.",
+   "start_s": 397.837,
+   "end_s": 406.717,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "So why is it a story this week?",
+   "start_s": 406.717,
+   "end_s": 408.797,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Anthropic launched its own: Claude Duet. It's an app on your phone and the web that keeps working in the background while you do other things. Right now it's a research preview, so an early version with a waitlist, starting with US subscribers on the Pro and Max plans. And it picks up everything you've already plugged into Claude. Your email, your calendar, whatever you've connected. He liked it enough to keep it around.",
+   "start_s": 408.797,
+   "end_s": 433.837,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "christina",
+   "text": "And does anyone besides him actually like it?",
+   "start_s": 433.837,
+   "end_s": 436.797,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "bea",
+   "text": "My favorite take is Claire Vo's. She hosts a podcast about how people really use AI at work. She calls Duet the most polished agent launch she's seen. Lovely onboarding, task lists, the works. And then she admits she still forgot to use it. Her point: an assistant that's supposed to be proactive and never nudges you is in trouble.",
+   "start_s": 436.797,
+   "end_s": 459.557,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Oof. I know that one from the other side. I've written some very lovely newsletter issues nobody opened.",
+   "start_s": 459.557,
+   "end_s": 467.677,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Hey. How are the numbers, really?",
+   "start_s": 467.677,
+   "end_s": 470.317,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Flat. Still flat. Ask me after the show. But listen, these are the same story. A gorgeous assistant you forget exists, and an assistant that drops your taxes and keeps quiet. Both are about trust. Does it tap you on the shoulder at the right moment? Does it own up when it messes up?",
+   "start_s": 470.28,
+   "end_s": 489.72,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Yes, and that's Tom's problem right now. He's designing his own always-on assistant inside Playbook, the task manager he built that reads his email and calendar and pulls out the to-dos. It's still plans and drawings, nothing running for real. There's one piece he keeps reviewing: a judge, a part that decides on its own whether the assistant is allowed to act. His call was to hold the judge and ship the basics first. I think that's right. Duet has a habit worth stealing, the cheap version of that judge. It stops and asks before it sends a message, pays, signs or deletes anything.",
+   "start_s": 489.72,
+   "end_s": 529.56,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Bea, if it's asking permission all day, don't you start tuning it out? Claire forgot the thing existed. I'd be tapping yes without reading by Wednesday.",
+   "start_s": 529.56,
+   "end_s": 539.0,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "bea",
+   "text": "You would, and so would I. So I'd only let it ask about things you can actually read. One plain sentence about what it's about to do, never a vague \"looks good.\"",
+   "start_s": 539.0,
+   "end_s": 550.12,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "christina",
+   "text": "So saying yes has to cost you a little.",
+   "start_s": 550.12,
+   "end_s": 552.92,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "bea",
+   "text": "A little. Here's what I'd build with it, Tom. Before your assistant sends, books or deletes anything, it shows you one plain sentence about what it's about to do, and it waits for a yes. That's the whole first version. A gate that asks is a much cheaper first step than a judge that decides on its own.",
+   "start_s": 552.92,
+   "end_s": 572.68,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "christina",
+   "text": "And what does Tom actually see when it asks? A buzz? Something he can answer from the couch?",
+   "start_s": 572.68,
+   "end_s": 578.84,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "bea",
+   "text": "I'd make it a buzz from the Playbook app on his iPhone. One sentence, yes or no, two seconds. If it takes longer than that, he'll stop reading them by Tuesday. Honestly? The demo part of me wants the one that does your taxes. The part of me that just watched software invent a man named Cake says start with the boring one that asks first.",
+   "start_s": 578.803,
+   "end_s": 599.403,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Cake would want to be asked.",
+   "start_s": 599.403,
+   "end_s": 602.243,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Speaking of things that run while you're asleep. Didn't Claude Code fix something for exactly that this week?",
+   "start_s": 603.006,
+   "end_s": 609.806,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "A quick one, yes. Tom has a job that runs on its own at night and fills his Claude Ideas board, the one that collects AI news and judges each item for his projects. Picture it hitting his usage limit at midnight, and the limit doesn't reset for days. Until now, running unattended, it could just stand at the door. Waiting.",
+   "start_s": 609.806,
+   "end_s": 631.166,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Like a dog at the window.",
+   "start_s": 631.166,
+   "end_s": 632.766,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Exactly that dog, all night. Now, if the wait is absurdly long, the job gives up and goes home. And if the limit lifts early, it notices and walks back in.",
+   "start_s": 632.766,
+   "end_s": 643.486,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Does he have to switch those on, or do they just happen?",
+   "start_s": 643.486,
+   "end_s": 646.766,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "He switches them on, and it's one sentence to Claude: give up if the reset is too far away, and jump back in if the limit lifts early. Done.",
+   "start_s": 646.766,
+   "end_s": 655.646,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "christina",
+   "text": "There was another Anthropic name floating around. Managed Agents. What is it, and is that Tom's side of the house?",
+   "start_s": 655.646,
+   "end_s": 663.086,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "It lives on the developer side, the toolkit for people building their own software on Anthropic's models. I can't tell you prices or features. And no, it's not his side. Tom runs his Claude work on his subscription through Claude Code, night jobs included. The dog fix is for him. Managed Agents he can happily skip.",
+   "start_s": 663.086,
+   "end_s": 683.246,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "christina",
+   "text": "I love a short one.",
+   "start_s": 683.246,
+   "end_s": 684.766,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Short and sweet, next to the week everybody else had. This is the one that got you up at six, right?",
+   "start_s": 685.529,
+   "end_s": 691.369,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "christina",
+   "text": "It is. Walk me through it slowly. What happened?",
+   "start_s": 691.369,
+   "end_s": 695.129,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "bea",
+   "text": "PHP is a programming language a huge chunk of the web runs on. WordPress, Drupal, the plumbing under tons of everyday sites. It had a critical hole, the kind that lets a stranger take over the server. And it was found with AI.",
+   "start_s": 695.129,
+   "end_s": 711.289,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "christina",
+   "text": "Found with AI, on software that old. That's a little spooky. And then it leaked?",
+   "start_s": 711.289,
+   "end_s": 718.089,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "It did. The plan was careful and quiet: build the fix, line everybody up, release together. Then Tuesday afternoon the bug's ID numbers started going around online, with the wrong release time and the wrong severity score. Just labels, no details. Then one of the firms that reported it accidentally posted a video of its attack working on real sites. They deleted it. Copies were already everywhere, and people started building attacks off it.",
+   "start_s": 718.089,
+   "end_s": 749.209,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "christina",
+   "text": "Oh no. That's the most human part of the whole thing. The machines found the hole, and people spilled it.",
+   "start_s": 749.209,
+   "end_s": 756.409,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Right? And I think findings like this are only going to keep coming. Which, honestly, I believe.",
+   "start_s": 756.409,
+   "end_s": 762.889,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "christina",
+   "text": "Somebody's already named the era. Zvi Mowshowitz, who writes a huge weekly newsletter about AI, calls it The Hackening. Bea, does that excite you or scare you?",
+   "start_s": 762.889,
+   "end_s": 774.649,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Both, honestly. The maker in me loves that a model can dig through software this old and find what nobody ever had time to look for. The other half of me is queasy, because the people who aren't writing patches get the same shovel.",
+   "start_s": 774.649,
+   "end_s": 789.929,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "christina",
+   "text": "Who gets paid? A company gets a great headline about its model. The maintainers had to change the guts of PHP on a deadline. Do you know what they got out of it?",
+   "start_s": 789.929,
+   "end_s": 800.009,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "bea",
+   "text": "I don't, and I'd like to. My guess is a lot of thank-you posts. Tom, we don't know what your stuff runs on, so I'm not saying it's PHP. One small thing: ask Claude to make you a plain list of every website and service you rely on that you didn't write yourself, and who hosts each one. Then on a day like yesterday, you know who to email.",
+   "start_s": 799.972,
+   "end_s": 822.612,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, I need a palate cleanser, and I have one. My favorite story of the week, and I half understand it.",
+   "start_s": 823.375,
+   "end_s": 831.375,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "The curves.",
+   "start_s": 831.375,
+   "end_s": 832.575,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "christina",
+   "text": "The curves! Explain it to me like I'm my brother. He'll ask what it's for.",
+   "start_s": 832.575,
+   "end_s": 837.295,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Okay, picture this. A lot of the locks on internet traffic are built on some standard math shapes called curves. A US standards agency, NIST, published a set of them back in the nineties. Each one was grown from a starting number, a seed. And nobody could ever say where the seeds came from. So for years the suspicious corners of the internet wondered if somebody picked them on purpose to hide a trapdoor. A locked drawer everybody argued about.",
+   "start_s": 837.295,
+   "end_s": 866.495,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "christina",
+   "text": "And a model opened the drawer.",
+   "start_s": 866.495,
+   "end_s": 868.495,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Fast. A model got pointed at it, and the answer is almost funny. The seeds came out of an ordinary random-number function in C, an old programming language, the kind every programmer had lying around. It was started off with computer clock times from May 1997 to April 1998. The model just kept guessing clock times until the curves turned up.",
+   "start_s": 868.495,
+   "end_s": 891.775,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "christina",
+   "text": "That's somebody's whole miserable year, done before lunch. It's like finally finding the sample in a song you've loved for twenty years, and it's from a mattress commercial.",
+   "start_s": 891.775,
+   "end_s": 902.095,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Ha! Yes. The key was a boring pile of guesses, and nobody had the patience. A model doesn't get bored.",
+   "start_s": 902.095,
+   "end_s": 910.495,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "christina",
+   "text": "But this is a lab talking about its own model. Bea, should I believe it?",
+   "start_s": 910.495,
+   "end_s": 916.255,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "bea",
+   "text": "I like how small the claim is. The answer is boring, and a boring answer makes a hidden trapdoor feel less likely to me. And an answer like this is checkable. Run the same guesses and you either get the same seeds or you don't. If people outside the lab rerun it, that's where your trust comes from.",
+   "start_s": 916.255,
+   "end_s": 934.815,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "christina",
+   "text": "And there was a prize for solving it, and it's going to something called ISRG. Who's that?",
+   "start_s": 934.815,
+   "end_s": 941.055,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "bea",
+   "text": "The nonprofit behind Let's Encrypt, which hands out the free padlock certificates a lot of websites use. So the money goes back into the locks.",
+   "start_s": 941.018,
+   "end_s": 949.338,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Oh, I'm weirdly moved by that. A happy ending to a money question. I don't get many. And I think this is the first of a lot of these. Old mysteries that turn out boring the second something patient looks. Weird chart quirks. Strange songwriting credits.",
+   "start_s": 949.338,
+   "end_s": 966.218,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 13,
+   "speaker": "bea",
+   "text": "I'd take that bet with you, not against you. Tom, pick one thing in Playbook or the game where you've always thought, huh, why does it do that? Ask Claude to trace where it came from, with receipts. Just for fun.",
+   "start_s": 966.218,
+   "end_s": 980.058,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, last one. Two things landed the same week, they sound alike, and they're different animals. So, separate boxes.",
+   "start_s": 980.821,
+   "end_s": 989.621,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "christina",
+   "text": "Box one is Meta. They put out a model called Muse Spark Open, and everyone keeps saying \"open-weight.\" Bea, what are weights?",
+   "start_s": 989.621,
+   "end_s": 999.701,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "bea",
+   "text": "The weights are the trained brain itself. When a company trains a model, what comes out the other end is one giant file of numbers, and that file is the model. Open-weight means Meta lets you download the brain. Most of the big ones you only get to talk to through the company's own app. It's still weaker than Meta's own newer one, the one it keeps to itself.",
+   "start_s": 999.701,
+   "end_s": 1021.621,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "christina",
+   "text": "Could Tom run it at home?",
+   "start_s": 1021.621,
+   "end_s": 1023.141,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Ha, no. It's a giant file, way too big for a normal computer. He'd use it through a company that hosts it, and those launched cheap. But you're the deals person. Why would Meta give the brain away at all?",
+   "start_s": 1023.141,
+   "end_s": 1036.421,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "christina",
+   "text": "Because the best free models lately have mostly been Chinese, and the American labs had mostly left that table. Coming back is a bid to be the thing everybody builds on. And there are strings. There's a license, the rulebook you agree to. Anything built on it has to show a \"Built with Muse\" credit, like a sticker on the box. Really big companies reselling it need a separate deal with Meta. And there's a list of things you promise never to do with it. Lambert called the license, his word, \"trash.\" It's the record label giving away the single with its logo stamped across the cover.",
+   "start_s": 1036.421,
+   "end_s": 1074.421,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "bea",
+   "text": "The sticker is so Meta. Okay, box two. DeepSeek, the Chinese AI lab known for very cheap models, gave away DeepInfer, the software that actually serves their models to the public. If the model's the chef, this is the kitchen behind the restaurant.",
+   "start_s": 1074.421,
+   "end_s": 1091.301,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "christina",
+   "text": "And people went wild. For a kitchen?",
+   "start_s": 1091.301,
+   "end_s": 1094.901,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Kitchen people are passionate. It shot to the top of Hacker News, the site where programmers vote links up, with over two thousand points. The headline trick is memory. It can keep the start of a long conversation ready, so you don't pay to have it reread everything every time you come back. Long, repeated work gets a lot cheaper.",
+   "start_s": 1094.864,
+   "end_s": 1115.904,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "christina",
+   "text": "Why would Tom care about a kitchen, though?",
+   "start_s": 1115.904,
+   "end_s": 1118.384,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Because my guess is his host brain gets the same long instructions again on every single turn. If that start stays ready, a whole weekend of games gets cheaper. That's the kind of kitchen I'd want under Allister.",
+   "start_s": 1118.384,
+   "end_s": 1131.344,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 11,
+   "speaker": "christina",
+   "text": "Bea, if Tom's game ever runs on a hosted copy of one of these, who's actually making money? Meta? The host?",
+   "start_s": 1131.344,
+   "end_s": 1139.664,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 12,
+   "speaker": "bea",
+   "text": "The hosting company gets his money every time he plays. Meta gets its sticker, plus that separate deal if the host is big enough. And the writers and musicians whose work trained it get nothing I can point to. When anyone can download the brain, it's even harder to find someone to send the bill to.",
+   "start_s": 1139.664,
+   "end_s": 1156.064,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 13,
+   "speaker": "christina",
+   "text": "That's honest. And kind of grim.",
+   "start_s": 1156.064,
+   "end_s": 1159.984,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Then a prediction, and write it down, because we keep a list of these and it has caught me before. Within six months, a hosted open model this good costs so little that Tom's whole game season costs less than a pizza.",
+   "start_s": 1159.984,
+   "end_s": 1173.504,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 15,
+   "speaker": "christina",
+   "text": "Here's mine. Normal people only ever notice this week as prices dropping on things they already use. They never once hear the word \"weights.\"",
+   "start_s": 1173.504,
+   "end_s": 1182.864,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Counter-bet. That word reaches regular people by next summer, and it gets there through a fight over that license. The sticker, the strings, somebody big ignoring them. Licenses end up on the news eventually.",
+   "start_s": 1182.864,
+   "end_s": 1195.824,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 17,
+   "speaker": "christina",
+   "text": "Dinner on it. Somewhere with eggs that aren't rubbery.",
+   "start_s": 1195.824,
+   "end_s": 1199.344,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Deal. Tom, go let the family yell at Allister, and tell us who cut him off first. Bye, Christina.",
+   "start_s": 1199.344,
+   "end_s": 1205.744,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 19,
+   "speaker": "christina",
+   "text": "Bye, Tom. Bye, Cake.",
+   "start_s": 1205.744,
+   "end_s": 1207.584,
+   "chapter": 6
+  }
+ ],
+ "cost": {
+  "real_usd": 1.4328,
+  "api_usd": 11.0867,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 131,
+    "input_tokens": 262,
+    "output_tokens": 116237,
+    "cache_write": 702046,
+    "api_usd": 4.0445,
+    "cache_read": 734361,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 109079,
+    "cache_write": 369810,
+    "api_usd": 5.1453,
+    "cache_read": 25652,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 14,
+    "chars": 17910,
+    "real_usd": 1.4328,
+    "api_usd": 1.4328
+   },
+   {
+    "kind": "background",
+    "calls": 51,
+    "real_usd": 0.0,
+    "api_usd": 0.4641,
+    "since": "2026-10-15T08:34:20Z",
+    "until": "2026-10-22T08:41:14Z"
+   }
+  ]
+ }
+}

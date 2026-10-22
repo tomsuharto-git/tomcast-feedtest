@@ -229,5 +229,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261022-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261022.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261022",
+    "title": "Builder: Thu Oct 22. Eleven v4 + Allister, Dots vs Duet, Managed Agents: skip it, PHP2Shell, Claude cracks curve seeds, Muse Spark Open + DeepInfer",
+    "description": "Builder (Christina and Bea): Eleven v4 + Allister, Dots vs Duet, Managed Agents: skip it, PHP2Shell, Claude cracks curve seeds and Muse Spark Open + DeepInfer.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261022.mp3",
+    "audio_bytes": 14593924,
+    "duration_s": 1216,
+    "published_utc": "2026-10-22T08:41:14.390155Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261022-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261022.episode.json"
   }
 ]
