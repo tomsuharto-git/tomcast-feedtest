@@ -1,0 +1,642 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261022",
+ "show": "sports",
+ "title": "Dame's homecoming",
+ "date": "2026-10-22",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261022.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261022-art1.png",
+ "duration_s": 671,
+ "published_utc": "2026-10-22T08:29:39.340855Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Dame's Return",
+   "headline": "Dame's homecoming: 25 points, six threes, and a 41-point rout",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "21-0 Start",
+   "headline": "21-0 start: how Portland's new look buried Phoenix",
+   "start_s": 213.141
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Lendeborg vs Luka",
+   "headline": "Lendeborg 'lost all respect' for Luka",
+   "start_s": 363.627
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Opening Night Returns",
+   "headline": "Opening night's big comebacks: Kyrie, Haliburton, and the Sixers over the Knicks",
+   "start_s": 511.233
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. Morning. You sound like you didn't sleep.",
+   "start_s": 10.175,
+   "end_s": 13.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I didn't. I sorted my bookshelves by color, which, don't. And there's one book with a teal spine. I put it on blue. Lay there. Got up at midnight, moved it to green. That's my week, Mikey. That's the whole report.",
+   "start_s": 13.295,
+   "end_s": 27.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "That is the most you thing I've ever heard.",
+   "start_s": 27.295,
+   "end_s": 30.575,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I'm aware. How was dinner? Your dad told you to bring nothing.",
+   "start_s": 30.575,
+   "end_s": 34.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "So I brought a pie. Marionberry. From a bakery that is actually still open, which, for me, is a personal best.",
+   "start_s": 34.255,
+   "end_s": 41.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Ha. Growth.",
+   "start_s": 41.295,
+   "end_s": 42.735,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "My mom puts it on the counter like it's evidence. Then we watch the game. Dad in his chair, me on the couch, nobody saying a word about why I'm there on a Wednesday. Dame hits his first three, early, and my dad stands up. Out of the chair. Seventy-four years old. My mom goes, sit down, he can't see you. And he sits down. Doesn't say anything. But he stood up, Jack.",
+   "start_s": 42.735,
+   "end_s": 65.215,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Did you say anything to him?",
+   "start_s": 65.215,
+   "end_s": 66.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "I said, nice shot. He said, yeah. That's the whole conversation. In my family that's basically a hug. I'm counting it.",
+   "start_s": 66.655,
+   "end_s": 74.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Count it. Okay, the thing I actually want to know. Was last night about the feeling, the guy coming home? Or was it the basketball? Because a building can carry a guy through one night. I've seen crowds do that for players who were done.",
+   "start_s": 74.295,
+   "end_s": 87.855,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "The feeling was always going to be there. First time he's warmed up at home as a Blazer in a long time. First real game anywhere since he tore his Achilles in Milwaukee. Long standing ovation before the tip, you could hear it through the TV. Nobody doubted the love. The question was the legs. And then he goes six of ten from three in 24 minutes. And here's what I watched. Every stretch he was out there, the lead got bigger. He'd sit, it would hold. He'd come back, it would grow again.",
+   "start_s": 87.855,
+   "end_s": 115.775,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "How much of that is the Suns just letting him shoot? They scored 83 all night. Nobody was making him work.",
+   "start_s": 115.738,
+   "end_s": 122.778,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Some of it, sure. But look at how he got them. Catch, feet set, let it go. No dribbling into it. For eleven years here he had to make everything happen himself, every possession, every night. Now Ja's running the offense, Deni's driving to the rim, and Dame just stands in his spot and the ball shows up. Best shooter on the floor, and he doesn't have to carry it. I've wanted that version of him for ten years.",
+   "start_s": 122.778,
+   "end_s": 147.298,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "I'll be honest, that's the part I'd have bet against. Guy coming off that injury, I figured he'd be careful. Hesitate on the first one. He said afterward people were skeptical because they hadn't seen him on the floor. I was one of those people.",
+   "start_s": 147.298,
+   "end_s": 159.978,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "And the calm got me more than the threes. He used to play angry. Everything was prove the doubters wrong. After the game he talked about just letting people be happy for him this time. Taking the love instead of turning it into fuel. That's a different guy. And then the calm guy hits six threes.",
+   "start_s": 159.978,
+   "end_s": 176.938,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Was the 24 minutes the plan, or did the score decide it?",
+   "start_s": 176.938,
+   "end_s": 180.738,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Score. The starters sat the whole fourth quarter. It was over long before that.",
+   "start_s": 180.738,
+   "end_s": 185.018,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Then I learned nothing about how they'll manage him. The night that tells me something is a tie game in March and he's already played 34.",
+   "start_s": 185.018,
+   "end_s": 192.378,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "I'll happily learn nothing. Give me eighty more nights of learning nothing.",
+   "start_s": 192.378,
+   "end_s": 197.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "And look, a whole room standing up because one guy came home. You don't see that for just anybody. I'm happy for you. For real.",
+   "start_s": 197.178,
+   "end_s": 205.018,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "Thanks, man. Also, you've got a whole room too. It's just sorted by color.",
+   "start_s": 205.018,
+   "end_s": 209.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "And it never stands up. Fair.",
+   "start_s": 209.418,
+   "end_s": 212.378,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Okay, you watch the move behind the move. Explain the start to me, because all I did was yell at a TV. We were up big before I'd even sat down. How does that happen to an NBA team?",
+   "start_s": 213.141,
+   "end_s": 224.101,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Partly Phoenix being awful. They couldn't make a three all night. And Booker, their star, got his points, but they got outscored by more than forty with him on the floor. That's a guy with nobody next to him. But the Portland side looked designed. Thirty-two assists, which is a team passing like it rehearsed. And the open shots went to the role players. Camara, the defensive wing, knocking down threes. Clingan, the big center, opening the game with a three like he used to last year.",
+   "start_s": 224.101,
+   "end_s": 251.941,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "So, Nori.",
+   "start_s": 251.941,
+   "end_s": 253.221,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Micah Nori. First game ever as an NBA head coach, after five years as the number two guy in Minnesota. On a one-year deal, which is a strange way to hire somebody. My favorite thing about him: every morning he pulls into the practice facility and backs his pickup into the spot. Overshoots, reverses in. So when it's time to leave, he just goes. That's how he ran camp. All the careful stuff up front, so on the first night you just drive.",
+   "start_s": 253.221,
+   "end_s": 279.181,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "I love that. I'm a pull-in guy and I regret it every single time. So is it real, or one bad Suns night?",
+   "start_s": 279.181,
+   "end_s": 286.341,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Somewhere in between, and closer to one night than you'd like. Everybody's crediting him for clean basketball. By the end they'd turned it over 17 times, Scoot had four of those himself, and Phoenix was getting second shots. The clean part wore off.",
+   "start_s": 286.341,
+   "end_s": 301.221,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Sure, in garbage time. But last year we led the whole league in turnovers. So a clean start means something to me. Don't throw it away, don't give up second shots. That's boring homework, and boring homework travels. It doesn't care who you're playing.",
+   "start_s": 301.221,
+   "end_s": 315.301,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Unless the other team isn't doing theirs.",
+   "start_s": 315.301,
+   "end_s": 317.621,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Ha. Okay, that's the optimism talking, a little. But the first quarter's the most honest one you get. Nobody's quit yet. Phoenix was still trying, and they couldn't get a shot.",
+   "start_s": 317.584,
+   "end_s": 328.944,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "That I'll partly buy. I just want to see it when somebody punches back. Ten-man rotation, four point guards, everybody's happy when you're up 40. February, close game, somebody's minutes get cut, somebody sulks. That's the test.",
+   "start_s": 328.944,
+   "end_s": 343.824,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Agreed on February. And Ja and Booker got into it, with the game already a joke. I kind of liked that. Guys still caring at 40 up.",
+   "start_s": 343.824,
+   "end_s": 351.904,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Blowouts get chippy because the losing team has nothing else to do. I wouldn't read a thing into it. Besides, we told Tom we'd get out of Portland this week, and the real fight of opening night was in L.A.",
+   "start_s": 351.904,
+   "end_s": 362.864,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Lendeborg.",
+   "start_s": 363.627,
+   "end_s": 364.347,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Yes. I saw the quote before I knew the name. Who is Yaxel Lendeborg?",
+   "start_s": 364.347,
+   "end_s": 369.707,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Warriors rookie. First pro game ever, and he's starting because Jimmy Butler and Moses Moody are hurt. Kerr puts him on Luka Dončić, the Lakers' superstar, for a big chunk of the night. And the kid actually guards him. But Luka's working the refs all game, begging for calls, and they start jawing. Late in the half the kid's yelling at him so much the ref gives him a technical, which is the ref's penalty for mouthing off, the other team gets a free throw. Then at the buzzer Luka banks one in from about half court and points and laughs at him. Lakers win big. And after the game the kid says he lost all respect for Luka. Whining and complaining, all game.",
+   "start_s": 369.707,
+   "end_s": 406.427,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "In his first game. About one of the biggest names in the sport.",
+   "start_s": 406.427,
+   "end_s": 410.587,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "And this is a kid who's got a history of saying exactly what he thinks, out loud, with no filter.",
+   "start_s": 410.587,
+   "end_s": 416.107,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "He hated Steph. Out loud. On draft night.",
+   "start_s": 416.107,
+   "end_s": 419.867,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "He just says things! And I'm on his side. Mostly. He was the one guy on that court actually guarding Luka. He earned an opinion.",
+   "start_s": 419.867,
+   "end_s": 427.947,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "I'll argue the other side, just to see if it holds. His whole message was, you can't score on me. And the clip everybody saw this morning is Luka scoring on him from half court and laughing in his face. If you're going to talk, the last shot can't be his.",
+   "start_s": 427.947,
+   "end_s": 442.987,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "But he didn't fold. After the first blowup they sub him out, Luka hits a jumper and points at him on the bench. And Kerr puts him right back in on Luka. A coach trusting a rookie after that tells you more than the quote.",
+   "start_s": 442.987,
+   "end_s": 454.587,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Kerr's going to defend his guy. Here's the part I find funny, though. The kid admitted he barely watched the NBA. Mostly highlights. And in highlights, Luka is just killing people. You never see the four minutes of complaining to the ref in between. So he met the real Luka, live, and the real Luka complains. I'm fine with him losing a hero. Everybody finds out their heroes argue with the ref. I found out about a couple of bosses that way. Saying it into a microphone about a guy you'll play again is the part I'd question.",
+   "start_s": 454.55,
+   "end_s": 486.71,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "October 30th, in San Francisco. And look, everybody'll say the rookie learned his lesson, and what did he learn? Go at him again next time. So my bet: on the 30th he's still on Luka, stays out of foul trouble, and nobody's sanded him down.",
+   "start_s": 486.71,
+   "end_s": 501.43,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "My bet: Luka puts up 40 on him and laughs the whole time.",
+   "start_s": 501.43,
+   "end_s": 505.11,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Which would be very Luka. If the kid fouls out by halftime, you can play me the tape.",
+   "start_s": 505.11,
+   "end_s": 510.47,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "And speaking of the kid's childhood hero. Kyrie played.",
+   "start_s": 511.233,
+   "end_s": 514.833,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "First game back after a long time away. He hurt his knee in March of last year and sat a whole season. He's in Dallas now, and Houston built their entire defense around taking him away.",
+   "start_s": 514.833,
+   "end_s": 525.713,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Wait, so was he bad, or just swarmed?",
+   "start_s": 525.713,
+   "end_s": 528.833,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Swarmed, and a little timid early. He finished with 15. The guy I felt for was Dallas's new coach, Dusty May. He just won a college national title at Michigan. First NBA night, and his team gets run out of the building. In college you can scheme around almost anything. In the pros the other team decides your best guy won't touch the ball, and you need an answer right now.",
+   "start_s": 528.833,
+   "end_s": 552.113,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "See, that's the comeback that scares me. Dame came back to a team built to protect him. Kyrie came back to a team that needs him, and he got swarmed. And then Haliburton, Indiana's point guard. He went down in the Finals last year. First game back, they beat New Orleans, and in the interview on the floor somebody asks about the team's spirit and he just cries. Three guys back from the long dark, one night. Only one got to stand in a corner and shoot.",
+   "start_s": 552.113,
+   "end_s": 578.553,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Okay. Ring night. I have to explain something first. I'm a Knicks fan. I picked them up when I moved to New York, during kind of a lousy stretch. I'd sit in the cheap seats at the Garden, Madison Square Garden, where they play, and nobody up there asked me how I was doing. So they're champs, they hand out rings, they raise the banner. And LeBron, in a Sixers uniform, which I still can't get used to, walks in with a brand-new team and beats them. On ring night. And I've decided it doesn't matter. That team only cares about losses in May and June.",
+   "start_s": 578.553,
+   "end_s": 610.78,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "I don't buy it. You get one ring night. Maybe ever. You'll remember who ruined it longer than you remember game 40.",
+   "start_s": 610.78,
+   "end_s": 617.633,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Game 40 counts exactly the same in the standings.",
+   "start_s": 617.596,
+   "end_s": 620.876,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Standings, sure. My dad didn't stand up out of his chair for the standings. Fans keep the nights. Tell me you're not still mad.",
+   "start_s": 620.876,
+   "end_s": 628.076,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of the night itself being the thing you keep. Fine. A little mad. And what really gets me is LeBron playing the villain. The whole league gets to root against him, and he loves it. If he's doing that in October, I'm going to be thinking about him all season. The Garden's supposed to be where I don't think about anything.",
+   "start_s": 628.076,
+   "end_s": 648.396,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Welcome to being a fan. We have pie.",
+   "start_s": 648.396,
+   "end_s": 650.876,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Tell your dad I said hi. And tell him the pie was a power move.",
+   "start_s": 650.876,
+   "end_s": 654.716,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "He'll pretend he didn't eat two pieces. Alright, that's us. Go fix the teal book.",
+   "start_s": 654.716,
+   "end_s": 659.356,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 13,
+   "speaker": "jack",
+   "text": "It stays on green. Take care, everybody.",
+   "start_s": 659.356,
+   "end_s": 661.996,
+   "chapter": 4
+  }
+ ],
+ "cost": {
+  "real_usd": 0.872,
+  "api_usd": 8.8333,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 108,
+    "input_tokens": 216,
+    "output_tokens": 122908,
+    "cache_write": 1097153,
+    "api_usd": 5.6737,
+    "cache_read": 555476,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 52144,
+    "cache_write": 154974,
+    "api_usd": 2.2876,
+    "cache_read": 24562,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 8,
+    "chars": 10900,
+    "real_usd": 0.872,
+    "api_usd": 0.872
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-10-14T08:24:30Z",
+    "until": "2026-10-22T08:29:39Z"
+   }
+  ]
+ }
+}

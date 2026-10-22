@@ -217,5 +217,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261015-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261015.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261022",
+    "title": "Sports: Thu Oct 22. Dame's Return, 21-0 Start, Lendeborg vs Luka, Opening Night Returns",
+    "description": "Sports (Mikey and Jack): Dame's Return, 21-0 Start, Lendeborg vs Luka and Opening Night Returns.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261022.mp3",
+    "audio_bytes": 8054326,
+    "duration_s": 671,
+    "published_utc": "2026-10-22T08:29:39.340855Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261022-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261022.episode.json"
   }
 ]
