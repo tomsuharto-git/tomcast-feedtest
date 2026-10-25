@@ -1,0 +1,853 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261025",
+ "show": "work",
+ "title": "Cuttable raises $20M to automate creative while Marketing Week argues taste is what wins in the AI economy",
+ "date": "2026-10-25",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261025.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261025-art1.png",
+ "duration_s": 914,
+ "published_utc": "2026-10-25T08:34:17.937092Z",
+ "hosts": [
+  "jack",
+  "bea"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "industry-taste-vs-automation",
+   "tag": "Taste vs. the Machine",
+   "headline": "Cuttable raises $20M to automate creative while Marketing Week argues taste is what wins in the AI economy",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "industry-omnicom-squeeze",
+   "tag": "Omnicom's Flat Quarter",
+   "headline": "Omnicom's $900M cost-cutting continues in Q3 with flat revenue, even as it wins Coca-Cola's North America media account",
+   "start_s": 244.644
+  },
+  {
+   "n": 3,
+   "story_id": "clients-polymarket-cmo",
+   "tag": "Polymarket's CMO Exit",
+   "headline": "Polymarket's reported CMO firing adds to a string of controversies, while Kalshi hands Dillon Brooks a 'King Blocker'",
+   "start_s": 400.89
+  },
+  {
+   "n": 4,
+   "story_id": "clients-adobe-sports-ai",
+   "tag": "Adobe AI Goes to F1",
+   "headline": "Adobe lands a 2027 AI fan-experience partnership in global sports, and BWT Alpine turns to Adobe AI for F1",
+   "start_s": 570.816
+  },
+  {
+   "n": 5,
+   "story_id": "lightning-round",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 693.622
+  },
+  {
+   "n": 6,
+   "story_id": "thinking-brand-love-category",
+   "tag": "Grow the Category",
+   "headline": "P&G says growth comes from growing categories, not taking share, and Coca-Cola's CMO no longer 'believes in love'",
+   "start_s": 779.585
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Bea. Hi. Hi, Tom. You sound suspiciously cheerful for a Sunday.",
+   "start_s": 8.995,
+   "end_s": 14.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Hi, Jack. Hi, Tom. I'm cheerful because on Thursday my pottery teacher gave me the good wheel. The one by the window. You only get that wheel if she trusts you not to fling clay at the glass.",
+   "start_s": 14.595,
+   "end_s": 26.275,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "jack",
+   "text": "And did you?",
+   "start_s": 26.275,
+   "end_s": 27.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Once. A little. She didn't see it. What did you do this weekend?",
+   "start_s": 27.235,
+   "end_s": 32.515,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "jack",
+   "text": "I made chili. A full pot. The recipe says it feeds eight. I didn't do that math until it was done. So I'm eating chili until Thursday.",
+   "start_s": 32.515,
+   "end_s": 41.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Jack. That's a hostage situation. And you're the hostage.",
+   "start_s": 41.475,
+   "end_s": 46.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "jack",
+   "text": "It's good chili. That's the sad part.",
+   "start_s": 46.595,
+   "end_s": 49.195,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "bea",
+   "text": "There's an Australian startup that just raised a big round for this. Here's what it does. It takes the photos and videos a brand has already posted. It looks at what's actually selling in their online store. And it builds new Meta ads out of all that. A person approves every one, and it keeps track of what message each ad was testing. Their bet is that the creative is the last part of buying ads nobody has automated yet.",
+   "start_s": 49.195,
+   "end_s": 74.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "jack",
+   "text": "So it's a very fast resize machine. With a memory.",
+   "start_s": 74.595,
+   "end_s": 78.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Ha. Kind of, yes.",
+   "start_s": 78.435,
+   "end_s": 80.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Then honestly? I'm fine with it. The cuts. The formats. The fortieth version for a slightly different phone screen. Nobody should be billing a client for that anymore. If a machine eats that part, what's left to charge for is the idea underneath. What should somebody think when they grab the thing? Does it change what they do? Everything else is versions of that.",
+   "start_s": 80.435,
+   "end_s": 101.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "bea",
+   "text": "I'll give you half. Resizing is the stuff designers do at midnight while their actual idea sits in a folder. Nobody will miss it. But I'll fight you on the look. Right now the look is often the reason anything gets picked up at all. Marketing Week ran a column this week saying AI only closes the gap on your competitors if you have the taste and judgement to use it. I'd go further. Taste is what you cut. And a tool that hands you a thousand options makes the cutting harder.",
+   "start_s": 101.838,
+   "end_s": 130.558,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Sure. But a look nobody recognizes is wallpaper too. My hunch is most of the hot-looking work gets passed around by people who already buy the thing. So does the look reach anybody new? Or does it make the people already in the room feel cool?",
+   "start_s": 130.558,
+   "end_s": 146.078,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it. Okay. My answer: Cuttable can only spread a look a brand already has. It can't invent one. Somebody still has to build that look first, and that's what decides whether a stranger stops scrolling.",
+   "start_s": 146.078,
+   "end_s": 162.638,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Fine. That one I'll take. Tom, last time you told us that when a client sends a ChatGPT draft, your team works off it and tries to make it better. So when you make it better, what do you change first? The look, or the idea underneath?",
+   "start_s": 162.638,
+   "end_s": 176.878,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "bea",
+   "text": "And High Noon is a live version of that. Gallo, the wine company, makes High Noon, the canned vodka seltzers, and it's in your pitch, Tom. A point of view and a look are both on the table there, and they pull against each other.",
+   "start_s": 176.878,
+   "end_s": 189.798,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. Which one pulls harder in that pitch, the point of view or the look?",
+   "start_s": 189.798,
+   "end_s": 196.278,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Both. And I'll confess what I'd have done. I'd have started sketching the look first, before anybody settled the thought. Because a look feels like progress. You can pin it on a wall and everyone nods. A sentence just sits there being hard.",
+   "start_s": 196.278,
+   "end_s": 211.118,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Ha. So I really don't know the answer here, Tom. In the room, which one led, the idea or the look? If the idea led, I'd say that order out loud to clients. A prompt will give them a draft. Deciding what it's about is the part they're paying your people for.",
+   "start_s": 211.081,
+   "end_s": 227.801,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Which loops back to your own pitch, Tom. The vision deck calls AI the agency's nervous system and floats Superorganism as a name.",
+   "start_s": 227.801,
+   "end_s": 236.201,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "jack",
+   "text": "That only holds if the taste sits in people a client can meet across a table.",
+   "start_s": 236.201,
+   "end_s": 240.761,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "bea",
+   "text": "Otherwise it's a nervous system with nobody home.",
+   "start_s": 240.761,
+   "end_s": 243.881,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of big systems. Explain the Omnicom thing to me like I'm a creative. I read the headline twice and it made less sense the second time.",
+   "start_s": 244.644,
+   "end_s": 253.764,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Okay. Omnicom is one of the giant holding companies. It owns dozens of agencies, and this year it swallowed another giant, Interpublic. This week it won Coca-Cola's North America media account. So it's now the shop buying Coke's ad space here. That came right after it lost PepsiCo's global media to Publicis, the big French holding company. And it's still cutting costs while it folds the two companies together.",
+   "start_s": 253.764,
+   "end_s": 279.244,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Wait. They win Coke and they're still cutting?",
+   "start_s": 279.244,
+   "end_s": 282.564,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Yes. And I'd bet they're healthy. Winning Coke says someone still trusts them with the big money. They're just getting leaner while they win. A big win now means the same people carry more. And the juniors and the creatives carry the most. That part I hate.",
+   "start_s": 282.564,
+   "end_s": 298.564,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Same. And honestly, isn't that the opening? A giant, lean, sensible machine is great at the safe stuff. It's slow to make the weird thing. That's where a small shop gets in, if it makes things culture actually picks up.",
+   "start_s": 298.564,
+   "end_s": 313.204,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Maybe. I'd push on that. A company that just won Coke has plenty of ways to look sharp in a pitch room. Being small on its own wins nothing. A small shop wins when it has a thing the big one can't make.",
+   "start_s": 313.204,
+   "end_s": 325.924,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Sure, but the big ones are built to win the pitch room. The feed is a different room, and they show up there late.",
+   "start_s": 325.924,
+   "end_s": 332.644,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Fair. Tom, here's where it hits you. Adobe and Ripple, your two biggest earners this year, both look smaller next year, and the pitch list is thin. On paper you've got two new-business tracks. One is work 72andSunny passes on. That's the bigger agency your shop grew out of, and they usually pass because of a conflict. The other is work your team goes out and starts on its own.",
+   "start_s": 332.644,
+   "end_s": 356.564,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And the first one is leftovers, by definition. You only get it when somebody else has a conflict. You can't plan a year around someone else's calendar. So I'd put my chips on the second track. Make a finished thing. Get it out in the world. Let a brand see it before it ever writes a brief.",
+   "start_s": 356.527,
+   "end_s": 375.647,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I'm with you on that, plainly. My question is about pace. Can the team put something out every few weeks? Because one good thing gets you a nice email. I'd bet it's the fourth or fifth one that gets you meetings.",
+   "start_s": 375.647,
+   "end_s": 388.047,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "And Tom, if the agency name is still open, I wouldn't let that hold up the first one going out the door.",
+   "start_s": 388.047,
+   "end_s": 393.887,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Agreed. Nobody hires a shop for its name in the first meeting. They hire it for the thing on the screen.",
+   "start_s": 393.887,
+   "end_s": 400.127,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, Polymarket. Jack, catch me up, because I only saw the gadget part.",
+   "start_s": 400.89,
+   "end_s": 406.17,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Polymarket is the prediction market. You bet real money on how things turn out. Elections, games, whatever. On Friday the New York Post reported the company fired its chief marketing officer, Matthew Modabber. He'd run marketing since 2024. Polymarket hasn't said a word. And it lands on a pile. In September New York's governor and attorney general sued them, saying they run an unlicensed gambling operation.",
+   "start_s": 406.17,
+   "end_s": 432.25,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "bea",
+   "text": "That's a lot for a brand trying to look friendly. What does it actually mean for Tom's agency, though?",
+   "start_s": 432.25,
+   "end_s": 437.93,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Agencies get hired by people, and they get fired by the next people. When the marketing chief goes, whoever's left is nervous and protective. And a new one often walks in with their own favorite shop. So your work needs a sponsor who's still in the building. Tom, I genuinely don't know: was Modabber someone your team dealt with, or was it all Scott and Dan, the day-to-day people?",
+   "start_s": 437.93,
+   "end_s": 460.33,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Because the plan was to go past Scott and Dan to Avi, the one who actually makes the calls. With the Play To Win idea built on March Madness and the Women's World Cup.",
+   "start_s": 460.33,
+   "end_s": 469.93,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Right, and I think this makes that both more urgent and riskier. If Avi hears an agency is working around his own team during a shake-up, that lands badly. I'd find out where Scott and Dan stand first, then go up with them.",
+   "start_s": 469.93,
+   "end_s": 483.77,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Okay, now the gadget, because it's the fun part. Kalshi, their main competitor, gave Dillon Brooks a little device. He's the NBA player whose whole personality is fighting with LeBron. It's called the King Blocker. Somebody says LeBron's name, it mutes them, and a red Blocked sticker pops up over their mouth in the ad. They made real ones to give away. And LeBron is partnered with Polymarket. So Kalshi walked onto your client's turf holding a prop.",
+   "start_s": 483.893,
+   "end_s": 512.613,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "It's funny. I'll give it that. Let me play the other side for a second, though. It's a one-day joke. Does a gag about LeBron get one new person to open an account?",
+   "start_s": 512.613,
+   "end_s": 523.413,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "bea",
+   "text": "It's an object, though. People can hold it, film it, pass it around. That's why it lasts past a day. And Tom, it matters for your Marketing Dive interview. That's the trade site writing about your Polymarket work. The reporter won't only ask about the lawsuit now. They'll ask what Polymarket has that's as fun as a mute button.",
+   "start_s": 523.413,
+   "end_s": 543.013,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "And your prep note says to call the controversy part of the course and turn to results, like Polymarket becoming the top app in its category after launch. Two weeks ago that was fine. With a fired CMO in the news, part of the course sounds like a shrug. I'd say less. One line, then the work.",
+   "start_s": 543.013,
+   "end_s": 560.933,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Jack. Does a CMO getting fired sting a little for you?",
+   "start_s": 560.933,
+   "end_s": 564.973,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "A little. Some weeks the phone doesn't ring. Ask me in November.",
+   "start_s": 564.973,
+   "end_s": 570.053,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "bea",
+   "text": "I'm holding you to November.",
+   "start_s": 570.816,
+   "end_s": 572.736,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Noted. Okay, your turn to explain. Why is Adobe suddenly everywhere in sport?",
+   "start_s": 572.736,
+   "end_s": 578.576,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Because they keep putting the brand where the crowd is. My read is that a crowd going nuts explains their AI better than any software demo could.",
+   "start_s": 578.576,
+   "end_s": 587.136,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "So they're buying their way into fandom.",
+   "start_s": 587.136,
+   "end_s": 589.616,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Pretty much. And Tom, here's why it's good for you. Adobe is shrinking. The in-house social team is gone, there's a gap in the first quarter, and spend is heading down next year. But Meg, from their product side, is moving into marketing for Firefly. That's Adobe's image and video generator. And she liked the stuff your team made unprompted, including the Valkyries piece for the women's basketball team. So she's already said yes to how your people think.",
+   "start_s": 589.616,
+   "end_s": 617.616,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "So you'd bring her something. What, though?",
+   "start_s": 617.616,
+   "end_s": 620.416,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Okay, picture this. A small working idea where a fan takes one moment from a game and makes it theirs with Firefly. Something Meg can see on her screen before anyone writes a deck. And fandom gives your shop a lane of its own, apart from 72andSunny's big brand work at Adobe. That's the missing piece in your positioning there.",
+   "start_s": 620.416,
+   "end_s": 640.936,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Here's what I can't work out. Sponsorships are a reach play. You put your name in front of millions who don't know you. Is that what Adobe wants? Or does it want people who already pay for Photoshop to feel good? Those are different jobs, and I'd bet nobody there has picked.",
+   "start_s": 640.936,
+   "end_s": 657.096,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Why pick? A fan who makes something posts it. Their friends see it. And most of their friends have never opened an Adobe app in their life. That's the existing fan doing the reach for you.",
+   "start_s": 657.096,
+   "end_s": 668.336,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. The fan as the media. Okay. That's a real answer to my reach thing.",
+   "start_s": 668.336,
+   "end_s": 675.856,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Write down the date. And build it so Meg can forward it upstairs without you in the room. The people planning next year's budgets are hard to reach right now, so it has to make the case on its own.",
+   "start_s": 675.819,
+   "end_s": 686.939,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "jack",
+   "text": "And pick this one on purpose. One sharp thing for Meg beats five okay ones for everybody.",
+   "start_s": 686.939,
+   "end_s": 692.859,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Quick ones. Netflix cut its ad revenue target for the year. The ad tools are rolling out slower than planned.",
+   "start_s": 693.622,
+   "end_s": 700.262,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Turns out building the tools is the hard part. Who knew. Everyone who's ever built anything knew.",
+   "start_s": 700.262,
+   "end_s": 706.822,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Salesforce is buying Braze, a big deal. Braze is the software that sends the emails and app pings you ignore.",
+   "start_s": 706.822,
+   "end_s": 713.942,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "So the pings get smarter. My phone is thrilled.",
+   "start_s": 713.942,
+   "end_s": 717.862,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "McDonald's is ending its World Cup sponsorship. After thirty-two years. Part of an overhaul of how it markets.",
+   "start_s": 717.862,
+   "end_s": 724.902,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Thirty-two years. That's older than some of the people pitching the replacement. And a big seat in football just opened up, Tom, right as your Polymarket deck says the Women's World Cup is the space everyone's overlooking.",
+   "start_s": 724.902,
+   "end_s": 738.022,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Coinbase, the crypto exchange, launched its own prediction markets. Bets on where bitcoin and a couple of other coins land, over very short windows. And New York's regulator asked a court to make Kalshi answer its subpoenas.",
+   "start_s": 738.022,
+   "end_s": 751.622,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Nobody in that category gets a quiet month.",
+   "start_s": 751.622,
+   "end_s": 754.342,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Funds that let regular investors buy XRP, Ripple's coin, pulled in a lot of money.",
+   "start_s": 754.342,
+   "end_s": 759.942,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "bea",
+   "text": "That's a lot of people buying a coin through their normal brokerage account. Very grown-up.",
+   "start_s": 759.942,
+   "end_s": 765.302,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Last one. Twenty years of upheaval from AI, jobs, everything. I'd bet that's the right order of magnitude.",
+   "start_s": 765.302,
+   "end_s": 772.742,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Cheerful. Twenty years. I'll be done with the photo sorter by then. Maybe.",
+   "start_s": 772.742,
+   "end_s": 778.822,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, the big one. Coca-Cola's CMO said he doesn't believe in love anymore. Is he okay? Should someone call him?",
+   "start_s": 779.585,
+   "end_s": 788.625,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "jack",
+   "text": "He means brand love. And the same week P&G's finance chief said their growth comes from growing whole categories, getting more households to use the stuff at all, with marketing spend flat. Both point at one idea I'm pretty sure of. Brands grow by reaching more of the people who buy the category, and by being the one that pops into your head when the buying moment comes. A few deep fans is a smaller lever than our industry pretends.",
+   "start_s": 788.625,
+   "end_s": 815.345,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Except love might be how you get into somebody's head in the first place. I'd say feeling is what makes a brand memorable. You remember what moved you.",
+   "start_s": 815.345,
+   "end_s": 824.705,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Okay. Then test it on High Noon. Gallo wants ruthless consistency because their media budget is smaller than the competition's. So Tom, my question: is the feeling a reason for new people to pick up a can on a sunny afternoon? Or is it a feeling that could belong to a dinner table, or a sofa, or a bank ad?",
+   "start_s": 824.705,
+   "end_s": 843.425,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "bea",
+   "text": "I'll give you the bank ad. That's the real danger. But you treat warmth like a garnish. The feeling is what makes those blue and yellow blocks mean something. Without it they're a nice palette.",
+   "start_s": 843.425,
+   "end_s": 854.865,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Fine. Then tie the feeling to daylight and the hangout, every single time. Make the feeling and the moment the same thing in people's heads.",
+   "start_s": 854.865,
+   "end_s": 863.225,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Ugh. Okay. That one I can't argue with. The feeling only works for High Noon if it always shows up in the same sunny place. I'm moving.",
+   "start_s": 863.225,
+   "end_s": 873.745,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Noted. Second date this episode.",
+   "start_s": 873.745,
+   "end_s": 875.905,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Don't get used to it. So, Tom, for your week. One: when you fix a client's draft, tell them the order out loud. Idea first, then the look.",
+   "start_s": 875.905,
+   "end_s": 886.465,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Two: before November second, judge every High Noon line and the manifesto by one question. Can a small budget say it the same way a hundred times and still mean a sunny afternoon with your people?",
+   "start_s": 886.428,
+   "end_s": 899.388,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 10,
+   "speaker": "bea",
+   "text": "That's us. Go eat some chili, Jack.",
+   "start_s": 899.388,
+   "end_s": 901.628,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 11,
+   "speaker": "jack",
+   "text": "There's plenty. Talk soon, Tom.",
+   "start_s": 901.628,
+   "end_s": 904.508,
+   "chapter": 6
+  }
+ ],
+ "cost": {
+  "real_usd": 1.1344,
+  "api_usd": 10.7489,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 9,
+    "input_tokens": 18,
+    "output_tokens": 73350,
+    "cache_write": 225582,
+    "api_usd": 3.2789,
+    "cache_read": 35998,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 137,
+    "input_tokens": 294,
+    "output_tokens": 133068,
+    "cache_read": 853384,
+    "cache_write": 997087,
+    "api_usd": 5.405,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 249811,
+    "output_tokens": 16917,
+    "api_usd": 0.1834,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 12,
+    "chars": 14180,
+    "real_usd": 1.1344,
+    "api_usd": 1.1344
+   },
+   {
+    "kind": "background",
+    "calls": 13,
+    "real_usd": 0.0,
+    "api_usd": 0.7472,
+    "since": "2026-10-14T08:46:36Z",
+    "until": "2026-10-25T08:34:17Z"
+   }
+  ]
+ }
+}

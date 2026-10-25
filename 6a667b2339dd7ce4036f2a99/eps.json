@@ -241,5 +241,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261022-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261022.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261025",
+    "title": "Work: Sun Oct 25. Taste vs. the Machine, Omnicom's Flat Quarter, Polymarket's CMO Exit, Adobe AI Goes to F1, Grow the Category",
+    "description": "Work (Jack and Bea): Taste vs. the Machine, Omnicom's Flat Quarter, Polymarket's CMO Exit, Adobe AI Goes to F1 and Grow the Category.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261025.mp3",
+    "audio_bytes": 10965203,
+    "duration_s": 914,
+    "published_utc": "2026-10-25T08:34:17.937092Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261025-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261025.episode.json"
   }
 ]
