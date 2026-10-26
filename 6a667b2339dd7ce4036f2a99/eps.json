@@ -253,5 +253,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261025-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261025.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261026",
+    "title": "Builder: Mon Oct 26. Dots vs Duet, Managed Agents, briefly, Mods + session monitors, PHP2Shell, Kimi K3.1 Pro, Block's Dessa, Skills go to AAIF",
+    "description": "Builder (Christina and Bea): Dots vs Duet, Managed Agents, briefly, Mods + session monitors, PHP2Shell, Kimi K3.1 Pro, Block's Dessa and Skills go to AAIF.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261026.mp3",
+    "audio_bytes": 13001186,
+    "duration_s": 1083,
+    "published_utc": "2026-10-26T10:24:59.166106Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261026-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261026.episode.json"
   }
 ]

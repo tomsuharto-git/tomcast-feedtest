@@ -1,0 +1,852 @@
+{
+ "schema": 1,
+ "guid": "tomcast-builder-20261026",
+ "show": "builder",
+ "title": "Always-on agents",
+ "date": "2026-10-26",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261026.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261026-art1.png",
+ "duration_s": 1083,
+ "published_utc": "2026-10-26T10:24:59.166106Z",
+ "hosts": [
+  "christina",
+  "bea"
+ ],
+ "speech_start_s": 9.425,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "b1-dots-duet",
+   "tag": "Dots vs Duet",
+   "headline": "Always-on agents: what OpenAI's Dot is, and why Anthropic's Duet matters more to Tom's plan",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "b2-managed-agents",
+   "tag": "Managed Agents, briefly",
+   "headline": "Claude Managed Agents, in one minute: an API-side agent product, and Tom's subscription setup already covers his use",
+   "start_s": 307.394
+  },
+  {
+   "n": 3,
+   "story_id": "b3-mods-session-monitors",
+   "tag": "Mods + session monitors",
+   "headline": "Claude Mods and the 'attention interface': builders are making session monitors, and Grand Central already is one",
+   "start_s": 397.357
+  },
+  {
+   "n": 4,
+   "story_id": "n1-php2shell",
+   "tag": "PHP2Shell",
+   "headline": "PHP2Shell: AI-found PHP flaws, reported to affect up to 70% of websites, kick off what Zvi calls 'The Hackening'",
+   "start_s": 606.003
+  },
+  {
+   "n": 5,
+   "story_id": "n2-kimi",
+   "tag": "Kimi K3.1 Pro",
+   "headline": "Kimi K3.1 Pro: Moonshot's benchmarks put it about level with Opus 5.5 at half the price, weights promised by Nov 4, plus a disclosure row",
+   "start_s": 649.006
+  },
+  {
+   "n": 6,
+   "story_id": "n3-dessa",
+   "tag": "Block's Dessa",
+   "headline": "Block's Dessa: a speech-to-speech model trained only on human conversation that Block says runs on a MacBook Pro",
+   "start_s": 749.529
+  },
+  {
+   "n": 7,
+   "story_id": "n4-skills-aaif",
+   "tag": "Skills go to AAIF",
+   "headline": "Anthropic donates Agent Skills to the Linux Foundation's Agentic AI Foundation",
+   "start_s": 891.535
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Bea. Hi. You sound like you've been up since five.",
+   "start_s": 9.425,
+   "end_s": 13.505,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Six, which for me is heroic. Hi, Tom. Hi, Christina. Okay, ask me about the photos.",
+   "start_s": 13.505,
+   "end_s": 20.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Did you get past the birthday folder? The sorter for your mom, the one that's supposed to sort forty years of family pictures by who's in them.",
+   "start_s": 20.465,
+   "end_s": 27.825,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "bea",
+   "text": "I got past it! The next folder is all beach trips from the eighties. And it turns out the sorter can't handle sunglasses. Anybody in sunglasses is the same person. My whole family is now one very cool guy standing next to a cooler.",
+   "start_s": 27.825,
+   "end_s": 42.705,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Honestly, that's the best version of your family.",
+   "start_s": 42.705,
+   "end_s": 46.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "bea",
+   "text": "It's the most relaxed we've ever looked. What did you do all weekend?",
+   "start_s": 46.465,
+   "end_s": 50.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Stayed home and made a soup that was mostly beans and stubbornness. Then I read every review of the thing we're about to talk about, so I'm full of beans and opinions.",
+   "start_s": 50.465,
+   "end_s": 60.705,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Of course you did. Okay, Tom asked what an OpenAI Dot actually is, so let's start there, because it sets up the Claude news.",
+   "start_s": 60.705,
+   "end_s": 69.265,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Please. I half get it.",
+   "start_s": 69.265,
+   "end_s": 72.145,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "bea",
+   "text": "A Dot is OpenAI's always-on helper inside ChatGPT. Picture an assistant who doesn't wait for you to walk up to the desk. In the morning it goes through your day, it chases the conversation you forgot to answer, it nudges things along without being asked. Dan Shipper, who runs a company called Every and writes about these tools, runs a lot of his day on his. And then he admits the quiet part. Lately it's gotten less pushy, and it's started losing tasks. He sent it off to do his taxes. It didn't finish. And it never told him.",
+   "start_s": 72.145,
+   "end_s": 106.705,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "The taxes. Of all the jobs to just wander away from.",
+   "start_s": 106.705,
+   "end_s": 111.105,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "bea",
+   "text": "A thing that fails silently scares me way more than a thing that never tried.",
+   "start_s": 111.105,
+   "end_s": 115.825,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "So what's the Claude one? Half my feed was screenshots of it on Wednesday.",
+   "start_s": 115.825,
+   "end_s": 120.305,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Duet. Anthropic's take on the same idea. It's an app on your phone and on the web, and it keeps working in the background while you do other stuff. Right now it's a research preview, so an early test version: you join a waitlist and wait to be let in. It starts with US Pro and Max subscribers, and Tom, that's the plan you already pay for. It also picks up every connection your Claude already has. If Claude can see your email and calendar, Duet can too.",
+   "start_s": 120.268,
+   "end_s": 147.628,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "And is it any good?",
+   "start_s": 147.628,
+   "end_s": 149.308,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "bea",
+   "text": "People are kind of in love with the design. Careful onboarding, a task list where you can see what it's doing and what you're doing, finished documents it hands back, little rooms like Slack channels for different jobs. Claire Vo, who has a show where she tests these on her actual job, put it to work on her inbox and her sales deck and her kids' Warriors tickets. And then she forgot it existed.",
+   "start_s": 149.308,
+   "end_s": 171.788,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "I love that so much. The prettiest one of the year and it slipped her mind by Thursday. Everybody's building the helper, and nobody's figured out how to make you remember you have one.",
+   "start_s": 171.788,
+   "end_s": 183.388,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Which, as the person who falls for every pretty demo, I find very humbling. Okay, so Tom's Playbook assistant already does the morning briefing and the sorting. And as of this weekend it has one rule: anything going out, an email, a message, waits for his tap. Reminders, saves, edits, those just run.",
+   "start_s": 183.388,
+   "end_s": 204.428,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "So I think the taxes story proves Tom right. He approves before anything leaves his hands, and Dan's Dot is what happens when nobody holds that line.",
+   "start_s": 204.428,
+   "end_s": 214.028,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Hmm. I love the taxes story too, but I don't think Tom's rule would have saved Dan. Nothing was going out. The Dot stopped halfway and went quiet. A tap before sending guards the front door. The taxes never got anywhere near the front door.",
+   "start_s": 214.028,
+   "end_s": 229.868,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Huh. So his rule catches the loud mistake and misses the quiet one.",
+   "start_s": 229.831,
+   "end_s": 235.351,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "bea",
+   "text": "And the quiet one's the scary one. So here's what I'd build with it, Tom. Ask Claude to keep a running list of every job Playbook starts, and put anything unfinished at the top of your morning rundown in plain words. What it started, where it stopped, what's still undone. Then a dropped job has nowhere to hide.",
+   "start_s": 235.351,
+   "end_s": 255.271,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "Okay, that's fair, and I want to pull on it, because Claire forgetting Duet and Dan's Dot losing the taxes are the same story. In both, everything goes quiet, and the person can't tell if quiet means done or gave up. So, the non-coder question. When one of these background things fails, what does Tom actually see? A tap on the shoulder, or a late tax bill?",
+   "start_s": 255.271,
+   "end_s": 280.671,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "bea",
+   "text": "For Duet, I genuinely don't know. Nobody's described whether it holds a send for your yes, or whether it speaks up when it quits. So I wouldn't assume either. Tom, if you get in off the waitlist, those are your two tests before you hand it anything real. Does it wait for me before it sends? Does it tell me when it stops?",
+   "start_s": 280.671,
+   "end_s": 302.631,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "Two questions I'd also ask anybody I was about to hire, honestly.",
+   "start_s": 302.631,
+   "end_s": 306.631,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Tom also asked about something called Managed Agents, which sounds like a staffing firm.",
+   "start_s": 307.394,
+   "end_s": 313.154,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Ha. It lives in the toolkit for people building Claude into their own apps, the kind of thing you pay for by how much it gets used. There's even a new checker that compares your agent's setup against Anthropic's safety guide without touching anything. So my guess is it sits outside Tom's subscription entirely. Tom, skip it, unless one day Agentcy, your pretend ad agency staffed by AI strategists, turns into something a client logs into.",
+   "start_s": 313.154,
+   "end_s": 341.714,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "So what should he poke at instead? Give me the one thing.",
+   "start_s": 341.714,
+   "end_s": 345.554,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Projects. It's in public beta on his plan, so it's open to try but still being finished. Picture handing a producer one long brief and going to bed. You describe the job once, Claude splits it into side threads, and they keep working in the cloud while your laptop is shut. And Tom, I know exactly what I'd hand it first. You wrote that Gates Foundation re-brief for Agentcy weeks ago, and it's never been run all the way through the strategy debate and the creative round. Describe that once, let it run overnight, and wake up to a pool of ideas to judge over coffee.",
+   "start_s": 345.554,
+   "end_s": 380.034,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Okay, a brief that's been sitting in a drawer since the start of the month getting worked on while he sleeps. That one I'd feel. Is there a catch?",
+   "start_s": 380.034,
+   "end_s": 388.914,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "The usual one. Lots of workers at once eats through your usage faster. So start with the one brief, not five.",
+   "start_s": 388.914,
+   "end_s": 396.594,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, this next one I get to have opinions about. Somebody made an app that shows all your Claude sessions as a live video call. Little team members working away, and when one of them needs you, you hear a knock on the door.",
+   "start_s": 397.357,
+   "end_s": 411.357,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "A knock!",
+   "start_s": 411.357,
+   "end_s": 412.317,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "christina",
+   "text": "A knock! The oldest office move there is, somebody hovering at your door, turned into software. And another guy built a whole terminal because he kept missing the Claude session that had finished. Two people building the same fix tells you something. So what's actually going on?",
+   "start_s": 412.317,
+   "end_s": 429.837,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Making stuff got easy, and keeping track of who's waiting on you got hard. Call it the attention layer: the part that decides when the agent interrupts you, what it shows you, and which calls it needs you to make. And Tom's been building exactly that for months. Grand Central.",
+   "start_s": 429.837,
+   "end_s": 447.437,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "christina",
+   "text": "His terminal app. Where does the knock live in it? I actually don't know.",
+   "start_s": 447.437,
+   "end_s": 451.997,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Grand Central wraps Claude Code in Tom's own window. Voice typing, its own browser. And it watches each session from the outside to tell him which one's waiting and how much of his usage he's burned. Now, Claude Code has mods. Okay, picture this. Grand Central is a friend standing outside your window, waving. A mod is a little add-on that lives inside Claude Code itself, in the room with you. It can draw a panel next to the conversation, or hold Claude mid-step while it asks you a question.",
+   "start_s": 451.997,
+   "end_s": 483.997,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Wait, so why move anything inside if his app already does it?",
+   "start_s": 483.997,
+   "end_s": 488.237,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Because his app only works in his app. A mod follows him into the Claude desktop app and into VS Code, the code editor a lot of people use. So I'd split Grand Central down the middle. Anything that answers which session is waiting on him goes inside as a mod: which session needs him, how full each one is, the knock. The stuff that's really his, the voice, the browser, the feel of sitting in it, stays home. And there's a new setting this week where a mod can say only a person gets to approve this step. Tom's the guy who approves things. That's built for him.",
+   "start_s": 488.2,
+   "end_s": 526.52,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Okay, but this is also how a project ends up in your graveyard. Tom, she has a folder of half-built things. Right next to the app that was going to tell her which friend she owes a text.",
+   "start_s": 526.52,
+   "end_s": 539.24,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Oh, that one hurts. I still owe four texts. Fine. Guilty. A mod that knocks when Mom's sorter gets stuck sounds incredible, and I am not building it this week.",
+   "start_s": 539.24,
+   "end_s": 553.16,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Two questions from the outside. First, Tom, when Grand Central flags you now, which ones do you actually answer? A knock only works if it's rare enough that you still look up. Second, if this becomes a whole platform, who owns the shelf? Right now it's hobbyists giving their work away.",
+   "start_s": 553.16,
+   "end_s": 573.0,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "bea",
+   "text": "On the shelf, I really don't know. Could go app store, could stay a bunch of generous weirdos on the internet. What I do know is the warning. A mod gets the same keys you have: your files, every prompt you type, the passwords that let your apps talk to Claude. Nothing walls it off. So Tom, have Claude write your first one, have it explain in plain words what it does, and don't let a stranger's mod into the room where you approve things.",
+   "start_s": 573.0,
+   "end_s": 601.72,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Funny warning for a feature built so you can be more careful.",
+   "start_s": 601.72,
+   "end_s": 605.24,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Speaking of strangers in the room. The scary one, quickly. AI found giant holes in PHP?",
+   "start_s": 606.003,
+   "end_s": 613.283,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "bea",
+   "text": "PHP is old plumbing under a huge chunk of the web. WordPress, the thing millions of blogs and small-business sites are built on, runs on it. The holes let a stranger take over a site from outside. Big companies patched fast. My aunt's friend's bakery site is getting patched never.",
+   "start_s": 613.283,
+   "end_s": 631.883,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "christina",
+   "text": "The bakery is who I worry about. Nobody there reads security news.",
+   "start_s": 631.883,
+   "end_s": 636.643,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Right, so Tom, nothing you build runs on this as far as I know. But if a friend or a freelancer ever set up a site for you, text them and ask if it's updated. It's one quick text.",
+   "start_s": 636.643,
+   "end_s": 648.243,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, a launch story, and this one I can do, because it's basically an album rollout. Moonshot, a Chinese AI lab, put out a model called Kimi K3.1 Pro. Teasers, countdowns, a gorgeous landing page. Bea, what does that mean for somebody like Tom?",
+   "start_s": 649.006,
+   "end_s": 668.606,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Two things. It's cheap, and the weights are coming. Weights are the trained model itself, as a file anyone can download and host, so other companies can run it and compete on price. It's also already sitting in Vercel's gateway, a switchboard that lets you plug different models into the same app. So trying it is small. One catch: it's enormous. Nobody's running it on a laptop.",
+   "start_s": 668.606,
+   "end_s": 694.206,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "christina",
+   "text": "And then the rollout got weird. There are allegations that influencers were asked to post about it without saying they were paid. And the mood went from 'whoa' to 'hmm'.",
+   "start_s": 694.206,
+   "end_s": 705.966,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "That one makes me feel a little gross, because I'm exactly who that's aimed at. If the hype is bought, my excitement is what they're buying. So how do you tell, when ten glowing posts scroll by?",
+   "start_s": 705.966,
+   "end_s": 718.366,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Mostly you can't, from the posts. You wait for the dull people who ran it for a week and wrote down what broke. Which, funny, is the opposite of how a rollout wants you to feel. The whole machine is built so you decide in the first hour. Music figured this out ages ago. The first-week numbers get bought, the songs people still play in March don't.",
+   "start_s": 718.366,
+   "end_s": 740.366,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Ugh, March. So I should just sit on my hands for a week?",
+   "start_s": 740.366,
+   "end_s": 744.606,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "christina",
+   "text": "You? For a week? I'd settle for a day.",
+   "start_s": 744.606,
+   "end_s": 748.766,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, the one I've had in a tab all weekend. Block, the payments company, put out a voice model called Dessa. You talk to it, it talks back, and nothing gets turned into text in between. Sound in, sound out. Tom, quick flag: the ElevenLabs dig you asked for, on the company you get our voices from, is still coming. Dessa is a cousin of that question.",
+   "start_s": 749.529,
+   "end_s": 772.249,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "christina",
+   "text": "Why a cousin? What's different about it?",
+   "start_s": 772.249,
+   "end_s": 774.729,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "bea",
+   "text": "What it was trained on. The pitch is that it learned from people actually talking. Most fake voices learn from people reading out loud, so they take neat turns, one finishes, the other starts. Real people who like each other overlap. They trail off, jump in half a beat early, laugh over the end of a sentence. That's rhythm. And rhythm is the hard part of what Tom's building, because when a system writes a script and then reads it aloud, you hear the seams.",
+   "start_s": 774.729,
+   "end_s": 802.809,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "christina",
+   "text": "Right, the polite-turns thing. Every robot conversation sounds like a hostage video with good diction.",
+   "start_s": 802.809,
+   "end_s": 809.729,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Ha! Yes. So a model trained on people actually talking is at least aimed at the right thing. Whether it hits it, I don't know. I'd want to hear long stretches before I believe anything.",
+   "start_s": 809.729,
+   "end_s": 821.769,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "christina",
+   "text": "So here's my non-coder worry. If it gets good enough that you can't hear the seams, should it have to tell you it's a machine? A voice that hesitates like a person is a voice you trust like a person.",
+   "start_s": 821.769,
+   "end_s": 834.089,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Oof. I think yes, and I hate that I hadn't thought of it. The better the rhythm, the more that matters. Meanwhile, Tom, take one clip from game night where people talk over each other and ask Claude to help you describe a good overlap in plain words. Where the interruptions land, how long the pauses run. Then when you can try something like this, you have something to hold it up against.",
+   "start_s": 834.089,
+   "end_s": 857.929,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "christina",
+   "text": "Can you even write that down, though? Or do you only know a good overlap when you hear it?",
+   "start_s": 857.892,
+   "end_s": 863.252,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Probably some of each. The half you can write down is still worth having.",
+   "start_s": 863.252,
+   "end_s": 867.572,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "christina",
+   "text": "The more natural these get, the more I wonder what a person on a mic is for.",
+   "start_s": 867.572,
+   "end_s": 872.132,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Hey. I listen to you for the half second before you laugh, when you've spotted something nobody else has. I've been listening for that since the night we made that music video. A model can learn the rhythm. It wasn't there that night.",
+   "start_s": 872.132,
+   "end_s": 885.732,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 11,
+   "speaker": "christina",
+   "text": "Okay. Stop. I'm moving my face away from the microphone.",
+   "start_s": 885.732,
+   "end_s": 890.772,
+   "chapter": 6
+  },
+  {
+   "seg": 6,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Last one, and it's the least glamorous story of the week, which is why I love it. Anthropic gave away something called Agent Skills. Bea, what's a skill, in one breath?",
+   "start_s": 891.535,
+   "end_s": 903.695,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 1,
+   "speaker": "bea",
+   "text": "A folder with a plain-language instruction sheet in it. You write down how to do a job the way you'd brief a new hire, and any agent can pick it up and follow it. ChatGPT, Cursor, GitHub Copilot, VS Code, Claude Code all read them now.",
+   "start_s": 903.695,
+   "end_s": 919.615,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Wait, who's Copilot? And Cursor?",
+   "start_s": 919.615,
+   "end_s": 922.735,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Both coding helpers. Cursor's an app people write code in with AI built in. Copilot is the AI helper inside GitHub, where most programmers keep their code. So rival companies all read the same instruction sheet. And now Anthropic's handing the whole standard, the name, the logo, the website, to a neutral group under the Linux Foundation, a nonprofit that looks after shared software. Same place they already put MCP, which is the standard way an agent plugs into your email or your calendar. Engineers from Anthropic, Google and OpenAI will look after it as individuals.",
+   "start_s": 922.735,
+   "end_s": 959.535,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 4,
+   "speaker": "christina",
+   "text": "So nobody owns the recipe card. Remember when a document from one program wouldn't open in another, and whole companies fought over whose format won? This time the answer is nobody's. I like that. It's also smart. If everybody builds on your format, you stay the default.",
+   "start_s": 959.535,
+   "end_s": 978.175,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 5,
+   "speaker": "bea",
+   "text": "And Tom's already living in it. Repair Shop, Logo Design, Agentcy, all written this way, and Logo Design already runs on Google's and OpenAI's coding tools. He made portable things without even meaning to.",
+   "start_s": 978.175,
+   "end_s": 992.375,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Which brings me to my question. A skill is somebody's hard-won way of working, written down well enough that anyone can borrow it. Who gets paid?",
+   "start_s": 992.375,
+   "end_s": 1001.855,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 7,
+   "speaker": "bea",
+   "text": "I don't buy that one, at least not yet. Nobody pays for recipe cards, and people still build whole careers on being the one who writes the good ones. A boring shared format is what makes any market possible later. You can't sell something nobody can carry.",
+   "start_s": 1001.818,
+   "end_s": 1017.898,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Maybe later. Today the person who wrote the great one gets a thank-you, if that. And I didn't see a word about credit in any of this.",
+   "start_s": 1017.898,
+   "end_s": 1027.258,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Fair. It says nothing about credit. What it does promise is security guidance, and that's the part I'd watch. You're handing your agent instructions from a stranger. Imagine a recipe with one line buried in the middle asking for your house keys. Read a skill before you let it in.",
+   "start_s": 1027.258,
+   "end_s": 1044.618,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 10,
+   "speaker": "christina",
+   "text": "So: it travels, nobody's solved the money, and read the card first. I'll take that.",
+   "start_s": 1044.618,
+   "end_s": 1050.938,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 11,
+   "speaker": "bea",
+   "text": "And Tom, take the skill you're proudest of and have Claude put a short plain 'how to use this' at the top, so a stranger can get your result. That folder is where your judgment lives. Make it easy to borrow.",
+   "start_s": 1050.938,
+   "end_s": 1063.338,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 12,
+   "speaker": "christina",
+   "text": "And on that note, Bea goes back to her beach folder full of one cool guy in sunglasses.",
+   "start_s": 1063.338,
+   "end_s": 1069.018,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 13,
+   "speaker": "bea",
+   "text": "He deserves a name. Thanks, Tom. See you next week.",
+   "start_s": 1069.018,
+   "end_s": 1072.538,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 14,
+   "speaker": "christina",
+   "text": "Bye, Tom. Go answer your knocks.",
+   "start_s": 1072.538,
+   "end_s": 1074.858,
+   "chapter": 7
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2962,
+  "api_usd": 10.0428,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 26,
+    "output_tokens": 61790,
+    "cache_read": 300568,
+    "cache_write": 443715,
+    "api_usd": 4.8457,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 131,
+    "input_tokens": 268,
+    "output_tokens": 86926,
+    "cache_write": 681389,
+    "api_usd": 3.6761,
+    "cache_read": 807698,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 12,
+    "chars": 16202,
+    "real_usd": 1.2962,
+    "api_usd": 1.2962
+   },
+   {
+    "kind": "background",
+    "calls": 28,
+    "real_usd": 0.0,
+    "api_usd": 0.2248,
+    "since": "2026-10-22T08:41:14Z",
+    "until": "2026-10-26T10:24:59Z"
+   }
+  ]
+ }
+}
