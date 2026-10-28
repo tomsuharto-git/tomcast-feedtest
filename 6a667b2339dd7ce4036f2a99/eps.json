@@ -265,5 +265,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261026-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261026.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261028",
+    "title": "Work: Wed Oct 28. W+K Goes Hollywood, Kalshi's Court War, Brand Is What We Do",
+    "description": "Work (Bea and Jack): W+K Goes Hollywood, Kalshi's Court War and Brand Is What We Do.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261028.mp3",
+    "audio_bytes": 12925013,
+    "duration_s": 1077,
+    "published_utc": "2026-10-28T08:34:02.775666Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261028-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261028.episode.json"
   }
 ]

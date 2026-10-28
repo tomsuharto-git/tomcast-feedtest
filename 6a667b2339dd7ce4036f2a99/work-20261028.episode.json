@@ -1,0 +1,794 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261028",
+ "show": "work",
+ "title": "Wieden+Kennedy launches an entertainment division to make movies and shows, with and without brands",
+ "date": "2026-10-28",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261028.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261028-art1.png",
+ "duration_s": 1077,
+ "published_utc": "2026-10-28T08:34:02.775666Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "wk-entertainment",
+   "tag": "W+K Goes Hollywood",
+   "headline": "Wieden+Kennedy launches an entertainment division to make movies and shows, with and without brands",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "poly-kalshi-courts",
+   "tag": "Kalshi's Court War",
+   "headline": "The prediction-market fight moves to the courts and regulators as Kalshi gets federal cover",
+   "start_s": 482.81
+  },
+  {
+   "n": 3,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 816.262
+  },
+  {
+   "n": 4,
+   "story_id": "weigel-onion",
+   "tag": "Brand Is What We Do",
+   "headline": "Martin Weigel: the brand onion is now worth less than zero",
+   "start_s": 933.068
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack, hi. Hi, Tom. Jack, why do you sound like you're calling from a stairwell?",
+   "start_s": 8.995,
+   "end_s": 14.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It's the kitchen. Hi, Tom. I'm eating lunch standing at the counter.",
+   "start_s": 14.835,
+   "end_s": 18.915,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Standing? Sit down. You're a grown man.",
+   "start_s": 18.915,
+   "end_s": 22.275,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Well, that's the thing. Last week I bought a second chair for the kitchen table. Good chair. Oak. Very sturdy. So now there are two chairs and one of me, and sitting in either one feels like I'm making a statement. So I stand.",
+   "start_s": 22.275,
+   "end_s": 36.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Oh, Jack. That is the saddest furniture story I've ever heard.",
+   "start_s": 36.835,
+   "end_s": 42.195,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "It's a happy story. It's a really good chair. Is tomorrow clay night?",
+   "start_s": 42.195,
+   "end_s": 46.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Tomorrow at seven. And I'm switching to plates. A plate can't collapse, because it already did. A plate is just a bowl that gave up early.",
+   "start_s": 46.675,
+   "end_s": 55.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Ha. That's the most optimistic thing anybody's ever said about giving up.",
+   "start_s": 55.795,
+   "end_s": 60.355,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "It's basically a business plan. Speaking of business plans for things that might fall over. Did you see Wieden+Kennedy this week?",
+   "start_s": 60.355,
+   "end_s": 67.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I saw the headline and got a little Portland ache in my chest. When I was learning the job out there, that building was the weather. Everybody's work got measured against it. But fill me in. I read one paragraph and then the chair distracted me.",
+   "start_s": 67.795,
+   "end_s": 81.315,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Okay. W+K, the big Portland independent, the shop that made Nike feel like Nike for decades, launched an entertainment division. Movies and shows, on two tracks. One is original stuff with no ad attached at all. The other is getting their clients into film and TV in bigger ways than product placement. And the first project is wild. A Caribbean western called Porto Rico, shooting in the Dominican Republic. Bad Bunny, Viggo Mortensen, Edward Norton. Directed by Residente, the Puerto Rican rapper, his first feature. And Iñárritu, the Birdman director, is executive producing.",
+   "start_s": 81.315,
+   "end_s": 120.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Bad Bunny in a western. Okay, that's a cast. How many of these do they want to make? And the ones with no brand in them, who pays?",
+   "start_s": 120.558,
+   "end_s": 129.478,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Here's the thing. I can't find a single number anywhere. Not a budget, not who's financing it. Which is a little funny, given your question.",
+   "start_s": 129.478,
+   "end_s": 138.718,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Huh. You know they did this once before? There was a W+K Entertainment back in 2001. A series on MTV2, which was MTV's second channel, and a soccer documentary called Ginga, mostly tied to Nike. So my first thought was, I've seen this movie. And then I heard myself think it, and it scared me a little. The last time I was that sure how something ended, I was wrong for about ten years.",
+   "start_s": 138.718,
+   "end_s": 164.318,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Wait. Wrong how?",
+   "start_s": 164.318,
+   "end_s": 166.078,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "A long time ago I sat in a big meeting and talked a brand out of signing a young athlete. Everybody else in the room wanted him. I said too raw, too much risk, I know how this goes. He became a star. Another brand built a decade on him. So when I catch myself saying I know the ending, my stomach drops a little. That's all.",
+   "start_s": 166.078,
+   "end_s": 187.358,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Jack. Thank you for telling me that.",
+   "start_s": 187.358,
+   "end_s": 189.838,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Don't make it a moment. Tell me why this one matters to Tom.",
+   "start_s": 189.838,
+   "end_s": 193.198,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Because his agency's own vision deck describes itself as a cross between A24, the indie film studio everybody's nephew wears the t-shirt of, and MSCHF, the art collective that does the strange viral product drops. And one of the beliefs in their deck is that entertainment is the highest form of advertising. W+K just walked into that exact room, with Bad Bunny. Weirdly, I'm relieved. Once the biggest independent says we make entertainment, the phrase becomes an aisle in the store. Anyone can stand in it. Tom's platform line is still blank, and his own framework says settle the belief first, then write the line. Imagine if they'd written it in September. They'd be rewriting it this week.",
+   "start_s": 193.198,
+   "end_s": 238.478,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I agree with that, plainly. Leave it blank a while longer. But I owe you my evidence question, because I'm the guy who asks it. Does a branded show actually help the brand? The test I care about is what the research people call mental availability. Simple idea. When somebody's about to buy, does your brand pop into their head? My hunch, and it is a hunch, is that long shows are poor at that. Lots of people love a show and couldn't tell you who paid for it. The show gets famous. The brand gets a thank-you in the credits.",
+   "start_s": 238.521,
+   "end_s": 270.601,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "See, I think you've got how the hits get hot backwards. People share a thing when it hands them something they didn't know they wanted. A cast that surprises them. A great edit. Some fandom grabs it and runs. Who paid barely enters into it. That's where the reach you keep asking for comes from. And your distinctive assets, the color or the sound people know is yours without seeing a logo? If nobody passes them around, they're wallpaper.",
+   "start_s": 270.601,
+   "end_s": 298.841,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Sure. And when culture picks it up, you get everybody who already wanted to watch. I care about a different guy. He's never thought about the brand. Six weeks later he's standing in front of the choice and has to remember it. If the brand isn't unmistakably in the thing, culture carries the show home and leaves the brand at the curb. Show me one where it clearly worked for whoever paid, and I'll change my mind on air.",
+   "start_s": 298.841,
+   "end_s": 322.841,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "bea",
+   "text": "I can't hand you a clean one off the top of my head. And that annoys me more than I'm going to admit.",
+   "start_s": 322.841,
+   "end_s": 329.241,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Then let's do Dreamland. Explain it like I'm in the room. Then I'll ask the mean question.",
+   "start_s": 329.241,
+   "end_s": 334.441,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "bea",
+   "text": "Firefly is Adobe's AI image tool. Dreamland is a show Tom's agency pitched them without being asked. A host sits down with a real person and they talk through a real dream that person had. Think Hot Ones, the interview show where celebrities eat hotter and hotter wings. The format does half the work. Adobe liked it enough that there's now two hundred thousand dollars behind it.",
+   "start_s": 334.404,
+   "end_s": 358.404,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Good backbone. Okay, the mean question. Somebody's choosing an image tool. What in that show makes them think of Firefly?",
+   "start_s": 358.404,
+   "end_s": 366.644,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it. Honestly, it's two questions. One: does a real person telling a real dream get passed around? You find that out in the edit. Two: when it does, can anyone say whose it is? You answer that one before you shoot a single frame, or you've just given Adobe a very expensive gift.",
+   "start_s": 366.644,
+   "end_s": 388.884,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "Both of those go on the wall. And I'll push on the money side. W+K's no-brand slate makes them a studio. Studios eat risk for a living. They have financing, they have a slate so one hit pays for four misses. Agencies mostly run on fees. So if Tom's shop wants to call itself a studio, what does a project with no check behind it look like for them? Has anyone done that math?",
+   "start_s": 388.884,
+   "end_s": 413.044,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "bea",
+   "text": "Dreamland was proactive, so they're partway there. But Adobe's money is still Adobe's money. And selfishly, that one hit home. My studio rent goes up by a third in January. Making the thing nobody pays for is the beautiful part and the scary part. I did the math twice. Didn't enjoy it either time.",
+   "start_s": 413.044,
+   "end_s": 433.884,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "Want me to take a third pass? I'm good at the depressing kind of math.",
+   "start_s": 433.884,
+   "end_s": 437.284,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "bea",
+   "text": "Later. Buy me a plate first. For the December offsite in LA, the morning on new creds and positioning, meaning the reel of work the agency shows new clients and the way it says what it stands for, I'd put one question on the wall. What does your agency believe that W+K doesn't? And right under it, what have you already made that proves it?",
+   "start_s": 437.247,
+   "end_s": 460.927,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "And if the answer comes back as we make entertainment, start over, because W+K can say that now too. Provocation beats permission, maybe. Safe is the most expensive strategy, maybe. Both are already in their deck. Make the room fight about which one is true, then make whoever wins point at a piece of work.",
+   "start_s": 460.927,
+   "end_s": 482.047,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "From movies nobody's paying for to money everybody's suing over. You drive this one, Jack. The prediction-market week reads to me like a legal thriller in a language I don't speak.",
+   "start_s": 482.81,
+   "end_s": 494.17,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Ha. Quick picture first. A prediction market: you buy yes or no on something that hasn't happened yet, an election, a game, and the price moves like a stock. Polymarket is Tom's client. Kalshi is the big rival. And this week the fight moved to the courtroom. On Monday the CFTC, the federal regulator for futures, teamed up with the Justice Department and sued the state of Utah. The gist: you can't use your gambling laws on Kalshi.",
+   "start_s": 494.17,
+   "end_s": 522.89,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Why is Utah fighting so hard?",
+   "start_s": 522.89,
+   "end_s": 524.97,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Utah swung first. It went after Kalshi in its own courts a week earlier, to shut it down in the state. Then the feds stepped in on Kalshi's side. And it's not a clean winning streak. They won in Connecticut. A judge said no to them in New York. And back in August a federal judge in Utah already ruled the state's gambling laws do apply to Kalshi's sports contracts. So the feds are pushing uphill there.",
+   "start_s": 524.97,
+   "end_s": 548.97,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Okay, so it's messy. And Kalshi's just sitting back letting Washington fight for it?",
+   "start_s": 548.97,
+   "end_s": 554.41,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "No, that's the part I keep chewing on. Kalshi sued officials in Louisiana over things they'd said in public about prediction markets. And at the same time it put limits on its own young customers.",
+   "start_s": 554.41,
+   "end_s": 565.77,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Hang on, those two go in opposite directions. Why would you sue a state official for talking, and then turn around and limit your own young customers?",
+   "start_s": 565.77,
+   "end_s": 574.41,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Because both build the same record. One says we'll fight anybody who calls us gambling. The other says look, we have guardrails, we're responsible grown-ups. It's grabbing land and helping write the rules at the same time. When the federal government sues a state on your behalf, you get credibility money usually can't buy. And they're turning up inside other people's stores. An online broker, Plus500, is launching Kalshi perpetual futures, which is a futures contract that never expires. All of it says Kalshi wants to look like finance.",
+   "start_s": 574.373,
+   "end_s": 607.973,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Okay, here's where I get nervous for Tom's people. Kalshi's buying the look of a bank. And meanwhile the Polymarket story a normal person sees is a sports bettor with a nickname like Swiss Tony, the guy sitting at the top of Polymarket's trader board, right at the top of the list. You can't out-guardrail that with a billboard.",
+   "start_s": 607.973,
+   "end_s": 628.613,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Huh. Yeah. That's a different kind of trouble from the courtroom. A lawsuit is something lawyers fight about. A nickname is something your brother-in-law repeats at Thanksgiving.",
+   "start_s": 628.613,
+   "end_s": 638.613,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Exactly the wrong story to be famous for. So doesn't being first in someone's head matter even more? If nobody's won the rules yet, whoever people think of when the moment hits gets to keep the spot.",
+   "start_s": 638.613,
+   "end_s": 652.053,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Yes. And that's the whole brief for me. The client insists on switcher-only campaigns, so you're only aiming at people who already trade somewhere else. Switchers move when you're the one they think of in the moment. So the question is which moment. The research people call it a category entry point, the situation that makes you reach for something. Kalshi is clearly going after the game. I'd want Polymarket to own the second the news breaks and nobody knows what happens next. And then show up in that exact second a hundred times, the same way, until it's automatic. Clever once won't do it.",
+   "start_s": 652.016,
+   "end_s": 689.296,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "bea",
+   "text": "I hate that, because clever once is my favorite kind. But I'll give you the moment. And the campaign's already built for it. Check Poly launches around January first, every question is a 2027 question, and they turn up in very specific places, the subway, Times Square. The point is Polymarket feels like the place with answers. Nobody walks away thinking about placing a bet. That's the anti-Swiss Tony move, if they hold the line.",
+   "start_s": 689.296,
+   "end_s": 717.976,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Agreed on Check Poly. Where I'm stuck is the other idea in the deck, Ten x the Madness, for March Madness. Fun mechanic. Back a long shot, win big if it comes in. But put it next to this week. Feds in court arguing this isn't gambling, Kalshi capping college-age deposits, and here's a spot about long-shot payouts during the most dorm-room event in sports.",
+   "start_s": 717.976,
+   "end_s": 741.016,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "bea",
+   "text": "How much worse, though? A little? March Madness is where the reach is. You, of all people, should want the reach.",
+   "start_s": 741.016,
+   "end_s": 748.776,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "jack",
+   "text": "I want the reach. I just don't want it showing up with a subpoena.",
+   "start_s": 748.776,
+   "end_s": 752.256,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Ha. Fair. So here's a test I'd hand the creative team before New York. Take every stake and every payout out of the idea. Does it still stand? If it does, you've got an idea about knowing something before everybody else. If it falls apart, it was a bet in a nice jacket. And that decides what the work shows people: money on the line, or an answer while the news goes crazy.",
+   "start_s": 752.219,
+   "end_s": 777.339,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. I was ready to go line by line. You'd settle it at the idea stage and let everything else fall out of it. Saves everybody a week of arguing over adjectives.",
+   "start_s": 777.339,
+   "end_s": 788.699,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Words come last. Always. Somebody's going to put something pretty on top of a bet and think they fixed it.",
+   "start_s": 788.699,
+   "end_s": 795.499,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "jack",
+   "text": "So, Tom, when you present in New York next week, one question for them: in their building, who gets to say no when a spot starts to look like a bet? And do they say it at the idea, or after it's shot?",
+   "start_s": 795.499,
+   "end_s": 807.419,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 20,
+   "speaker": "bea",
+   "text": "And ask what actually scares them more. A judge, or another Swiss Tony headline. Those are two very different meetings.",
+   "start_s": 807.419,
+   "end_s": 815.499,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Lightning round. One line each. Bea, you're bad at this.",
+   "start_s": 816.262,
+   "end_s": 820.982,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "I'm great at this. I'm just bad at stopping. Go.",
+   "start_s": 820.982,
+   "end_s": 824.982,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "One. Stagwell, the holding company that owns Tom's agency, bought Freestar, an ad-tech company with a lot of publisher ad space and audience data. It all goes into something called the AI Media Machine.",
+   "start_s": 824.982,
+   "end_s": 837.062,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "AI Media Machine sounds like a toy I begged for in 1994 and broke by New Year's. Worth Tom asking what actually comes downstairs to his shop with it. Two. Anthropic, the company that makes Claude, has sharply raised its ad budget ahead of going public.",
+   "start_s": 837.062,
+   "end_s": 854.262,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "If I'm building a new-business list off that, I start with the AI companies heading toward going public. A company about to sell stock needs ordinary people to know its name, and that's reach work, which is a real brief. Three. Omnicom, one of the giant holding companies, is still pushing a big cost-cutting drive, and revenue stayed flat even with big client wins.",
+   "start_s": 854.262,
+   "end_s": 875.862,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Every quarter a giant trims, the small-team story Tom's agency tells gets a little easier to sell. Four. Stablecoins. That's a crypto token built to stay worth a dollar, and Tom has XRP clients, so it's his neighborhood.",
+   "start_s": 875.862,
+   "end_s": 891.062,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "A crypto dollar with a serious grown-up job. Me twenty years ago would have laughed into his coffee. Good week to be one of Tom's XRP people. Five, and I'll skip it so you can get to your Adobe thing.",
+   "start_s": 891.062,
+   "end_s": 903.302,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Boring is the best review a crypto client can get. Six. Adobe and Workfront, its project-management software.",
+   "start_s": 903.302,
+   "end_s": 911.382,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Why do you care? That's the least Bea item I've ever heard.",
+   "start_s": 911.382,
+   "end_s": 915.382,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Because the Adobe product people are skeptical of playbooks that just live in a deck. If the operations part can live inside the tools the teams already open every morning, it has a shot at getting used. Six. And I stopped.",
+   "start_s": 915.382,
+   "end_s": 929.062,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Barely. You were winding up for a seventh.",
+   "start_s": 929.105,
+   "end_s": 932.305,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Last real one. You sent me this at midnight with four exclamation points.",
+   "start_s": 933.068,
+   "end_s": 937.948,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Three. Martin Weigel is a strategist with a really sharp blog about brand. Ask what a brand is, he says, and you get three answers. What we want to be. What we say. What we do. Marketing lives almost entirely in say. For want-to-be, companies settle for a mission statement. And the brand actually gets made in do, in the choices. My favorite line: a description can be admired, only a commitment can be followed. His example is Duolingo capping its notifications, even though more of them would raise daily users.",
+   "start_s": 937.948,
+   "end_s": 974.108,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "And the onion in the title?",
+   "start_s": 974.108,
+   "end_s": 975.868,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "bea",
+   "text": "The brand onion. That layered diagram with values in the middle and personality wrapped around the outside. You hold a workshop, everyone agrees on some words, and finance never sees it.",
+   "start_s": 975.868,
+   "end_s": 987.148,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "I wrote a couple of mission statements as a CMO. He has a line that a mission statement is proof of alignment on the absence of disagreement. Yeah. That stings about right.",
+   "start_s": 987.148,
+   "end_s": 998.188,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Add it to what you owe me in November, whether losing that job still stings.",
+   "start_s": 998.188,
+   "end_s": 1002.428,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Noted. Right under the chair. But I'll argue with him a little. A company can behave beautifully and still be the one nobody thinks of when they're buying. Somebody still has to say it, to a lot of people.",
+   "start_s": 1002.428,
+   "end_s": 1014.748,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "bea",
+   "text": "I'll give you that. The doing gives people something worth passing along, and then the saying has to travel. So the December offsite morning. One wall for what the agency made this quarter, and next to it a column for what got killed. On High Noon, Autopilot, dropped because it shamed the audience. Nobody writes a line until that wall is full.",
+   "start_s": 1014.748,
+   "end_s": 1037.068,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "And put the uncomfortable ones up too. Anything you killed that you still like. Did that cut feel like a refusal or a retreat? Either answer tells you what you really believe.",
+   "start_s": 1037.068,
+   "end_s": 1047.708,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "bea",
+   "text": "So two things for your week, Tom. Before New York, take the payout out of Ten x the Madness and see if the idea still stands.",
+   "start_s": 1047.671,
+   "end_s": 1055.431,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "And before December, answer what your agency believes that W+K doesn't, with something you already made sitting right next to it. That's the show.",
+   "start_s": 1055.431,
+   "end_s": 1064.551,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Sit in the chair, Jack.",
+   "start_s": 1064.551,
+   "end_s": 1065.911,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Make a plate. Bye, Tom.",
+   "start_s": 1065.911,
+   "end_s": 1067.831,
+   "chapter": 4
+  }
+ ],
+ "cost": {
+  "real_usd": 1.3208,
+  "api_usd": 9.6844,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 9,
+    "input_tokens": 18,
+    "output_tokens": 68935,
+    "cache_write": 222961,
+    "api_usd": 3.1677,
+    "cache_read": 26333,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 97,
+    "input_tokens": 216,
+    "output_tokens": 100158,
+    "cache_read": 688421,
+    "cache_write": 741229,
+    "api_usd": 4.0358,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 185166,
+    "output_tokens": 14434,
+    "api_usd": 0.1357,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 13,
+    "chars": 16510,
+    "real_usd": 1.3208,
+    "api_usd": 1.3208
+   },
+   {
+    "kind": "background",
+    "calls": 12,
+    "real_usd": 0.0,
+    "api_usd": 1.0244,
+    "since": "2026-10-25T08:34:17Z",
+    "until": "2026-10-28T08:34:02Z"
+   }
+  ]
+ }
+}
