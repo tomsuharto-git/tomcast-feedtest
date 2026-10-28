@@ -277,5 +277,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261028-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261028.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261028",
+    "title": "Sports: Wed Oct 28. Dame Time in LA, Blazers 3-0 Start, Edwards Knee Surgery, Tatum Buzzer-Beater, League Lightning Round",
+    "description": "Sports (Mikey and Jack): Dame Time in LA, Blazers 3-0 Start, Edwards Knee Surgery, Tatum Buzzer-Beater and League Lightning Round.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261028.mp3",
+    "audio_bytes": 14227165,
+    "duration_s": 1186,
+    "published_utc": "2026-10-28T08:36:04.909290Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261028-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261028.episode.json"
   }
 ]
