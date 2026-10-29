@@ -289,5 +289,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261028-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261028.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261029",
+    "title": "Builder: Thu Oct 29. Two hosts, one voice, Managed Agents, briefly, Dot vs Duet, Anthropic S-1, Gemini 4 Carbon + Terra, Kimi K3.1 Pro, The Hackening",
+    "description": "Builder (Christina and Bea): Two hosts, one voice, Managed Agents, briefly, Dot vs Duet, Anthropic S-1, Gemini 4 Carbon + Terra, Kimi K3.1 Pro and The Hackening.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261029.mp3",
+    "audio_bytes": 11877399,
+    "duration_s": 990,
+    "published_utc": "2026-10-29T10:44:47.724917Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261029-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261029.episode.json"
   }
 ]
