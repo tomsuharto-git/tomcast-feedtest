@@ -1,0 +1,676 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261030",
+ "show": "sports",
+ "title": "Blazers' first loss",
+ "date": "2026-10-30",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261030.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261030-art1.png",
+ "duration_s": 708,
+ "published_utc": "2026-10-30T09:32:02.598277Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Blazers fall to Memphis",
+   "headline": "Blazers' first loss: 37 missed threes or a real gap with 5-0 Memphis?",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Boozer triple-double",
+   "headline": "Boozer's triple-double and the Grizzlies at 5-0",
+   "start_s": 165.381
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Ja hurt, guards shaky",
+   "headline": "Ja's hamstring, Dame's slump, and the Scoot question before Utah",
+   "start_s": 293.467
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Edwards knee, injury wave",
+   "headline": "The NBA injury wave: Edwards' knee scope, Ja, and a Curry-less Warriors question",
+   "start_s": 422.673
+  },
+  {
+   "n": 5,
+   "story_id": "s5",
+   "tag": "Around the league",
+   "headline": "Around the league lightning round",
+   "start_s": 566.199
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. Morning. You sound awake, and I resent it.",
+   "start_s": 10.175,
+   "end_s": 13.855,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Up since five. I bought Halloween candy last night. Full-size bars.",
+   "start_s": 13.855,
+   "end_s": 18.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "For who? You live in a building with a doorman.",
+   "start_s": 18.655,
+   "end_s": 21.375,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "That's what the doorman said. Old habit. So I'll be eating Snickers through the Knicks game.",
+   "start_s": 21.375,
+   "end_s": 26.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "That's the saddest thing I've heard all week, and I watched our game last night.",
+   "start_s": 26.815,
+   "end_s": 30.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Ha. Fair. How's your dad taking it?",
+   "start_s": 30.815,
+   "end_s": 33.615,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Text at ten-forty. One word. \"Free throws.\" No period. And I kept it. I've got a little pile of these now. \"Dame.\" \"Refs.\" \"Free throws.\" I don't delete any of them. I couldn't tell you why.",
+   "start_s": 33.615,
+   "end_s": 46.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "You could tell me why.",
+   "start_s": 46.255,
+   "end_s": 47.535,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Shut up. Free throws. Okay, first loss. Memphis is five and oh, and it was ugly. But I did math at midnight. We went twelve of forty-nine from three. Hit a boring thirty-five percent and that's five more makes, fifteen points. Make four of the nine free throws we missed, that's nineteen of the twenty-one-point loss. Most of it's just a cold night.",
+   "start_s": 47.535,
+   "end_s": 69.615,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I don't buy that. Memphis scored twenty-three off our sixteen turnovers. We got nine off theirs. That's a fourteen-point swing, and turnovers are choices. A cold night doesn't throw a pass into the third row.",
+   "start_s": 69.615,
+   "end_s": 82.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Some of that comes from the misses, though. You brick a three, it bounces long, they're gone. Twenty-one fast-break points for them, twelve for us.",
+   "start_s": 82.655,
+   "end_s": 90.495,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Okay, misses feed their running game, I'll give you that. But Deni Avdija, your best guy last night, had twenty-four, nine and seven, and the team still looked loose on both ends. Missed threes wrecked the spacing, and then the confidence went. To me that sounds like a team losing its shape.",
+   "start_s": 90.495,
+   "end_s": 106.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Or a guy being honest. Two days ago on this show you gave me a test for our first loss. If the ball stops moving and it turns into Dame and Ja trying to win it alone, you were right. Deni had seven assists and zero turnovers. Twenty-three assists on thirty-seven baskets. The ball moved. It just didn't go in.",
+   "start_s": 106.938,
+   "end_s": 125.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. A team can miss everything and still look like itself. Fine, I don't get to claim that one.",
+   "start_s": 125.418,
+   "end_s": 133.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Thank you. And I'll hand you something back. The real hole is backup center. Rob Williams, our big, sat with a sore knee. So Branden Carlson played twelve minutes, three turnovers, and we were minus thirteen, meaning Memphis outscored us by thirteen while he was out there. Meanwhile Yang Hansen, the young center we traded for, gets five minutes. Hits a three, blocks a shot.",
+   "start_s": 133.178,
+   "end_s": 155.258,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "So why's Carlson ahead of him? What is the coach seeing that you aren't?",
+   "start_s": 155.258,
+   "end_s": 159.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Ask Nori. I'd play the kid. And yes, I can hear you thinking it. Two years away.",
+   "start_s": 159.178,
+   "end_s": 164.618,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "And then there's the kid who beat us. Cameron Boozer. Youngest player in the league, a big forward Memphis just drafted. Eighteen points, twelve rebounds, twelve assists in twenty-eight minutes. Only Josh Giddey did a triple-double younger. Four of five from three. You know my whole thing, the rookie who looks lost in November and different in March? This one looked finished in October. The last assist that got him there was a kickout to Cedric Coward for a corner three. I respect it. I hate it.",
+   "start_s": 165.381,
+   "end_s": 194.661,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "What I trust more is everything around him. Ty Jerome, their guard who was Player of the Week, goes three of twelve, and they still win going away. Isaiah Stewart off the bench, eighteen in sixteen minutes. Cam Spencer scores eight and he's plus twenty-one, best on the floor. Twelve of twelve at the line. Your best scorer goes cold and you still blow us out? That's a team.",
+   "start_s": 194.661,
+   "end_s": 218.261,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "And Memphis built this the cheap way. Young kid, bargain guys around him, and it's working.",
+   "start_s": 218.261,
+   "end_s": 223.381,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Does the cheap payroll prove what you want it to?",
+   "start_s": 223.381,
+   "end_s": 225.861,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Money's your side of the table. What am I missing?",
+   "start_s": 225.861,
+   "end_s": 228.261,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Rookie contracts. A first-rounder's salary is set by a league scale, so a kid who plays like a starter gets paid like a bench guy. Best deal in the sport. Part of why Memphis is under the cap, the league's limit on what a team can spend on salaries, is that Boozer is cheap. So the money tells you the kid's a bargain. Whether the front office is brilliant is a separate question.",
+   "start_s": 228.261,
+   "end_s": 249.541,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Somebody had to draft the kid, though! And find Spencer, and decide Stewart's a bench scorer. Being cheap is easy. Cheap and five and oh, that takes scouting.",
+   "start_s": 249.541,
+   "end_s": 259.221,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Fair. And I'd have been the wrong guy in that draft room. Big forward, the report says he can pass. Every report says that. I'd have rolled my eyes. Twelve assists. Okay.",
+   "start_s": 259.221,
+   "end_s": 270.181,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Ha. Twelve, Jack.",
+   "start_s": 270.181,
+   "end_s": 272.901,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I heard. But here's what keeps me from crowning them. Eighteen of forty-two from three, and one block all game. One. Hot shooting comes and goes. I want to see that defense in a playoff series.",
+   "start_s": 272.864,
+   "end_s": 286.144,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "I'm telling you, they're a real playoff team. And in March I'll swear our kids are better. Don't believe me then either.",
+   "start_s": 286.144,
+   "end_s": 292.704,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Before we go anywhere else. Ja. What do we actually know?",
+   "start_s": 293.467,
+   "end_s": 297.867,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Not much. Ja Morant, our new guard, was playing his old team for the first time. Fourteen points in twenty-three minutes, then in the fourth he's grabbing the back of his left leg. He felt a twinge in the hamstring. Nori's hoping it's minor. He's day to day for Saturday at Utah, so they'll decide close to tip. I'm not guessing beyond that.",
+   "start_s": 297.867,
+   "end_s": 317.627,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Then what I keep chewing on is Dame. Three of thirteen, and Nori kept him out there thirty minutes. Seems like he trusts the shots. Do you?",
+   "start_s": 317.627,
+   "end_s": 327.307,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "With Dame, yeah. He's coming back from a torn Achilles, that's the big tendon behind the heel, so two bad nights and people are writing him off. He's a catch-and-shoot guy now, meaning he catches a pass and shoots right away instead of dribbling to make his own shot, and that's the version I wanted. What worries me is Ja sitting. Then Dame has to make things off the dribble, and that's the job that doesn't fit him anymore.",
+   "start_s": 327.307,
+   "end_s": 349.547,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "So who takes that job? Because one fan post this morning called Scoot a certified bust.",
+   "start_s": 349.547,
+   "end_s": 355.347,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "I'm not saying that word about a kid. Scoot Henderson, our young guard, third year, playing for his next contract. He's the fourth guard, behind Dame, Ja and Jrue Holiday. Last night, nine points, zero assists, two turnovers. That's bad. But if Ja sits, give Scoot twenty calm minutes. Utah has Jaren Jackson and Nurkic both out. Protect the ball, get us into our stuff.",
+   "start_s": 355.347,
+   "end_s": 379.867,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "But that's exactly why Saturday won't tell you anything. A team that short-handed? Calm minutes is the job description. What would make you say you're wrong about him?",
+   "start_s": 379.867,
+   "end_s": 389.307,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Hm. If he gets real minutes against that team and still can't set up one good look for somebody else. Zero assists with the lights that low? Then I'll say it. Okay, that's the optimism talking. But I'd rather find out by playing him than by reading Reddit.",
+   "start_s": 389.27,
+   "end_s": 404.31,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "That's a real answer. And Jrue was minus sixteen in twenty-four minutes, so the steady veteran wasn't steady either. If it were my call, I'd sit Ja Saturday. A game in October isn't worth a hamstring in February.",
+   "start_s": 404.31,
+   "end_s": 418.47,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Agreed. My dad will text me one word about it either way.",
+   "start_s": 418.47,
+   "end_s": 421.91,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "And it's everywhere. Anthony Edwards had knee surgery yesterday. A debridement. I've read that word five times this morning and I couldn't tell you what it is.",
+   "start_s": 422.673,
+   "end_s": 431.873,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It's a cleanup. They go in with a tiny camera and smooth out or pull out the junk in the joint. Damaged cartilage, loose bits. Full recovery expected, no timeline, could be up to two months. The bad part is that knee's been sore since last spring. An MRI Tuesday found new damage the earlier scans missed. And on Monday, on that knee, he scored forty-seven in an overtime loss in Cleveland.",
+   "start_s": 431.873,
+   "end_s": 456.913,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "A hundred thirty-three points in four games. Franchise record. On a knee worse than anybody knew. And I cheered that forty-seven. Now I feel kind of weird about it. We love the guy who plays through it, and then we act shocked when he needs surgery.",
+   "start_s": 456.913,
+   "end_s": 471.713,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "That's the right thing to feel weird about. Zach Lowe, the NBA podcaster, spent a big chunk of his show this week on why so many guys are hurt. Oklahoma City lost Jalen Williams and Kayson Wallace at once, and it's hit Minnesota, Utah, Indiana, Orlando. The league sells stars in uniform. To TV, to people buying tickets. Every star in a suit on the bench is the product missing.",
+   "start_s": 471.713,
+   "end_s": 496.713,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "I still think Minnesota's fine. Two months is November and December. Their plan is scoring by committee, everybody chips in.",
+   "start_s": 496.713,
+   "end_s": 503.833,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Committees are great for filling minutes. They're worse with four minutes left, when one guy has to decide. And the obvious guy is LaMelo Ball, who just got there. He's still turning it over. Is that who you want with the ball late?",
+   "start_s": 503.833,
+   "end_s": 516.993,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "See, I think this is the best thing for LaMelo. He shows up in a new city, the offense runs through somebody else, and he's been figuring out where he fits. Now nobody's deferring to anybody. Give him the ball for three weeks and then we talk.",
+   "start_s": 516.993,
+   "end_s": 530.033,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "You can't call him lost and also count on him to take the last shot. Pick one.",
+   "start_s": 529.996,
+   "end_s": 534.636,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "I can absolutely do both. That's the whole job of being a fan. Now, don't you have your own injury going?",
+   "start_s": 534.636,
+   "end_s": 541.276,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Jose Alvarado, our backup guard, misses his fourth straight with the ankle tonight against Philly. Tyler Kolek's covering: twenty-one assists and zero turnovers in three games. Outside, I'm calm. Inside, I'm knocking on wood so hard my knuckles hurt.",
+   "start_s": 541.276,
+   "end_s": 557.436,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "A Knicks backup with zero turnovers and you're still sweating. That's love.",
+   "start_s": 557.436,
+   "end_s": 562.796,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "jack",
+   "text": "That's the Knicks. Same thing, mostly.",
+   "start_s": 562.796,
+   "end_s": 565.436,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Quick spin. Jeremiah Fears, the Pelicans' young guard, twenty-two points and a career-high thirteen assists, first win of the year over Sacramento. A young guard whose best night is setting everybody else up. My favorite kind.",
+   "start_s": 566.199,
+   "end_s": 579.799,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Kings are oh and five, and they gave it away twenty-five times last night. And Steph Curry's still rescuing the Warriors on his own some nights. My question is who rescues them on the nights he can't.",
+   "start_s": 579.799,
+   "end_s": 591.159,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "The one that actually got me was Atlanta. Game Six of the WNBA Finals, the Dream beat Golden State, a packed building, and fans, players, media all got rushed out so they could flip the arena for a Hawks game. That's where I go cold. The building belongs to the people who showed up.",
+   "start_s": 591.159,
+   "end_s": 607.959,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I'm fully with you, and the business case is worse than the feeling. Those fans are exactly who the league wants to keep. And the message they got was, you're the opening act for a Hawks game in October.",
+   "start_s": 607.959,
+   "end_s": 619.319,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Okay, the Bears. What happened, and do I care?",
+   "start_s": 619.319,
+   "end_s": 622.999,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "jack",
+   "text": "You might. Chicago traded for Jeffrey Simmons, Tennessee's defensive tackle. He's twenty-nine, one of the best big guys in the middle of a line, the kind who wrecks the run and lives in the quarterback's lap. Tennessee's best player, and the guy the whole locker room leaned on. The Bears paid a lot of picks for him, first-rounders included.",
+   "start_s": 622.999,
+   "end_s": 641.879,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Two firsts for one lineman? Why now?",
+   "start_s": 641.879,
+   "end_s": 644.839,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Their quarterback. Caleb Williams is still on his rookie deal, so he's cheap, same idea as Boozer. After this season he can sign an extension and suddenly he costs real money. So right now you've got a good young quarterback who's cheap, and that's when you spend everywhere else. Let me play the other side for a second, though. Picks are guesses. Who knows if those two even hit?",
+   "start_s": 644.839,
+   "end_s": 666.199,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "You spent five minutes telling me a draft pick that hits, on a rookie deal, is the best bargain in sports. Now they're just guesses?",
+   "start_s": 666.162,
+   "end_s": 673.762,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Ugh. Fine. And the money cuts the other way too. Simmons is going to be paid a lot of guaranteed money into his thirties, right as Caleb gets expensive. It's a big bet.",
+   "start_s": 673.762,
+   "end_s": 685.362,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "So you're coming around.",
+   "start_s": 685.362,
+   "end_s": 686.962,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Halfway. I'd still make the swing. I'd just sweat it more.",
+   "start_s": 686.962,
+   "end_s": 690.722,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "That's the Knicks again. Utah Saturday. Go eat a Snickers, Jack. Nobody's coming for them.",
+   "start_s": 690.722,
+   "end_s": 696.642,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 13,
+   "speaker": "jack",
+   "text": "The doorman might. See you Saturday.",
+   "start_s": 696.642,
+   "end_s": 698.882,
+   "chapter": 5
+  }
+ ],
+ "cost": {
+  "real_usd": 0.9118,
+  "api_usd": 10.9525,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 120,
+    "input_tokens": 242,
+    "output_tokens": 154765,
+    "cache_write": 1378136,
+    "api_usd": 7.1266,
+    "cache_read": 659011,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 62999,
+    "cache_write": 206147,
+    "api_usd": 2.9141,
+    "cache_read": 24482,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 10,
+    "chars": 11398,
+    "real_usd": 0.9118,
+    "api_usd": 0.9118
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-10-28T08:36:04Z",
+    "until": "2026-10-30T09:32:02Z"
+   }
+  ]
+ }
+}

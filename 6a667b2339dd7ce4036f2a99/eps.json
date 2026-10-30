@@ -301,5 +301,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261029-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261029.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261030",
+    "title": "Sports: Fri Oct 30. Blazers fall to Memphis, Boozer triple-double, Ja hurt, guards shaky, Edwards knee, injury wave, Around the league",
+    "description": "Sports (Mikey and Jack): Blazers fall to Memphis, Boozer triple-double, Ja hurt, guards shaky, Edwards knee, injury wave and Around the league.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261030.mp3",
+    "audio_bytes": 8496945,
+    "duration_s": 708,
+    "published_utc": "2026-10-30T09:32:02.598277Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261030-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261030.episode.json"
   }
 ]
