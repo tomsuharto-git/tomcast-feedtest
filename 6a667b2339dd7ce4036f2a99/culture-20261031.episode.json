@@ -1,0 +1,637 @@
+{
+ "schema": 1,
+ "guid": "tomcast-culture-20261031",
+ "show": "culture",
+ "title": "Taste wins the AI economy, and AI is closing the school where taste gets made",
+ "date": "2026-10-31",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261031.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261031-art1.png",
+ "duration_s": 851,
+ "published_utc": "2026-10-31T08:24:48.251015Z",
+ "hosts": [
+  "christina",
+  "bea"
+ ],
+ "speech_start_s": 9.755,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "lead",
+   "tag": "Taste wins the AI economy",
+   "headline": "Taste wins the AI economy, and AI is closing the school where taste gets made",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "closer",
+   "tag": "Watch Nathan Fielder's 'You",
+   "headline": "Watch Nathan Fielder's 'You Can See Everything'",
+   "start_s": 559.213
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Hi! Happy Halloween. It's Christina, and Bea Ruben is here with me from Los Angeles, which is the best costume I could have asked for.",
+   "start_s": 9.755,
+   "end_s": 19.035,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Hi! I'm in a hoodie. That's the costume. LA woman who owns a hoodie in October and needs everyone to know it's cold.",
+   "start_s": 19.035,
+   "end_s": 27.275,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "It's a perfectly nice day there.",
+   "start_s": 27.275,
+   "end_s": 29.275,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "bea",
+   "text": "It was chilly this morning. I suffered.",
+   "start_s": 29.275,
+   "end_s": 31.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Very scary. Okay, confession. I bought the full-size candy bars. Montclair is a full-size town, and there's real peer pressure on my street. You do not want to be the house with the little ones. People remember. And I've already eaten three. It's eleven in the morning.",
+   "start_s": 31.835,
+   "end_s": 50.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Three! Which kind?",
+   "start_s": 50.475,
+   "end_s": 52.315,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "The peanut butter cups. The good ones. The ones I'm supposedly giving to children.",
+   "start_s": 52.315,
+   "end_s": 57.035,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "bea",
+   "text": "So tonight you open the door with an empty bowl and give a little talk about scarcity. Seven-year-old Spider-Man getting a lecture on supply.",
+   "start_s": 57.035,
+   "end_s": 65.755,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Kids love a talk. Wait, you told me you were giving up on bowls at clay night and moving to plates. Did the plate make it?",
+   "start_s": 65.755,
+   "end_s": 73.195,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "bea",
+   "text": "The plate folded. It looks like a taco that had a really bad week. One side went up while I was trimming it, and then it just sort of gave up. My teacher came over, looked at it for a long time, and said, \"That's a choice.\" And honestly? I've never felt so seen. It's the one place in my week where I'm bad at something in front of somebody who knows better, and they tell me so, out loud. And nobody's billing anyone for it.",
+   "start_s": 73.195,
+   "end_s": 100.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Okay, hold onto that sentence. You just walked straight into the thing I want to fight about.",
+   "start_s": 100.235,
+   "end_s": 105.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Uh oh. I walked into a trap holding a taco.",
+   "start_s": 105.675,
+   "end_s": 108.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "So. Derek Thompson writes about economics and culture, and he hosts a podcast called Plain English. Last week he had Ethan Mollick on. Mollick teaches at Wharton, the business school, and he's become the person everybody calls to ask what AI is doing to work. He has a new book out called Co-Existence. And the idea running through their whole conversation is this. AI makes experts more powerful. And it automates the junior work that turns people into experts in the first place.",
+   "start_s": 108.838,
+   "end_s": 139.798,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Wait, say that slower. The seniors get a superpower, and the kids lose the ladder they'd need to climb to get the same superpower?",
+   "start_s": 139.798,
+   "end_s": 148.358,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "Yes. And I think he's right about that part. So here's my position. Everybody has agreed that taste is the last thing humans have that the machine doesn't. You say it constantly.",
+   "start_s": 148.358,
+   "end_s": 159.478,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "bea",
+   "text": "I do say it constantly. It's basically my tattoo.",
+   "start_s": 159.478,
+   "end_s": 162.918,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "And I believe it! But nobody asks where taste comes from. Mostly it comes from years of being bad at something while somebody who knows better watches you. And that bad junior work is exactly the work the machine does now.",
+   "start_s": 162.918,
+   "end_s": 177.118,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Okay, but where did yours come from? Concretely.",
+   "start_s": 177.118,
+   "end_s": 180.478,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Concretely? My first years writing about TV were hundreds of little pieces nobody read. Episode recaps. Quick reactions at midnight. And an editor who sent them back covered in red, with one note at the bottom that just said \"why?\" That's where I learned what a good sentence costs. Now a machine writes the recap in seconds. So you can keep the job and never build the muscle. You get hired, and then nobody teaches you anything.",
+   "start_s": 180.478,
+   "end_s": 208.038,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Hmm. Okay, I've got two pushes. First, the jobs. I don't think the juniors disappear. The companies leaning hardest on AI still need people to hand the work to, and I'd bet they keep hiring them.",
+   "start_s": 208.038,
+   "end_s": 220.838,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "I know. That one annoyed me when I read it, so I'll own it. The missing generation I'm worried about is a forecast. I can't point to it yet. The companies in that survey lean toward bigger, more technical ones, and a twelve-person design studio looks nothing like that. But fine, take it at face value. The juniors stay. So the question becomes what they do all day once they're in the building. And my guess, and it really is a guess, is they approve things more than they make them.",
+   "start_s": 220.801,
+   "end_s": 252.721,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "bea",
+   "text": "Which is my second push. Approving is a skill too. I think approving and making run on the same eye, and you're underrating the eye. Mine came from the worst work of my life. I spent a year resizing banner ads. Same ad, forty sizes. And making the bad option on purpose, so a creative director could point at it and say, \"No, not that.\" That was my whole education.",
+   "start_s": 252.721,
+   "end_s": 278.881,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "Wait, you're making my point for me. That's being bad at something while somebody watches.",
+   "start_s": 278.881,
+   "end_s": 284.361,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "bea",
+   "text": "Let me finish, because the editors are where I think you're actually wrong. Film editors. A great editor never shot a single frame. Their whole taste is choosing. They sit in a dark room with a hundred hours of footage and decide which four seconds matter. So picture a junior who gets two hundred options a day, has to pick one, and then defend the pick to a room. That might be more reps in a month than I got in a year of banners.",
+   "start_s": 284.361,
+   "end_s": 312.241,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "That's a real point. I don't love it.",
+   "start_s": 312.241,
+   "end_s": 314.881,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "bea",
+   "text": "And look at Lagos. Lots of creative people there teach themselves with hardly any formal training, and they come out tough and really, really good. Taste gets made outside the agency junior desk all the time. Maybe we're mourning one particular school because it's the one we went to.",
+   "start_s": 314.881,
+   "end_s": 332.241,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "Ooh. Okay, but Lagos is about the least frictionless place in this whole conversation, right? Nobody there is handing people two hundred finished options. They're figuring it out alone, the hard way. I'd put that on my side. Taste can come from anywhere, as long as somebody's actually struggling.",
+   "start_s": 332.204,
+   "end_s": 350.684,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "bea",
+   "text": "Okay, fair. Lagos is a lot of friction. I'll give you Lagos. I'm keeping the editors.",
+   "start_s": 350.684,
+   "end_s": 357.004,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "Keep the editors. But your banners moved me a little. Think about who was in that room with you. A creative director saying \"no, not that,\" and then saying why. That's where you learned. And clients paid for that without knowing it. They paid for junior hours, the hours had mistakes in them, and somebody senior fixed the mistakes out loud in front of the kid. The tuition was hidden inside the invoice. Take away the billable junior hours and the tuition goes with them. So who gets paid to stand behind the kid and explain why their thing is fine but not good?",
+   "start_s": 357.004,
+   "end_s": 391.404,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it.",
+   "start_s": 391.404,
+   "end_s": 394.604,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "christina",
+   "text": "And companies don't usually pay to train people in skills they think they no longer need. Factories went through a version of this a century ago, when machines took over the simple jobs where new workers used to learn the trade. So nobody ever votes to close the school. It just stops being worth anyone's quarter.",
+   "start_s": 394.604,
+   "end_s": 411.404,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "bea",
+   "text": "See, I don't buy the quiet version. Taste is the thing a studio sells. It's the whole product. So at some point a firm looks up and notices all its work looks the same. Forty options from a machine, the kid picks one, it ships, and nobody ever tells them it was the beige one. Somebody notices the beige. A client notices. Somebody loses a pitch.",
+   "start_s": 411.404,
+   "end_s": 435.164,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "christina",
+   "text": "Sure. In ten years. Which is about nine years and nine months longer than a quarter.",
+   "start_s": 435.164,
+   "end_s": 441.004,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "bea",
+   "text": "Ugh. Yes. Okay. And I'm the wrong person to be gloomy, because I really do think the tools make more people makers. My mom's friends are making birthday videos now. But on this one I don't think it fixes itself. You'd have to design it on purpose. The junior gets the blank page first. Makes the weak version by hand. Then the machine shows them three better ones, and they have to say out loud why the better one is better. Like my taco plate. I know exactly why it fell over. The wall was too thin on one side because I rushed the trim. My hands told me, and then my teacher told me.",
+   "start_s": 440.967,
+   "end_s": 478.247,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "christina",
+   "text": "Okay, that's better than mine. Making first, then choosing. I'll take that. And Tom, this is the line for you at the studio. Your juniors' bad first drafts are your training budget. If clients stop paying for those hours, put the training on the books as research and development, out in the open. If it stays buried in the billables, it's the first thing that gets cut. And when you interview juniors, skip the polished portfolio piece and—",
+   "start_s": 478.247,
+   "end_s": 505.367,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "bea",
+   "text": "Ask for the version they threw away. That's the one with the taste in it.",
+   "start_s": 505.367,
+   "end_s": 509.047,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "christina",
+   "text": "Oh, that's good. Okay, prediction. By the end of 2027, one of the giant holding companies, the groups that own dozens of agencies, or one of the top independent agencies, launches a branded apprenticeship where first-year creatives can't use AI. And they sell it to clients as a quality guarantee.",
+   "start_s": 509.047,
+   "end_s": 529.527,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "bea",
+   "text": "Oh, I'll take that, and I think you're right. I just think it'll be a press release with a beautiful logo, a manifesto, and three kids in it.",
+   "start_s": 529.527,
+   "end_s": 537.607,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 38,
+   "speaker": "christina",
+   "text": "Ha. Three very photogenic kids. So we still disagree on the big one. I think taste really only comes from making the bad thing yourself.",
+   "start_s": 537.607,
+   "end_s": 548.647,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 39,
+   "speaker": "bea",
+   "text": "And I think enough choosing, with somebody telling you when you chose wrong, gets you most of the way there. Ask me again when the kids who started this year are running something.",
+   "start_s": 548.61,
+   "end_s": 558.45,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, I need something fun after that. My pick for the weekend is You Can See Everything, Nathan Fielder's new documentary. Fielder is the comedian who builds huge, elaborate fake setups to catch real behavior. Nathan for You, where he gave small businesses absurd advice and then actually carried it out. The Rehearsal, where he built full-size replicas of places so people could practice hard conversations. This time his subject is Elizabeth Holmes.",
+   "start_s": 559.213,
+   "end_s": 588.853,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "The Theranos founder. The blood-test company.",
+   "start_s": 588.853,
+   "end_s": 591.773,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Right. Her startup claimed its little machine could replace a whole lab's worth of blood tests, and she was convicted of fraud. A24, the studio behind half the movies your friends argue about, put it out in mid-October, and the reviews are glowing. I haven't seen it yet. I'm going this weekend. But you've been reading everything about it. What's the scene everybody keeps bringing up?",
+   "start_s": 591.773,
+   "end_s": 616.253,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Okay, picture this. Fielder basically embeds with her and films at her house for what sounds like forever. And she keeps insisting the device \"can\" run thousands of tests. The machine never came close. Her argument is that it can, because it could, once future technology lets it. Fielder gets stuck on that one word. So he plays her the old Abbott and Costello routine, \"Who's on First?\" That's the black-and-white comedy bit where two guys go in circles because the baseball players have names that sound like questions.",
+   "start_s": 616.253,
+   "end_s": 649.773,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Wait, she doesn't get Who's on First?",
+   "start_s": 649.773,
+   "end_s": 652.733,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "She says she doesn't. Stanford, richest self-made woman in the world at one point, and she says she doesn't get it. And it makes me squirm, honestly. That logic is a pitch deck. And I'm the person who says I don't care about a launch until I can build with it, and I still fall for the launch video every single time. So I don't get to feel superior. The one line I'd draw is that when I ship a broken thing, I say it's broken. I told you about the taco in the first minute.",
+   "start_s": 652.696,
+   "end_s": 683.976,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Okay, I'll push on the scene, though. Maybe she gets the joke fine. But getting it would mean admitting she sees that Fielder thinks her whole defense is a joke. So she can't get it. Not getting it is the defense.",
+   "start_s": 683.976,
+   "end_s": 698.616,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Oh. Oh, that's worse. The blank face is the move.",
+   "start_s": 698.616,
+   "end_s": 702.936,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "christina",
+   "text": "And that's the bigger thing the movie is chewing on. He films her for ages. Close-ups so tight you can count her pores. He has an actress who's played her act out scenes. He names the thing You Can See Everything. And after all of it, you still can't say for sure what's happening behind her eyes.",
+   "start_s": 702.936,
+   "end_s": 723.016,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Oof. All that footage and still no answer. That's going on a mug. A leaning mug, but a mug.",
+   "start_s": 723.016,
+   "end_s": 730.296,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Ha. And I'll push on your taco too. A visible flaw can be performed. Fielder's whole awkward, earnest thing is a technique. He's performing the entire time. To me it's a strange new kind of rom-com. One person uses fakery to find out whether someone's honest. The other performs honesty to hide her fakery. Same toolbox, both of them.",
+   "start_s": 730.296,
+   "end_s": 755.096,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Yes, and that's what makes me nervous for brands. If the seams become the style, you get the founder note with the typo left in on purpose. The rough cut on the homepage. The behind-the-scenes video where somebody's hair is messy under very expensive lighting. For me a seam only counts when something actually fell over and you made the next one anyway. You can't fake the next one.",
+   "start_s": 755.059,
+   "end_s": 778.499,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Can't you, though? That's what the movie leaves you with, and I love that it won't settle. Okay, I'm too online, but it got me a little. I've been rereading my old newsletter issues, trying to figure out which parts of my voice were really me and which parts I just learned were working.",
+   "start_s": 778.499,
+   "end_s": 795.779,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Christina. How far back did you go?",
+   "start_s": 795.779,
+   "end_s": 798.339,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "christina",
+   "text": "All the way to the midnight recaps. Some of them are bad. Some of them are better than what I write now, which is rude.",
+   "start_s": 798.339,
+   "end_s": 807.139,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "bea",
+   "text": "For the record, I was there. Your voice was good before anybody was counting. It got good because of the reps, the red pen, all of it. That part was real.",
+   "start_s": 807.139,
+   "end_s": 817.619,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "christina",
+   "text": "Okay. I'm going to go see a movie about a liar and feel better about myself. Very healthy.",
+   "start_s": 817.619,
+   "end_s": 823.379,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Extremely normal. Go this weekend, I'll go too, and next week we argue properly, having both actually seen it.",
+   "start_s": 823.379,
+   "end_s": 830.739,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Deal. And Who's on First is going to be stuck in my head all weekend. That's the show. Go hand out the candy you haven't eaten yet. Bye, Bea.",
+   "start_s": 830.739,
+   "end_s": 839.699,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Bye! Save one peanut butter cup for an actual child.",
+   "start_s": 839.699,
+   "end_s": 843.459,
+   "chapter": 2
+  }
+ ],
+ "cost": {
+  "real_usd": 1.03,
+  "api_usd": 7.9247,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 11,
+    "input_tokens": 22,
+    "output_tokens": 75187,
+    "cache_write": 286367,
+    "api_usd": 3.8002,
+    "cache_read": 27427,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 49,
+    "input_tokens": 120,
+    "output_tokens": 64341,
+    "cache_read": 501317,
+    "cache_write": 434876,
+    "api_usd": 2.4333,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 513789,
+    "output_tokens": 39008,
+    "api_usd": 0.3721,
+    "calls": 1,
+    "cache_write": 6035,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "openai",
+    "model": "text-embedding-3-small",
+    "calls": 3,
+    "input_tokens": 50,
+    "real_usd": 0.0,
+    "api_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 9,
+    "chars": 12875,
+    "real_usd": 1.03,
+    "api_usd": 1.03
+   },
+   {
+    "kind": "background",
+    "calls": 173,
+    "real_usd": 0.0,
+    "api_usd": 0.2891,
+    "since": "2026-10-10T09:20:54Z",
+    "until": "2026-10-31T08:24:48Z"
+   }
+  ]
+ }
+}
