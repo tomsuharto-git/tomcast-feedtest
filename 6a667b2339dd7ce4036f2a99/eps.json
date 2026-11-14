@@ -325,5 +325,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261031-art1.png",
     "show": "culture",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261031.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261114",
+    "title": "Sports: Sat Nov 14. Deni + Dame, Rob Will vs Clingan, Holiday + Scoot",
+    "description": "Sports (Mikey and Jack): Deni + Dame, Rob Will vs Clingan and Holiday + Scoot.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261114.mp3",
+    "audio_bytes": 6479142,
+    "duration_s": 540,
+    "published_utc": "2026-11-14T09:22:31.842351Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261114-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261114.episode.json"
   }
 ]

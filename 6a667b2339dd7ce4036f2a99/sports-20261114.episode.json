@@ -1,0 +1,644 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261114",
+ "show": "sports",
+ "title": "Deni's 34 and Dame's new off-ball job",
+ "date": "2026-11-14",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261114.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261114-art1.png",
+ "duration_s": 540,
+ "published_utc": "2026-11-14T09:22:31.842351Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Deni + Dame",
+   "headline": "Deni's 34 and Dame's new off-ball job: how the Blazers beat the 1-11 Kings",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Rob Will vs Clingan",
+   "headline": "Robert Williams III: +26 in 17 minutes while Clingan goes -10",
+   "start_s": 225.504
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Holiday + Scoot",
+   "headline": "Holiday's six turnovers and Scoot's 3-for-10",
+   "start_s": 379.03
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. You sound like a man who did not go to bed.",
+   "start_s": 10.175,
+   "end_s": 13.375,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I watched a Kings game until one in the morning, New York time. Voluntarily. Nobody made me.",
+   "start_s": 13.375,
+   "end_s": 18.895,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "We were up the whole fourth quarter! You could've gone to sleep any time you wanted.",
+   "start_s": 18.895,
+   "end_s": 22.895,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I could have. The apartment's quiet, the game was on. Then right around midnight, Nora texts me. Two words. \"You up?\"",
+   "start_s": 22.895,
+   "end_s": 30.735,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Oh no. A kid at college, midnight, \"you up\"? That's a big text.",
+   "start_s": 30.735,
+   "end_s": 36.415,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I sat straight up in bed. Ready for anything. Car trouble, heartbreak, whatever she needed. It was the password for the streaming account.",
+   "start_s": 36.415,
+   "end_s": 44.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Ha! Did you give it to her?",
+   "start_s": 44.255,
+   "end_s": 45.935,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Four seconds. Then I sent a follow-up asking how classes were going. That one's been sitting on \"delivered\" ever since.",
+   "start_s": 45.935,
+   "end_s": 52.495,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Delivered is fine. Delivered means she's alive and she's got her shows. That's a good night.",
+   "start_s": 52.495,
+   "end_s": 57.135,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "That's what I'm telling myself. Did your dad weigh in?",
+   "start_s": 57.135,
+   "end_s": 60.015,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "After a win. First time ever. Phone buzzes late, one word.",
+   "start_s": 60.015,
+   "end_s": 64.415,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Which word?",
+   "start_s": 64.415,
+   "end_s": 65.055,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "\"Deni.\"",
+   "start_s": 65.055,
+   "end_s": 65.855,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Ha. From him, that's a standing ovation. What'd you send back?",
+   "start_s": 65.855,
+   "end_s": 69.775,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "\"Deni.\" That's the whole thread. Best conversation we've had all month. And he's right. Deni Avdija, our big forward who does a little of everything. Thirty-four on eleven-of-thirteen, nine-for-nine at the line. Shoulder into his guy, two hard steps, and either he's at the rim or he stops at the elbow, that corner of the free-throw line, for the little pull-up. Over and over. Not that long ago I'd have called him a nice role guy. Then he added the pull-up. Then the strength. Then the patience. A summer at a time. Now the offense runs through him.",
+   "start_s": 69.775,
+   "end_s": 102.095,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Okay, that's the Deni half. The Dame half is what kept me up past the password.",
+   "start_s": 102.095,
+   "end_s": 106.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Damian Lillard. Twenty-nine. Six threes on thirteen tries, eleven-for-eleven at the line, and almost nothing else. To me it looked like he barely had the ball compared to the Dame I grew up with. He catches, he shoots, he moves. He's not dribbling the air out of it.",
+   "start_s": 106.778,
+   "end_s": 123.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Walk me through that number, though. Half of what? The possessions he's on the floor for? The seconds the ball's actually in his hands? Those are really different things.",
+   "start_s": 123.178,
+   "end_s": 132.058,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "Honestly? I don't know how they count it. But I watched him spend whole possessions running off screens without touching it, and that's a Dame I've never seen. His whole career, he walks it up and points guys where to go.",
+   "start_s": 132.058,
+   "end_s": 144.138,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "Six-for-eighteen and four turnovers, though. He still had it enough to make a mess. Catch-and-shoot is the easy part to love. The hard part is the end of the shot clock, the play's broken, somebody has to make something out of nothing. Last night that was Deni. And you remember the deal we made after our first loss.",
+   "start_s": 144.138,
+   "end_s": 161.898,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "Here we go.",
+   "start_s": 161.898,
+   "end_s": 163.018,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "If the ball stops moving and it turns into Dame and Ja Morant, our point guard who's been out, each trying to win it alone, I was right. So when Ja's back, who gets it with four seconds left? That's the test. Nobody's had to give anything up yet. Sharing is easy in November.",
+   "start_s": 163.018,
+   "end_s": 179.658,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "See, I think Dame already gave it up. That's the whole story. Biggest name on the roster, and he's the one who handed the ball over. That's the hardest thing you can ask a star. Ja's the easy piece. He's a passer. I'm telling you, Ja comes back and he's the one finding Dame coming off a screen. Then we're back there. I'm keeping Deni.",
+   "start_s": 179.658,
+   "end_s": 198.698,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "You'd keep Deni if he went oh-for-thirteen.",
+   "start_s": 198.698,
+   "end_s": 201.498,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "I would, and I'd be right. But the Dame thing. Doesn't it get you a little? Guy hands over the thing he's been his whole life.",
+   "start_s": 201.498,
+   "end_s": 209.258,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "It does. Last week a founder half my age ran a meeting I'd have run five years ago. I was in there for one slide. Slide nine. I nodded a lot.",
+   "start_s": 209.221,
+   "end_s": 220.341,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "How'd that feel?",
+   "start_s": 220.341,
+   "end_s": 221.461,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "Like a guy with one slide. Ask me after coffee.",
+   "start_s": 221.461,
+   "end_s": 224.741,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Okay, you're the box score guy, explain this one to me, because it broke my brain. Donovan Clingan, our young center. Thirteen and eleven, two steals, two blocks, zero turnovers. Lovely. And we were minus-ten while he was out there. Then Robert Williams, the veteran who backs him up. Two points, seven rebounds, and we're plus-twenty-six in his seventeen minutes. How?",
+   "start_s": 225.504,
+   "end_s": 248.384,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Plus-minus is just the scoreboard while you happen to be on the floor. It has no idea what you did. Dame pulls up from the half-court logo, hits a couple while Williams is standing near the rim, and Williams gets the credit. Seventeen minutes is a small window, and we went seventeen-for-forty-two from three. One hot stretch lands in his minutes and there's your plus-twenty-six. A lot of it's noise.",
+   "start_s": 248.384,
+   "end_s": 271.664,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "A lot. Not all?",
+   "start_s": 271.664,
+   "end_s": 273.664,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Not all. The Kings had twenty fast-break points, the ones you get by running before the other team's defense is set. Clingan chases offensive rebounds. That's his whole thing. A guy under our basket chasing a miss isn't sprinting back. I'll bet a big chunk of those twenty came with him on the floor, and that's most of his minus-ten.",
+   "start_s": 273.664,
+   "end_s": 292.304,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "See, I don't love that, because I want him crashing. A kid that size going after every ball is him playing like it matters. Tell him to stop and you're sanding off the thing that makes him him.",
+   "start_s": 292.304,
+   "end_s": 303.104,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Let him crash. I'm just reading you the price. Two fewer offensive boards a night, two fewer Kings layups going the other way. Is that a trade you'd hate?",
+   "start_s": 303.104,
+   "end_s": 311.584,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "I'd hate it. I'd probably also make it. Ugh. Okay, but they're doing different jobs. Clingan's out there hunting. That's where two blocks and two steals come from. Williams stays back by the rim and cleans up. The Kings shot thirty-two percent from three, so long rebounds were bouncing everywhere. What I can't tell you is whether he was boxing out, putting his body between his man and the rim, or whether the ball just kept finding him.",
+   "start_s": 311.547,
+   "end_s": 337.067,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Which do you think?",
+   "start_s": 337.067,
+   "end_s": 338.107,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "I want it to be the box-outs. Seventeen minutes of a veteran doing the boring stuff right is my favorite kind of basketball. But I didn't count, and I'm not gonna pretend I did.",
+   "start_s": 338.107,
+   "end_s": 348.027,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Fair. And I'll own mine. If I go back and the fast breaks are spread evenly, I was wrong about the kid and it was lineup luck.",
+   "start_s": 348.027,
+   "end_s": 355.627,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "And if you're right?",
+   "start_s": 355.627,
+   "end_s": 356.747,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Then it's about five games from now. If it's still lopsided then, it becomes a question of who plays when.",
+   "start_s": 356.747,
+   "end_s": 362.907,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "For the record: thirteen and eleven, no turnovers, two blocks. Nobody goes in the doghouse over a minus-ten on a night the threes came in bunches.",
+   "start_s": 362.907,
+   "end_s": 371.307,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Nobody said doghouse. I said bill.",
+   "start_s": 371.307,
+   "end_s": 373.787,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "You just like being the guy holding the bill.",
+   "start_s": 373.787,
+   "end_s": 376.507,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Somebody on this show has to.",
+   "start_s": 376.507,
+   "end_s": 378.267,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of bills. Jrue Holiday, the veteran guard who's supposed to be the calm one. Six turnovers, five assists, two-for-seven, nothing from three. Six giveaways from a guy whose whole reputation is never doing that. And Scoot Henderson, the young guard everybody argues about. Three-for-ten, two-for-seven from deep, zero rebounds in twenty-three minutes. Which one bugs you?",
+   "start_s": 379.03,
+   "end_s": 403.99,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Jrue. Which I know sounds backwards.",
+   "start_s": 403.99,
+   "end_s": 406.47,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "It does. I had Jrue as a bad night and Scoot as the thing to watch. Three-for-ten and zero boards, I figured people would call it a pattern by lunch.",
+   "start_s": 406.47,
+   "end_s": 415.51,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Sure, and I'm not dressing up three-for-ten. Zero rebounds in twenty-three minutes is ugly for a guard with his legs. But look at the other column. Zero turnovers. This is a kid who's had real trouble giving it away, and last night he was calm. Open looks, they didn't drop. He still got to the line five times and scored eleven. Cold is cold. Jrue's the one who's supposed to settle everybody down when it gets loose, and he was the one making it loose.",
+   "start_s": 415.51,
+   "end_s": 441.99,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Both of them were plus-seven, though.",
+   "start_s": 441.99,
+   "end_s": 443.83,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "You just spent ten minutes telling me plus-minus is the scoreboard.",
+   "start_s": 443.83,
+   "end_s": 447.03,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Ha. I walked into that. Yeah, plus-seven in a thirteen-point win just means they didn't sink it. The cost shows up somewhere else. We gave up twenty points off turnovers. Against a team that actually guards, that's the game. So if Jrue's sloppy again this road trip, do the coaches cut his minutes or ride it out?",
+   "start_s": 447.03,
+   "end_s": 466.63,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Ride it out. He's earned a bad week. Guy's been doing this a long time, it's November, and one night in Sacramento doesn't tell me his hands went anywhere.",
+   "start_s": 466.63,
+   "end_s": 474.87,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "I don't buy it. Keep him in the rotation, sure. But on a team this young the veteran sets the temperature, and six turnovers sets it wrong. I'd give him one game, with Scoot's calm minutes sitting right there as the alternative.",
+   "start_s": 474.833,
+   "end_s": 488.753,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Scoot as the steadier option over Jrue Holiday. Listen to yourself.",
+   "start_s": 488.753,
+   "end_s": 493.233,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "I'm listening. Sounds less crazy than it did a minute ago.",
+   "start_s": 493.233,
+   "end_s": 496.353,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "It sounds crazy. End of the trip, we'll see.",
+   "start_s": 496.353,
+   "end_s": 499.633,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Also, why were we still pushing so hard at the end, up double digits?",
+   "start_s": 499.633,
+   "end_s": 504.113,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Cup game. The NBA Cup, the in-season tournament. In the group stage the tiebreaker is point differential, how much you win or lose by. So every point at the end counts.",
+   "start_s": 504.113,
+   "end_s": 514.433,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "jack",
+   "text": "So those twenty points off turnovers could come back on us in a tiebreaker.",
+   "start_s": 514.433,
+   "end_s": 518.593,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Every sloppy pass counts twice in that thing. Okay. I've got a dad to not send a second word to.",
+   "start_s": 518.593,
+   "end_s": 524.753,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "jack",
+   "text": "And I've got a \"delivered\" to stare at. Good start to the trip.",
+   "start_s": 524.753,
+   "end_s": 528.433,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Good start to the trip. Talk soon, Jack.",
+   "start_s": 528.433,
+   "end_s": 530.753,
+   "chapter": 3
+  }
+ ],
+ "cost": {
+  "real_usd": 0.7002,
+  "api_usd": 7.4808,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 69,
+    "input_tokens": 138,
+    "output_tokens": 81105,
+    "cache_write": 952148,
+    "api_usd": 4.6508,
+    "cache_read": 308448,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 7,
+    "input_tokens": 14,
+    "output_tokens": 52148,
+    "cache_write": 135325,
+    "api_usd": 2.1298,
+    "cache_read": 21073,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 7,
+    "chars": 8752,
+    "real_usd": 0.7002,
+    "api_usd": 0.7002
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-10-30T09:32:02Z",
+    "until": "2026-11-14T09:22:31Z"
+   }
+  ]
+ }
+}
