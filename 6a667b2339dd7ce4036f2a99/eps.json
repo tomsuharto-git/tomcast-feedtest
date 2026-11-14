@@ -337,5 +337,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261114-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261114.episode.json"
+  },
+  {
+    "guid": "tomcast-culture-20261114",
+    "title": "Culture: Sat Nov 14. AI lost its first election, Pitchfork's indie rock canon",
+    "description": "Culture (Christina and Jack): AI lost its first election and Pitchfork's indie rock canon.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261114.mp3",
+    "audio_bytes": 12063599,
+    "duration_s": 1005,
+    "published_utc": "2026-11-14T09:32:08.063085Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261114-art1.png",
+    "show": "culture",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261114.episode.json"
   }
 ]

@@ -1,0 +1,817 @@
+{
+ "schema": 1,
+ "guid": "tomcast-culture-20261114",
+ "show": "culture",
+ "title": "AI lost its first election as a building, not a chatbot",
+ "date": "2026-11-14",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261114.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261114-art1.png",
+ "duration_s": 1005,
+ "published_utc": "2026-11-14T09:32:08.063085Z",
+ "hosts": [
+  "christina",
+  "jack"
+ ],
+ "speech_start_s": 9.755,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "lead",
+   "tag": "AI lost its first election",
+   "headline": "AI lost its first election as a building, not a chatbot",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "closer",
+   "tag": "Pitchfork's indie rock canon",
+   "headline": "Pitchfork's indie rock canon is a birth certificate",
+   "start_s": 780.019
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Hey Tom, it's Christina, this is the Culture show, and across from me is Jack Vernon. He walked in holding a Tupperware like it owed him money.",
+   "start_s": 9.755,
+   "end_s": 18.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It's chili. I made chili on Sunday. Enough chili for, I'd say, eleven people. There is one of me.",
+   "start_s": 18.475,
+   "end_s": 25.755,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "So what day of the chili are we on?",
+   "start_s": 25.755,
+   "end_s": 28.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Day five. It's better on day five. That's what I'm telling myself.",
+   "start_s": 28.235,
+   "end_s": 32.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Every man who has ever made chili says that. It's the national anthem of chili.",
+   "start_s": 32.875,
+   "end_s": 37.755,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Did you sleep at all this week? You texted me a precinct map at one in the morning.",
+   "start_s": 37.755,
+   "end_s": 42.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "One map! One.",
+   "start_s": 42.635,
+   "end_s": 44.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "With seven exclamation points. I counted. I zoomed in, I zoomed out. I still don't know what I was supposed to be looking at.",
+   "start_s": 44.555,
+   "end_s": 51.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Okay, the map deserved better, so let me actually tell you. Last week's midterms. Democrats took both houses of Congress, a landslide, mostly about prices and the war in Iran. Everybody's covered that. But further down the ballot there were local measures about data centers. Those are the giant windowless warehouses full of computer servers that AI runs on. And the data center lost almost every one. Ted Gioia, a music critic who writes a newsletter called The Honest Broker and has been yelling about an AI backlash for a year, counted forty-one of them. Forty went against the data center.",
+   "start_s": 51.835,
+   "end_s": 88.715,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Forty of forty-one. You usually only see that in elections with one name on the ballot. Wait, what does 'against' mean? At a town meeting 'against' can mean ten different things.",
+   "start_s": 88.715,
+   "end_s": 99.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Two kinds. Towns voting yes to restrict or block data centers, and proposals to let them build, where voters said no. The one exception was North Dakota.",
+   "start_s": 99.795,
+   "end_s": 109.515,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "So the whole country said no, and the one yes might have been a reading comprehension problem.",
+   "start_s": 109.515,
+   "end_s": 114.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Pretty much! So here's my position, and I'm committing to it. AI lost its first election because it finally got an address. For years it's been an app. You open it, you close it, it lives on your phone, it writes your kid's book report. Then suddenly it's a building at the edge of town. It wants land, it wants water, and people believe it's pushing up their power bill. That thing behaves like a landlord. And people treat a landlord very differently from a tool.",
+   "start_s": 114.518,
+   "end_s": 144.598,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "I like that. I already want to fight about it, but I like it. Walk me through where it came from.",
+   "start_s": 144.598,
+   "end_s": 150.518,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "The ads. Ben Thompson writes Stratechery, which is basically the newsletter tech executives read about their own business. He lives in Wisconsin, huge Brewers fan, so this fall he watched a lot of playoff baseball, which means a lot of campaign ads. The most common topic in those ads, by far, was data centers. And both parties ran against them. Every ad said the other guy was the one who loved data centers. He found it unclear which way the issue cut. I think the confusion is the finding. When both sides use something as the insult, that something has already lost. That part's mine, he doesn't say it, I'll own it.",
+   "start_s": 150.518,
+   "end_s": 190.678,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Okay. I'm going to argue the boring side, on purpose, so you know I'm doing it. A town gets asked to put a huge, power-hungry building next to its houses. Everybody's already mad about prices. The town says no. That's zoning plus the electric bill. Power plants, prisons, big warehouses, all of them have lost that vote somewhere. This year the name on the side of the building happens to be AI.",
+   "start_s": 190.678,
+   "end_s": 215.038,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "You've got a case loaded. I can see it in your face.",
+   "start_s": 215.038,
+   "end_s": 218.278,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "2020. Constellation Brands, the company that sells Corona and Modelo in the States, is building a giant brewery in Mexico. Most of the way built. Then a local referendum, and the voters say no. Project's dead. The people fighting it were largely farmers, and the fight was about water. They didn't want a brewery drinking what their crops needed. And nobody wrote a column saying Mexico had turned against beer.",
+   "start_s": 218.241,
+   "end_s": 244.561,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Ha. The great Modelo backlash of 2020.",
+   "start_s": 244.561,
+   "end_s": 248.321,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "Still a popular beer! People just didn't want that building in that spot taking that water. And the lesson business people took from it was dull. Get the town on your side before you pour the concrete. So when you say forty of forty-one, I hear forty towns that didn't want a giant thing eating their power. My hunch is a steel plant with the same appetite loses most of those votes too.",
+   "start_s": 248.321,
+   "end_s": 271.921,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "I'd buy that if it had always been this way. And it hasn't. Ten years ago, when data centers were for the regular internet, your email, your photos, your streaming, towns fought to get them. Mayors competed. Construction jobs during the build, tax money for years after. Same kind of building, hungry for electricity then too. Towns were begging for them.",
+   "start_s": 271.921,
+   "end_s": 296.161,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. Same building, ten years ago, they'd have cut a ribbon. So what changed?",
+   "start_s": 296.161,
+   "end_s": 303.601,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "What's being sold along with the building. Take the AI companies at their word. A big part of why anyone is spending this kind of money is the promise that the software will do work people currently get paid to do. That's the pitch to investors. So you're asking a town to host the machine that's supposed to replace the town. Nobody ever thought their photo backup was coming for their job.",
+   "start_s": 303.601,
+   "end_s": 326.561,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Okay, said plainly: 'We're building the thing that might take your job, and your rates might go up.' That's the worst pitch I've ever heard. I wouldn't want to defend it in a school gym on a Tuesday night. So I'll come partway. It's a vote on AI's economics. Who pays, who gets the money.",
+   "start_s": 326.524,
+   "end_s": 344.844,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "Who gets paid? Always the question. And that's my landlord again.",
+   "start_s": 344.844,
+   "end_s": 349.724,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Hang on, though. Your friend Gioia, the one who counted the ballots. What's his explanation?",
+   "start_s": 349.724,
+   "end_s": 354.684,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "Not my friend! His line is that people have tried AI and decided they hate it. The more people use it, the more hostile they get. So the election is the bill coming due for the product.",
+   "start_s": 354.684,
+   "end_s": 366.764,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "I'll take his side for a minute, because I think it's stronger than you want it to be. Who uses this stuff most? People at work. They've watched it do a slice of their job. Use a thing every day and you get a pretty good sense of what it's for. Those could be the angriest people in the room.",
+   "start_s": 366.764,
+   "end_s": 382.884,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "Could be. But look at what was actually on the ballot. Land, power, water, who pays for the hookup. Nobody voted on a chatbot. And the data-center measures swept. If people hated the product, I'd expect that to show up as a vote on the product. It showed up as a vote on the building, and the bill that comes with it.",
+   "start_s": 382.884,
+   "end_s": 403.684,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "Or people call it by what it costs them. In the booth, the word in your head is 'my power bill.' The anger could be about AI, and the bill is just the name it goes by.",
+   "start_s": 403.684,
+   "end_s": 414.004,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "christina",
+   "text": "Okay, that's fair, I can't rule it out. But then his theory has to show me the heavy users are the ones voting no, and a Wisconsin farmer with a server farm going up across the road isn't necessarily the guy using it every day. I think Gioia's right that the anger is real and wrong about where it lives. It lives in the building.",
+   "start_s": 414.004,
+   "end_s": 434.444,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "jack",
+   "text": "Fine. Then I'm going after the word landlord, because I think you've got it backwards.",
+   "start_s": 434.407,
+   "end_s": 439.447,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "christina",
+   "text": "Ooh. Go.",
+   "start_s": 439.447,
+   "end_s": 441.047,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "jack",
+   "text": "A landlord has the power. You can't vote your landlord out. So in these stories, who's asking permission? The company. They show up at the hearing with their hat in their hand. They want a lease on the land and on the power grid. The town holds the veto. For once, the voters were the landlords, and they turned down the tenant.",
+   "start_s": 441.047,
+   "end_s": 461.047,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "christina",
+   "text": "Oh, that's annoying. Okay, that's better than mine.",
+   "start_s": 461.047,
+   "end_s": 465.207,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "jack",
+   "text": "I'll frame it. I'll hang it next to the chili.",
+   "start_s": 465.207,
+   "end_s": 467.447,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "christina",
+   "text": "No, really, and it connects to something bigger. When factories left American towns for China, nobody in those towns got a vote. The job was gone one morning. Whole towns lost their reason to exist. A data center needs permission. A zoning hearing, a permit, sometimes a ballot. So people who got no say in the last big economic change suddenly have a say in this one, and they're using it. So yes, the voters were the landlords on Tuesday. I still think the feeling underneath is a tenant's feeling. Something enormous is reshaping your life from somewhere far away, and this building is the first piece of it you can touch.",
+   "start_s": 467.447,
+   "end_s": 509.207,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "jack",
+   "text": "So it's a lever. The first one anybody's been handed in thirty years.",
+   "start_s": 509.207,
+   "end_s": 513.927,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 38,
+   "speaker": "christina",
+   "text": "And that's where Thompson's bigger point lands. Think about what AI has been short on. First computer chips. Then memory. It was getting close to running short on power. Every time, the industry built its way out. His argument is that the last shortage is political, and it's the hardest one, because you can't manufacture permission. If towns keep saying no, AI could stay scarce and expensive a lot longer than anyone planned.",
+   "start_s": 513.927,
+   "end_s": 541.687,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 39,
+   "speaker": "jack",
+   "text": "Wait, so the bottleneck for the most expensive technology on earth is a folding table in a middle school cafeteria?",
+   "start_s": 541.687,
+   "end_s": 548.807,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 40,
+   "speaker": "christina",
+   "text": "Ha, yes. And the version that got me is Texas. Texas is supposed to be where AI gets built, more than a quarter of all the planned data-center capacity in the country by 2030. And the Republican governor, Greg Abbott, froze new data-center permits in September. Two months before the election.",
+   "start_s": 548.77,
+   "end_s": 569.41,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 41,
+   "speaker": "jack",
+   "text": "The Texas governor. Republican. Froze them himself.",
+   "start_s": 569.41,
+   "end_s": 573.57,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 42,
+   "speaker": "christina",
+   "text": "Himself. And he lost anyway, to Gina Hinojosa, the first Democratic governor there since 1990, who'd promised to stop data-center construction altogether.",
+   "start_s": 573.57,
+   "end_s": 584.37,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 43,
+   "speaker": "jack",
+   "text": "Okay, that one I'll grant you was a scared man. But scared of what? My guess is he saw the power bills in his polling. You freeze permits two months out because you're trying to take an angry issue off the table. It didn't save him. To me that's my story wearing a cowboy hat. Fear about cost, with AI as the name on the building.",
+   "start_s": 584.37,
+   "end_s": 605.17,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 44,
+   "speaker": "christina",
+   "text": "Then we're stuck on whether you can pull the cost apart from the AI. I don't think you can. The cost is the pitch.",
+   "start_s": 605.17,
+   "end_s": 612.21,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 45,
+   "speaker": "jack",
+   "text": "And I think you can, and the companies will, once they start writing checks. Can I ask you something off topic?",
+   "start_s": 612.21,
+   "end_s": 618.29,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 46,
+   "speaker": "christina",
+   "text": "You're going to ask about the house.",
+   "start_s": 618.29,
+   "end_s": 620.21,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 47,
+   "speaker": "jack",
+   "text": "I'm going to ask about the house. You told me the owner's selling the place you rent, and now you're in here talking about landlords like it's a theory. Any date yet?",
+   "start_s": 620.21,
+   "end_s": 628.85,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 48,
+   "speaker": "christina",
+   "text": "No date. But here's something embarrassing. I keep a list on my phone of places I could move, and I'd never opened it twice. This week I opened it a second time. I added one town. Then I closed it really fast, like it was hot.",
+   "start_s": 628.85,
+   "end_s": 645.29,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 49,
+   "speaker": "jack",
+   "text": "A second opening. That's progress. Which town?",
+   "start_s": 645.29,
+   "end_s": 648.93,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 50,
+   "speaker": "christina",
+   "text": "Absolutely no. It's the most dramatic thing I've done all year and I'm not ready to be held to it. And it's why I'm a little suspicious of my own take today. Am I seeing a movement, or am I a renter who found a metaphor she likes? Ask me in a month.",
+   "start_s": 648.93,
+   "end_s": 664.45,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 51,
+   "speaker": "jack",
+   "text": "I will. Okay, so here's what's still open between us. Does it leak? I say it stays local. People vote down the warehouse Tuesday and ask the chatbot for a lasagna recipe Wednesday. If the companies do the dull work, who in the county gets a check, who gets a lower bill, who gets asked before the concrete, then in a couple of years this is just zoning again. Nobody remembers zoning fights.",
+   "start_s": 664.413,
+   "end_s": 688.693,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 52,
+   "speaker": "christina",
+   "text": "And I say it leaks. Once a technology has a building, everything with its name on it gets judged like a neighbor. Which is the part for you, Tom. A brand people experience as a tool gets forgiven. A brand people experience as a landlord gets fought. So a client leading with 'AI-powered' right now inherits the building, the bills and the billionaires, whether they meant to or not. The stronger move is to show what you give back, and where the human effort is.",
+   "start_s": 688.693,
+   "end_s": 719.093,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 53,
+   "speaker": "jack",
+   "text": "I'll give you that it's risky on the label this year. I won't give you that it sticks.",
+   "start_s": 719.093,
+   "end_s": 723.493,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 54,
+   "speaker": "christina",
+   "text": "Then let's bet it. Next year's off-year and local elections: more data-center measures on the ballot than this year's forty-one, and most of them fail again.",
+   "start_s": 723.493,
+   "end_s": 733.013,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 55,
+   "speaker": "jack",
+   "text": "I'll take the under. Fewer than forty-one. Between now and then every company building one of these hires the most boring person alive to drive to every county and hand out checks. Lower rates, a new fire truck, a park with their name on it. The fights get settled in a back room before anything reaches a ballot.",
+   "start_s": 733.013,
+   "end_s": 750.853,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 56,
+   "speaker": "christina",
+   "text": "Fewer ballots wouldn't mean people like it more. It'd mean they got paid to stop saying so.",
+   "start_s": 750.853,
+   "end_s": 756.013,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 57,
+   "speaker": "jack",
+   "text": "That's how every zoning fight in history has ended. That's my whole point.",
+   "start_s": 756.013,
+   "end_s": 760.173,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 58,
+   "speaker": "christina",
+   "text": "And mine is that people remember who had to pay them off. They'll remember it the next time the logo shows up on their phone.",
+   "start_s": 760.173,
+   "end_s": 766.973,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 59,
+   "speaker": "jack",
+   "text": "So we're split twice. On the count, and on whether anybody trusts the product less. Loser eats day-six chili.",
+   "start_s": 767.256,
+   "end_s": 775.256,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 60,
+   "speaker": "christina",
+   "text": "There will be no day six. Put that in writing.",
+   "start_s": 775.256,
+   "end_s": 779.256,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, before you go, the thing you've been muttering about since you sat down. A best-of indie rock list is making the rounds. And you've been staring at one spot.",
+   "start_s": 780.019,
+   "end_s": 790.419,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Interpol sits above R.E.M.'s Murmur. That's it. I'm calm. I'm a calm man eating day-five chili.",
+   "start_s": 790.419,
+   "end_s": 797.779,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "You're holding that spoon like a weapon. Interpol, so you have the picture: a moody New York band from the early two-thousands, sharp suits, dark guitars, a singer who sounds like he's breaking up with you in a parking garage. That first record was everywhere when I was in my twenties. But tell me what Murmur was. I know it as a record people respect. I don't know what it felt like.",
+   "start_s": 797.779,
+   "end_s": 821.459,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "It's R.E.M.'s first album. Jangly guitars, and a singer you could barely understand, which somehow made you lean in. It was the record somebody older played you, and you pretended you already got it. A year later you actually got it. That's the whole relationship.",
+   "start_s": 821.459,
+   "end_s": 836.659,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "See, that's how I read the whole list. It's a record of who was in the room and when they were nineteen. If you were in college when Interpol came out, that was playing at every party. Murmur is a record you respect, and respect has a hard time winning a vote.",
+   "start_s": 836.659,
+   "end_s": 852.339,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "So the list is a birth certificate.",
+   "start_s": 852.339,
+   "end_s": 854.659,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Oh, I'm stealing that.",
+   "start_s": 854.659,
+   "end_s": 856.259,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Steal it, but here's my problem with it. A birth certificate needs a birth date, and we don't know how old the voters are. We're reading the age off the answer key. And what's at twenty-one? I've never heard of it.",
+   "start_s": 856.259,
+   "end_s": 868.419,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Life Without Buildings. The album's called Any Other City. Early two-thousands, small band, a cult record, the kind people press into each other's hands. You know Built to Spill?",
+   "start_s": 868.419,
+   "end_s": 879.939,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Built to Spill I know. Nineties guitar band, long winding songs, solos that go on forever and you don't mind. A lot of people would've bet on them way higher. That's my point, though. A record I've never heard of beats a band everybody knows. To me that sounds like people who dug it up later and fell for it, years after it came out.",
+   "start_s": 879.902,
+   "end_s": 900.782,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Hm. Okay, that's fair. A lot of records like that found people secondhand. Blogs, forums, a friend burning you a CD. So maybe the list shows two things at once: when people were young, and what they could get their hands on. If your record went out of print and nobody reissued it, it had a hard time getting into anybody's pile.",
+   "start_s": 900.782,
+   "end_s": 922.702,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Which brings me to the word indie. I've seen that word on a band and on a sandwich shop.",
+   "start_s": 922.702,
+   "end_s": 927.982,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "christina",
+   "text": "The label rule is the official answer. But okay, I'm too online, but the rule decides who's allowed in, and the voters decide everything else. And the list leans American, and it leans nineties and later. Which is, I'd guess, about when the people voting were in college.",
+   "start_s": 927.982,
+   "end_s": 946.302,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Here's the part that bugs me about my own reaction. I sit across from founders half my age and wonder the same thing about my hunches. Wisdom, or just a birth date? I make the joke first so nobody else can.",
+   "start_s": 946.302,
+   "end_s": 958.942,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "christina",
+   "text": "Your hunch on Life Without Buildings was right, for the record. Mine's the Superchunk pick. They're a loud, fast nineties band from North Carolina that never went away, and Here's Where the Strings Come In feels exactly like voters picking the album that was playing while they figured themselves out.",
+   "start_s": 958.942,
+   "end_s": 975.502,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Tom, for your clients: any brand that puts out a best-of list is telling its audience who it thinks they are. Pick your voters carefully, because you're picking a birth year.",
+   "start_s": 975.502,
+   "end_s": 985.342,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "christina",
+   "text": "Go read it, Tom, then tell us your number one. I bet I can guess your birth year from it.",
+   "start_s": 985.342,
+   "end_s": 990.142,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "jack",
+   "text": "I'm putting Murmur at one out of spite. Thanks, Christina.",
+   "start_s": 990.185,
+   "end_s": 994.265,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Thanks, Jack. Finish that chili. Bye, Tom.",
+   "start_s": 994.265,
+   "end_s": 997.545,
+   "chapter": 2
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2538,
+  "api_usd": 9.1894,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 11,
+    "input_tokens": 22,
+    "output_tokens": 80830,
+    "cache_write": 277490,
+    "api_usd": 3.8426,
+    "cache_read": 29716,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 65,
+    "input_tokens": 148,
+    "output_tokens": 96550,
+    "cache_read": 467423,
+    "cache_write": 632783,
+    "api_usd": 3.5437,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 491864,
+    "output_tokens": 33642,
+    "api_usd": 0.3471,
+    "calls": 1,
+    "cache_write": 5570,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "openai",
+    "model": "text-embedding-3-small",
+    "calls": 3,
+    "input_tokens": 54,
+    "real_usd": 0.0,
+    "api_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 15672,
+    "real_usd": 1.2538,
+    "api_usd": 1.2538
+   },
+   {
+    "kind": "background",
+    "calls": 623,
+    "real_usd": 0.0,
+    "api_usd": 0.2022,
+    "since": "2026-10-31T08:24:48Z",
+    "until": "2026-11-14T09:32:08Z"
+   }
+  ]
+ }
+}
