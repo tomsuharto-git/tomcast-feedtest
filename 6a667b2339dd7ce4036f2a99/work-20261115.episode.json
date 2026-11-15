@@ -1,0 +1,862 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261115",
+ "show": "work",
+ "title": "The first reader of an ad may now be a machine",
+ "date": "2026-11-15",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261115.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261115-art1.png",
+ "duration_s": 994,
+ "published_utc": "2026-11-15T09:38:00.343505Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1-ai-gatekeeper",
+   "tag": "The AI shopper",
+   "headline": "The first reader of an ad may now be a machine: ChatGPT adds verified brand pages as AI becomes the gatekeeper",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2-72andsunny",
+   "tag": "72andSunny layoffs",
+   "headline": "72andSunny makes layoffs, while Pizza Hut and World of Hyatt open reviews",
+   "start_s": 282.484
+  },
+  {
+   "n": 3,
+   "story_id": "s3-polymarket-accuracy",
+   "tag": "Poly after the midterms",
+   "headline": "Prediction markets' accuracy disputed after the midterms, as Kalshi floods promo pages and Polymarket names UFC 334",
+   "start_s": 479.29
+  },
+  {
+   "n": 4,
+   "story_id": "s4-xrp-below-1",
+   "tag": "XRP under $1",
+   "headline": "XRP slides below $1 as its ETFs turn one",
+   "start_s": 670.736
+  },
+  {
+   "n": 5,
+   "story_id": "s5-lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 807.862
+  },
+  {
+   "n": 6,
+   "story_id": "s6-marketing-is-dead",
+   "tag": "Long live marketing",
+   "headline": "Johnny Corbett: 'marketing' as comms and advertising deserves to die, while the real discipline has never mattered more",
+   "start_s": 882.625
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack. Hi. Hi, Tom. You sound smug today.",
+   "start_s": 8.995,
+   "end_s": 13.155,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Hi, Bea. Hi, Tom. Smug is the last thing I am. This week I tried to cancel a streaming service.",
+   "start_s": 13.155,
+   "end_s": 20.355,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Tried.",
+   "start_s": 20.355,
+   "end_s": 21.395,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Tried. I hit cancel. Up comes a screen. Three months at half price, stay with us. Now, I've written retention plans. I've sat in the meeting where somebody designed that exact screen. And I took the deal in about four seconds.",
+   "start_s": 21.395,
+   "end_s": 35.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Oh no. A pop-up got you.",
+   "start_s": 35.795,
+   "end_s": 38.915,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "A pop-up I probably would have signed off on. I knew exactly what it was doing to me. It worked anyway. That's the part that bugs me.",
+   "start_s": 38.915,
+   "end_s": 46.915,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Did you at least ask a chatbot how to get out?",
+   "start_s": 46.915,
+   "end_s": 49.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "No. But funny you say chatbot, because that's where I want to start. ChatGPT now lets companies have verified pages inside it. A blue check. I read that and thought, okay, so it's a business directory. Tell me why I'm wrong.",
+   "start_s": 49.555,
+   "end_s": 64.035,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Okay. It's a test version, and it launched on the tenth. A company gets verified and gets the blue check. Then it gets a little dashboard. It updates its own details there. Prices. What's in stock. And it can see how often ChatGPT mentions it, and what people ask about it. Then some US online stores can put up their own agent. Basically a brand bot, labeled as the brand, answering questions from the company's own product data. And Fast Company ran a piece by Nir Wegrzyn that said the bigger idea plainly. Before a person ever sees the shoe, an assistant has already picked which brands are worth showing them.",
+   "start_s": 64.035,
+   "end_s": 102.915,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "So the first one reading your ad is a machine?",
+   "start_s": 102.915,
+   "end_s": 105.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Maybe the first one reading your whole brand.",
+   "start_s": 105.875,
+   "end_s": 108.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. I think brands get remembered two ways. Category entry points, which is just the moments that make you think of a category. I'm going for a run. I need a gift. And distinctive assets, the swoosh, the color, the jingle. A person learns those by seeing them a thousand times over years. Does a model learn them the same way? I honestly don't know.",
+   "start_s": 108.398,
+   "end_s": 133.358,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Me neither. But there's a test in that piece that bugged me. They ran running shoes through the assistants, and Brooks showed up more reliably than Nike. The swoosh, the slogan, none of it seemed to help. And the argument goes like this. If a brand's story shifts over the years, a person shrugs. The machine reads it as a brand arguing with itself.",
+   "start_s": 133.358,
+   "end_s": 155.438,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "See, my old brain hears that and says it's 2012 search optimization with a new haircut. My hunch is that most of what these answers reward is years of saying the same thing with the same assets. The boring stuff we always told clients to do. If the industry sells that back to them as a shiny new product, I'll be a little embarrassed for all of us.",
+   "start_s": 155.438,
+   "end_s": 176.278,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Wait, though. Consistency didn't save Nike. Nobody's more consistent on the logo than Nike. Somebody else just owned the newer reason to buy. And the machine reads whatever people write and argue about you, for years. If nobody shares a thing, there's no trail for it to read. So my whole reach argument with you just got a second audience.",
+   "start_s": 176.278,
+   "end_s": 198.038,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Ugh. Okay. I'll give you half of that. And it's the better half.",
+   "start_s": 198.038,
+   "end_s": 203.198,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "So Tom. GEO is the industry's word for getting a brand to show up in those AI answers. Your Adobe work might head that way, and the briefs saved from the October handover were kept partly with this kind of thing in mind. To me that's the first symptom of something bigger. I wouldn't call it a hiccup.",
+   "start_s": 203.198,
+   "end_s": 221.038,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "And there's the bigger question, whether your agency turns this into a package for every client before the December offsite. I'd be careful. A package built on questions is a slide deck.",
+   "start_s": 221.001,
+   "end_s": 232.361,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Agreed. So package a way of finding out. One client. Ask a few assistants what a real shopper would ask. Write down who shows up, who doesn't, and why. Then check if the brand's own story fights itself. That's a weekend.",
+   "start_s": 232.361,
+   "end_s": 248.121,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I agree with that, no hedging. One push, Tom. The truth about Adobe's products lives with Adobe's product people. Who over there will actually sit down with you? And remember it's early. People hand these assistants the research long before they hand them the checkout. So nobody needs to panic before Christmas.",
+   "start_s": 248.121,
+   "end_s": 266.521,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Last one, and I'm asking because I really can't guess. Your agency's line is culture that converts. Does that survive being read by something with no feelings? Does anyone in your building have a view on what a machine should read about a client?",
+   "start_s": 266.521,
+   "end_s": 281.721,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Something with no feelings. That's a decent description of an agency roundup. Which is next.",
+   "start_s": 282.484,
+   "end_s": 288.284,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Ha. Go on, that's your side of the street.",
+   "start_s": 288.284,
+   "end_s": 292.084,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Ad Age's weekly roundup. 72andSunny, the big independent-minded shop out of LA, made layoffs in New York. No numbers given, so I won't guess. World of Hyatt, the hotel loyalty program, opened a creative review. And separately, Pizza Hut is getting ready to review its US media agency. It's sent out a request for information. That's the questionnaire that usually comes right before a formal pitch.",
+   "start_s": 292.084,
+   "end_s": 317.764,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Okay, the money side is where I'm useless. Why should Tom care about a pizza media review? His agency doesn't buy the ads.",
+   "start_s": 317.764,
+   "end_s": 326.324,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Because a pizza chain opening its media books means money is about to move. When that happens the client looks hard at every dollar. Creative too. And every agency in town gets the same question. What do I get from you that I can't get cheaper from the big shop?",
+   "start_s": 326.324,
+   "end_s": 342.244,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "And Tom, your agency came out of 72andSunny's leadership. So when the parent's cutting, people are going to look at the spin-off and ask what it is. I think the answer has to be something a cost-cutting network physically can't do. Small. Fast. A team that makes the thing and ships it before anyone finishes the deck.",
+   "start_s": 342.244,
+   "end_s": 362.644,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "I like that. Let me play the other side for a second, though. Picture the procurement person reading that answer. They don't want a small proof. They want to know who runs the account, what it costs, and what you do that nobody else does. So Tom, here's what I'd want from you. What has your agency made for a client that a cost-cutting network would've killed in the first review? Is there one?",
+   "start_s": 362.644,
+   "end_s": 385.444,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "bea",
+   "text": "And here's what stings, looking in from outside. Tom, your framework has a Name section and a Belief section. Both are blank. The framework even asks whether a Stagwell review is the deadline driving the rename. Stagwell being the holding company.",
+   "start_s": 385.407,
+   "end_s": 402.047,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "And nobody in the files knows if it is. But I'll say this. You don't backfill a belief to justify a logo. Belief first, name second. So fill it in before the LA offsite. And pick the belief you'd actually lose a client over. Safe is the most expensive strategy is on the candidate list. Every agency says some version of that.",
+   "start_s": 402.047,
+   "end_s": 423.047,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Every agency could print it on a tote bag. So here's how I'd do it. Take two of the candidate beliefs. Make one small, ugly piece of work for each. See which one people keep wanting to make. That's your belief. And it's cheaper than a workshop.",
+   "start_s": 423.047,
+   "end_s": 439.087,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Okay, that's a better test than mine, and I'll tell you why. A workshop finds out what people will agree to say. Your way finds out what they'll do on a Tuesday.",
+   "start_s": 439.087,
+   "end_s": 448.647,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Can I ask you something? Back in October I said I'd hold you to November on whether getting pushed out as a CMO still stings. It's November.",
+   "start_s": 448.647,
+   "end_s": 457.687,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "jack",
+   "text": "It is. Reading layoff headlines about a place I know? Yeah, a little. Less than it did. Last week I had a call with a founder and never once mentioned I used to run a department. That's progress, I think. I still say independent like it's a job title, though.",
+   "start_s": 457.687,
+   "end_s": 474.447,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "bea",
+   "text": "It kind of is one, though.",
+   "start_s": 474.447,
+   "end_s": 476.127,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Kind of. Ask me again in the spring.",
+   "start_s": 476.127,
+   "end_s": 478.527,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, picture this. Same weekend, two screens. Screen one is a wall of web pages. Kalshi promo code, twenty-five dollar bonus. One for a Mexican league game. One for Newcastle against Arsenal. On and on. Plus a Polymarket deposit offer in the New York Post for Seahawks–Raiders. Screen two is the midterms hangover, with people arguing over whether these markets got them right.",
+   "start_s": 479.29,
+   "end_s": 504.49,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "The Garden. Of course it's the Garden. Wait, back up for both of us, Tom. Kalshi's the bigger rival?",
+   "start_s": 504.49,
+   "end_s": 510.49,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Yes. They're both prediction markets. Places where you trade on yes-or-no questions. Will this happen? Will that team win? Kalshi's well ahead in the US. And Tom, your client can't outspend them, so the money fight is the wrong one to pick.",
+   "start_s": 510.49,
+   "end_s": 525.61,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "So did the markets get the midterms wrong?",
+   "start_s": 525.61,
+   "end_s": 528.01,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Mostly no, and that's almost the problem. Both had Democrats as the strong favorite to win the House, and a clear favorite for the Senate. Democrats won both. The misses were South Carolina Senate, Iowa Senate, Texas governor. Places where the wave went further than traders thought.",
+   "start_s": 528.01,
+   "end_s": 545.61,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "So that's a good report card. Then why is anybody arguing?",
+   "start_s": 545.61,
+   "end_s": 549.29,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Because nobody writes headlines about a good report card. Now, the idea your agency's pitching is Check Poly. It's built to make Polymarket feel like the place you go for answers, with betting a step behind. So a fight over whether the answers were right lands right on top of it. My early-adopter take? It's a gift. Take the city takeover idea. A rotating question of the day on a New York billboard, with the odds. Then later, how it actually came out. Misses included. Showing the miss is the craft.",
+   "start_s": 549.29,
+   "end_s": 580.73,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "I like it. But who sees the miss? A commuter looks at a billboard for three seconds on a Tuesday. The follow-up, where Polymarket owns up to Iowa, is the part that has to land. How does that same person ever see the second board? And most people haven't heard there's a dispute at all. Lead with the misses and you might hand them a doubt they didn't have.",
+   "start_s": 580.693,
+   "end_s": 601.733,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Fair. That's the hard part, and I haven't solved it. But a cautious billboard is the most forgettable thing you can put on a wall. Somebody walking by will yell you got the midterms wrong at it either way. Let the city's argument be the show.",
+   "start_s": 601.733,
+   "end_s": 616.853,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Where I'm fully with you is the coupons. What does a twenty-five dollar bonus buy? One person, one game, maybe. Kalshi is buying switchers. People who already trade, one match at a time. In a bonus war, being second just means paying more. So the only lane left is being the one people remember and trust.",
+   "start_s": 616.853,
+   "end_s": 637.173,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "bea",
+   "text": "And trust weighs extra this month. Anything that sounds like a promise about being right gets read twice.",
+   "start_s": 637.173,
+   "end_s": 643.493,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Which makes the wording matter. Tom, two calls in your notes are still open. Launch timing, and questions versus statements. I lean questions. A question lets the city argue and doesn't promise to be right. A flat statement that the markets know is a hostage this month.",
+   "start_s": 643.493,
+   "end_s": 660.213,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "bea",
+   "text": "I lean the same way. And here's one to ask your client. Do they want to be the place that's right, or the place the city talks about? Those pick different launch weeks.",
+   "start_s": 660.213,
+   "end_s": 669.973,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of rough weeks. XRP.",
+   "start_s": 670.736,
+   "end_s": 673.616,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "bea",
+   "text": "I saw it slipped under a dollar. Is that right?",
+   "start_s": 673.616,
+   "end_s": 676.576,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "It did. And the XRP funds are having their own rough stretch.",
+   "start_s": 676.576,
+   "end_s": 680.656,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Funds meaning what, exactly? Tell me like I'm my mother.",
+   "start_s": 680.656,
+   "end_s": 685.456,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "An ETF is a fund you buy like a stock. Same account where you'd buy Apple. So regular people can own some XRP without a crypto wallet. They launched last November. Money poured in at first. Then it slowed to a trickle. March was the first month more went out than came in. Some days nothing moved at all. And the same week, Coinbase stopped rupee withdrawals in India after a banking partner went down. To a skeptic, that's the plumbing showing.",
+   "start_s": 685.456,
+   "end_s": 713.696,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "bea",
+   "text": "So Tom, your December session, on the second and third, opens with where things stand now. And everyone's going to be looking at the chart on their phone under the table.",
+   "start_s": 713.696,
+   "end_s": 722.816,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "The price is in the room, slide or no slide. The launch glow in your notes was real. The Wall Street Journal placement, the matte black train. Different weather now, though. And here's where I keep landing. If people only ever meet a brand through the ticker, the ticker is the brand. Green day, they love you. Red day, nobody thinks of you. So that's the hedge against the chart. A brand that's easy to recognize and easy to find, away from the price.",
+   "start_s": 722.816,
+   "end_s": 750.936,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Different job, yeah. Settle it before the room does. Then for the afternoon, pick one use case to make famous that doesn't need the price going up. Cross-border payments is the obvious one. And I'd want to see it. A tiny working demo. Money moving from one country to another, on someone's phone, right there in the room.",
+   "start_s": 750.936,
+   "end_s": 769.896,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "What does the demo prove, though? Anyone can make a demo work. The nervous client in a red week wants to know whether anyone besides the XRP faithful would think of this next time they send money home.",
+   "start_s": 769.896,
+   "end_s": 780.976,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it.",
+   "start_s": 781.019,
+   "end_s": 785.179,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "So pair it with the plain version. Who's sending money? To where? What do they use right now instead? That's the buying moment. Own that, and the demo has a job.",
+   "start_s": 785.179,
+   "end_s": 795.659,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Okay, yes. Then ask the client for one real transfer with a real person on the other end. Something you could film.",
+   "start_s": 795.659,
+   "end_s": 802.859,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Because if it only works when the chart's green, all you've got is a mood.",
+   "start_s": 802.859,
+   "end_s": 807.099,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Lightning round. Six quick ones, no speeches. Jack, you're first.",
+   "start_s": 807.862,
+   "end_s": 812.422,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Coca-Cola says Christmas is about consistency over wow moments. They're not chasing the next shiny thing.",
+   "start_s": 812.422,
+   "end_s": 818.902,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Coke wins Christmas by showing up the same way every year. Tom, your team picked consistency across formats as the hill to die on for High Noon, the hard seltzer. Good company to be in.",
+   "start_s": 818.902,
+   "end_s": 830.742,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Pizza Hut's media review, which we already chewed on.",
+   "start_s": 830.742,
+   "end_s": 833.782,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Pass. Next.",
+   "start_s": 833.782,
+   "end_s": 835.702,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Ha. Okay. Business-to-business brands now report more measurable effects from campaigns than consumer brands. First time ever. Up seventy percent in two years.",
+   "start_s": 835.702,
+   "end_s": 847.062,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Somebody print that out for the Acrobat kickoff.",
+   "start_s": 847.062,
+   "end_s": 849.462,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "jack",
+   "text": "And for any pitch where the buyer's an engineer with a budget. Bea, Adobe MAX. Bring a net. Figma, the design software company, is Adobe's nearest rival, so I'd watch what it does with AI next.",
+   "start_s": 849.462,
+   "end_s": 862.422,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Fun week for Adobe's marketing team, then. Everybody's watching the Firefly story.",
+   "start_s": 862.422,
+   "end_s": 866.742,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Last one, and it's serious. Global health authorities say the US has lost its measles elimination status.",
+   "start_s": 866.742,
+   "end_s": 874.222,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Children's health in the headlines. Gates is one of Tom's clients, and this is the world any message about parents and kids lands in.",
+   "start_s": 874.222,
+   "end_s": 881.862,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "jack",
+   "text": "One more idea before we go. Johnny Corbett, who runs a marketing consultancy, wrote a column called Marketing is dead, long live marketing.",
+   "start_s": 882.625,
+   "end_s": 891.345,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "bea",
+   "text": "His point is the word shrank. People say marketing when they mean communications. They say communications when they mean ads. Meanwhile the real job is product, price, where you sell. The actual business problem. So the shrunken version can die.",
+   "start_s": 891.345,
+   "end_s": 908.785,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "jack",
+   "text": "I like it more than I expected, and that makes me suspicious. The best marketing decision I ever saw was a pricing change. Nobody called it marketing.",
+   "start_s": 908.785,
+   "end_s": 918.465,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Ugh, great example. So Tom, your agency's draft calls itself a system for building cultural force. Says it's no ad agency. That only holds if the belief underneath sits at the business level. And look at your XRP plan. Where to show up, who to partner with, how to act like a real brand. That's business-level work.",
+   "start_s": 918.465,
+   "end_s": 940.545,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Agreed. But the bigger job still needs reach and memory. A partnership nobody's heard of does nothing. So here's my test for each belief. Name one thing your agency would refuse to do because of it.",
+   "start_s": 940.545,
+   "end_s": 953.505,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "bea",
+   "text": "And here's mine. Run every December thought starter through it. Is it a place, a partner, or a use? If it's just a new ad in a different outfit, cut it.",
+   "start_s": 953.505,
+   "end_s": 963.905,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "jack",
+   "text": "So Tom, two for your week. Before the offsite, run the weekend test on one client. Ask the assistants. See who shows up.",
+   "start_s": 963.905,
+   "end_s": 971.825,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "bea",
+   "text": "And write the Belief section as one sentence. Then hold it up against the Ripple afternoon. If it survives, keep it.",
+   "start_s": 971.825,
+   "end_s": 979.025,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "jack",
+   "text": "That's the show. Go cancel something, Bea.",
+   "start_s": 979.025,
+   "end_s": 981.505,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "bea",
+   "text": "You first. Bye, Tom.",
+   "start_s": 981.505,
+   "end_s": 984.625,
+   "chapter": 6
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2227,
+  "api_usd": 12.9617,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 9,
+    "input_tokens": 18,
+    "output_tokens": 82233,
+    "cache_write": 280125,
+    "api_usd": 3.8928,
+    "cache_read": 35474,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 131,
+    "input_tokens": 288,
+    "output_tokens": 129784,
+    "cache_read": 1017689,
+    "cache_write": 995152,
+    "api_usd": 5.3808,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 259475,
+    "output_tokens": 18725,
+    "api_usd": 0.1953,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 15284,
+    "real_usd": 1.2227,
+    "api_usd": 1.2227
+   },
+   {
+    "kind": "background",
+    "calls": 40,
+    "real_usd": 0.0,
+    "api_usd": 2.2701,
+    "since": "2026-10-28T08:34:02Z",
+    "until": "2026-11-15T09:38:00Z"
+   }
+  ]
+ }
+}

@@ -349,5 +349,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261114-art1.png",
     "show": "culture",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261114.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261115",
+    "title": "Work: Sun Nov 15. The AI shopper, 72andSunny layoffs, Poly after the midterms, XRP under $1, Long live marketing",
+    "description": "Work (Bea and Jack): The AI shopper, 72andSunny layoffs, Poly after the midterms, XRP under $1 and Long live marketing.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261115.mp3",
+    "audio_bytes": 11926613,
+    "duration_s": 994,
+    "published_utc": "2026-11-15T09:38:00.343505Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261115-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261115.episode.json"
   }
 ]
