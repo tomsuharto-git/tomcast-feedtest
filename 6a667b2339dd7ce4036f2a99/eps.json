@@ -361,5 +361,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261115-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261115.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261116",
+    "title": "Builder: Mon Nov 16. dots + Wallet, Managed Agents: skip it, Claude can't hear, Fable 5.2, Jensen out at Nvidia, Anthropic IPO, Gemini Decision 1",
+    "description": "Builder (Christina and Bea): dots + Wallet, Managed Agents: skip it, Claude can't hear, Fable 5.2, Jensen out at Nvidia, Anthropic IPO and Gemini Decision 1.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261116.mp3",
+    "audio_bytes": 13280488,
+    "duration_s": 1107,
+    "published_utc": "2026-11-16T09:33:05.727317Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261116-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261116.episode.json"
   }
 ]

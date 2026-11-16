@@ -1,0 +1,1104 @@
+{
+ "schema": 1,
+ "guid": "tomcast-builder-20261116",
+ "show": "builder",
+ "title": "OpenAI's dots agents can now buy things — with your approval at checkout",
+ "date": "2026-11-16",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261116.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261116-art1.png",
+ "duration_s": 1107,
+ "published_utc": "2026-11-16T09:33:05.727317Z",
+ "hosts": [
+  "christina",
+  "bea"
+ ],
+ "speech_start_s": 9.425,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "b1-dots-wallet",
+   "tag": "dots + Wallet",
+   "headline": "OpenAI's dots agents can now buy things — with your approval at checkout",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "b2-managed-agents",
+   "tag": "Managed Agents: skip it",
+   "headline": "Claude Managed Agents: what the packet shows, and why Tom can skip it",
+   "start_s": 313.234
+  },
+  {
+   "n": 3,
+   "story_id": "b3-claude-cant-hear",
+   "tag": "Claude can't hear",
+   "headline": "Claude can't hear audio, so builders this week put a human ear in the loop",
+   "start_s": 411.437
+  },
+  {
+   "n": 4,
+   "story_id": "n1-fable-52",
+   "tag": "Fable 5.2",
+   "headline": "Fable 5.2: cheaper per token, but it used more per task",
+   "start_s": 663.646
+  },
+  {
+   "n": 5,
+   "story_id": "n2-jensen",
+   "tag": "Jensen out at Nvidia",
+   "headline": "Jensen Huang resigns as Nvidia CEO after 33 years",
+   "start_s": 796.052
+  },
+  {
+   "n": 6,
+   "story_id": "n3-anthropic-ipo",
+   "tag": "Anthropic IPO",
+   "headline": "Anthropic starts its IPO roadshow: 825M shares at $70–78, ticker ANT",
+   "start_s": 903.215
+  },
+  {
+   "n": 7,
+   "story_id": "n4-decision-models",
+   "tag": "Gemini Decision 1",
+   "headline": "Google joins Jev and OpenAI with a decision model: Gemini Decision 1",
+   "start_s": 1007.498
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Hi, Tom. Bea, are you eating?",
+   "start_s": 9.425,
+   "end_s": 12.625,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "bea",
+   "text": "A clementine. I'm peeling it right into the mic. I know. Nobody asked for that sound.",
+   "start_s": 12.625,
+   "end_s": 18.385,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "It sounds like someone opening a very small letter.",
+   "start_s": 18.385,
+   "end_s": 21.825,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Ha. Speaking of letters. Did the streaming people ever write back? You sent them that one question about what the job title even means.",
+   "start_s": 21.825,
+   "end_s": 29.585,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "They did. Friday night, nine forty. One question from me: what does the title actually mean? Their whole answer was, \"Great question, let's find time to chat.\"",
+   "start_s": 29.585,
+   "end_s": 42.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "bea",
+   "text": "So the title means a calendar invite.",
+   "start_s": 42.465,
+   "end_s": 45.105,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "The title means a calendar invite. I scrolled down four times looking for a second paragraph. There isn't one.",
+   "start_s": 45.105,
+   "end_s": 52.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Are you going to take the call?",
+   "start_s": 52.465,
+   "end_s": 53.745,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "I'm taking the call. I think. Ask me after. How's the clementine? How's your life? Anything.",
+   "start_s": 53.745,
+   "end_s": 61.185,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Deflection noted. You get one.",
+   "start_s": 61.185,
+   "end_s": 64.305,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Thank you. Okay. Speaking of things waiting on one person to click a button. Tom, you have an iPhone sitting in a shopping cart.",
+   "start_s": 64.305,
+   "end_s": 73.905,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Oh, the Verizon cart. That phone's been in there since his price check back in October. It has a little apartment in there now.",
+   "start_s": 73.905,
+   "end_s": 81.185,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "And this week OpenAI gave its shopping robots a wallet. Tom keeps asking what dots even are, and honestly, so do I. Walk me through it.",
+   "start_s": 81.185,
+   "end_s": 91.105,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Dots are OpenAI's helpers that live inside ChatGPT. You give one an errand, it goes off and does it. This week they got ChatGPT Wallet, which means they can pay for things now. Only after you approve the payment, and your normal card protections still apply. It's for people on the expensive Pro plan, in the US. That's genuinely all that's out there about dots, so that's where I stop.",
+   "start_s": 91.105,
+   "end_s": 115.825,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "So the robot goes shopping, and then what? It texts me before it pays?",
+   "start_s": 115.825,
+   "end_s": 121.105,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Okay, picture this. The agent does the whole boring walk through the store. Finds the thing. Puts it in the cart. Gets all the way to the checkout screen. And then it stops and waits for you. You make the last click. I love that shape. I'd love it even if I hadn't once built a thing that sent forty emails at two in the morning.",
+   "start_s": 121.068,
+   "end_s": 142.988,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "Forty?",
+   "start_s": 142.988,
+   "end_s": 143.788,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Forty-one. One was a follow-up to the forty.",
+   "start_s": 143.788,
+   "end_s": 147.788,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Oh no. Okay, but Tom doesn't build on ChatGPT. So what does he do with this?",
+   "start_s": 147.788,
+   "end_s": 155.388,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "bea",
+   "text": "He won't use it, Tom, you build everything with Claude. But the design is worth stealing. Your Telcom project, the one for untangling the Verizon bill, has a rule written right into it: Claude never completes a purchase for you. Keep that rule. Just borrow the shape. Ask Claude to get the whole order ready, the plan, the price, the trade-in math, and then stop and show you one final button. And you've already built that once, in Playbook. When your assistant drafts a chat message, you get a card, and the Send button only sends the exact draft you read. If anything changes after you looked, it won't go.",
+   "start_s": 155.388,
+   "end_s": 194.668,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Huh. So he built the checkout step before OpenAI shipped it.",
+   "start_s": 194.668,
+   "end_s": 199.148,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "bea",
+   "text": "Kind of, yeah! Whether you ever let an agent actually pay is a whole separate decision. I'd keep that door shut a long time.",
+   "start_s": 199.148,
+   "end_s": 207.468,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "Also, Tom, your own Telcom notes stop on one question. Buy after November seventeenth, or wait for Black Friday? The seventeenth is tomorrow.",
+   "start_s": 207.468,
+   "end_s": 218.028,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "bea",
+   "text": "Ha, it is tomorrow. Empty the cart or decide. The phone wants to know.",
+   "start_s": 218.028,
+   "end_s": 223.308,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "Okay, here's the half I find more interesting. Picture an airline that doesn't want outside robots booking its tickets. They'd say it's about protecting customer data. But a robot in the middle is a middleman, and that's the tell, right? Who gets paid?",
+   "start_s": 223.308,
+   "end_s": 239.548,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "bea",
+   "text": "Meaning what, exactly? Walk me through why a middleman scares them.",
+   "start_s": 239.548,
+   "end_s": 244.028,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "If a robot does your browsing, United never gets to show you the seat upgrade. Or the credit card offer. Or the hotel bundle. The robot just books the cheapest seat and leaves. We've watched this fight before with every travel search site that ever sat between you and the airline.",
+   "start_s": 243.991,
+   "end_s": 261.351,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "bea",
+   "text": "Okay, but I think the privacy part might be real. Somebody's agent holding your frequent flyer login and your passport number? I'd want the airline to care about that.",
+   "start_s": 261.351,
+   "end_s": 272.271,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "Sure. And a closed door is also a business decision. Both are true at once. I'd bet other big sellers copy United within a year.",
+   "start_s": 272.271,
+   "end_s": 281.391,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "bea",
+   "text": "See, I'd bet sort of the opposite. They'll want agents shopping, they'll just want to pick which ones. A club with a list. Which means, Tom, your helper only gets to work in the stores that let it in.",
+   "start_s": 281.391,
+   "end_s": 293.671,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "christina",
+   "text": "A robot with a guest-list problem.",
+   "start_s": 293.671,
+   "end_s": 295.991,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "bea",
+   "text": "Ha. And yes, I hear myself. I'm thrilled about an agent that stops one click short, and my mom's photo sorter has been stopping ten percent short for six weeks. Different kind of stopping. Mine is just me.",
+   "start_s": 295.991,
+   "end_s": 310.071,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "christina",
+   "text": "Mine's an inbox. We're a pair.",
+   "start_s": 310.071,
+   "end_s": 312.471,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Tom also asked about Managed Agents, an Anthropic thing. Thirty seconds, go.",
+   "start_s": 313.234,
+   "end_s": 318.994,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Thirty seconds, because we don't have a real doc yet. Managed Agents is Anthropic's way of running an AI helper for you, so it lives on the developer side, where you load up credit and pay by the drip, like a prepaid meter. Claude Code, Tom, runs on your monthly subscription. So I'd skip it today.",
+   "start_s": 318.994,
+   "end_s": 337.554,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Is there anything of his on the meter side?",
+   "start_s": 337.554,
+   "end_s": 340.114,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "One thing. Things We Saved, the weekly inspiration email for the social team at Hecho. The search feature for its little AI helper is built and reviewed, and it's sitting there waiting on Anthropic credit. Would Managed Agents help it? No idea. When there's a real doc, we'll read it.",
+   "start_s": 340.114,
+   "end_s": 358.114,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Speaking of things we owe. Two weeks ago we both swore we'd watch the Nathan Fielder documentary about Elizabeth Holmes, the blood-testing founder, and argue about it properly. Did you watch it?",
+   "start_s": 358.114,
+   "end_s": 370.434,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "I did not. And I'll tell you why, and it's embarrassing. I got scared. A whole movie about the most famous demo that didn't work? That is my flaw on a poster. I fall for the demo. I didn't want to sit there for two hours recognizing myself.",
+   "start_s": 370.434,
+   "end_s": 387.474,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "christina",
+   "text": "That's the most honest reason anyone's ever had for skipping a movie.",
+   "start_s": 387.474,
+   "end_s": 392.114,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Did you watch it?",
+   "start_s": 392.114,
+   "end_s": 392.994,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "christina",
+   "text": "I did not either, because I wanted to watch it with you so we'd argue in real time. Which was very romantic of me and also a way of not watching it.",
+   "start_s": 392.994,
+   "end_s": 402.674,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "bea",
+   "text": "So we're both cowards with good excuses.",
+   "start_s": 402.674,
+   "end_s": 405.314,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Same couch, this weekend. I'll bring the soup. You bring your feelings about demos.",
+   "start_s": 405.314,
+   "end_s": 410.674,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, this next one I almost understood without you, which never happens. Claude can't hear?",
+   "start_s": 411.437,
+   "end_s": 418.957,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "It can't! It can write a song, write a script, run a mixing board, and it has no ears. So this week a bunch of builders kept putting a person back in the loop. My favorite: somebody had Claude write a whole acid techno track. That squelchy, repetitive club music. All of it written as code. Claude can't listen to what it made, so they built a little tool called the Acid Seeker. Claude offers a few variations, the human listens and picks the one that hits, and those picks steer the next round. Round after round. Your ears are the scoring system.",
+   "start_s": 418.957,
+   "end_s": 456.797,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "christina",
+   "text": "So taste becomes a button you press.",
+   "start_s": 456.797,
+   "end_s": 459.597,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "And there's more. Somebody made a narrated slide video. The computer checks every spoken sentence by turning it back into text, to catch words that came out wrong. But the person still listened to short samples and fixed the voice before the big render, because a transcript can't tell you if a name sounds right.",
+   "start_s": 459.597,
+   "end_s": 477.757,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "christina",
+   "text": "And the third?",
+   "start_s": 477.757,
+   "end_s": 478.717,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "The funny one. Claude composing and mixing inside a music program, using meters to check loudness. A meter caught a treble boost that pushed the mix past the safe limit, and Claude took it out. Great. But a meter can't tell you whether the song is any good.",
+   "start_s": 478.717,
+   "end_s": 494.797,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Ha! Nobody listened to the song. Every one of these people built something clever and then quietly admitted a person still has to say whether it's good. That's every great producer in history, honestly. A great pair of ears and a terrible spreadsheet.",
+   "start_s": 494.797,
+   "end_s": 512.237,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "The meters are good at catching what's broken. They have no opinion on whether it's any good.",
+   "start_s": 512.237,
+   "end_s": 517.117,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "christina",
+   "text": "So does any of this help with Tom's question? He asked what makes two hosts sound human. And I want to say out loud that we owe him something.",
+   "start_s": 517.117,
+   "end_s": 527.277,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "bea",
+   "text": "We do. A couple weeks back we promised you a proper explainer on Eleven v4, Tom, the new voice model from ElevenLabs, once there were real docs to read. There still aren't, and I'm not guessing what a voice model does from vibes. But this idea works with whatever voice you use right now.",
+   "start_s": 527.24,
+   "end_s": 545.96,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Okay, go.",
+   "start_s": 545.96,
+   "end_s": 547.24,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Your family trivia game has two AI hosts. Marcus Chen is the straight man, Riley Thompson's the comic. Ask Claude to write the same line two ways and have both spoken out loud. You tap the one that sounds more like a person. Do thirty. Then ask Claude to look at all your picks and write down the rules it sees. Maybe you always pick the shorter setup. Maybe Riley's joke has to land before the pause. Those rules become the hosts' guide. Your ear does the judging, and Claude takes the notes.",
+   "start_s": 547.24,
+   "end_s": 579.24,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Does he keep the ones he didn't pick?",
+   "start_s": 579.24,
+   "end_s": 581.0,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Ooh. Yes. Keep the losers. The rejected take is where his taste actually shows up.",
+   "start_s": 581.0,
+   "end_s": 587.96,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "christina",
+   "text": "Can I ask the comedy question, though? In comedy a line lands or it doesn't, and people almost never know why. They just laugh. So thirty taps might surprise him. He could find out he always picks the take where Riley sounds a little unsure of himself. He'd never have guessed that.",
+   "start_s": 587.96,
+   "end_s": 605.16,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Which is the best possible thing to learn. You can't write that rule ahead of time.",
+   "start_s": 605.16,
+   "end_s": 609.56,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "christina",
+   "text": "And doesn't an ear get tired? A whole afternoon of the same two voices? By tap twenty, everything sounds like a robot to me.",
+   "start_s": 609.56,
+   "end_s": 617.72,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Oh, that's real. Honestly, I don't know. Maybe ten at a time? Ten on the couch, stop, ten tomorrow. Ears are like taste buds after a cheese plate.",
+   "start_s": 617.72,
+   "end_s": 628.52,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 18,
+   "speaker": "christina",
+   "text": "And his best review is the next live game anyway. The app's literally sitting there waiting for one. Jenna and the boys talking back to the speaker beats any meter.",
+   "start_s": 628.52,
+   "end_s": 637.8,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Notice which lines got a laugh, and which ones made somebody argue with Riley. Both are good signs.",
+   "start_s": 637.763,
+   "end_s": 644.083,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 20,
+   "speaker": "christina",
+   "text": "I'm a little seen by this, if I'm honest. I go back and forth on whether I'm a critic or just a fan with a good vocabulary. And this is that question. Somebody has to be the ear.",
+   "start_s": 644.083,
+   "end_s": 655.443,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 21,
+   "speaker": "bea",
+   "text": "You're the ear. You just did pick-between-two on a whole week of news.",
+   "start_s": 655.443,
+   "end_s": 660.163,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 22,
+   "speaker": "christina",
+   "text": "That's very generous. I'm keeping it.",
+   "start_s": 660.163,
+   "end_s": 662.883,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, I have a money riddle for you. Anthropic put out a new top model, and the price went down, but the bill went up?",
+   "start_s": 663.646,
+   "end_s": 672.606,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Fable 5.2. Fable is Anthropic's big heavy-lifting model, the one above Opus, and this is the new version. Each word it writes got cheaper, but the bill per job went up.",
+   "start_s": 672.606,
+   "end_s": 686.046,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Cheaper words, bigger bill. How?",
+   "start_s": 686.046,
+   "end_s": 689.646,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Picture somebody finishing an exam and checking their answers before they hand it in. The older models would write a handful of little tests to check their own work. This one sometimes writes hundreds. Thousands. And it sends off helpers to double-check it independently. So each word is cheaper, and there are a lot more words. It's a nervous perfectionist with a calculator.",
+   "start_s": 689.646,
+   "end_s": 712.846,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "christina",
+   "text": "The coworker who sends you a cheaper invoice with way more line items.",
+   "start_s": 712.846,
+   "end_s": 717.326,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Ha, yes. But those line items are the checking I skip at two in the morning. Which is why my builds break by nine.",
+   "start_s": 717.326,
+   "end_s": 725.006,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "christina",
+   "text": "And everyone excited about it is talking about leaving it running overnight. One guy set it going and ended up with a whole video editor. Titles, effects, music mixing, an AI running all of it.",
+   "start_s": 725.006,
+   "end_s": 738.046,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "bea",
+   "text": "I believe that one, because it's easy to check. Either the app opens and cuts video or it doesn't.",
+   "start_s": 738.046,
+   "end_s": 743.726,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Can I read one from the graveyard? Tom, that's Bea's folder of projects she swears she'll finish. There's the one that was going to turn your voice memos into a cookbook.",
+   "start_s": 743.726,
+   "end_s": 754.286,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "bea",
+   "text": "The cookbook was ahead of its time.",
+   "start_s": 754.286,
+   "end_s": 756.286,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "christina",
+   "text": "It's been ahead of its time since March.",
+   "start_s": 756.286,
+   "end_s": 758.766,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Fair. Okay, Tom, two practical things. Claude Code has a dial for how hard the model thinks, and Fable starts in the middle of it, on medium. Leave it there to start. And keep an eye on your weekly allowance on the subscription plans. So before you hand it a whole weekend, give it one small thing that can actually get finished. One page. One little tool. Something you can judge in a minute. Watch how much of your week it eats. Because a model this thorough can burn through a lot on one careful job.",
+   "start_s": 758.729,
+   "end_s": 789.929,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 12,
+   "speaker": "christina",
+   "text": "And you're still giving it the cookbook.",
+   "start_s": 789.929,
+   "end_s": 792.049,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 13,
+   "speaker": "bea",
+   "text": "I'm absolutely still giving it the cookbook.",
+   "start_s": 792.049,
+   "end_s": 795.289,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, I've been reading about Jensen Huang all week, and I know the gossip half. Explain the half I don't. Why does his love life move the AI world?",
+   "start_s": 796.052,
+   "end_s": 806.132,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Because Nvidia makes the chips nearly every AI company trains on, and Jensen is the CEO who built it. Here's what happened. He admitted an affair with Alice Huang, who ran a Singapore company called Megaspeed that was buying billions of dollars of his chips. US intelligence believes she's a Chinese spy. That alone is a national security story.",
+   "start_s": 806.132,
+   "end_s": 828.212,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "christina",
+   "text": "And then the second one.",
+   "start_s": 828.212,
+   "end_s": 829.572,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Then came word he'd also had an affair with Kimberly Powell, an Nvidia vice president who reported directly to him. And that's the kind of thing boards fire CEOs over all on its own. The board was getting ready to push him out, and he resigned. Colette Kress, the company's longtime money chief, is running it for now.",
+   "start_s": 829.572,
+   "end_s": 848.452,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "christina",
+   "text": "So what does it change for people who build things?",
+   "start_s": 848.452,
+   "end_s": 851.412,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Open models. Those are the free ones anyone can download and run on their own machines. Jensen was a big backer of them, and I'd bet the funding he was pushing dries up while Nvidia steadies itself. That's a real setback for open models.",
+   "start_s": 851.412,
+   "end_s": 865.732,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "christina",
+   "text": "I buy that. A careful interim boss cuts the founder's pet projects first. But is the shelf empty?",
+   "start_s": 865.732,
+   "end_s": 872.692,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Not today. A lab called Thinking Machines put out a new free model this very week. So Tom, nothing dramatic. If a project of yours ever leans on a free model, ask Claude to set it up so you can swap in a different model the way you'd swap a battery. Then losing one is an afternoon, and you skip the rewrite.",
+   "start_s": 872.692,
+   "end_s": 891.572,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "christina",
+   "text": "I'm a little rattled, and I don't even build anything. When the whole story hangs on one person, you're one headline away from a very bad Thursday.",
+   "start_s": 891.572,
+   "end_s": 902.452,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "christina",
+   "text": "And Claude's own company is going public. Bea, what's a roadshow? I hear the word and picture a band in a van.",
+   "start_s": 903.215,
+   "end_s": 911.295,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Honestly, kind of! It's the tour a company does pitching big investors before its stock starts trading. Anthropic's doing one now, ahead of going public on the Nasdaq.",
+   "start_s": 911.295,
+   "end_s": 921.695,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "christina",
+   "text": "So the company everyone's been using for work is about to have a ticker. Wild.",
+   "start_s": 921.695,
+   "end_s": 927.055,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "bea",
+   "text": "It is. And the part I loved is the idea that Claude isn't tied to any one chip company. Getting it onto a new kind of chip used to take a lot of engineers a lot of months, and now the machine does a good chunk of that grunt work.",
+   "start_s": 927.055,
+   "end_s": 941.375,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Wait. These are the same story. Nvidia just lost the guy holding it together, and Claude is supposed to run on more than one kind of chip. Who gets paid when the chips become interchangeable?",
+   "start_s": 941.375,
+   "end_s": 952.895,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Ha. Timing nobody could have planned. And Tom, that's the lesson for you. The dull moving jobs go to the machine first. Moving something from one setup to another. Reformatting a pile so a different tool can read it. Ask Claude to do the move and tell you what changed.",
+   "start_s": 952.895,
+   "end_s": 970.255,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "christina",
+   "text": "How does he know what to check, though, if he doesn't read the code?",
+   "start_s": 970.255,
+   "end_s": 973.615,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "bea",
+   "text": "He checks the thing he cares about. Does the email still look right? Does the app still open? Are the numbers the same? He judges it like a client judging a cut.",
+   "start_s": 973.615,
+   "end_s": 983.215,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "christina",
+   "text": "And the bigger shift for me: Tom, you're now building on a company with shareholders. A tool people love becomes a stock that has to go up every quarter. And the writers and artists whose work shaped all this aren't on that share list. I'd bet the tone changes after the first earnings call.",
+   "start_s": 983.215,
+   "end_s": 1001.615,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "bea",
+   "text": "I'd bet the pricing page changes before the tone does. We'll see who's right.",
+   "start_s": 1001.615,
+   "end_s": 1006.735,
+   "chapter": 6
+  },
+  {
+   "seg": 6,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Last one, and I need it plain. Decision models? And there's a robot?",
+   "start_s": 1007.498,
+   "end_s": 1012.938,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 1,
+   "speaker": "bea",
+   "text": "There's a robot. Simon Willison, who tests everything and writes down what breaks, gave Google's a video of a stomping robot and asked four questions. Is there a robot? Very sure. Is there a dragon? Barely. Jev and OpenAI's just say yes or no, flat out, every time. Google's admits it's a little unsure. And it can watch video, listen to audio, read a PDF.",
+   "start_s": 1012.938,
+   "end_s": 1040.458,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Why would I want the unsure one?",
+   "start_s": 1040.458,
+   "end_s": 1042.458,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Because the sure answers sail through, and the mushy ones go into a pile for a person or the big expensive model. And Tom, a cheap yes-or-no judge is exactly the piece your sentence-checking verifiers lean on. The little checkers that ask, does this sentence hold up?",
+   "start_s": 1042.458,
+   "end_s": 1058.858,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 4,
+   "speaker": "christina",
+   "text": "And here's my favorite detail. Jev made up its own word for a yes-or-no question. Noul. N-O-U-L. That's the oldest move in pop music. A small act invents the sound, then the big label shows up with a bigger budget and the same chords. I'd bet the cheap original hangs on.",
+   "start_s": 1058.858,
+   "end_s": 1077.818,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 5,
+   "speaker": "bea",
+   "text": "I'd bet the video part wins. Once everybody's questions are about pictures and clips, a judge that only reads text is standing outside.",
+   "start_s": 1077.818,
+   "end_s": 1086.218,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Check back in a month?",
+   "start_s": 1086.218,
+   "end_s": 1087.418,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Check back. Okay, that's us. Tom, tomorrow's the seventeenth. Go look at that cart.",
+   "start_s": 1087.418,
+   "end_s": 1093.338,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 8,
+   "speaker": "christina",
+   "text": "And I have a call to schedule, apparently. Bye, Tom.",
+   "start_s": 1093.338,
+   "end_s": 1097.338,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Bye, Tom.",
+   "start_s": 1097.338,
+   "end_s": 1098.138,
+   "chapter": 7
+  }
+ ],
+ "cost": {
+  "real_usd": 1.3206,
+  "api_usd": 11.0627,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 9,
+    "input_tokens": 18,
+    "output_tokens": 84676,
+    "cache_write": 432685,
+    "api_usd": 5.1621,
+    "cache_read": 35353,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 124,
+    "input_tokens": 248,
+    "output_tokens": 87466,
+    "cache_write": 696825,
+    "api_usd": 3.7373,
+    "cache_read": 747953,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 12,
+    "chars": 16507,
+    "real_usd": 1.3206,
+    "api_usd": 1.3206
+   },
+   {
+    "kind": "background",
+    "calls": 85,
+    "real_usd": 0.0,
+    "api_usd": 0.8427,
+    "since": "2026-10-29T10:44:47Z",
+    "until": "2026-11-16T09:33:05Z"
+   }
+  ]
+ }
+}
