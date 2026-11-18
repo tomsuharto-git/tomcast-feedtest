@@ -385,5 +385,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261118-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261118.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261118",
+    "title": "Work: Wed Nov 18. The Invisible Buyer, Levi's vs Unilever, Kalshi's Bad Week, Measles + Born and Raised, Pitch Work You Love",
+    "description": "Work (Bea and Jack): The Invisible Buyer, Levi's vs Unilever, Kalshi's Bad Week, Measles + Born and Raised and Pitch Work You Love.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261118.mp3",
+    "audio_bytes": 11700602,
+    "duration_s": 975,
+    "published_utc": "2026-11-18T09:38:29.019578Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261118-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261118.episode.json"
   }
 ]

@@ -1,0 +1,826 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261118",
+ "show": "work",
+ "title": "The new shopper isn't human",
+ "date": "2026-11-18",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261118.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261118-art1.png",
+ "duration_s": 975,
+ "published_utc": "2026-11-18T09:38:29.019578Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "industry-invisible-buyer",
+   "tag": "The Invisible Buyer",
+   "headline": "The new shopper isn't human: brands are now selling to AI assistants",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "industry-craft-vs-scale",
+   "tag": "Levi's vs Unilever",
+   "headline": "Levi's spends 2,000 hours on handmade stop-motion while Unilever makes 12x the content for 90% less",
+   "start_s": 253.604
+  },
+  {
+   "n": 3,
+   "story_id": "clients-kalshi-cftc",
+   "tag": "Kalshi's Bad Week",
+   "headline": "CFTC freezes Kalshi's Trump 'mention' markets as Kalshi hires Martha Stewart to clean up its image",
+   "start_s": 428.89
+  },
+  {
+   "n": 4,
+   "story_id": "clients-gates-measles",
+   "tag": "Measles + Born and Raised",
+   "headline": "The U.S. loses its measles elimination status",
+   "start_s": 566.416
+  },
+  {
+   "n": 5,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 723.462
+  },
+  {
+   "n": 6,
+   "story_id": "thinking-pitch-what-you-love",
+   "tag": "Pitch Work You Love",
+   "headline": "On Strategy live in LA: three CSOs pitch campaigns they love but never worked on",
+   "start_s": 817.985
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack! Hi! Okay, before anything. What is that green thing behind you?",
+   "start_s": 8.995,
+   "end_s": 14.355,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Hi, Bea. That's an Oregon pennant. I bought it online at eleven at night. It showed up yesterday and it's bigger than the window.",
+   "start_s": 14.355,
+   "end_s": 21.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "You hung a college pennant. In a New York apartment. As a grown man.",
+   "start_s": 21.795,
+   "end_s": 27.955,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Above the bookshelf. It's crooked, and I'm leaving it crooked. It's the one thing in here that isn't sorted. Personal growth.",
+   "start_s": 27.955,
+   "end_s": 35.395,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "That's the most growth I've seen out of you all year. What else happened, besides the flag?",
+   "start_s": 35.395,
+   "end_s": 40.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I ordered business cards. Five hundred. The guy at the print shop asks, \"What's the title?\" And I just stood there at the counter for, I want to say, a full minute.",
+   "start_s": 40.435,
+   "end_s": 49.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Oh no. What did you put?",
+   "start_s": 49.875,
+   "end_s": 52.195,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "My name. \"Advisor.\" That's it. It looks like the card of a guy who sells fireplace inserts.",
+   "start_s": 52.195,
+   "end_s": 59.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Ha! You'd be great at fireplace inserts.",
+   "start_s": 59.235,
+   "end_s": 62.195,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I'd be a monster at fireplace inserts. But it bugged me. Whatever's on that card is what a stranger thinks I am. That's all they get. How's the lease math, by the way?",
+   "start_s": 62.195,
+   "end_s": 72.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Don't. I did it a third time. Same number. Rude of it.",
+   "start_s": 72.675,
+   "end_s": 77.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Sorry. Numbers are like that.",
+   "start_s": 77.875,
+   "end_s": 79.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Okay, but your card is basically this week. There's a new book called The Invisible Buyer, by Naureen Mohammed, and a bunch of people landed on the same idea at once. Brands always sold to the store that stocks you and the person who picks you off the shelf. Now there's a new buyer in the middle. Someone asks an AI assistant what sneakers to get a twenty-three-year-old, and it hands back a shortlist before a human sees a single shoe. If you're not on it, you never got a shot.",
+   "start_s": 79.795,
+   "end_s": 108.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Let me play the other side for a second, because I'm not sure this is as new as it sounds. Brands grow by being the one that comes to mind right when somebody's about to buy. The research people call that mental availability. What builds it is boring. Same colors, same cues, tied to the real moments people shop, and being easy to find. If that memory now lives inside a model instead of a person's head, fine. Same toolkit.",
+   "start_s": 108.558,
+   "end_s": 135.278,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Some of that, yes. But here's the example that got me. Someone asked an assistant for running shoes for that twenty-three-year-old, and Nike didn't make the top three. The swoosh, Just Do It, all of it, gone. One read is the machine sees Nike's lines pulling in different directions over the years. Just do it. Believe in something. Why do it. A person forgives that. A machine just sees a mess.",
+   "start_s": 135.278,
+   "end_s": 161.918,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Which is a point for me. Say the same thing every time.",
+   "start_s": 161.918,
+   "end_s": 165.358,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "It's a point for you! I'll give you that one. But think about what the machine actually reads. Stuff people wrote. Reviews, posts, creators, people arguing in the comments. If nobody made anything worth writing about, your perfectly consistent brand is a very tidy room nobody walks into.",
+   "start_s": 165.358,
+   "end_s": 184.438,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Hm. So is that a vote for culture, or a vote for being talked about the same way every time? Because ten people writing ten different things about you hands the machine the same mess Nike handed it.",
+   "start_s": 184.438,
+   "end_s": 196.318,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Ugh. Both. You need people talking, and you need them saying roughly the same thing. Which is way harder than either one on its own.",
+   "start_s": 196.318,
+   "end_s": 204.878,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "And Tom, this one's close to home for your agency. Autodesk isn't going forward for now. I don't know their reasons, so I'll ask. When someone goes looking for Today on the Moon, what do they actually find? Because that's the invisible buyer, with your agency as the product. The shortlist can get made before anybody meets you.",
+   "start_s": 204.841,
+   "end_s": 224.601,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Which stings, because the work's good. So what does somebody find today, Tom? Is the name still open, and what shows up when they search it? And then fill the gap with real things. Two or three projects, each with one plain sentence: what it was, who it was for. One line about the place that reads the same everywhere. And if the name changes in January, point the old one at the new one, so nothing you've already built gets lost.",
+   "start_s": 224.601,
+   "end_s": 252.841,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of real things you can point at. Levi's has a holiday spot out and I'm a little obsessed. Stop-motion. Tiny horses in tiny sweaters, a very confused yeti, miniature jeans with the little red tab. Two thousand hours of handwork. Then they filmed the making of it and put that on their main feed too.",
+   "start_s": 253.604,
+   "end_s": 274.524,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Why put out the making-of? Who asked for that?",
+   "start_s": 274.524,
+   "end_s": 277.284,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "AI suspicion. When Levi's first posted it on TikTok, one comment said \"AI slop.\" And the very next comment said, \"No, this is stop motion.\" So the behind-the-scenes film is the receipt. Apple did the same with a claymation Mac mini spot, and the making-of got way more views than the ad. People share the proof that a human made it.",
+   "start_s": 277.284,
+   "end_s": 299.124,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Who's watching those, though? If it's people who already love Apple, that's a nice party for the converted. Levi's needs the guy who hasn't thought about jeans once this year.",
+   "start_s": 299.124,
+   "end_s": 308.764,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Look at that comment again. A stranger defending the brand to another stranger. Nobody paid that person. That's culture doing your reach for you.",
+   "start_s": 308.764,
+   "end_s": 317.844,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. A fan making the correction is the one thing a brand can't do for itself without sounding defensive. Okay. That lands. Whether it builds any memory for Levi's, I still don't know. Now the other end of the week. Unilever makes twelve times the content it did in 2024, at about ninety percent less per piece.",
+   "start_s": 317.844,
+   "end_s": 340.804,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "I love that and it scares me. Which is basically me every week.",
+   "start_s": 340.804,
+   "end_s": 345.764,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Twelve times is a production number, though. It tells me nothing about whether anybody remembers the brand. If it's the same colors, same sound, same pack, twelve times over, great, that builds memory. If it's twelve times whatever felt fresh that morning, it's wallpaper. And I think these two companies are fixing different problems. Levi's got burned a few years back when it announced AI-generated models for its product photos. So I'd guess it's buying back trust. Unilever sells soap in every country on earth. It's buying volume.",
+   "start_s": 345.727,
+   "end_s": 378.367,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And Tom, your agency sits in a funny spot here. Your own vision deck calls AI the nervous system, for amplification and never a shortcut. Meanwhile you've been building workflows where Claude drives Firefly and loops the animations. That's most of a position already. Nobody's written it down.",
+   "start_s": 378.367,
+   "end_s": 397.567,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "So does it go in the creds? Only if it's specific. Which jobs get the human hours, which jobs go to the machine. If the slide says \"we do both,\" every agency in town has that slide. And craft on its own, I'd call it the entry fee now. Clients expect it. I doubt it's the reason anybody picks you.",
+   "start_s": 397.567,
+   "end_s": 416.687,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Fine, entry fee. But the receipts travel. If craft goes in the creds, show the making. A real making-of from a real project beats any paragraph about how much you care.",
+   "start_s": 416.687,
+   "end_s": 428.127,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Bea, did you see the Martha Stewart thing?",
+   "start_s": 428.89,
+   "end_s": 431.45,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "I saw Martha Stewart in a kitchen and that's genuinely all I know. Fill me in.",
+   "start_s": 431.45,
+   "end_s": 436.73,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "So Kalshi is Polymarket's biggest rival. Both run prediction markets, where people trade on whether something's going to happen. Kalshi had these Trump \"mention\" markets.",
+   "start_s": 436.73,
+   "end_s": 446.73,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Wait. What's a mention market?",
+   "start_s": 446.73,
+   "end_s": 448.81,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "You bet on whether he says a certain word. This week the CFTC, the federal regulator for these exchanges, froze them. Kalshi has until December eleventh to answer in writing, and it's already pulled them down.",
+   "start_s": 448.81,
+   "end_s": 461.45,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Betting on whether a man says a word. Okay.",
+   "start_s": 461.45,
+   "end_s": 465.37,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And here's the strange half. Same week, the federal government sued Arkansas to stop the state using its gambling laws against Kalshi. Kalshi isn't even a party to the suit. The government is out there protecting the whole category.",
+   "start_s": 465.37,
+   "end_s": 479.41,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "So Washington is defending the playground while it takes away one kid's toy.",
+   "start_s": 479.41,
+   "end_s": 484.13,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "That's about right. And Tom, it speaks to a question you've had: is regulation Kalshi's problem or everybody's? This month it's Kalshi's. But anyone running mention markets has the same design problem, so I wouldn't let Polymarket get smug about it.",
+   "start_s": 484.13,
+   "end_s": 499.41,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Okay, now the ad, because this is where I lose my mind. Martha Stewart went to prison over a stock sale years ago. Everybody knows that. And Kalshi puts her in a replica of her nineties kitchen, ninety seconds, telling people not to trade on inside information. They walked straight into the joke. And they launched it alongside their market integrity committee, which is a panel they set up to police insider trading.",
+   "start_s": 499.41,
+   "end_s": 525.69,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "It's smart. I'll say that plainly.",
+   "start_s": 525.69,
+   "end_s": 527.77,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Annoyingly good test. And on Check Poly versus Check Polymarket, I lean short. Short is what people actually say out loud.",
+   "start_s": 527.77,
+   "end_s": 536.73,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Short works if people already call it Poly. So who's the client paying to reach? Glenn, on the client side, only funds switchers. People already trading on Kalshi or a sportsbook. Those people probably already say Poly. So the switcher brief might settle the name for you.",
+   "start_s": 537.333,
+   "end_s": 554.453,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Oh, that's irritating, because you're right. And if this mess stays Kalshi's mess, Polymarket gets to be the calm one this winter. That costs nothing.",
+   "start_s": 554.453,
+   "end_s": 565.653,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack, totally different thing. Did you see the measles news?",
+   "start_s": 566.416,
+   "end_s": 570.696,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I saw the headline and not much else. What actually happened?",
+   "start_s": 570.696,
+   "end_s": 574.416,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "bea",
+   "text": "The U.S. lost its measles-elimination status. That's a label the Americas' regional health body gives a country when the disease stops spreading on its own there. The U.S. had held it since 2000. Now measles has kept spreading, and there have been deaths. And Mexico, Bolivia and several European countries lost it this year too. Canada lost it the year before.",
+   "start_s": 574.416,
+   "end_s": 597.856,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Since 2000. And it slipped away that fast.",
+   "start_s": 597.856,
+   "end_s": 601.536,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "That's the part that got me. Gains like that go backwards about as fast as people stop doing the boring thing.",
+   "start_s": 601.536,
+   "end_s": 608.976,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "So, Tom's client. The Gates Foundation's global platform. Born and Raised is the front-runner going into testing, and Katelyn on the client side wants a message about challenges every parent and kid faces, with a better bridge between global and local. Does a rich country sliding back help that? Or does it drag them into the American vaccine fight?",
+   "start_s": 608.976,
+   "end_s": 629.936,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Both, which is the annoying answer. A rich country slipping shows the worry belongs to everybody. That's your bridge, right there. But the core partners' reactions are go or no-go for the whole campaign, and partner pushback is what put Loveverse in trouble. If the work smells like the U.S. vaccine argument, you've handed somebody a reason to say no. That's a good question and I hate it, because it's the right one. One real place, a few real people, a rough cut, before anyone argues about a fourth logo direction. You'd find out fast whether the bridge holds. But I want to push on \"never say measles.\" Everybody walks into that room this month already thinking the word. If the work goes totally quiet on it, a partner might read the quiet as dodging. So the silence has to be a choice you can defend out loud.",
+   "start_s": 629.899,
+   "end_s": 681.099,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Fair. I'll take that. Then maybe the news changes how you talk about the idea in the room more than it changes the work itself. Has the client said anything about the U.S. at all, Tom? Or is that a door nobody's opened yet?",
+   "start_s": 681.099,
+   "end_s": 694.219,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And on not sounding like a lecture. The second the work explains why you should care, it's a lecture. Make the parent the hero and nobody the villain. My mom has a line from her classroom days: the best lesson never sounds like one. I'm still trying to get that into my own stuff.",
+   "start_s": 694.219,
+   "end_s": 711.099,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "One small thing while Bill Gates is in the news. Anything under a name that big gets clipped, a line cut in half and passed around. So write lines that still make sense when somebody chops them.",
+   "start_s": 711.099,
+   "end_s": 722.699,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay. Lightning round. Six quick ones. Jack, go.",
+   "start_s": 723.462,
+   "end_s": 727.382,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Tom, 72andSunny, the network your agency came out of, has a new CEO for its New York office. Rebekah Pagis, coming from WPP, one of the giant holding companies. That's after layoffs reached their top team.",
+   "start_s": 727.382,
+   "end_s": 741.222,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "bea",
+   "text": "New boss in the family tree. Next: Omnicom, another giant holding company, is pulling everything into the center, and its creative agencies are having an identity crisis about it.",
+   "start_s": 741.222,
+   "end_s": 752.502,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "jack",
+   "text": "The bigger the blob gets, the more a distinct agency is worth. That's your creds morning in one sentence, Tom.",
+   "start_s": 752.502,
+   "end_s": 758.822,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Here's one for you, Jack. I'll say it before you do: TV still has a lot going for it, and social isn't the only place to put money.",
+   "start_s": 758.822,
+   "end_s": 767.062,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I'm printing that and hanging it next to the pennant.",
+   "start_s": 767.062,
+   "end_s": 770.422,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Of course you are. Adobe's been ordered to negotiate an end to calling its AI line \"Foundry.\" It's a fight over the name.",
+   "start_s": 770.422,
+   "end_s": 778.662,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Check a name before you fall in love with it. Somebody I know has a name question open.",
+   "start_s": 778.662,
+   "end_s": 783.222,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Anheuser-Busch is putting one and a half million dollars into Cutwater's plant in San Diego. Cutwater makes spirits-based canned cocktails, which is High Noon's aisle.",
+   "start_s": 783.222,
+   "end_s": 792.982,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Money keeps pouring into cans. Somebody thinks that aisle's still growing.",
+   "start_s": 792.982,
+   "end_s": 797.302,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Last one. Visa's pushing AI payments and stablecoins across Asia Pacific. Stablecoins are crypto tokens pegged to a regular currency, like the dollar.",
+   "start_s": 797.302,
+   "end_s": 807.542,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 11,
+   "speaker": "jack",
+   "text": "That's the cross-border money XRP wants to be famous for, and the big incumbents are walking right in. Tom, your XRP story just got a very rich neighbor.",
+   "start_s": 807.542,
+   "end_s": 817.222,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "bea",
+   "text": "One more, and it's one I loved. Fergus O'Carroll has a podcast for strategists called On Strategy, and he did a live show in LA. Three strategy heads each got up in front of a room and pitched a campaign they love but never worked on. Tom Sussman from TBWA Chiat Day, one of the big LA agencies. Marc Pardy from 72andSunny LA. Lee Maicon, who runs strategy at Innocean, another big agency. You can't hide up there. If you can't say why somebody else's work travelled, you probably can't say it about your own either.",
+   "start_s": 817.985,
+   "end_s": 854.105,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I like it for a sneakier reason. When you pitch your own case study, everybody nods politely. With somebody else's work, you have to actually explain it. I'd add one rule. Every pitch answers: what did people do differently afterward, and how would you know? If the only answer is a trophy shelf, pick another campaign.",
+   "start_s": 854.105,
+   "end_s": 873.905,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "bea",
+   "text": "No, I'll fight that. It's a great question for a strategist and a terrible filter for taste. Half the work I love, nobody ever measured anything. I'd make it two questions. Why did it work, and why did culture pick it up? And everybody brings one thing they made. A rough board, a one-pager on what they'd do with the same problem. So people get reps along with the opinions.",
+   "start_s": 873.905,
+   "end_s": 898.625,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Okay, two questions. I'll take that. Where does it live, though? Inside the building or out in public?",
+   "start_s": 898.625,
+   "end_s": 904.785,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Inside for three weeks. See who's good at it. Then take the best ones public, on LinkedIn, weekly. That way people see how your strategists think, and you don't have to wait for case videos.",
+   "start_s": 904.785,
+   "end_s": 916.785,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Then I'd want each public one to end with where you'd use the idea on your own work, so the agency shows up in the post along with the person. And sometimes let somebody who actually lives on the feed pick the campaign. They'll bring things I've never heard of. Which is sort of the point.",
+   "start_s": 916.785,
+   "end_s": 932.305,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Tom, who does the first one? And would they enjoy it or dread it? That tells you whether it's a habit or a December fantasy.",
+   "start_s": 932.268,
+   "end_s": 940.828,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "jack",
+   "text": "So, two things for your week. Before the offsite, write down what you'd want a person or a machine to say about Today on the Moon, then go see what they actually say. That gap is your creds brief. And decide which jobs get the human hours.",
+   "start_s": 940.828,
+   "end_s": 955.948,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And ship two real things before you polish one manifesto. Jack, straighten the pennant.",
+   "start_s": 955.948,
+   "end_s": 961.948,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Never. See you next week, Tom.",
+   "start_s": 961.948,
+   "end_s": 964.988,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Bye, Tom!",
+   "start_s": 964.988,
+   "end_s": 965.708,
+   "chapter": 6
+  }
+ ],
+ "cost": {
+  "real_usd": 1.198,
+  "api_usd": 10.8976,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 75823,
+    "cache_write": 289923,
+    "api_usd": 3.8408,
+    "cache_read": 24704,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 131,
+    "input_tokens": 282,
+    "output_tokens": 134113,
+    "cache_read": 1020097,
+    "cache_write": 966932,
+    "api_usd": 5.3114,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 275937,
+    "output_tokens": 19619,
+    "api_usd": 0.2174,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 12,
+    "chars": 14975,
+    "real_usd": 1.198,
+    "api_usd": 1.198
+   },
+   {
+    "kind": "background",
+    "calls": 6,
+    "real_usd": 0.0,
+    "api_usd": 0.33,
+    "since": "2026-11-15T09:38:00Z",
+    "until": "2026-11-18T09:38:29Z"
+   }
+  ]
+ }
+}
