@@ -1,0 +1,635 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261118",
+ "show": "sports",
+ "title": "Blazers fall 106-105 in Minnesota",
+ "date": "2026-11-18",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261118.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261118-art1.png",
+ "duration_s": 570,
+ "published_utc": "2026-11-18T09:22:23.963489Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Blazers lose by one",
+   "headline": "Blazers fall 106-105 in Minnesota: a one-point loss that came down to the last minute",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Avdija out, minutes shuffled",
+   "headline": "Without Avdija, Portland's frontcourt and bench minutes were the swing",
+   "start_s": 255.984
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Scoot and rotation noise",
+   "headline": "Scoot Henderson's 4-13 night and the fan debate over rotation and trade talk",
+   "start_s": 406.23
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. Morning. Did you sleep at all?",
+   "start_s": 10.175,
+   "end_s": 12.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Eventually. I watched the last thirty seconds on my laptop four times. Went to brush my teeth. Came back and watched it a fifth time.",
+   "start_s": 12.655,
+   "end_s": 20.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "With the toothbrush in your mouth.",
+   "start_s": 20.655,
+   "end_s": 22.335,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "With the toothbrush in my mouth. There's foam on the trackpad. And you sound like a man who ate something he regrets.",
+   "start_s": 22.335,
+   "end_s": 29.695,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Cold pizza. Over the sink. Twelve-thirty. I own a kitchen table, by the way. I want that on the record.",
+   "start_s": 29.695,
+   "end_s": 35.855,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "You own chairs too.",
+   "start_s": 35.855,
+   "end_s": 37.215,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "The chairs felt like too much commitment last night.",
+   "start_s": 37.215,
+   "end_s": 39.695,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Ha. Okay. One point. When did you think we had it?",
+   "start_s": 39.695,
+   "end_s": 43.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Third quarter, the bar's half empty. Dame hits a three. Then he picks Beringer's pocket. Beringer's Minnesota's young center, and Dame just takes the ball out of his hands, goes the other way, scores and gets fouled.",
+   "start_s": 43.295,
+   "end_s": 55.135,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "And he was sick for that, right?",
+   "start_s": 55.135,
+   "end_s": 56.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Sick, no Deni, and it's the second night of a back-to-back. That means playing on back-to-back nights. So I turn to the bartender, who only cares whether the total score goes over or under the number in his head. I tell him we're winning this one sick. He never looked up.",
+   "start_s": 56.815,
+   "end_s": 72.015,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Smart man.",
+   "start_s": 72.015,
+   "end_s": 73.615,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Smarter than me. Where I landed at one in the morning: we gave it away. Seventeen turnovers. Sloppy all night, and then the last two possessions we can't even get the ball in.",
+   "start_s": 73.615,
+   "end_s": 83.935,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Walk me through the sloppy part, because I went back and looked and I think you've got it backwards. Minnesota turned it over twenty-one times. We turned it over seventeen. Over forty-eight minutes, they were the messier team.",
+   "start_s": 83.935,
+   "end_s": 96.575,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Wait. Really? They were sloppier than us?",
+   "start_s": 96.575,
+   "end_s": 98.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Four more turnovers. So 'we gave it away' shrinks down to the last minute. And honestly, that's good news for you.",
+   "start_s": 98.975,
+   "end_s": 106.135,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "How is that good news? I feel worse.",
+   "start_s": 106.135,
+   "end_s": 108.575,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "You can't fix a sloppy team overnight. You can fix one inbound play.",
+   "start_s": 108.575,
+   "end_s": 113.695,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "Okay. Fine. I went on feel, and the feel was wrong. So, the ending. An inbound is just throwing the ball in from out of bounds after play stops. Late, with the lead, you've got one job. Get it in, let them foul you, go shoot free throws. And Clingan threw it in. Three times. Our big man, standing on the baseline with a guy waving in his face. On one of them Jrue can't even come up with the catch.",
+   "start_s": 113.658,
+   "end_s": 139.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "So what did the coaches see? Did they want the tall guy who can see over the defense? Or were Dame and Jrue getting held so hard that neither one could be spared to throw it?",
+   "start_s": 139.178,
+   "end_s": 148.698,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "They were getting grabbed, both of them, both possessions. But Donovan's whole game is going and getting the ball. Chasing misses is what he's built for. Standing still and threading a pass with arms in his face is about the last thing he's built for. He did what they asked. I want to know who asked.",
+   "start_s": 148.698,
+   "end_s": 165.338,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "And the refs? Half the people I saw this morning think the refs took it.",
+   "start_s": 165.338,
+   "end_s": 169.218,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "They've got a case. Late in the fourth, the replay sure looks like Gobert sticks a forearm right into Camara's stomach. No whistle. Camara's off balance, so the guy who's supposed to slide over and cover the shooter is a step late, and Ayo Dosunmu, the guard they picked up from Chicago, is wide open. Three. One-point game. I'm still mad about it. But that forearm didn't throw the ball away on an inbound.",
+   "start_s": 169.218,
+   "end_s": 191.778,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "And Dosunmu went seven for eleven from three. Thirty points. That's a lot of nights somebody lost him. No ref did that.",
+   "start_s": 191.778,
+   "end_s": 199.458,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "No. And here's what turns my stomach. We beat them on the offensive glass, grabbing our own misses, fourteen to eight. Dame and Jrue both hot. And it still ends one point short.",
+   "start_s": 199.458,
+   "end_s": 211.098,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Thirteen of twenty at the free throw line didn't help. Clingan missed all three of his. A one-point game is a dozen small things, and some of them were ours. Still. No Deni, second night. My hunch is this one ends up useful, if somebody redraws that inbound play before the next close game. If they run it the same way, I'll eat the crow.",
+   "start_s": 211.061,
+   "end_s": 233.141,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "The kid I'm holding onto is Jayson Kent. Started in Deni's spot. Local guy, walked into an open tryout, made the G League, which is basically the NBA's minor league. Now he's on a two-way, a deal that lets him bounce between there and the big club. Comes in cold, two of three from three, chasing rebounds like it's his last night in the league.",
+   "start_s": 233.141,
+   "end_s": 252.061,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "That's a guy whose phone blew up this morning.",
+   "start_s": 252.061,
+   "end_s": 254.821,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Did your dad send his word yet?",
+   "start_s": 255.984,
+   "end_s": 257.824,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Six this morning. And it's different. Usually it's one word, like he's handing down the verdict on the game. This time: 'Clingan?' With a question mark. He's never asked me anything.",
+   "start_s": 257.824,
+   "end_s": 268.304,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Huh. What'd you send back?",
+   "start_s": 268.304,
+   "end_s": 270.224,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Nothing yet. I think I'm going to call him. Out loud, with my voice, like a weirdo.",
+   "start_s": 270.224,
+   "end_s": 275.264,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Like a weirdo. Okay. So what's the answer to his question?",
+   "start_s": 275.264,
+   "end_s": 279.904,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Clingan's the answer. Everybody's saying no Deni, what do you expect. I think the game got lost when Clingan sat. Robert Williams, the veteran backup big, plays sixteen minutes and we get outscored by eighteen. With Clingan out there, we're plus seventeen. Put him on the floor, we win. Sit him, we bleed.",
+   "start_s": 279.904,
+   "end_s": 298.224,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "I was right there with you last night. Then I argued myself out of it. Plus-minus is just the score while you happen to be on the floor. It swings on plays you never touched. Camara shoots four for sixteen and he's plus eleven. If that number told the truth, Camara had the better night.",
+   "start_s": 298.224,
+   "end_s": 315.584,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Okay, that's annoying. Because Toumani did not have the better night.",
+   "start_s": 315.584,
+   "end_s": 319.464,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "So what else was going on when the backups were out there?",
+   "start_s": 319.464,
+   "end_s": 322.184,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Third quarter they went to a zone for a stretch. That's where everybody guards a patch of the floor instead of one man. And it got weird. Clingan's flying out to the corner chasing shooters, and Camara's stuck under the rim boxing out, keeping his body between their center and the basket. Your big man's in the corner and your forward's guarding the rim. Two threes, back to back. The man-to-man was working fine. I still don't know why they switched.",
+   "start_s": 322.184,
+   "end_s": 345.52,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. So some of those ugly numbers belong to the scheme, whoever happened to be standing in it.",
+   "start_s": 345.52,
+   "end_s": 352.384,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Could be. And Carlson, I'll give him this, the guy runs all night and he'll guard three different positions. I'd just like to see him get a smaller, cleaner job.",
+   "start_s": 352.347,
+   "end_s": 361.627,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "jack",
+   "text": "On Camara, though. Twelve misses with your best player in street clothes. Who bails you out?",
+   "start_s": 361.627,
+   "end_s": 367.507,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "I'll defend Toumani. When your guy's out, somebody has to try to be the guy, and Toumani tried too hard. He still grabbed eight rebounds and kept guarding. The shots, yeah, I'll criticize the shots. Four for sixteen is four for sixteen. Give him a few nights.",
+   "start_s": 367.507,
+   "end_s": 382.907,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "jack",
+   "text": "So where does it land? The guy who's missing, or the guys who filled in?",
+   "start_s": 382.907,
+   "end_s": 386.987,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Both, which is the annoying answer. Deni tried to warm up and couldn't go, and Ja and Shaedon were already hurt. So the bench was always going to play more. Without Deni, every soft spot on that bench got thirty minutes of bright light on it.",
+   "start_s": 386.987,
+   "end_s": 400.587,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "jack",
+   "text": "I'll take that. Now call your dad before lunch.",
+   "start_s": 400.587,
+   "end_s": 403.307,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Before lunch. Yes, coach.",
+   "start_s": 403.307,
+   "end_s": 405.467,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Half of Portland wants to trade Scoot Henderson this morning. Four of thirteen, oh for four from three, twenty-one minutes off the bench because Kent started. One night. And if I'm another front office and I can smell that mood, I lowball you. Selling because you're frustrated gets you the worst price you'll ever see.",
+   "start_s": 406.23,
+   "end_s": 425.03,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "You're the most boring correct person I know. Four for thirteen is ugly and I won't dress it up. The first half was rough. But he had a steal, a block, and we were only outscored by one with him out there. He gave them real minutes in the fourth. He's a young point guard with a jumper still under construction. You don't sell when his price is at the bottom.",
+   "start_s": 425.03,
+   "end_s": 444.15,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "So was the fourth quarter the start of something, or just a good six minutes? I honestly could argue either.",
+   "start_s": 444.15,
+   "end_s": 450.39,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "I think it's the start of something. Okay, that's the optimism talking. Ask me in a month. But Yang Hansen is the one I actually lose sleep over. He's our young backup center. He had a double-double, double digits in points and rebounds, and then basically never played again. Didn't play last night either. I want him in over Carlson. Bench him if you have to, but get him reps somewhere. Send him down to the G League and let him play twenty-five minutes a night.",
+   "start_s": 450.39,
+   "end_s": 474.59,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "And I'm going to hold the coach's side on this one, for real. I'd keep him at the end of the bench. Practicing against Clingan every day is worth more than G League minutes against guys who'll be selling insurance in three years. Up here he's learning our defense, our calls. Send him down and he's learning somebody else's system.",
+   "start_s": 474.59,
+   "end_s": 492.31,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Practice has no crowd, no clock that matters, nobody's job on the line. You only learn to slide over and help at game speed, with a bigger guy leaning on you and the shot clock running. Clingan got tons of real minutes his first year, and look at him now.",
+   "start_s": 492.273,
+   "end_s": 506.753,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Clingan was always going to play. Different bet. And sitting and watching counts for something. Some weeks my phone doesn't ring, and I've gotten sharper at the job in those weeks. You see things from the bench.",
+   "start_s": 506.753,
+   "end_s": 518.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Is that about Yang or about you?",
+   "start_s": 518.393,
+   "end_s": 521.313,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "It's about Yang. Mostly. Answer the point.",
+   "start_s": 521.313,
+   "end_s": 524.113,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Ha. Okay. The coach sees him in practice every day, and I see box scores. If he's a step late every time he has to slide over, I get not wanting to find that out in a one-point game. But he only stops being a step late by playing.",
+   "start_s": 524.113,
+   "end_s": 538.593,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "I'll meet you halfway. If he's not in the rotation by the new year, send him down. Sitting him till March helps nobody.",
+   "start_s": 538.593,
+   "end_s": 545.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "The new year. I'm holding you to it. So Scoot gets patience, Yang gets a deadline, and somebody other than Clingan throws the ball in.",
+   "start_s": 545.393,
+   "end_s": 553.233,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "And you call your dad.",
+   "start_s": 553.233,
+   "end_s": 554.673,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Calling him right now. That's the show, Tom. Jack, go eat a real breakfast.",
+   "start_s": 554.673,
+   "end_s": 558.94,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "jack",
+   "text": "At a table. See you next time.",
+   "start_s": 558.94,
+   "end_s": 560.833,
+   "chapter": 3
+  }
+ ],
+ "cost": {
+  "real_usd": 0.7587,
+  "api_usd": 7.2013,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 68,
+    "input_tokens": 136,
+    "output_tokens": 92078,
+    "cache_write": 881243,
+    "api_usd": 4.4743,
+    "cache_read": 283164,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 7,
+    "input_tokens": 14,
+    "output_tokens": 46805,
+    "cache_write": 128487,
+    "api_usd": 1.9683,
+    "cache_read": 21065,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 7,
+    "chars": 9484,
+    "real_usd": 0.7587,
+    "api_usd": 0.7587
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-11-14T09:22:31Z",
+    "until": "2026-11-18T09:22:23Z"
+   }
+  ]
+ }
+}
