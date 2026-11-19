@@ -397,5 +397,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261118-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261118.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261119",
+    "title": "Builder: Thu Nov 19. Checking AI voices, OpenAI dots + Wallet, Sessions that talk, Anthropic IPO, GPT-6.2 Astra + Sol, Jensen out at Nvidia, Gemini 4 Neon",
+    "description": "Builder (Christina and Bea): Checking AI voices, OpenAI dots + Wallet, Sessions that talk, Anthropic IPO, GPT-6.2 Astra + Sol, Jensen out at Nvidia and Gemini 4 Neon.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261119.mp3",
+    "audio_bytes": 14309921,
+    "duration_s": 1192,
+    "published_utc": "2026-11-19T09:33:45.701197Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261119-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261119.episode.json"
   }
 ]
