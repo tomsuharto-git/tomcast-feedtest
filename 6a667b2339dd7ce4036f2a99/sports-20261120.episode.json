@@ -1,0 +1,730 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261120",
+ "show": "sports",
+ "title": "Scoot's 27 or Jrue's +33",
+ "date": "2026-11-20",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261120.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261120-art1.png",
+ "duration_s": 653,
+ "published_utc": "2026-11-20T09:30:13.991987Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Scoot + Jrue",
+   "headline": "Scoot's 27 or Jrue's +33: who actually won this game in Milwaukee?",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Dame returns",
+   "headline": "Dame's 33 in Milwaukee and a win that was closer than 1-15 says",
+   "start_s": 270.944
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Camara's third",
+   "headline": "Camara's third quarter: four threes, three blocked threes",
+   "start_s": 391.11
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Center rotation",
+   "headline": "The bench and center minutes: Clingan, Yang, Carlson",
+   "start_s": 474.593
+  },
+  {
+   "n": 5,
+   "story_id": "s5",
+   "tag": "Around the league",
+   "headline": "Around the league lightning round",
+   "start_s": 586.839
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. You sound tired.",
+   "start_s": 10.175,
+   "end_s": 12.095,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I am tired. I ate dinner at nine-thirty last night, standing at the counter. Bran flakes, straight out of the box. Somewhere in the fourth quarter I forgot dinner was a thing people do.",
+   "start_s": 12.095,
+   "end_s": 23.215,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Bran flakes at the counter. You eat like a man waiting on a jury.",
+   "start_s": 23.215,
+   "end_s": 27.455,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "That's how the fourth quarter felt. How was the bar?",
+   "start_s": 27.455,
+   "end_s": 30.175,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Loud, for a Thursday. The bartender had the over, so he wanted points, anybody's points. Every time we coughed it up and Milwaukee ran out for a layup, he slapped the bar like he'd scored it himself. Best night of his life.",
+   "start_s": 30.175,
+   "end_s": 42.735,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "So he's the only guy in Portland who enjoyed that stretch.",
+   "start_s": 42.735,
+   "end_s": 45.775,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Him, and me for the whole second quarter. Which is my case. Scoot's my player of the night.",
+   "start_s": 45.775,
+   "end_s": 50.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Of course he is. I've got Jrue.",
+   "start_s": 50.815,
+   "end_s": 52.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Hear me out first. Jrue was great, twenty-two, seven assists, four steals, nobody's arguing. But Jrue doing Jrue things is why we got him. That's the sticker on the box. Scoot going eight for twelve, five for six from three, after the month he's had? Nobody had that coming. And the moment that got me was the end of the first. Jrue's got a clean look above the break. He swings it to Scoot in the left corner instead, and Scoot buries it at the buzzer.",
+   "start_s": 52.815,
+   "end_s": 78.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I loved that play. I rewound it.",
+   "start_s": 78.255,
+   "end_s": 80.495,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "That's a vet telling a kid, I trust your shot over mine. Then Scoot goes out and owns the second quarter, and Nori just leaves him out there. Ten-plus minutes. Doesn't touch it. A coach trusting a kid. That's my whole thing.",
+   "start_s": 80.495,
+   "end_s": 93.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Okay. Let me play the other side for a second. You skipped your own best evidence. Late in the fourth it's a game, and Portland has to take it back. What happens on the next trip down?",
+   "start_s": 93.815,
+   "end_s": 103.775,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Jrue hits a three.",
+   "start_s": 103.775,
+   "end_s": 104.735,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Ties it. That's the moment a game against a one-and-fifteen team turns into the loss everybody screenshots, and he shuts the door. Then the steal on Herro and the layup. Which, side note, I still can't get used to Herro in a Bucks jersey. Anyway. Where was Scoot in the fourth?",
+   "start_s": 104.698,
+   "end_s": 122.778,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Quiet. I know. I'll give you that.",
+   "start_s": 122.778,
+   "end_s": 126.138,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Jrue's plus thirty-three in thirty-one minutes. Scoot's plus seventeen. I know that number lies plenty. But a gap that wide on a night like this tells you who was holding it together. Scoot built the cushion. Jrue kept anybody from spending it.",
+   "start_s": 126.138,
+   "end_s": 141.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "But you just said it. Scoot built the cushion. No second quarter, no lead for Jrue to guard. And Jrue's prettiest play all night was handing Scoot that corner three. So the best thing Jrue did was make Scoot's night happen, and you want to give Jrue the trophy for it? Come on.",
+   "start_s": 141.418,
+   "end_s": 156.618,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Ha. That's a lawyer's argument.",
+   "start_s": 156.618,
+   "end_s": 158.858,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "It's a good lawyer's argument.",
+   "start_s": 158.858,
+   "end_s": 160.538,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "It's decent. So tell me about those five threes. How many were him catching it off somebody else's work, and how many did he make off his own dribble? If it's mostly the first kind, I'd guess good passing found him and the jumper hasn't changed much. And it's a tired team on the second night of a back-to-back, twelve straight losses. I'd call it a really good Thursday and wait.",
+   "start_s": 160.538,
+   "end_s": 182.178,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "I honestly don't know the split. A lot of them felt like rhythm shots, the ball moving to him. So, fair. And okay, that's the optimism talking, because I already think he's arriving. What I saw was a guy who quit looking for the escape pass. Seven trips to the line, six makes. He was going at people. Shooters get their confidence back one make at a time, and he got about eleven of them in one night.",
+   "start_s": 182.178,
+   "end_s": 204.698,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "I liked that he went quiet in the fourth, too. Kid has a hot night and lets the older guy close? Plenty of guys jack up four bad ones trying to make it a forty-point story. He didn't.",
+   "start_s": 204.741,
+   "end_s": 215.141,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "See, now you're on my side.",
+   "start_s": 215.141,
+   "end_s": 217.061,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "I'm splitting it. Scoot gets the story, Jrue gets the win. And I'm a little suspicious of my own one-game reflex. I've talked myself out of young guys before and been very wrong about it.",
+   "start_s": 217.061,
+   "end_s": 228.341,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "Write that down. So what are you watching Saturday?",
+   "start_s": 228.341,
+   "end_s": 231.301,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "Shot choice. Say his first two threes miss at the Garden. Does he keep shooting, or go back to attacking and getting to the line? If he's still at the line on a cold night, I'll start believing.",
+   "start_s": 231.301,
+   "end_s": 241.861,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "Mine's his face. First two miss, does he keep going downhill, or start glancing at the bench? And someday soon I want him closing one of these himself instead of watching Jrue do it.",
+   "start_s": 241.861,
+   "end_s": 251.941,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "How's your dad on Jrue? There were three ugly turnovers in there he'd have hated.",
+   "start_s": 251.941,
+   "end_s": 256.341,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "mikey",
+   "text": "Ha. He called. Eleven seconds. 'Jrue. Old man.' Click.",
+   "start_s": 256.341,
+   "end_s": 261.941,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "jack",
+   "text": "Compliment or complaint?",
+   "start_s": 261.941,
+   "end_s": 263.541,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "mikey",
+   "text": "I think both. And I think it was about himself a little too. I didn't ask. I'll find out Sunday.",
+   "start_s": 263.541,
+   "end_s": 270.181,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of old men. Dame drops thirty-three in the building that let him go. Milwaukee waived him, and he went out there and did that. It landed on me more than I expected.",
+   "start_s": 270.944,
+   "end_s": 281.984,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Landed how?",
+   "start_s": 281.984,
+   "end_s": 283.184,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Some weeks the phone doesn't ring. Two years ago a reorg decided how my last job ended. I'd like to pick the next ending myself. That's all. It's a point guard on a hot night and I'm getting sentimental about my calendar.",
+   "start_s": 283.184,
+   "end_s": 295.984,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Hey. You're allowed. And for what it's worth, you sound like a guy who's still picking. I came home from Tokyo half-convinced I was retreating, and some nights I still think that. Dame went back to the place that knew him first and he's scoring thirty. Going home and quitting are two different moves.",
+   "start_s": 295.984,
+   "end_s": 311.984,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Huh. Yeah. Okay, I'll take that. Thank you.",
+   "start_s": 311.984,
+   "end_s": 315.664,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Now the part I can't let go. We gave it away twenty times. Thirty-one points off those. And a bunch turned into layups before we were even back on defense. That's how you let a one-and-fifteen team hang around.",
+   "start_s": 315.664,
+   "end_s": 327.344,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "I'll push on that. Milwaukee threw it away seventeen times and gave up twenty-eight off them. Two tired, short-handed teams flinging it around. Deni's out, Ja's out, everybody's playing a job that isn't theirs. My hunch is it's mostly noise.",
+   "start_s": 327.344,
+   "end_s": 342.944,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "I don't buy that. We shot fifty-three percent, forty from three. Shoot like that and the worst team in the league should be gone by the third. Instead we let them hang around. Habits follow you to New York. I'm happy with the win. I'm just not hanging it on the wall.",
+   "start_s": 342.944,
+   "end_s": 357.184,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Then answer this. If the problem is nobody steadying things with Ja and Deni gone, why does Dame finish with zero assists and four turnovers?",
+   "start_s": 357.184,
+   "end_s": 365.744,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Ugh. I've got nothing on that one. He was hunting his own shot and it mostly worked. He said himself he's not all the way back yet, so I'm hoping the passing is the last thing to come.",
+   "start_s": 365.707,
+   "end_s": 377.227,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "And the side plot I'd follow all year: Portland controls some of Milwaukee's future picks. Every Bucks loss makes those look a little better.",
+   "start_s": 377.227,
+   "end_s": 386.187,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Which feels gross to root for, and I'm going to root for it anyway.",
+   "start_s": 386.187,
+   "end_s": 390.347,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Camara. Scoreless at the half, and then that third quarter. I watched it twice and I still can't tell you what flipped. You?",
+   "start_s": 391.11,
+   "end_s": 399.63,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "I've got a theory. Early on he looks like he's thinking about every shot. Then he chases Herro down and blocks his three from behind. Then he hits a three. Then another. Blocks Burries. More threes. Blocks Jakucionis. Stop, shoot, stop, shoot. I think the defense fed the offense. He quit thinking and started hunting.",
+   "start_s": 399.63,
+   "end_s": 421.47,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. Does that hold up? Simpler version: Milwaukee kept leaving him, and a few finally dropped. That's a heater. Nobody plans around a heater.",
+   "start_s": 421.47,
+   "end_s": 432.67,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "The threes, sure, those come and go. But nobody blocks a three from behind by accident. You chase, you read the release, you decide the guy isn't getting it off. He can make that choice every night. A guy who hits his threes some nights and erases shooters every night is a starter on a good team.",
+   "start_s": 432.67,
+   "end_s": 448.87,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "That part I'll give you. Three blocks, two steals, four assists. That's why he's out there thirty-seven minutes. The threes are a bonus.",
+   "start_s": 448.87,
+   "end_s": 457.03,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "And then he's minus two. In a ten-point win. After all that.",
+   "start_s": 457.03,
+   "end_s": 461.75,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Which is the film I'd actually want. Somebody else on the floor was giving it back while he was cooking. Who?",
+   "start_s": 461.75,
+   "end_s": 467.83,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "My guess is the two-big stretches. Which, conveniently, is where I wanted to go anyway.",
+   "start_s": 467.83,
+   "end_s": 473.83,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Clingan, thirteen boards in twenty-six minutes, plus three. Two of five, not pretty, but the glass was ours when he was out there. Then he sits in the fourth, and Yang comes in with the game still live.",
+   "start_s": 474.593,
+   "end_s": 485.793,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "And I've got skin in this. Couple days ago I said if Yang isn't in the rotation by the new year, he goes to the G League, and you said you'd hold me to it.",
+   "start_s": 485.793,
+   "end_s": 493.953,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "I did. And look at last night. Sidy finds him, floater, we're back in front in the fourth. Then he drops it off to Jrue for the and-one, a beat before the defense knew. A kid who hasn't played real fourth quarters, taking a shot he trusts.",
+   "start_s": 493.953,
+   "end_s": 507.553,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "That's a point for you. Nori doesn't put a guy out there in a close fourth if he's given up on him. He's finding out. But hold on. Carlson plays ten minutes, scores nothing, team's plus five. Yang has two points, two turnovers, oh for two at the line, minus two. You'd credit Carlson's good minutes to his teammates and Yang's bad ones to his future. Same standard?",
+   "start_s": 507.553,
+   "end_s": 529.233,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Ha. No. Different standard, and I know it. Yang gave me plays I can point at, the floater and the pass to Jrue. Carlson gave me nothing to point at, good or bad. And the Yang-Carlson pairing in the second was rough, I'll own that. Yang at the four, chasing guards through screens, is nobody's plan. He moved back to the five in the third and looked like a different guy.",
+   "start_s": 529.233,
+   "end_s": 550.313,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Two plays in twelve minutes is thin.",
+   "start_s": 550.313,
+   "end_s": 552.793,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "It's thin. The turnovers are real. But I'd rather he cough it up in a fourth that matters than in garbage time. Garbage time teaches him nothing.",
+   "start_s": 552.793,
+   "end_s": 560.433,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Then let's pin the bet down so neither of us weasels. What counts as in the rotation?",
+   "start_s": 560.433,
+   "end_s": 565.433,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Plays most nights. Real minutes, at the five. And at least one more game where he's out there with it close. Deal?",
+   "start_s": 565.433,
+   "end_s": 572.433,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Deal. And Tonje, oh for three in six minutes, all threes. Short leash.",
+   "start_s": 572.433,
+   "end_s": 577.713,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "He was pressing. Six minutes, three threes, trying to make the whole night count. I just want him to get another one before anybody makes up their mind.",
+   "start_s": 577.676,
+   "end_s": 586.076,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Which brings us to my building. Knicks beat Minnesota one-oh-two to ninety-nine, and it came down to a whistle in the last seconds that Minnesota is going to be mad about for a week. So I'm not discussing it.",
+   "start_s": 586.839,
+   "end_s": 599.279,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "You'll discuss it by Saturday. And Towns going up against the team that traded him? A little spite. I love it.",
+   "start_s": 599.279,
+   "end_s": 606.359,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Memphis is ten and four, and that's a rebuild that forgot to be bad.",
+   "start_s": 606.359,
+   "end_s": 610.599,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "And Wemby had some shot against the Clippers that I'm told is half shot, half dunk. Spurs bounce right back after Detroit. They're coming to our place after this road trip, so enjoy it now.",
+   "start_s": 610.599,
+   "end_s": 620.919,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Okay, Saturday. If Deni's back, I think you're dangerous. If you're still short and still throwing it around, the Garden eats that alive. I'd like to be calm about it. I won't be.",
+   "start_s": 620.919,
+   "end_s": 633.159,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Good. Twenty turnovers at the Garden and I'll hear you yelling from Portland.",
+   "start_s": 633.159,
+   "end_s": 637.079,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And I'll eat a real dinner first. Something with a plate. See you, Mikey.",
+   "start_s": 637.079,
+   "end_s": 641.559,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "See you, Jack. Say hi to the cheap seats.",
+   "start_s": 641.559,
+   "end_s": 643.639,
+   "chapter": 5
+  }
+ ],
+ "cost": {
+  "real_usd": 0.8538,
+  "api_usd": 9.8165,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 116,
+    "input_tokens": 232,
+    "output_tokens": 141821,
+    "cache_write": 1217749,
+    "api_usd": 6.3525,
+    "cache_read": 628146,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 52842,
+    "cache_write": 193297,
+    "api_usd": 2.6102,
+    "cache_read": 34565,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 9,
+    "chars": 10672,
+    "real_usd": 0.8538,
+    "api_usd": 0.8538
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-11-18T09:22:23Z",
+    "until": "2026-11-20T09:30:13Z"
+   }
+  ]
+ }
+}

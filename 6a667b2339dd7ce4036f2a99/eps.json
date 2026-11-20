@@ -409,5 +409,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261119-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261119.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261120",
+    "title": "Sports: Fri Nov 20. Scoot + Jrue, Dame returns, Camara's third, Center rotation, Around the league",
+    "description": "Sports (Mikey and Jack): Scoot + Jrue, Dame returns, Camara's third, Center rotation and Around the league.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261120.mp3",
+    "audio_bytes": 7833957,
+    "duration_s": 653,
+    "published_utc": "2026-11-20T09:30:13.991987Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261120-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261120.episode.json"
   }
 ]
