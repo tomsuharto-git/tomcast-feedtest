@@ -421,5 +421,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261120-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261120.episode.json"
+  },
+  {
+    "guid": "tomcast-culture-20261121",
+    "title": "Culture: Sat Nov 21. Don't be summarizable, GTA VI is a radio station",
+    "description": "Culture (Christina and Bea): Don't be summarizable and GTA VI is a radio station.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261121.mp3",
+    "audio_bytes": 12178016,
+    "duration_s": 1015,
+    "published_utc": "2026-11-21T09:28:08.382290Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261121-art1.png",
+    "show": "culture",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261121.episode.json"
   }
 ]

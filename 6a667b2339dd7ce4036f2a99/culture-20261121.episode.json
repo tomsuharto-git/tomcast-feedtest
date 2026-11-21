@@ -1,0 +1,808 @@
+{
+ "schema": 1,
+ "guid": "tomcast-culture-20261121",
+ "show": "culture",
+ "title": "Don't be summarizable",
+ "date": "2026-11-21",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261121.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261121-art1.png",
+ "duration_s": 1015,
+ "published_utc": "2026-11-21T09:28:08.382290Z",
+ "hosts": [
+  "christina",
+  "bea"
+ ],
+ "speech_start_s": 9.755,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "lead",
+   "tag": "Don't be summarizable",
+   "headline": "Don't be summarizable: the web is becoming television",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "closer",
+   "tag": "GTA VI is a radio station",
+   "headline": "GTA VI is a radio station with a city attached",
+   "start_s": 725.699
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Hi, hello, it's the Culture show. I'm Christina, and Bea Ruben is in the guest chair. Bea, why are you holding your coffee like that?",
+   "start_s": 9.755,
+   "end_s": 19.115,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Like what? This is how you hold a mug.",
+   "start_s": 19.115,
+   "end_s": 21.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "You've got it in both hands. Like a baby bird that fell out of a tree.",
+   "start_s": 21.595,
+   "end_s": 26.155,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Because I made it. And I don't trust the handle yet.",
+   "start_s": 26.155,
+   "end_s": 29.355,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Wait, is this the mug? Last time we talked, every handle you tried in pottery class came out as a ramp. A little skateboard ramp glued to the side.",
+   "start_s": 29.355,
+   "end_s": 39.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "bea",
+   "text": "It's a handle now! It's attached at both ends, which for me is a personal best. It's just very low. One finger fits. The rest of your hand is on its own. You sort of pinch it and pray.",
+   "start_s": 39.595,
+   "end_s": 52.195,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "So it's a mug for a pinky.",
+   "start_s": 52.195,
+   "end_s": 54.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "bea",
+   "text": "It's a mug for a very specific customer. Tiny. Elegant. Okay, what did you do this week? You look like you didn't sleep.",
+   "start_s": 54.435,
+   "end_s": 62.755,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "I read Salon. Old Salon. I was in their archive at eleven at night, like a raccoon in a dumpster, clicking on essays from a decade ago.",
+   "start_s": 62.755,
+   "end_s": 71.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Of course you were. Because it closed?",
+   "start_s": 71.835,
+   "end_s": 74.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Because it closed. So, Salon was one of the very first magazines that only ever lived on the internet. No print edition. It started in the mid-nineties, back when 'a magazine on a website' still sounded like a dare. Thirty-one years. On November fifth they put up a note. They're shutting down, the publishing model is 'no longer sustainable,' and then the note just... stops. No cause. No villain. And everybody online filled in the blank the same way. AI ate the traffic.",
+   "start_s": 74.475,
+   "end_s": 108.115,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Honestly, that's what I'd have said. Is it wrong?",
+   "start_s": 108.115,
+   "end_s": 110.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "It's a guess. They never said it. So here's where I am, and I'll admit up front I can prove about half of it. For a long time, the web ran on one deal. A publisher writes something. Google lists it and sends people to it when they search. Ads on the page pay the writer. Everybody eats. I think that deal is breaking. Google answers your question right there at the top of the page, with an AI summary, and you never leave.",
+   "start_s": 110.838,
+   "end_s": 139.798,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "bea",
+   "text": "How broken? A little dent, or actually broken?",
+   "start_s": 139.798,
+   "end_s": 143.958,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "Think about your own habits. When the summary at the top answers the question, do you click through? I don't. And those little source links inside the summary, the ones that are supposed to be the 'credit'? I never press them either.",
+   "start_s": 143.958,
+   "end_s": 157.478,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "bea",
+   "text": "So the source turns into a footnote nobody reads.",
+   "start_s": 157.478,
+   "end_s": 161.158,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "A footnote nobody reads. And Wall Street seems to see the same crack in the old deal. Google's parent company, Alphabet, is spending a fortune building AI, and the new AI search could mean fewer ads. The reasons are messy, but even investors looked at the old deal and flinched.",
+   "start_s": 161.158,
+   "end_s": 179.638,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Okay, the old deal's dead. I'm with you. So what's your actual claim? Because 'websites are struggling' is just the weather.",
+   "start_s": 179.638,
+   "end_s": 188.358,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Ha. Fair. My claim is the web has stopped paying for information. A summary can stand in for a fact. It can't stand in for somebody you want to watch. So the money and the attention drift toward faces, voices, people being live. Ryan Broderick writes a newsletter about internet culture called Garbage Day. The week Salon closed, he put out a piece called 'The internet is officially TV now.' And you can feel it everywhere. Election-night livestreams pulling in hundreds of thousands of people. Instagram adding a binge mode on top of the endless scroll, so the app works more like Netflix. Salon closing, Google answering, Instagram turning into a channel. These are the same story.",
+   "start_s": 188.321,
+   "end_s": 234.241,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "bea",
+   "text": "I want to agree with you so badly. I had almost this exact take written down. But let me push on the face part.",
+   "start_s": 234.241,
+   "end_s": 242.241,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Please. That's why you're here.",
+   "start_s": 242.241,
+   "end_s": 244.161,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "bea",
+   "text": "Okay, picture this. Somebody you love posts a twenty-minute video reacting to the election. Great face, great voice. A machine can already turn it into a transcript, boil it down to three bullet points and hand you the gist. You never press play. So the point gets summarized, same as a paragraph. The face only protects one thing: the reason you showed up in the first place. And a writer can be that reason too. People subscribe to a voice on a page they've never once seen.",
+   "start_s": 244.161,
+   "end_s": 275.921,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "Sure, but how many? Name me the writer whose readers show up the way people show up for a streamer at midnight.",
+   "start_s": 275.921,
+   "end_s": 283.281,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "bea",
+   "text": "I don't have to name a writer. I'll name a company. The School of Life. It's a philosophy outfit out of London, started by the writer Alain de Botton, and it makes these little animated films about love and anxiety and why your parents are the way they are. Close to ten million followers on YouTube. And there's no star. There's a calm narrator and there are drawings. The thing they made is the thing people come back for.",
+   "start_s": 283.724,
+   "end_s": 309.484,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "Huh. Okay. That's a good one. I've cried at one of those. The one about why we pick the wrong partners.",
+   "start_s": 309.484,
+   "end_s": 316.684,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "bea",
+   "text": "And your own evidence wobbles a bit. Wikipedia is full of writing people did for free, and people left it too. Some went to a chatbot. Some went to watch a stranger make pasta.",
+   "start_s": 316.684,
+   "end_s": 328.124,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "Which is TV! Watching a stranger make pasta is TV!",
+   "start_s": 328.124,
+   "end_s": 332.284,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "bea",
+   "text": "Fine, you get the pasta. But here's the bigger hole. Some text people are getting paid right now. People Inc., the company behind People magazine, signed a deal with Microsoft this month. It pays them based on how much the AI actually uses their stuff. And publishers' revenue has held up better than their traffic. So text might survive as the supplier. The thing the machines have to buy so they have something to say.",
+   "start_s": 332.284,
+   "end_s": 358.324,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "Ugh. Okay, that beats mine on one point, and I'll say exactly which. Text survives wholesale. I believe that. Somebody has to write the thing the machine reads. But here's some history that's been rattling around my head. Reader's Digest. The little fat magazine in every dentist's waiting room. It started in the twenties by condensing other magazines' articles. A summarizer! And it asked. It wrote to publishers for reprint rights. Most said yes, because a Digest credit was free advertising. Later it paid real money and started commissioning its own pieces.",
+   "start_s": 358.324,
+   "end_s": 397.484,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "bea",
+   "text": "Wait, so the original summarizer was polite about it?",
+   "start_s": 397.484,
+   "end_s": 400.684,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "christina",
+   "text": "The original summarizer asked permission. Nobody's asking now. The machine reads first and the lawyers show up later. So when I look at these licensing deals, I see the industry trying to get the asking back. After the fact.",
+   "start_s": 400.807,
+   "end_s": 415.767,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "bea",
+   "text": "And that's why I think the deals matter more than you're giving them credit for. That's the asking coming back. That's how Reader's Digest ended up paying people.",
+   "start_s": 415.767,
+   "end_s": 424.407,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "christina",
+   "text": "They matter for institutions. They don't bring the reader back. A big company gets a check because a machine read its archive. Nobody fell in love with anybody. What made Salon Salon was that you loved some of those writers. Or you hated them. And you went back the next morning to see what they'd say next. A check from Microsoft doesn't do that.",
+   "start_s": 424.407,
+   "end_s": 445.687,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "bea",
+   "text": "So the relationship is the asset, and a camera is just the fastest way to get one?",
+   "start_s": 445.687,
+   "end_s": 450.807,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "christina",
+   "text": "And there's one weird detail I can't stop thinking about. Some outlets have been putting AI-written articles under the names of real journalists who left years ago. Real name, fake photo.",
+   "start_s": 450.807,
+   "end_s": 463.287,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "bea",
+   "text": "That's so creepy.",
+   "start_s": 463.287,
+   "end_s": 464.807,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "christina",
+   "text": "Which brings me to the hopeful version. My own shorthand for it is 'don't be summarizable.' Write something so specific a machine can't flatten it.",
+   "start_s": 464.807,
+   "end_s": 474.887,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "bea",
+   "text": "That's a lovely thing to tell writers.",
+   "start_s": 474.887,
+   "end_s": 476.887,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 38,
+   "speaker": "christina",
+   "text": "I believe half of it. Distinct matters. Interchangeable stuff is dead. But a distinct writer still gets summarized. The machine will happily tell you what the weird, brilliant columnist thought. In four sentences. In a voice that sounds like a hotel lobby.",
+   "start_s": 476.887,
+   "end_s": 494.007,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 39,
+   "speaker": "bea",
+   "text": "Ha. A hotel lobby. That's exactly the sound. And it's kind of my whole religion. AI gives you the average of all the opinions, and taste is the part that isn't the average.",
+   "start_s": 494.007,
+   "end_s": 507.127,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 40,
+   "speaker": "christina",
+   "text": "And actually, your video point made me move. You're right, a recorded face gets recapped too. People already watch the short recap instead of the whole long stream. So what can't you catch up on later? Being there while it happens. Somebody a little wrong, mid-sentence, with a bunch of other people watching at the same time and yelling in the chat. I'd bet on live over merely on camera. That's where I've moved since this morning.",
+   "start_s": 507.09,
+   "end_s": 534.13,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 41,
+   "speaker": "bea",
+   "text": "Okay, I like that a lot more. Live is hard to fake and hard to summarize. You can't recap the feeling of being in the room. But does live pay?",
+   "start_s": 534.13,
+   "end_s": 544.85,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 42,
+   "speaker": "christina",
+   "text": "That's a good question and I hate it.",
+   "start_s": 544.85,
+   "end_s": 547.73,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 43,
+   "speaker": "bea",
+   "text": "Hey! That's mine! You can't just take that!",
+   "start_s": 547.73,
+   "end_s": 550.69,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 44,
+   "speaker": "christina",
+   "text": "I'm borrowing it, I'll give it back with interest. No, you're right, and Broderick is actually sadder than his title. He admits it pains him, because he makes his living writing words and doesn't want to make ninety-second man-on-the-street videos. And his real argument is that even if you do, video can make you money, but you're always living on somebody's platform. Instagram, YouTube, TikTok. His line is that it's an internet where no one's famous but everyone's a celebrity, and the celebrity is rented from the platform. So who gets paid? Mostly the landlord. Instagram adding a binge mode is the landlord building a cable network in the lobby.",
+   "start_s": 550.69,
+   "end_s": 591.65,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 45,
+   "speaker": "bea",
+   "text": "And everyone on it is a tenant who can get the locks changed on them.",
+   "start_s": 591.65,
+   "end_s": 595.33,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 46,
+   "speaker": "christina",
+   "text": "Yes. And that's the part that stings for me. If the reward goes to being watchable, the person who's great at the sentence loses to the person who's great at the camera. Those are different talents. Plenty of brilliant writers are just not people you want to watch eat a sandwich. My newsletter's been flat for the first time in six years. Some mornings I think the answer is a camera. Some mornings I think I'd just find out I'm better on the page.",
+   "start_s": 595.293,
+   "end_s": 623.533,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 47,
+   "speaker": "bea",
+   "text": "Wait, are you okay? You said that very fast.",
+   "start_s": 623.533,
+   "end_s": 627.613,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 48,
+   "speaker": "christina",
+   "text": "I'm fine! I'm a woman who read Salon's archive at eleven at night. Very fine.",
+   "start_s": 627.613,
+   "end_s": 633.533,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 49,
+   "speaker": "bea",
+   "text": "For the record, you'd be good on camera.",
+   "start_s": 633.533,
+   "end_s": 636.093,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 50,
+   "speaker": "christina",
+   "text": "Don't. Would you put your pottery on camera?",
+   "start_s": 636.093,
+   "end_s": 638.973,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 51,
+   "speaker": "bea",
+   "text": "A pot collapsing in slow motion while I make a little noise? Honestly, that's the most watchable thing I make. Which is kind of your point. And I'm annoyed about it.",
+   "start_s": 638.973,
+   "end_s": 649.453,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 52,
+   "speaker": "christina",
+   "text": "Tom, for your studio, here's where this lands. Anything a client makes to inform people, the guides, the explainers, the comparison pages, a machine reads first now. Make it clean and easy for the machine to read, and stop expecting it to build love. The work that's meant to build the brand needs a face, a voice or a live moment. Plus somewhere the brand owns to put it, so it isn't renting its whole audience. Take any client's content plan and ask how much of it a summary could replace.",
+   "start_s": 649.453,
+   "end_s": 681.613,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 53,
+   "speaker": "bea",
+   "text": "And I'd add the School of Life version to that brief. The thing itself can be the face. A tool, an object, a film with a point of view so strong the summary sounds stupid. You read the three bullet points and go, well, that's not it at all.",
+   "start_s": 681.613,
+   "end_s": 696.973,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 54,
+   "speaker": "christina",
+   "text": "I think that works for a handful of things. The rest need a person.",
+   "start_s": 696.973,
+   "end_s": 701.453,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 55,
+   "speaker": "bea",
+   "text": "Ten million followers for some drawings says the handful is bigger than you think.",
+   "start_s": 701.453,
+   "end_s": 706.173,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 56,
+   "speaker": "christina",
+   "text": "Drawings with a very soothing narrator.",
+   "start_s": 706.173,
+   "end_s": 709.133,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 57,
+   "speaker": "bea",
+   "text": "Who you've never seen! Zero faces. And we are not settling this.",
+   "start_s": 709.096,
+   "end_s": 714.136,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 58,
+   "speaker": "christina",
+   "text": "We are absolutely not settling this. I still think a person wins. You still think a made thing can. Somebody check back in a year.",
+   "start_s": 714.136,
+   "end_s": 724.936,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay. My pick, and it might be the least summarizable thing released all year. Grand Theft Auto VI.",
+   "start_s": 725.699,
+   "end_s": 734.099,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Oh, you went big. The least summarizable thing all year, and you picked it anyway.",
+   "start_s": 734.099,
+   "end_s": 740.099,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Out November nineteenth on PlayStation 5 and Xbox. To be clear, neither of us has played it. I have a mug of tea and a deadline. But the reviews are kind of unhinged. It's at a 99 on Metacritic, the site that averages all the reviews into one score. That ties the all-time record with Ocarina of Time, the Zelda game from 1998 that people still talk about like it's holy. So, Bea, explain it to me like I'm my brother. What do you actually do in GTA? I know it's crime and cars.",
+   "start_s": 740.099,
+   "end_s": 774.779,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "It's crime and cars, and it's the radio. The radio is what people quote to each other for twenty years. You steal a car. The car has a radio. The radio has stations, and every station has a DJ with a whole personality, and fake ads for awful made-up products between the songs. You're driving through this fake Miami at sunset, the right song comes on at exactly the right moment, and that's the memory. Nobody remembers the mission. Everybody remembers the song.",
+   "start_s": 774.779,
+   "end_s": 805.459,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "And this time the radio got out of the car.",
+   "start_s": 805.459,
+   "end_s": 808.419,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "It did. Rockstar, the studio that makes the game, put out an actual album the same day. Thirty-four original tracks. And people bet on it! There's a site called Kalshi. It's a prediction market, where you put money on whether something will happen. An election, a score, whatever. Millions of dollars went into a market on which artists would be on the album.",
+   "start_s": 808.419,
+   "end_s": 831.539,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "christina",
+   "text": "People bet on a tracklist.",
+   "start_s": 831.539,
+   "end_s": 833.939,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "bea",
+   "text": "People bet on a tracklist! Then a few days before launch, somebody posted a video of the back of the vinyl. It looks real, and you could read the names. Travis Scott, Lana Del Rey, Cardi B. Keith Richards, of all people. And Bad Bunny wasn't on it, so his odds fell off a cliff overnight. That's how people treat a music release. A big album drop, except the label's a game studio.",
+   "start_s": 833.902,
+   "end_s": 860.462,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Okay, I'm going to fight you on the betting part. A market on who's on the album has a clean yes or no. Is Travis Scott on it? Yes. Done, pay out. That's a celebrity-name guessing game. It tells me people love guessing names. It tells me almost nothing about whether anybody listens to the thing.",
+   "start_s": 860.462,
+   "end_s": 879.902,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Hm. That's fair. I wanted the bets to be the proof, because it's such a fun number.",
+   "start_s": 879.902,
+   "end_s": 885.502,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Your instinct's right. I just think the proof is the series itself. People loved GTA radio for years before anybody could put money on it. The album just says it out loud.",
+   "start_s": 885.502,
+   "end_s": 896.702,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Fine. Then here's my add, as the person who cares how things are made. Pull the songs out of the city and you lose the glue. The fake DJ ranting. The ad for some terrible product. Then the song hits. That sequence is what makes it feel like a place. Somebody sat there and decided what plays after what. So the album's a great drop. And the station is still the thing you can't get anywhere else.",
+   "start_s": 896.702,
+   "end_s": 922.222,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "christina",
+   "text": "And here comes my hobbyhorse. I keep saying that for people under twenty-five, games are where you hang out. Closer to the mall than the movies. Picture a game where you can just live somewhere. Feed a pet snake. Lift weights on the deck. Fish off the pier. Not one crime. Just hanging out.",
+   "start_s": 922.222,
+   "end_s": 940.702,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "bea",
+   "text": "So the soundtrack is the mall speakers. I genuinely don't know either, and I'd love to. If it sells like the reviews suggest, those artists should be paid like it's a major release. For a lot of kids it's going to be the album of the year, and they won't even think of it as an album.",
+   "start_s": 940.665,
+   "end_s": 957.385,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "christina",
+   "text": "And it ties right back to the first half. The game's too big to summarize, so everybody gathers around the piece you can pass along. Nobody can text you a hundred and fifty hours. Anyone can text you a song. So Tom, the lesson for you is pretty simple. When a brand wants into culture, build the station. Somebody has to pick, and cut, and have a point of view. And then people leave it on.",
+   "start_s": 957.385,
+   "end_s": 983.785,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Which is taste. The one thing that isn't the average of everything.",
+   "start_s": 983.785,
+   "end_s": 988.025,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "christina",
+   "text": "So the pick: play the first hour this weekend, and leave the radio on. And if you don't have the hours, the album's already on streaming services.",
+   "start_s": 988.025,
+   "end_s": 996.985,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Tell us what you remember from it. I'll bet it's a song.",
+   "start_s": 996.985,
+   "end_s": 999.865,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "christina",
+   "text": "I'll bet it's a fake ad. That's the show. Thanks, Bea.",
+   "start_s": 999.865,
+   "end_s": 1003.985,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Bye, Tom. I'm going to go drink out of my pinky mug.",
+   "start_s": 1003.985,
+   "end_s": 1007.065,
+   "chapter": 2
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2066,
+  "api_usd": 8.9696,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 10,
+    "input_tokens": 22,
+    "output_tokens": 80304,
+    "cache_write": 312183,
+    "api_usd": 4.1126,
+    "cache_read": 44675,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 59,
+    "input_tokens": 140,
+    "output_tokens": 77712,
+    "cache_read": 606168,
+    "cache_write": 579091,
+    "api_usd": 3.1544,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 530784,
+    "output_tokens": 40698,
+    "api_usd": 0.3946,
+    "calls": 1,
+    "cache_write": 6100,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "openai",
+    "model": "text-embedding-3-small",
+    "calls": 3,
+    "input_tokens": 51,
+    "real_usd": 0.0,
+    "api_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 15082,
+    "real_usd": 1.2066,
+    "api_usd": 1.2066
+   },
+   {
+    "kind": "background",
+    "calls": 34,
+    "real_usd": 0.0,
+    "api_usd": 0.1014,
+    "since": "2026-11-14T09:32:08Z",
+    "until": "2026-11-21T09:28:08Z"
+   }
+  ]
+ }
+}
