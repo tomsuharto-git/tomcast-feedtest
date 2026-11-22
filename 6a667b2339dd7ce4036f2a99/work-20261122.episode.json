@@ -1,0 +1,819 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261122",
+ "show": "work",
+ "title": "After two years of AI holiday ads, Coke puts humans back on the table",
+ "date": "2026-11-22",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261122.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261122-art1.png",
+ "duration_s": 1001,
+ "published_utc": "2026-11-22T09:32:38.924814Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "ind-coke-human",
+   "tag": "Coke Goes Human",
+   "headline": "After two years of AI holiday ads, Coke puts humans back on the table",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "cli-adobe-canva",
+   "tag": "Canva's AI Kill Switch",
+   "headline": "Canva adds a switch to turn its AI off as Adobe argues agents need human oversight",
+   "start_s": 410.367
+  },
+  {
+   "n": 3,
+   "story_id": "cli-poly-ags",
+   "tag": "44 AGs vs CFTC",
+   "headline": "44 state attorneys general oppose CFTC-only oversight of prediction markets, as Kalshi promo codes outbid Polymarket",
+   "start_s": 603.413
+  },
+  {
+   "n": 4,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 789.899
+  },
+  {
+   "n": 5,
+   "story_id": "think-gear-no-idea",
+   "tag": "All Gear, No Idea",
+   "headline": "Rob Campbell: all the gear, but no idea",
+   "start_s": 865.942
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack! Hi. Hi, Tom. You sound suspiciously cheerful for a Sunday.",
+   "start_s": 8.995,
+   "end_s": 14.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Hi, Bea. Hi, Tom. I am cheerful. I got a text back.",
+   "start_s": 14.435,
+   "end_s": 18.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "From Nora? Wait, the one where you asked about her classes? That's been sitting there forever.",
+   "start_s": 18.595,
+   "end_s": 24.035,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Nine days on delivered. 'How are your classes going?' And this morning, an answer. A thumbs up.",
+   "start_s": 24.035,
+   "end_s": 30.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Ha! A thumbs up. To an open question. That's elite. She knows exactly what she's doing.",
+   "start_s": 30.675,
+   "end_s": 38.995,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "I stared at it a while trying to work out which class got the thumb. I decided all of them. I'm choosing peace. Your mom calls today, right? Sunday afternoon?",
+   "start_s": 38.995,
+   "end_s": 48.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Like a clock. She'll ask if I'm still doing the computer thing, and I'll say yes, Mom, and this week the computer thing is Coca-Cola. Which she will actually understand, for once. Because the brand that basically owns Christmas just changed its mind.",
+   "start_s": 48.835,
+   "end_s": 63.795,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Yeah. So for two holiday seasons Coke made its big Christmas ads with generative AI. The trucks, the little animals, all made by the machine. This year's came out on the nineteenth. It's called Enjoy Joy, and it's people. A family throwing a football in the yard. Somebody deep-frying a turkey. Everybody around a table. Real actors, a real director. And the AI ones beat Coke's own internal benchmarks. The testing said fine. People still split on them, loudly.",
+   "start_s": 63.795,
+   "end_s": 94.995,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Wait, so they walked away from ads that tested well? Why would you do that?",
+   "start_s": 94.995,
+   "end_s": 99.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I wondered the same thing, and I've got a hunch, which is all it is. I think people objected to work that felt like anybody's Christmas ad. Coke's Christmas is about the most distinctive thing it owns. The red. The trucks. Decades of that sit in people's heads, so when Christmas comes up, Coke comes up. Make the ad feel generic and you're spending that down. And a brand that big has the most to spend.",
+   "start_s": 99.635,
+   "end_s": 125.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Okay, I buy most of that. But you're letting the tool off the hook. You're saying people hated generic and the machine just happened to be holding the brush. I think the machine leans generic. Especially on those trucks! There are a million pictures of them out there. So the easiest thing for it to make is the truck everybody's already seen. You have to fight it every single frame to get something that feels like this year.",
+   "start_s": 125.598,
+   "end_s": 151.358,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. So for the audience, the tool and the result arrive as one package.",
+   "start_s": 151.358,
+   "end_s": 158.078,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "For me too, honestly. I can't pull them apart either. And guess who made the human one.",
+   "start_s": 158.078,
+   "end_s": 163.758,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Ogilvy. One of the oldest big ad agencies there is, owned by WPP. WPP is one of the giant holding companies, a parent that owns a pile of agencies. Its CEO, Cindy Rose, took over with margins eroding fast and revenue sliding, and her pitch to investors is that AI agents help fix that. So one side of the house sells Wall Street the cost story, and the other side makes the warm human ad for its biggest Christmas client.",
+   "start_s": 163.758,
+   "end_s": 192.958,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Ha. And the same week, Rob Campbell went after her. He's a strategist with a grumpy, very good blog. She'd called translation and research 'functional, repetitive' work that agents can take over. And he basically said, have you ever watched a campaign die in a country because nobody understood the country? He's lived and worked in a lot of them.",
+   "start_s": 192.958,
+   "end_s": 215.038,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "I'm mostly with him. In translation the context is the job. I'll cut her a little slack, a CEO in that seat says things. But Coke can afford to say 'humans.' Most clients can't. I'd bet the short cutdowns, the six-second versions, quietly go back to the machine next year. That's a hunch. I don't have numbers.",
+   "start_s": 215.038,
+   "end_s": 236.158,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Maybe. But something's moving underneath. 'Made by people' is turning into a craft label. Like 'handmade' on a jar of jam. My favorite example right now is Jaffa Cakes. British biscuit, sponge and orange jelly under chocolate. They made this odd little eclipse ad. Full moon, half moon, total eclipse. Shoestring budget. And it worked because it was strange. You could see the low budget and nobody minded.",
+   "start_s": 236.121,
+   "end_s": 265.361,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "I'll give you strange. People paying extra for hands, I'm less sure. Jaffa Cakes has run the same idea since 1999. 'Deliciously self-centred.' The joke is that a Jaffa Cake is the treat you keep for yourself. Everybody in Britain already knows that, so a weird little ad gets paid off by decades of the same idea. Strange on top of distinctive works. Strange by itself is a stunt.",
+   "start_s": 265.361,
+   "end_s": 292.721,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Fine. Half a point. You get half a point.",
+   "start_s": 292.721,
+   "end_s": 295.721,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "I'll frame it. So, Tom, your agency. The narrative deck calls AI the 'nervous system.' Read cold, that sits pretty close to the line Campbell's making fun of. I honestly don't know what a client does with 'nervous system.' The honest version might be something your team already does: prototype in public. The machine gets a thing out the door fast enough to test on real people. What the client pays for is the judgment about what to make and what to cut.",
+   "start_s": 295.721,
+   "end_s": 325.601,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "I'd fight you a little. One of the belief lines in that deck is 'speed is a creative advantage,' and I believe it. Speed is creative when it means you see ten bad versions by lunch and kill nine. Sell judgment as the only thing and you sound like every agency that's scared of the tools.",
+   "start_s": 325.601,
+   "end_s": 343.321,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "And sell speed and you sound like WPP on an earnings call. To a procurement person, faster means cheaper.",
+   "start_s": 343.321,
+   "end_s": 350.761,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "bea",
+   "text": "Unless the speed shows up in the work. Can the client see the nine versions you killed? Then it's proof of taste.",
+   "start_s": 350.761,
+   "end_s": 357.881,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Hm. Okay. So speed is fine to talk about as long as it's evidence of the judgment. I'd want to hear Tom say that in his own words before I sign up, though.",
+   "start_s": 357.844,
+   "end_s": 367.924,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "bea",
+   "text": "Which brings us to the reel. Picture your team putting together a reel of its best work for a prospect, to show the creative is real. If some of it was made with AI, do you say how?",
+   "start_s": 367.924,
+   "end_s": 379.364,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "What would you do?",
+   "start_s": 379.364,
+   "end_s": 380.644,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "bea",
+   "text": "Let it play first. Then one honest line about how it was made, maybe a quick peek behind the curtain. Hide it and get asked, and that's worse. But the first thing that room thinks shouldn't be 'was this a robot.'",
+   "start_s": 380.644,
+   "end_s": 394.724,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "jack",
+   "text": "Agreed. And Tom, a real question, because I don't know: what does Ciaran's side think about AI-made work? Has anybody asked? Coke just showed you this argument is live, so I'd want your answer settled before somebody raises it across the table.",
+   "start_s": 394.724,
+   "end_s": 409.604,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of peeks behind the curtain. Canva. Remind me what Canva is, exactly, for those of us who don't make things.",
+   "start_s": 410.367,
+   "end_s": 418.127,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "It's the drag-and-drop design app most people make their party flyers in. Templates, fonts, done. Adobe's closest rival for normal humans. And they just added two switches. One hides the generative stuff, the tools that make new images and text from scratch. The other shows you less AI-made material in their template library, so human-made designs float up. And Canva pays its designers every time their work gets used, so that second switch actually moves money toward people.",
+   "start_s": 418.127,
+   "end_s": 449.327,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Why would a company do that to itself? They've been stuffing AI into everything.",
+   "start_s": 449.327,
+   "end_s": 453.847,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "They still are! They just built their own image model. And the switches are buried. Two menus deep, in settings.",
+   "start_s": 453.847,
+   "end_s": 461.767,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "So it's theater. If they meant it, they'd put it on the front screen.",
+   "start_s": 461.767,
+   "end_s": 465.407,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "That's what I thought for about an hour. Then I flipped. Most people will never flip that switch, and they'll still trust the app a bit more because it's there. Plenty of people say they want more control over how AI shows up in their lives. Knowing the door exists is most of it.",
+   "start_s": 465.407,
+   "end_s": 482.287,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Okay, but that's a feeling. Does anybody use Canva differently on Monday?",
+   "start_s": 482.287,
+   "end_s": 487.487,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Some designers get paid more. That's a real Monday.",
+   "start_s": 487.487,
+   "end_s": 490.687,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Fair. So for Adobe, in a market split down the middle, keep it simple. When somebody reaches for Firefly, they should think one thing: safe to use commercially, made with creators. Say it for years. Canva's going after 'choice,' and I wouldn't chase them there.",
+   "start_s": 490.687,
+   "end_s": 508.047,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Agreed, Adobe can't out-switch Canva. But 'made with creators' has to be something people can see, or it's a slogan. So whatever Tom's team brings Adobe for the Super Bowl, the creator has to be up front where fans can see them. That's Adobe's version of a switch. The human goes first.",
+   "start_s": 508.57,
+   "end_s": 528.33,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. How would anybody know it worked? What does a fan do differently afterward?",
+   "start_s": 528.33,
+   "end_s": 535.29,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it. Make a second one? Send it to a friend? Go follow the creator? Tom, I'd have that written down before Adobe asks. And while you're writing things down: Firefly quietly refuses any prompt with 'Super Bowl' in it. For a Super Bowl idea. That goes to Adobe's product and legal people before it shows up in a demo.",
+   "start_s": 535.29,
+   "end_s": 558.49,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Ha. Yes. Though I'll stand up for 'commercially safe.' Boring words, sure, but they matter to whoever signs off.",
+   "start_s": 558.49,
+   "end_s": 566.81,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "bea",
+   "text": "But does anybody actually notice it? The creators who make Firefly look cool don't care whether it's commercially safe. They care if it's fun.",
+   "start_s": 566.81,
+   "end_s": 575.21,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "jack",
+   "text": "The person who notices is a brand lawyer, and the brand lawyer is the one approving the budget. Your creators make it famous. My lawyer pays for it.",
+   "start_s": 575.21,
+   "end_s": 584.41,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "bea",
+   "text": "So Adobe needs both, and they pull in opposite directions.",
+   "start_s": 584.41,
+   "end_s": 588.41,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "jack",
+   "text": "Which is exactly why it's a good client. And Tom, one small thing: your team wanting decks off Express and onto Google Slides is a fine idea. Just maybe don't raise it the same week their rival is selling simplicity.",
+   "start_s": 588.41,
+   "end_s": 602.65,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, you have to explain something to me, because my entire Saturday night internet was coupons.",
+   "start_s": 603.413,
+   "end_s": 609.733,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "The college football codes.",
+   "start_s": 609.733,
+   "end_s": 611.573,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Every local sports site. Kalshi, fifty-five bucks. Polymarket, twenty-five. Same games, same pages. SMU-Notre Dame, Oregon State.",
+   "start_s": 611.573,
+   "end_s": 622.133,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I saw Oregon State and almost texted Nora about it, which tells you where I am in life. So Kalshi is Polymarket's main rival. Both let you trade on whether something happens. A game, an election, a movie opening. Kalshi is dangling fifty-five bucks. Polymarket gives you twenty-five in credit after you put in ten.",
+   "start_s": 622.133,
+   "end_s": 642.533,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "bea",
+   "text": "So less than half. And the bigger fight?",
+   "start_s": 642.533,
+   "end_s": 645.653,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "State attorneys general. A big group of them, and they've told the CFTC to start over on its rules for prediction markets.",
+   "start_s": 645.653,
+   "end_s": 653.013,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Explain the CFTC to me like I'm my mother.",
+   "start_s": 653.013,
+   "end_s": 656.293,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "It's the federal agency that oversees futures trading. Bets on the price of corn, basically. The apps say they're exchanges, so the CFTC should be their only referee. The states say sports betting has always been theirs, and the law never handed that agency gambling. Tom, this was the open risk in your notes. Now the states are putting their names on it.",
+   "start_s": 656.293,
+   "end_s": 677.813,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "bea",
+   "text": "So Kalshi is outspending them on coupons, and sports is where the states are angriest. Which makes me want to pull Check Poly away from sports. That's the predictions campaign for your client. Lean on culture and politics, where doing more than sports is Polymarket's edge.",
+   "start_s": 677.813,
+   "end_s": 693.733,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I'm with you on Check Poly. Let me give you my reason and see if it's yours. The coupon war buys trial. Somebody grabs the fifty-five, trades once on a game, and a month later can't tell you which app it was. Polymarket can't win that, and your deck already says 'we can't outspend them,' which I'd say out loud in the room. But the attorneys general are arguing about who regulates the markets themselves. A billboard question sits outside that fight. If the states win, the exposure lands on the product, wherever the question runs. And sports is where people show up on a Saturday night. Skip the biggest crowd because a lawyer might frown, and you've handed away reach.",
+   "start_s": 693.696,
+   "end_s": 732.656,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Hm. Fair on the legal part. But picture a rivalry question on that billboard while the same people are scrolling past a pile of fifty-five-dollar codes. It reads as one more bonus ad.",
+   "start_s": 732.656,
+   "end_s": 744.736,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Okay, now that's an argument I'll take. So what makes a Polymarket question worth fighting about?",
+   "start_s": 744.736,
+   "end_s": 750.496,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "bea",
+   "text": "A question people already argue about at dinner, where the market hands them a number and settles nothing. Politics does that. Culture does that. A Saturday game kind of does it, but the sportsbooks already own that dinner table.",
+   "start_s": 750.496,
+   "end_s": 764.496,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Then culture might win on its own merits. Which questions do people actually want to answer, and where does Polymarket look different from the coupon pile? I'd argue it on reach and leave the regulators out of it.",
+   "start_s": 764.496,
+   "end_s": 776.496,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Deal. And test a handful of questions cheap before anybody commits a whole year to them.",
+   "start_s": 776.496,
+   "end_s": 781.696,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Tom, does the client's legal team have a view on which markets they'd rather keep off a billboard? That beats my hunch and hers.",
+   "start_s": 781.696,
+   "end_s": 789.136,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Lightning round. Three quick ones. Marketing Week, the British trade magazine, has a study: move money from social over to TV and ad awareness could go up a lot.",
+   "start_s": 789.899,
+   "end_s": 801.059,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I love it and I distrust it equally. Awareness is the cheap half. But for XRP it's the right half, because their problem is people not knowing them. Tom, that's your 2027 media mix conversation.",
+   "start_s": 801.059,
+   "end_s": 814.659,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "bea",
+   "text": "I'd want to know aware of what, though. Thirty percent more people half-remembering a logo is wallpaper. Next. GTA VI is out. Grand Theft Auto, the giant crime video game, biggest gaming launch ever. And suddenly every brand wants to break the rules.",
+   "start_s": 814.659,
+   "end_s": 832.859,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Everybody breaking the rules at the same moment is following the crowd with a leather jacket on.",
+   "start_s": 832.859,
+   "end_s": 837.419,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Ha! Yes. And your agency's deck says 'provocation beats permission,' Tom. Good test: would you still do it if no other brand were?",
+   "start_s": 837.419,
+   "end_s": 847.419,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Last one. Anthropic, the company behind Claude, went public this week. Biggest IPO ever. And the filing talks about its brand like it's an asset Wall Street should care about.",
+   "start_s": 847.419,
+   "end_s": 858.059,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "bea",
+   "text": "An AI lab telling Wall Street the brand is why it grows. Your argument, Jack, in a legal document.",
+   "start_s": 858.059,
+   "end_s": 865.179,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Last one, and Tom, this one's aimed at you, with love. Rob Campbell again. He was on a call with one of the most respected music managers alive, and a consultant spent twenty minutes explaining the music business to this guy like he was an intern. Then the manager says: you understand the structure better than I ever will, but I understand what it means to artists and audiences better than you ever will. Campbell's point is that the industry got obsessed with the pipes and forgot what flows through them.",
+   "start_s": 865.942,
+   "end_s": 896.982,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Why aim that at Tom? He's not talking down to anybody.",
+   "start_s": 896.982,
+   "end_s": 900.182,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Because his pipes are gorgeous! The setup where Claude drives Firefly, the creative review app, the design system, the flow that turns an RFP into a first deck. And the agency's purpose, its enemy, its platform line, all still blank in the framework file. Meanwhile the Raiders international pitch has its tissue due the fourth, that's the rough first round of ideas you show a client. Beautiful plumbing. Nothing written yet about what runs through it.",
+   "start_s": 900.182,
+   "end_s": 928.742,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I agree with that, plainly. Nobody writes a ten-year line with a faster deck. And the candidates are already in your files, Tom. 'Safe is the most expensive strategy.' 'Provocation beats permission.' Put one up against the Alani room. Does it hold in front of a client with PepsiCo money behind it?",
+   "start_s": 928.742,
+   "end_s": 946.422,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "bea",
+   "text": "And I'm the worst person to say any of this. This week I had a folder of my mom's photos open, ready to go, and twenty minutes later I was sketching some shiny new side project instead. I know the pull of the gear better than anybody.",
+   "start_s": 946.422,
+   "end_s": 960.542,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "jack",
+   "text": "How many folders left?",
+   "start_s": 960.542,
+   "end_s": 962.422,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Don't.",
+   "start_s": 962.422,
+   "end_s": 963.222,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "jack",
+   "text": "So, Tom, for your week. Before the December training teaches anybody the gear, write one sentence about what Moon believes. A bad one is fine. Then let Alani and the Raiders work try to break it, and keep whatever survives.",
+   "start_s": 963.185,
+   "end_s": 977.025,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And get the open question on whether AI gets used for the Raiders work answered before it answers itself. Okay. Jack, go reply to that thumbs up.",
+   "start_s": 977.025,
+   "end_s": 986.385,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "jack",
+   "text": "With a thumbs up. I'm learning. Bye, Tom. Bye, Bea.",
+   "start_s": 986.385,
+   "end_s": 990.545,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Bye, Tom!",
+   "start_s": 990.545,
+   "end_s": 991.425,
+   "chapter": 5
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2142,
+  "api_usd": 9.679,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 72798,
+    "cache_write": 232834,
+    "api_usd": 3.3236,
+    "cache_read": 24303,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 107,
+    "input_tokens": 236,
+    "output_tokens": 109299,
+    "cache_read": 761518,
+    "cache_write": 680526,
+    "api_usd": 3.8917,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 245135,
+    "output_tokens": 18535,
+    "api_usd": 0.1838,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 15177,
+    "real_usd": 1.2142,
+    "api_usd": 1.2142
+   },
+   {
+    "kind": "background",
+    "calls": 11,
+    "real_usd": 0.0,
+    "api_usd": 1.0657,
+    "since": "2026-11-18T09:38:29Z",
+    "until": "2026-11-22T09:32:38Z"
+   }
+  ]
+ }
+}

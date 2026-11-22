@@ -445,5 +445,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261122-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261122.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261122",
+    "title": "Work: Sun Nov 22. Coke Goes Human, Canva's AI Kill Switch, 44 AGs vs CFTC, All Gear, No Idea",
+    "description": "Work (Bea and Jack): Coke Goes Human, Canva's AI Kill Switch, 44 AGs vs CFTC and All Gear, No Idea.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261122.mp3",
+    "audio_bytes": 12008115,
+    "duration_s": 1001,
+    "published_utc": "2026-11-22T09:32:38.924814Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261122-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261122.episode.json"
   }
 ]
