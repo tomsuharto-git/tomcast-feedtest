@@ -433,5 +433,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261121-art1.png",
     "show": "culture",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261121.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261122",
+    "title": "Sports: Sun Nov 22. Bridges buzzer-beater, Unfocused starts, Scoot, Dame, backup 5, Around the league",
+    "description": "Sports (Jack and Mikey): Bridges buzzer-beater, Unfocused starts, Scoot, Dame, backup 5 and Around the league.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261122.mp3",
+    "audio_bytes": 9605999,
+    "duration_s": 800,
+    "published_utc": "2026-11-22T09:31:24.999046Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261122-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261122.episode.json"
   }
 ]

@@ -1,0 +1,795 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261122",
+ "show": "sports",
+ "title": "Bridges at the buzzer",
+ "date": "2026-11-22",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261122.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261122-art1.png",
+ "duration_s": 800,
+ "published_utc": "2026-11-22T09:31:24.999046Z",
+ "hosts": [
+  "jack",
+  "mikey"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Bridges buzzer-beater",
+   "headline": "Bridges at the buzzer: how Portland lost a lead with 3.4 seconds left",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Unfocused starts",
+   "headline": "A 40-point first quarter and a 26-point hole, then nearly all the way back",
+   "start_s": 355.147
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Scoot, Dame, backup 5",
+   "headline": "Scoot, Dame's threes, and the backup-center hole",
+   "start_s": 488.673
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Around the league",
+   "headline": "Around the league",
+   "start_s": 692.119
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Mikey. Good morning.",
+   "start_s": 10.175,
+   "end_s": 11.775,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Don't. Don't you good-morning me.",
+   "start_s": 11.775,
+   "end_s": 13.935,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "jack",
+   "text": "That was three words!",
+   "start_s": 13.935,
+   "end_s": 16.015,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "You texted me at the buzzer. One emoji. The little orange basketball. What was that?",
+   "start_s": 16.015,
+   "end_s": 21.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "jack",
+   "text": "That was a sympathy basketball.",
+   "start_s": 21.295,
+   "end_s": 23.215,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "That's just a basketball, Jack. You sent a basketball to a man who just lost on a basketball.",
+   "start_s": 23.215,
+   "end_s": 28.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Ha. Okay, fair. Where'd you watch it?",
+   "start_s": 28.975,
+   "end_s": 32.175,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "The bar. Half empty early, because we were getting buried. Then people drift in once it gets close, the place fills up, we take the lead, Bridges hits the shot, and the whole room goes dead quiet. And the bartender, the guy who only bets on whether the two teams' combined score goes over or under the Vegas number? He doesn't even look at me. He looks up at the screen and says one word. \"Under.\" Like that's the news. Like that's the only thing that happened to anybody last night.",
+   "start_s": 32.175,
+   "end_s": 59.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Did he win?",
+   "start_s": 59.295,
+   "end_s": 60.095,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "I didn't ask, and I'm never asking. Where were you?",
+   "start_s": 60.095,
+   "end_s": 63.455,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Couch. By myself. Yelling. My neighbor banged on the wall during your comeback, and I honestly couldn't tell if he was complaining or if he's a Knicks guy too.",
+   "start_s": 63.455,
+   "end_s": 73.215,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Or he's a Blazers fan. Out there in the dark, rooting for us through the drywall. And look at you. Two months you've been a Blazers co-fan on this show. One Knicks game and the jersey comes out. Twenty-six! And it still took Mikal Bridges. Bridges is their wing, and he's been in a slump all year. So I know this feeling. It lives in my body. It has its own room.",
+   "start_s": 73.215,
+   "end_s": 94.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "jack",
+   "text": "So the last play. Walk me through that, because I watched it as a guy screaming, and I want it from a guy who watched the coverage.",
+   "start_s": 94.815,
+   "end_s": 102.175,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Okay. Deni Avdija, our best player last night, hits both free throws. We're up 96-94, 3.4 seconds left. New York calls timeout, which in the NBA lets them inbound from half court instead of throwing it the whole length of the floor. Now, Jalen Brunson, their star guard, had thirty. Everybody in the building knows the ball's supposed to go to him. And he's covered. Can't get a sniff. That part we did right.",
+   "start_s": 102.138,
+   "end_s": 126.218,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Who's throwing it in?",
+   "start_s": 126.218,
+   "end_s": 127.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Josh Hart. Their do-everything guy, rebounds, passes, dives on the floor. Oh-for-seven last night, so nobody cares if he shoots. Then Bridges and Landry Shamet, their hot shooter, run into each other on the wing on purpose. Shamet sort of brushes through Toumani Camara, our best defender, who's on Bridges. Jrue Holiday's with Shamet. Toumani gets a half step behind, Bridges pops loose, Hart jumps and throws it, Toumani comes flying past to contest, Bridges sets his feet. Ballgame.",
+   "start_s": 127.418,
+   "end_s": 155.698,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "jack",
+   "text": "And Jrue's supposed to do what there?",
+   "start_s": 155.698,
+   "end_s": 158.138,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Switch. When two guys cross like that, the defenders just trade who they're guarding. Jrue takes Bridges, Toumani takes Shamet, nobody chases anybody through traffic. Up two, only a three beats you. So I sat down this morning thinking, switch everything. If they want a contested two, give it to them and play overtime.",
+   "start_s": 158.138,
+   "end_s": 175.858,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. You just described one guy missing one switch. Then your fix is \"switch everything,\" and that's a whole plan somebody draws up in the huddle. So which is it? Did one guy blow it, or was the plan wrong?",
+   "start_s": 175.858,
+   "end_s": 190.058,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Ugh. Okay. Hmm. Taking Brunson away, that was the plan, and it worked. The next question is who you're willing to let shoot and how much room he gets. If the call was \"switch,\" somebody didn't. If the call was \"Toumani, stay with Bridges no matter what,\" then honestly, Toumani's the guy I'd pick for that job. I don't know which one it was. That bugs me.",
+   "start_s": 190.021,
+   "end_s": 212.821,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "jack",
+   "text": "Look at the pass, too. Hart threw it to where Bridges was going to be before he got there.",
+   "start_s": 212.821,
+   "end_s": 217.941,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "Which is a beautiful pass. And I hate it.",
+   "start_s": 217.941,
+   "end_s": 220.981,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "jack",
+   "text": "And I'd bet if they run that ten times, Portland gets a stop on most of them. Bridges is shooting worse than he ever has. His coach has been sitting him late and playing Shamet instead. If you have to let one Knick shoot, he's the one.",
+   "start_s": 220.981,
+   "end_s": 233.941,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "mikey",
+   "text": "Fine. Make Bridges beat you. But make him catch it moving sideways with a hand in his face. So I've moved since breakfast. I came in mad at Toumani. Now I'm mad at that one screen. One switch, and Bridges never gets his half step.",
+   "start_s": 233.941,
+   "end_s": 247.781,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "jack",
+   "text": "What about Hart jumping? People were asking if that throw-in was even legal.",
+   "start_s": 247.781,
+   "end_s": 251.781,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "mikey",
+   "text": "I wanted it to be illegal so bad. I read the rule at one in the morning. Did you?",
+   "start_s": 251.781,
+   "end_s": 256.741,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "jack",
+   "text": "Same. Which says something about both of us. The line people quote says the inbounder can't leave the playing surface to gain an advantage. I read that as stepping off your spot, running along the sideline for a better angle. Hart jumped straight up where he stood. Nothing in there says your feet have to stay on the floor.",
+   "start_s": 256.741,
+   "end_s": 274.701,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "mikey",
+   "text": "Yeah. We don't get that one. I'm not whining about the rulebook on a Sunday.",
+   "start_s": 274.701,
+   "end_s": 278.701,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "jack",
+   "text": "Did fouling ever cross your mind? Grab somebody before the catch?",
+   "start_s": 278.701,
+   "end_s": 282.301,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "mikey",
+   "text": "Up two? No. They shoot two, they tie it, and now it's a coin flip with the clock stopped. Play it straight and switch. That's my whole answer.",
+   "start_s": 282.301,
+   "end_s": 290.741,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "jack",
+   "text": "I'm with you there. And remember why Deni was even at the line. Tie game, Drummond reaches in on Deni. He thought they had a foul to give. That's a spare foul you can commit before the other team goes to the line. They didn't have one.",
+   "start_s": 290.704,
+   "end_s": 304.624,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "mikey",
+   "text": "They did not!",
+   "start_s": 304.624,
+   "end_s": 305.824,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "jack",
+   "text": "I stood up off the couch and said a word I'm not saying on this show. Honestly, I should've gone to the game. When I first moved here I'd buy a cheap seat way up top at Madison Square Garden, and nobody up there asked me how I was doing. That was the whole point. Last night, alone on the couch, comeback happening, I kind of wanted somebody to ask.",
+   "start_s": 305.824,
+   "end_s": 326.544,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "mikey",
+   "text": "I'd have asked. You sent me a basketball.",
+   "start_s": 326.544,
+   "end_s": 328.864,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "jack",
+   "text": "Next time I'll call.",
+   "start_s": 328.864,
+   "end_s": 330.064,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "mikey",
+   "text": "You won't. But I'll pick up. Even losing.",
+   "start_s": 330.064,
+   "end_s": 332.944,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "jack",
+   "text": "Deal. Hey, your dad. Last week he called you for eleven seconds, said \"Jrue. Old man,\" and hung up. Did you ever find out what that meant?",
+   "start_s": 332.944,
+   "end_s": 342.624,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "mikey",
+   "text": "Tonight. Sunday dinner. And now I'm scared it was a prediction, because Jrue was standing right there on that last play. If my dad saw this coming a week ago, I'm never living it down.",
+   "start_s": 342.624,
+   "end_s": 354.384,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Can I tell you what actually drove me nuts as a Knicks guy? The Knicks scored forty in the first quarter. Forty! And then fifty-seven the whole rest of the game.",
+   "start_s": 355.147,
+   "end_s": 365.227,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "And that's the part that drives me nuts as a Blazers guy, because we lost this early. Down twenty-six at one point. How much of that start was just them making everything?",
+   "start_s": 365.227,
+   "end_s": 374.507,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "A lot. They made everything early. Drummond hit one. His first three all year! A backup center who doesn't shoot! When that's going in, every defense in the league looks bad.",
+   "start_s": 374.507,
+   "end_s": 385.947,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Drummond! I forgot. Okay, so it's the shooting.",
+   "start_s": 385.947,
+   "end_s": 389.627,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Except your guys won't take that excuse. Dame put it all on the defense. Getting stuck on screens, nobody talking, nobody helping. So that second-half team is real. Your guys held the Knicks to thirty-one after halftime. Then why does it take being down twenty-six to go find it? I actually want to know.",
+   "start_s": 389.627,
+   "end_s": 408.027,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "I think when you're down twenty-six there's nothing left to protect, so nobody plays careful. Look at Clingan. Ninety seconds in, Drummond blocks him, and for a while he looks rattled. Then he finishes nine of eleven. Twenty-two and thirteen. Three of four from three! Somewhere in there he quit worrying about the start and just started bullying people. That's the version I want to keep.",
+   "start_s": 408.027,
+   "end_s": 429.867,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "I'll push on that. A lot of Clingan's night came with us up big and coasting. I'd want to see it in a game that's close from the start.",
+   "start_s": 429.867,
+   "end_s": 437.227,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Fair. But look where our points came from. Forty-eight in the paint, that's the painted box right under the rim, to their twenty-six. And we went eleven of thirty-eight from three. So we bullied our way back. Deni getting downhill, Clingan sealing guys under the basket, over and over. That works on a cold shooting night in January too.",
+   "start_s": 437.227,
+   "end_s": 456.507,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Okay. Eleven for thirty-eight and you still almost win, because you lived at the rim. I'll give you that one completely. But the first six minutes still scare me for you, and nobody's explained them.",
+   "start_s": 456.47,
+   "end_s": 468.07,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "No. And the coach knows. Everybody in that locker room knows. And it keeps happening.",
+   "start_s": 468.07,
+   "end_s": 473.27,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Does that worry you more or less? That they know?",
+   "start_s": 473.27,
+   "end_s": 476.47,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "More. If they didn't know, you'd tell them and it's fixed. Knowing it and doing it anyway for three straight games? I don't know what that is yet. I just know we dug a hole that deep and lost by one.",
+   "start_s": 476.47,
+   "end_s": 487.91,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Okay, one-point loss, so everybody's got a villain. I read your subreddit this morning, which I now do, apparently. Three suspects. Scoot, Dame's threes, and the backup center. Which one actually cost you?",
+   "start_s": 488.673,
+   "end_s": 502.673,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Dame's the easy one, so let me clear him. One for nine from three. Ugly. But he still scored fifteen, made all four free throws, and we were plus five with him out there. That means we outscored them by five in his minutes. He's at 35.8 from three this year, and he takes the hardest, deepest shots on the team. I'd rather he keeps letting it fly.",
+   "start_s": 502.673,
+   "end_s": 523.793,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "35.8 is about league average, though. For the guy he's been, that's a little disappointing. My guess is it drifts up. But I don't love that it's a guess.",
+   "start_s": 523.793,
+   "end_s": 533.553,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "It drifts up. I'm telling you. Now, Scoot. Scoot Henderson, our young guard, the kid everybody's waiting on. One for eight. Oh for five from three. Three turnovers. Minus five in twenty-three minutes. Bad night. I'm calling it a bad night.",
+   "start_s": 533.553,
+   "end_s": 550.433,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Some of your people want him out of the rotation. Where are you?",
+   "start_s": 550.433,
+   "end_s": 553.713,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Not there. My question is who's running the offense when Deni's on the floor. Scoot was making a lot of the decisions in those stretches, and Deni had twenty, nine rebounds and five assists. He was our best guy. When he's out there, the ball should find him first. Somebody has to say it out loud in practice, so that's on the coach. Keep Scoot out there with a smaller job. He's going to figure it out. Okay, that's the optimism talking.",
+   "start_s": 553.713,
+   "end_s": 578.593,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Does a smaller job fix oh for five, though? If defenses decide they can leave him alone out at the three-point line, that guy walks into the paint and helps. Now Deni's driving into two defenders instead of one. So some of this is on Scoot no matter who's calling plays. You can't hide a guy the defense ignores.",
+   "start_s": 578.593,
+   "end_s": 597.073,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Yeah. I hate that it's true. If he's no threat out there, the floor shrinks for everybody. Fine, half on him. But I'm not writing a kid off after one Saturday in New York at the end of a long road trip.",
+   "start_s": 597.036,
+   "end_s": 609.036,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "One game tells me almost nothing. A month of that same group getting outscored would. For me the real one is backup center. Clingan plus four. Robert Williams, the veteran behind him, minus five in seventeen minutes.",
+   "start_s": 609.036,
+   "end_s": 623.996,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "And in the Minnesota loss Tuesday it was way worse. Clingan plus seventeen, Williams minus eighteen. Two one-point losses, same split both times. And here's the weird part. Williams looks fine in the box score. Two for two, a steal, a block, no turnovers. The game just leaks when Clingan sits. You can feel it go.",
+   "start_s": 623.996,
+   "end_s": 644.516,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Plus-minus only tells you the score while a guy was out there. It won't tell you whose fault. I'd want to know who Williams plays with. If his minutes are mostly Scoot's minutes, maybe we're counting one problem twice.",
+   "start_s": 644.516,
+   "end_s": 656.676,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Huh. Maybe. But that's worse, Jack. Then it's a whole bench group that bleeds at once.",
+   "start_s": 656.676,
+   "end_s": 662.116,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Fair. That is worse. And it's why our Yang Hansen bet gets interesting. Yang's the young center at the end of your bench. We bet on whether he's in the rotation by New Year's, and we said that means real minutes at center most nights, plus at least one more close game. If Williams keeps bleeding like this...",
+   "start_s": 662.116,
+   "end_s": 680.116,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "The door opens for the kid. I see what you're doing. And I want it to be him so badly that I don't trust myself on this at all.",
+   "start_s": 680.116,
+   "end_s": 688.076,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "jack",
+   "text": "That's the most honest thing you've said all morning.",
+   "start_s": 688.076,
+   "end_s": 690.476,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "It's early.",
+   "start_s": 690.476,
+   "end_s": 691.356,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Before I go eat my feelings at my parents' place. Did you see Boston?",
+   "start_s": 692.119,
+   "end_s": 696.279,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "jack",
+   "text": "They lost to the Kings. Boston, of all teams.",
+   "start_s": 696.279,
+   "end_s": 700.039,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Boston took fifty-eight threes and missed most of them. Suddenly our eleven for thirty-eight looks like a clinic.",
+   "start_s": 700.039,
+   "end_s": 706.319,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "jack",
+   "text": "And Wembanyama, the Spurs' giant, put up fifty and nineteen rebounds in a blowout of the Pelicans. Thirty of it in the first half.",
+   "start_s": 706.319,
+   "end_s": 714.519,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "The team that knocked us out last spring. Painful, and correct. He comes back every summer with something new. That's the whole thing I believe in, happening to somebody else.",
+   "start_s": 714.519,
+   "end_s": 724.759,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Here's the one that matters for you. Philly beat Milwaukee 132-129, and Tyler Herro put up fifty for the Bucks. His tying three got waved off on review, let it go a hair too late. Philly's 14-3, tied for the best record in the league. You play them Monday.",
+   "start_s": 724.759,
+   "end_s": 742.639,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "And they're twelve and oh in games that are close at the end, which honestly doesn't scare me. They were up ten with two minutes left on a Bucks team that has one win, and nearly blew it. Their own guys are saying they keep easing off once they're ahead instead of playing hard for the whole game.",
+   "start_s": 742.639,
+   "end_s": 757.199,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Let me play the other side for a second. Twelve and oh means they keep finding a way at the end. You just lost one by a point. Tight fourth quarter, right now, who would you rather be?",
+   "start_s": 757.199,
+   "end_s": 767.399,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Ugh. Them. Today. You got me. But they give up early leads to everybody, and we give up early leads to everybody. If we start the way we finish, we make them sweat. Somebody's got to blink first.",
+   "start_s": 767.399,
+   "end_s": 781.159,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Go find out what your dad meant. And tell him the Knicks send their regards.",
+   "start_s": 781.159,
+   "end_s": 784.679,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "I will not. Knock on your neighbor's door, Jack. Find out whose side he's on.",
+   "start_s": 784.679,
+   "end_s": 788.719,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "jack",
+   "text": "I'm not knocking. Talk Monday.",
+   "start_s": 788.719,
+   "end_s": 791.319,
+   "chapter": 4
+  }
+ ],
+ "cost": {
+  "real_usd": 1.042,
+  "api_usd": 10.8006,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 92,
+    "input_tokens": 188,
+    "output_tokens": 139616,
+    "cache_write": 1393813,
+    "api_usd": 7.0108,
+    "cache_read": 389865,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 62953,
+    "cache_write": 185510,
+    "api_usd": 2.7478,
+    "cache_read": 22997,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 9,
+    "chars": 13025,
+    "real_usd": 1.042,
+    "api_usd": 1.042
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-11-20T09:30:13Z",
+    "until": "2026-11-22T09:31:24Z"
+   }
+  ]
+ }
+}
