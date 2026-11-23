@@ -1,0 +1,987 @@
+{
+ "schema": 1,
+ "guid": "tomcast-builder-20261123",
+ "show": "builder",
+ "title": "Claude Code's new Code Mode changes what Tom's push guard actually sees",
+ "date": "2026-11-23",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261123.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261123-art1.png",
+ "duration_s": 1070,
+ "published_utc": "2026-11-23T09:32:50.366584Z",
+ "hosts": [
+  "christina",
+  "bea"
+ ],
+ "speech_start_s": 9.425,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "b1-codemode-guard",
+   "tag": "Code Mode vs the guard",
+   "headline": "Claude Code's new Code Mode changes what Tom's push guard actually sees",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "b2-easel-drain",
+   "tag": "Easel + the slow drain",
+   "headline": "Claude Code 2.1.330 adds easel, a built-in mod that draws charts in the session",
+   "start_s": 303.634
+  },
+  {
+   "n": 3,
+   "story_id": "b3-hangar-builder",
+   "tag": "Hangar VMs for agents",
+   "headline": "Someone built Hangar: a Mac app that runs Claude Code with approvals off inside a VM you can undo",
+   "start_s": 494.68
+  },
+  {
+   "n": 4,
+   "story_id": "n1-anthropic-ipo",
+   "tag": "Anthropic IPO",
+   "headline": "Anthropic prices its IPO at $83, the largest offering on record, and closes up 17% on day one",
+   "start_s": 712.846
+  },
+  {
+   "n": 5,
+   "story_id": "n2-riemann",
+   "tag": "Riemann via Claude",
+   "headline": "An Anthropic mathematician claims a Claude-built Lean proof of the Riemann Hypothesis, and a human proof surfaces hours later",
+   "start_s": 796.569
+  },
+  {
+   "n": 6,
+   "story_id": "n3-gpt62",
+   "tag": "GPT-6.2 Astra + Sol",
+   "headline": "OpenAI ships GPT-6.2 Astra, priced the same as Fable 5.2, and Sol as the cheap workhorse",
+   "start_s": 919.172
+  },
+  {
+   "n": 7,
+   "story_id": "n4-gemini-neon",
+   "tag": "Gemini 4 Neon",
+   "headline": "Google ships Gemini 4 Neon, its fourth Gemini 4 model in about seven weeks",
+   "start_s": 991.455
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Bea. Why do you sound like you're outdoors?",
+   "start_s": 9.425,
+   "end_s": 12.865,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Because I am. I'm on my back step with tea, and my neighbor is leaf-blowing. So he's basically co-hosting today.",
+   "start_s": 12.865,
+   "end_s": 19.825,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "Tell him we have exactly one listener, and he's ruining it.",
+   "start_s": 19.825,
+   "end_s": 24.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "bea",
+   "text": "He doesn't care about Tom. Hi, Tom. Okay, what did you do this weekend? You went quiet on me.",
+   "start_s": 24.465,
+   "end_s": 31.105,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Toast. For dinner. Twice. Two separate dinners of toast. And I watched four hours of a baking competition where every single soufflé fell. Every one. And I was weirdly moved by it.",
+   "start_s": 31.105,
+   "end_s": 46.385,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Moved by the soufflés.",
+   "start_s": 46.385,
+   "end_s": 48.225,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "They tried so hard! They all stood there watching the oven door like it owed them money.",
+   "start_s": 48.225,
+   "end_s": 53.665,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "bea",
+   "text": "That's me at the pottery wheel. Okay, confession, because you'll get it out of me anyway. I opened my mom's photo project again. And I wrote the last ten percent on an index card. Five things. Taped it to the fridge. So every time I grab a seltzer, I have to look at it.",
+   "start_s": 53.665,
+   "end_s": 72.465,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "That's the most grown-up thing you've ever done. I'm a little scared.",
+   "start_s": 72.465,
+   "end_s": 76.945,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "bea",
+   "text": "They're very guilty seltzers. And it's sort of where today starts, because the big story touches one of Tom's unfinished lists too. There's a new thing in Claude Code, the version of Claude that Tom builds with. It's called Code Mode.",
+   "start_s": 76.945,
+   "end_s": 92.225,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Start me at zero. What's Code Mode? So instead of texting you one chore at a time, I hand you the whole list. Huh. Okay, that's a little spooky.",
+   "start_s": 92.225,
+   "end_s": 102.945,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Now Tom. He has a project called repo-registry. It looks at every code project on his Mac mini and makes one page that says which ones need attention. And it comes with a doorman. Any time Claude tries to push, which just means send his code up to GitHub where it lives online, or tries to put a site live, the doorman stops it and asks Tom first. He has to switch it on when he installs it, and it keeps a log.",
+   "start_s": 102.945,
+   "end_s": 129.825,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "And where does Code Mode come in?",
+   "start_s": 129.825,
+   "end_s": 131.825,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Say his website code sits in a folder called app. Code Mode might hand the doorman one line that basically says, walk into the app folder, and then send the code up. The dangerous part is hiding at the end, after the walk. So the doorman has to check every piece of the line, not just the first bit.",
+   "start_s": 131.788,
+   "end_s": 150.828,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "Does Tom's do that?",
+   "start_s": 150.828,
+   "end_s": 152.188,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Mostly, yes. It was built to pull commands apart. Nothing's broken today, and none of this matters unless he turns Code Mode on. But Code Mode writes long lines that chain steps together, so I'd want to be sure the doorman holds up on those. If he ever wants Code Mode, he'd ask Claude one thing. Make my guard catch an upload to GitHub even when it's hidden behind a folder change, and prove it with a test.",
+   "start_s": 152.188,
+   "end_s": 177.628,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "Okay. You had a second thing. I saw it on your face.",
+   "start_s": 177.628,
+   "end_s": 181.308,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Mods. So the add-ons Tom's used before are like a contractor you call in. They show up, do one job, leave. A mod moves into the house. It's code that runs inside Claude Code itself, with all of Tom's permissions. It can draw on the screen, it can step into what Claude is doing, and it can wave through things his doorman would have stopped. Claude Code comes with a built-in guard that blocks that, and it's on by default. But it means his doorman isn't the last word.",
+   "start_s": 181.308,
+   "end_s": 211.588,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "So Tom's doorman is a lock on a door somebody else might have a key to. And the only thing stopping them is a lock he didn't build.",
+   "start_s": 211.588,
+   "end_s": 220.588,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "bea",
+   "text": "Yeah. Which is why I'd want at least one of his locks sitting somewhere a mod can't reach. Outside Claude Code completely.",
+   "start_s": 220.588,
+   "end_s": 228.108,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Okay, real question, because I honestly don't know. Everyone's building seatbelts right now. There's another one going around called microbrains that checks every edit and command before it runs, in less than a blink. Does stacking guards actually make you safer? Or does it just make you feel in control? Because the feeling is what scares me. Once you feel safe, you stop looking.",
+   "start_s": 228.071,
+   "end_s": 252.311,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it. I think... both? It depends whether the locks break in different ways. A rule that says never upload. A doorman that reads commands. Something outside Claude Code. Those fail differently. Three copies of the same lock is just decorating.",
+   "start_s": 252.311,
+   "end_s": 272.471,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "But how would Tom even know which kind he has?",
+   "start_s": 272.471,
+   "end_s": 275.511,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "bea",
+   "text": "He tries to break in. On purpose. Turn the doorman on, ask Claude to upload something harmless, watch it say no. Then do it again from inside a folder. And I like one more idea for any guard: a mode where it only watches and writes down what it would have blocked. Let it watch for a week before you let it stop anything.",
+   "start_s": 275.511,
+   "end_s": 295.551,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "So I don't trust a lock until I've watched it say no to me.",
+   "start_s": 295.551,
+   "end_s": 299.151,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "bea",
+   "text": "Ha. Okay, that one's going on the index card.",
+   "start_s": 299.151,
+   "end_s": 302.871,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Wait, back up. You said mods can draw on the screen. Is there one I can actually picture?",
+   "start_s": 303.634,
+   "end_s": 309.874,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "bea",
+   "text": "There's one built in now. It's called easel. You ask Claude for a chart, and it draws it right there in the session, next to the conversation. It also pops one up on its own under certain kinds of results. It's on Pro and Max, the paid Claude plans, on Mac and Linux. And if the automatic charts get chatty, you can turn those off in settings.",
+   "start_s": 309.874,
+   "end_s": 330.834,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "christina",
+   "text": "I love that the first famous mod is a chart. The screen Tom works in used to be a wall of text. Now it's turning into a room where things get shown to you.",
+   "start_s": 330.834,
+   "end_s": 340.914,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "bea",
+   "text": "And it's the clearest picture of the contractor-versus-roommate thing. A contractor can hand Claude some text. Only the roommate gets to paint on the walls.",
+   "start_s": 340.914,
+   "end_s": 350.274,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "christina",
+   "text": "Okay, and I know where you're going, because I read Tom's notes too. Repair Shop.",
+   "start_s": 350.274,
+   "end_s": 355.794,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Repair Shop! His toolkit for keeping his Mac from filling up. Since November second there's been a little note-taker in it. Every thirty minutes it writes down how much free space the Mac has, plus the size of the folders he suspects. And then the whole hunt stops at one line in his notes. 'Find the slow drain.' Stopped there.",
+   "start_s": 355.794,
+   "end_s": 376.594,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "christina",
+   "text": "So his Mac has been quietly keeping a diary of its own decline, and nobody's read it. Building the thing that watches is fun. Reading what it saw is homework.",
+   "start_s": 376.594,
+   "end_s": 387.314,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "bea",
+   "text": "It's so relatable it hurts. So the build is simple. Tom asks Claude to read that diary and draw free space over time. Then underneath it, on the same timeline, the suspects. Downloads, about forty-five gigs. Application Support, the folder where apps stash their stuff, about eighty-five. And Mail, about twenty-nine. Then you just look. Whichever line climbs while the free space falls, that's your drain.",
+   "start_s": 387.314,
+   "end_s": 415.554,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Does it just work?",
+   "start_s": 415.554,
+   "end_s": 416.754,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "bea",
+   "text": "No idea, honestly. Nobody's told us what that diary looks like inside. So step one, ask Claude to open it and describe what's in there. Then draw. If the first chart comes out weird, show Claude the chart and ask again.",
+   "start_s": 416.717,
+   "end_s": 431.997,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Here's my non-coder question. What does a chart do to a person that a list of numbers doesn't? Does Tom see the answer? Or does he see a story, and then go hunting for numbers that fit it?",
+   "start_s": 431.997,
+   "end_s": 444.077,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "bea",
+   "text": "Ooh. Both, probably. Your eye catches in a second what a spreadsheet hides for an hour. And your eye also loves being flattered. So if two lines bend at the same time, ask Claude which one bent first. Usually that's the real one.",
+   "start_s": 444.077,
+   "end_s": 460.637,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Fine. Then I'm calling it now. Mail. It only just got noticed, and it's always the quiet one.",
+   "start_s": 460.637,
+   "end_s": 467.197,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Application Support. Eighty-five gigs is a lot of rooms nobody visits.",
+   "start_s": 467.197,
+   "end_s": 471.997,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "christina",
+   "text": "Loser buys the clay.",
+   "start_s": 471.997,
+   "end_s": 473.437,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Deal. Do you know what clay costs? You do not want this bet.",
+   "start_s": 473.437,
+   "end_s": 477.757,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "christina",
+   "text": "One more, though. If somebody makes a really beautiful mod, can they sell it? Or does it just get passed around?",
+   "start_s": 477.757,
+   "end_s": 484.397,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "bea",
+   "text": "I genuinely don't know. Right now you install them from collections people put together and share. I haven't seen anything about anyone getting paid for one yet.",
+   "start_s": 484.397,
+   "end_s": 493.597,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "christina",
+   "text": "So if a mod lives inside the house with Tom's keys... where does the wall go?",
+   "start_s": 494.68,
+   "end_s": 500.52,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Outside the house. You can't ask Claude Code to wall itself in when things inside it run with all your permissions. And somebody built exactly that kind of wall this week. It's called Hangar, from a small company called Baseguard. It's free, and the code is public, so anyone can read it.",
+   "start_s": 500.52,
+   "end_s": 517.96,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "christina",
+   "text": "What does it do, in a sentence?",
+   "start_s": 517.96,
+   "end_s": 520.28,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Okay, picture this. A second, pretend computer living inside your real Mac. It's called a virtual machine. You put Claude Code in there, and you turn off the approvals, so it stops asking permission for every little thing. It can't touch the files on your actual Mac. It can only reach the websites you put on its guest list. And there's a snapshot button. If it wrecks the place, you rewind, and the room is back like nothing happened.",
+   "start_s": 520.28,
+   "end_s": 546.84,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "christina",
+   "text": "An undo button for trusting a robot.",
+   "start_s": 546.84,
+   "end_s": 549.64,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Yes! Approvals off is how an agent actually gets fast. This lets you do it without the sick feeling that it's rummaging through your whole life. And Simon Willison, the developer who keeps the most honest notes on this stuff, put out a cousin of the idea the same week. He calls it an external sandbox. The agent stays out where it is. Only the code it runs gets sent into a sealed little box, with its own guest list for the internet.",
+   "start_s": 549.64,
+   "end_s": 576.36,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Okay, so for Tom. You'd mean Grand Central, right? His own app for running a bunch of Claude sessions at once.",
+   "start_s": 576.36,
+   "end_s": 584.36,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Right. Grand Central has a builder, the part that packages up the app's private updates. And there's a note Tom left himself in it: run the builder as its own separate user on the Mac. He wrote down that he's accepting the risk for now, and it's still sitting there.",
+   "start_s": 584.36,
+   "end_s": 599.8,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Wait, what does a separate user actually change?",
+   "start_s": 599.8,
+   "end_s": 603.24,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Picture giving the builder its own desk in a different room. Tom's documents just aren't on that desk, so there's nothing there for it to grab. That's the light fix. The heavy fix is a Hangar-style virtual machine. Its own whole computer, a guest list for the internet, and the undo.",
+   "start_s": 603.203,
+   "end_s": 621.603,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "christina",
+   "text": "For one guy on a Mac mini? I'd do the desk. I'll take a fix he'll actually make this week over a perfect one he'll think about in March.",
+   "start_s": 621.603,
+   "end_s": 630.643,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "bea",
+   "text": "I'm going to push on that a little. Think about what the separate desk doesn't stop. The builder can't read his documents, great. But it can still reach the whole internet. And there's no rewind if something goes wrong at that desk.",
+   "start_s": 630.643,
+   "end_s": 643.763,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "christina",
+   "text": "Sure, but how often does the builder actually go wild? I'm asking. I don't know.",
+   "start_s": 643.763,
+   "end_s": 650.483,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "bea",
+   "text": "Probably rarely. And that's your best argument. The separate user is an afternoon. The virtual machine is the one I'd want. It's also the one I'd set up halfway, get thrilled about, and abandon. I know exactly who I am.",
+   "start_s": 650.483,
+   "end_s": 664.723,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "christina",
+   "text": "There's an index card on your fridge proving it.",
+   "start_s": 664.723,
+   "end_s": 668.083,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "bea",
+   "text": "Rude. Accurate. Okay, you win the order. Desk first, this week. Tom, ask Claude to set the builder up as its own user and show you what it can and can't reach. Keep the virtual machine on the list for later, because the desk still leaves the internet wide open. Two caveats. Nobody's tried Hangar with Grand Central's builder, so that's an experiment. And it needs the newest macOS on one of Apple's own-chip Macs. So check the mini before you get excited.",
+   "start_s": 668.083,
+   "end_s": 698.403,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "christina",
+   "text": "And who's paying for it? A company made it and gave it away. I'd want to know what it costs me later.",
+   "start_s": 698.403,
+   "end_s": 704.403,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "bea",
+   "text": "Fair. Because the code's public, anyone can see what it actually does. That's where I'd look first, before the price ever comes up.",
+   "start_s": 704.403,
+   "end_s": 712.083,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, you have to drive this next one, because money is your side of the room and I'm useless at it. Anthropic, the company that makes Claude, went public this week. Walk me through it like I'm my mother.",
+   "start_s": 712.846,
+   "end_s": 725.246,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "christina",
+   "text": "Ha. Okay. Going public means anyone can now buy a slice of the company on the stock market, instead of only the early investors and employees. That's the whole thing.",
+   "start_s": 725.246,
+   "end_s": 736.126,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Okay, so what's the whole company worth?",
+   "start_s": 736.126,
+   "end_s": 739.006,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "christina",
+   "text": "Depends who you ask. The estimates are all over the place, and nobody even agrees on the number yet, which tells you everyone's betting on what it becomes, more than what it is.",
+   "start_s": 739.006,
+   "end_s": 749.966,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "bea",
+   "text": "What got me was the founders. Big promises to make the same week you sell shares to the whole market. Everybody says they'll stay careful and keep their principles, right up until the money shows up.",
+   "start_s": 749.966,
+   "end_s": 761.966,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "christina",
+   "text": "And here's the part that makes it more than a nice sentence. The founders hold special shares with extra votes. So, buy in, but we keep the steering wheel. I like a promise with a lock on it. The first bad quarter is when we find out if the lock holds.",
+   "start_s": 761.966,
+   "end_s": 778.486,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "bea",
+   "text": "So does any of this touch Tom? So, a ten-minute fire drill, no panic. Tom, ask Claude to list which of your projects run through that subscription, and which one would hurt most if your monthly allowance got smaller. Then you know where you stand before anyone touches anything.",
+   "start_s": 778.486,
+   "end_s": 795.806,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Okay, now I need you. Thursday I saw 'Riemann Hypothesis' all over my feed and nodded like I knew what it was. I do not. What is it?",
+   "start_s": 796.569,
+   "end_s": 806.809,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "It's one of the most famous open questions in math, about how prime numbers are spread out along the number line. It's been sitting there unsolved forever. And this week came a claim that it had been cracked, with Claude in the story.",
+   "start_s": 806.809,
+   "end_s": 821.289,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "christina",
+   "text": "With Claude. Okay. And people keep saying he posted it in something called Lean. What's Lean?",
+   "start_s": 821.289,
+   "end_s": 828.569,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "A language where a computer checks every single logical step. He didn't post a paper. He posted a gigantic pile of it. Picture a building inspector who never gets tired, walking every room of a house with millions of rooms. If the inspector finishes and nobody slipped in extra assumptions, it's probably right. And no human will ever have read all of it.",
+   "start_s": 828.569,
+   "end_s": 851.849,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "christina",
+   "text": "So is that a proof, or a very confident receipt? Because a proof has always also been a story one person can tell another.",
+   "start_s": 851.849,
+   "end_s": 860.409,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Right, and then the plot twist. Within hours, a different proof showed up. A huge one by a mathematician named Alessandro Masullo, all human, no AI. Another senior mathematician had been checking it for months. The plan was to bring Masullo to Stanford, polish it, and announce it calmly. Instead it got rushed out the same day.",
+   "start_s": 860.409,
+   "end_s": 882.929,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "christina",
+   "text": "Oof. That stings. The careful one got bumped by the loud one. And both are still claims, right?",
+   "start_s": 882.929,
+   "end_s": 891.289,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Both still claims. Nobody's done checking either one.",
+   "start_s": 891.289,
+   "end_s": 894.689,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 8,
+   "speaker": "christina",
+   "text": "The note Alpöge wrote is what stays with me. He said it felt like losing 'a principal guiding light,' and then that Claude 'flew, and danced, and sparkled' near the finish. That's a love letter and a eulogy in one page.",
+   "start_s": 894.689,
+   "end_s": 909.249,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 9,
+   "speaker": "bea",
+   "text": "I want both. The machine-checked pile, plus a short human tour of it that somebody can actually follow. Nobody hangs a blueprint nobody can read.",
+   "start_s": 909.249,
+   "end_s": 918.409,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "bea",
+   "text": "And in the middle of all that, OpenAI, the ChatGPT company, put out a big new model called GPT-6.2 Astra, and a cheap one called Sol.",
+   "start_s": 919.172,
+   "end_s": 929.652,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "christina",
+   "text": "I completely missed that. Is Astra better than Claude?",
+   "start_s": 929.652,
+   "end_s": 933.572,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Astra is up there with the best of them. The sneaky one is Sol, the cheap one. It's built for the boring jobs, and that's where I'd look first.",
+   "start_s": 933.572,
+   "end_s": 942.172,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "christina",
+   "text": "Okay, I'm too online, but I saw some people being really harsh about it. Is it actually bad?",
+   "start_s": 942.172,
+   "end_s": 949.812,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "bea",
+   "text": "The mood is mixed, so the picture may shift. My own read is that these models do great on tasks with a clear finish line, and still need a human on the open-ended stuff.",
+   "start_s": 949.812,
+   "end_s": 959.892,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "christina",
+   "text": "So what does Tom do with that?",
+   "start_s": 959.892,
+   "end_s": 961.892,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Boring jobs with a right answer go to the cheap model. Anything where taste decides gets the best one, plus Tom's own eye. And wait two weeks before believing anyone's verdict. Me included.",
+   "start_s": 961.892,
+   "end_s": 973.972,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "christina",
+   "text": "And if smart gets this cheap, who gets paid? The labs, the people building on top. Not the people whose work taught the models.",
+   "start_s": 973.972,
+   "end_s": 982.452,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "bea",
+   "text": "I don't have a clean answer. Cheaper means more people get to make things at all. I won't pretend that settles your question.",
+   "start_s": 982.452,
+   "end_s": 990.692,
+   "chapter": 6
+  },
+  {
+   "seg": 6,
+   "line": 0,
+   "speaker": "christina",
+   "text": "And then Google. I'll be honest, I've lost the thread completely.",
+   "start_s": 991.455,
+   "end_s": 996.095,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 1,
+   "speaker": "bea",
+   "text": "So Google's new models are named after elements. Carbon is the big one for long builds, Hydrogen is the cheap one, and the new one, Neon, sits in the middle. You can get it in their developer tools, in Antigravity, which is Google's app for coding with agents, and in the Gemini app. And one from October, Argon, has already been retired.",
+   "start_s": 996.095,
+   "end_s": 1018.015,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 2,
+   "speaker": "christina",
+   "text": "That's a fruit fly. Blink and the model you picked is the old one.",
+   "start_s": 1018.015,
+   "end_s": 1021.935,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 3,
+   "speaker": "bea",
+   "text": "And the naming doesn't even help. Picking the middle one is a coin flip, because nothing in the name tells you which one to grab.",
+   "start_s": 1021.935,
+   "end_s": 1028.735,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 4,
+   "speaker": "christina",
+   "text": "The chemistry set is upside down. Okay, so for Tom, one line each?",
+   "start_s": 1028.735,
+   "end_s": 1034.895,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Here's what I'd do. Neon for work you steer as you go, Hydrogen when you want it cheap, Carbon for long builds. And a note to self. A shiny new model doesn't finish anything on the index card.",
+   "start_s": 1034.895,
+   "end_s": 1047.975,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 6,
+   "speaker": "christina",
+   "text": "I'm holding you to it. Tom, chart that drain and settle our bet. I'm saying Mail.",
+   "start_s": 1047.975,
+   "end_s": 1054.255,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 7,
+   "speaker": "bea",
+   "text": "Application Support. Bring clay money, Christina. Bye, Tom.",
+   "start_s": 1054.255,
+   "end_s": 1058.415,
+   "chapter": 7
+  },
+  {
+   "seg": 6,
+   "line": 8,
+   "speaker": "christina",
+   "text": "Bye, Tom. Go eat something that isn't toast.",
+   "start_s": 1058.415,
+   "end_s": 1061.455,
+   "chapter": 7
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2804,
+  "api_usd": 11.271,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 9,
+    "input_tokens": 18,
+    "output_tokens": 82285,
+    "cache_write": 451619,
+    "api_usd": 5.2658,
+    "cache_read": 35335,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 136,
+    "input_tokens": 272,
+    "output_tokens": 104858,
+    "cache_write": 821122,
+    "api_usd": 4.4165,
+    "cache_read": 829046,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 16005,
+    "real_usd": 1.2804,
+    "api_usd": 1.2804
+   },
+   {
+    "kind": "background",
+    "calls": 42,
+    "real_usd": 0.0,
+    "api_usd": 0.3083,
+    "since": "2026-11-19T09:33:45Z",
+    "until": "2026-11-23T09:32:50Z"
+   }
+  ]
+ }
+}

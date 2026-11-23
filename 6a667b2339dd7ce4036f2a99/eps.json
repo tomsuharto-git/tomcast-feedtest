@@ -457,5 +457,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261122-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261122.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261123",
+    "title": "Builder: Mon Nov 23. Code Mode vs the guard, Easel + the slow drain, Hangar VMs for agents, Anthropic IPO, Riemann via Claude, GPT-6.2 Astra + Sol, Gemini 4 Neon",
+    "description": "Builder (Christina and Bea): Code Mode vs the guard, Easel + the slow drain, Hangar VMs for agents, Anthropic IPO, Riemann via Claude, GPT-6.2 Astra + Sol and Gemini 4 Neon.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261123.mp3",
+    "audio_bytes": 12840377,
+    "duration_s": 1070,
+    "published_utc": "2026-11-23T09:32:50.366584Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261123-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261123.episode.json"
   }
 ]
