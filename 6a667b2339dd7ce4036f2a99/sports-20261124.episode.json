@@ -1,0 +1,615 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261124",
+ "show": "sports",
+ "title": "Blazers go to Philly and beat the 14-4 Sixers by 17",
+ "date": "2026-11-24",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261124.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261124-art1.png",
+ "duration_s": 616,
+ "published_utc": "2026-11-24T09:24:43.539137Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Blazers Beat Sixers",
+   "headline": "Blazers go to Philly and beat the 14-4 Sixers by 17: real contender or road-trip good vibes?",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Deni and Clingan",
+   "headline": "Deni Avdija's 31 and the Clingan 15-18-5: who is the engine?",
+   "start_s": 234.064
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Scoot's Second Half",
+   "headline": "Scoot Henderson's +28 second half and the bench that won it",
+   "start_s": 359.03
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Around the League",
+   "headline": "Around the league lightning round",
+   "start_s": 538.556
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack. Jack Vernon. We beat the best team in the East by seventeen. On their floor. I'm jumping around the room, and you text me at the buzzer. One word. 'Fine.'",
+   "start_s": 10.175,
+   "end_s": 21.215,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Where I grew up, that's a big word. Fine is the top of the scale. Below fine is 'could be worse.' Below that, we just stop talking for a while.",
+   "start_s": 21.215,
+   "end_s": 30.895,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Fine is what my mom says about a restaurant she's never going back to.",
+   "start_s": 30.895,
+   "end_s": 35.455,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Your mom and I would get along. Did she give you a Thanksgiving assignment yet?",
+   "start_s": 35.455,
+   "end_s": 39.135,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "Rolls. Store-bought. She said store-bought twice. I think she's worried I'm getting ambitious.",
+   "start_s": 39.135,
+   "end_s": 44.815,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "That's good management. Cut the scope before the guy starts proofing dough.",
+   "start_s": 44.815,
+   "end_s": 48.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Ha. So I watched at the bar. And the bartender had the under, meaning his bet needed a low score. So by the third quarter he was the only guy in Portland rooting for Philly. He wiped the same glass for the entire fourth quarter.",
+   "start_s": 48.655,
+   "end_s": 61.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "I'll admit something. I texted fine. But I watched the second half standing up. Alone, in my living room. So, okay, I'm happy for you. But somebody has to be the skeptic this morning. Philly shot nine of thirty-three from three. That's twenty-seven percent. Dean Wade and Caldwell-Pope are the two guys they keep around to hit open threes. Between them, oh for eight from deep. And it was tied at sixty-nine at the half. So how much of a seventeen-point win is just their jumpers going cold?",
+   "start_s": 61.975,
+   "end_s": 93.775,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "I'll give you that. I'll give you more than you want. Their misses were weather. But we went nineteen of forty-two ourselves. I don't get to call our makes skill and their misses luck. Deni was pulling up from thirty feet in the second quarter. Nobody draws that up. So call the shooting even. Wipe it off the board. Now look at what's left. We out-rebounded them forty-nine to thirty-three. Fifteen of ours were offensive boards, meaning we got our own misses back. Clingan had eighteen rebounds by himself. A rebound doesn't care whether the shot went in.",
+   "start_s": 93.738,
+   "end_s": 125.098,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Calling it even is more honest than I expected from you before ten a.m. Okay, but here's my question. Embiid, their big star, was out sick. Philly started Jabari Walker at center, and he's a lot smaller than what they normally run out there. So Clingan got those boards against a team with nobody big enough to lean on him. Why would that show up on a night they've got a real center?",
+   "start_s": 125.098,
+   "end_s": 147.738,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Because of how he got them. He was guarding guys who can't shoot. So he just ignored them. He left his man and sat in the paint, like the last guy back in football who roams and cleans up. You can only do that if you read the whole floor. And he reads it better than he did last year. Against a healthy Embiid? Sure, he can't roam. Different job. But fifteen offensive boards means five guys crashing. That's wanting it. And look at their stars. LeBron had a great night, four of five from three, and he's minus thirteen. That's the score while he was out there. Maxey's minus twenty-three. They lost the minutes their best guys played.",
+   "start_s": 147.738,
+   "end_s": 183.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "The offensive boards I'll take. That's effort, and effort travels. So here's where I land. A good team. A playoff team. A team nobody wants to see in a seven-game series. Top four is a bigger claim than one night with Embiid in street clothes.",
+   "start_s": 183.381,
+   "end_s": 200.101,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Wait, so we agree? You're going to say that out loud, on this show?",
+   "start_s": 200.101,
+   "end_s": 205.061,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "We agree the record's light. Top four, I want them to beat somebody healthy first. If the rebounding holds up against a real center, I'll say so on this show.",
+   "start_s": 205.061,
+   "end_s": 214.021,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Deal. And did you see the end? Some Philly guy is filming on his phone, thumbs down, right in Dame's face. And Dame finally turns around and tells him, come here. Ja's back there laughing.",
+   "start_s": 214.021,
+   "end_s": 225.541,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "A guy sticks a camera in your face after you beat his team by seventeen. That's a pretty good night in Philly.",
+   "start_s": 225.541,
+   "end_s": 231.701,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "A fine night, you mean.",
+   "start_s": 231.701,
+   "end_s": 233.301,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "That scene also killed Deni's courtside interview. Which is a shame. I wanted to hear him explain that second quarter. But here's where I'm going to surprise you. I think Clingan won this game more than Deni did.",
+   "start_s": 234.064,
+   "end_s": 246.384,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Wait. I came in here ready to fight you for Clingan. Now what do I do with all this energy?",
+   "start_s": 246.384,
+   "end_s": 250.864,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Sorry to ruin your morning. Seven of eight, eighteen boards, five assists, one turnover. Deni was gorgeous, twelve of nineteen, five of nine from three, but he turned it over five times. Which of those two lines would you bet on every night? The guy hitting thirty-footers is on a heater. The guy who owns the glass and doesn't cough it up is your floor.",
+   "start_s": 250.864,
+   "end_s": 272.384,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "I'm with you. I just like my reasons better. Clingan was plus sixteen. Deni was plus six. That gap kind of tells you.",
+   "start_s": 272.384,
+   "end_s": 279.504,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Now I'm going to argue with your number. Plus-minus is just the score while you're on the floor. And one game of it is noise. Scoot was a plus twenty-eight. Is he the best player in the building?",
+   "start_s": 279.504,
+   "end_s": 290.304,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Ha. Okay, fair. Then let me stick up for Deni a little. It was tied at the half, and he was the reason we weren't behind. Without him, Clingan's second half is a big man cleaning up a game we're losing. And the five turnovers? Our whole team only had twelve. He's got the ball for thirty minutes. That's what it costs to be the engine. A car that never leaves the driveway never stalls either.",
+   "start_s": 290.304,
+   "end_s": 311.504,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "That's a good line, and I don't love that it's a good line. Okay. The engine and the floor. Is his All-Star case real? He's shooting the ball well enough that people are asking about true shooting.",
+   "start_s": 311.504,
+   "end_s": 322.944,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Help me with that. What's true shooting actually measuring?",
+   "start_s": 322.944,
+   "end_s": 325.984,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "It's one number for how many points you get per shot. Threes count for more, and it folds in free throws. Scoring a lot without wasting shots is the whole job. The one crack, besides the turnovers, is free throws. He was two of five at the line last night.",
+   "start_s": 325.947,
+   "end_s": 341.707,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Yeah, free throws are coming up again in about ten minutes. And Clingan, top ten among centers? The fans are already there. Are you?",
+   "start_s": 341.707,
+   "end_s": 349.467,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "He's in the conversation. I'm not going to fight about the exact number.",
+   "start_s": 349.467,
+   "end_s": 353.147,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "I am. I'm telling you, top ten. I'll argue about it with anybody, all week.",
+   "start_s": 353.147,
+   "end_s": 358.267,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Speaking of free throws. Dame shot four of fifteen and still had eighteen. Because he went nine of nine at the line. You know what everybody else did? Eight of seventeen.",
+   "start_s": 359.03,
+   "end_s": 370.15,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "Please don't. I'm in a good mood.",
+   "start_s": 370.15,
+   "end_s": 372.79,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Fine. So Scoot. Seventeen points. What changed? A fan said he looked awful early and then caught fire late. I wasn't watching him early. Nobody was.",
+   "start_s": 372.79,
+   "end_s": 383.27,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "That was the problem! Nobody had to. Then he comes out in the second half and goes straight at the rim. A hard bucket on the break. A lob to Rob Williams, our backup big. He's driving. He's attacking instead of standing behind the line waiting for somebody to find him. That's a kid who had a bad stretch and didn't sulk. I love that more than the points.",
+   "start_s": 383.27,
+   "end_s": 403.59,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Here's something I worked out last night. They won by seventeen. He was plus twenty-eight. So in the twenty-two minutes he sat, Portland lost by eleven. Some of that is Scoot. Some of it is who he played with. Jrue went four of five from three next to him. When Jrue's hot, Scoot gets room. When Jrue goes cold, do teams go back to ignoring Scoot?",
+   "start_s": 403.59,
+   "end_s": 425.43,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Okay, that's a real point, and I hate it. I'll say this much. The drives don't depend on Jrue. He can get to the rim whoever's next to him.",
+   "start_s": 425.43,
+   "end_s": 433.07,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Agreed on the drives. And the internet's already putting a price on him. Fans are talking about moving him for a fresh start.",
+   "start_s": 433.07,
+   "end_s": 439.67,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "No. One good half doesn't set a price. And I'm not selling a kid because November was rough.",
+   "start_s": 439.67,
+   "end_s": 445.19,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Let me be the money guy for a second. If you were ever going to shop him, last night's the tape you'd mail out. Sell high, they call that.",
+   "start_s": 445.19,
+   "end_s": 452.59,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "And then you watch him figure it out somewhere else on a cheaper contract. We've seen that movie in this city. The team builds the kid, the kid is ours. Nope.",
+   "start_s": 452.59,
+   "end_s": 461.27,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "I don't fully buy that. But you don't sell after one good night either. You're right on that much. What about Kent? Help me out. He's on a two-way, right?",
+   "start_s": 461.233,
+   "end_s": 470.953,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Right, that's the contract where you split time between the NBA team and the G League, the minor league. He hit three of five from three in fourteen minutes. He was shooting it like that in the G League last year too. Carlson got six minutes. Oh for three, minus seven, then never came back in. So does Kent take his spot? Kent earned the minutes. Carlson still gets more than six to show me something. Nobody gets written off by me after six minutes.",
+   "start_s": 470.953,
+   "end_s": 495.953,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "That's a very generous way to say Carlson's on the bench. Okay, one more. If Dame can shoot four of fifteen and you still win by seventeen, which guard can you not play without?",
+   "start_s": 495.953,
+   "end_s": 507.953,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Today? Dame. But my dad would say Jrue.",
+   "start_s": 507.953,
+   "end_s": 511.233,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Wait, your dad. He called you last week, eleven seconds, said 'Jrue. Old man,' and hung up. Did you get it out of him on Sunday?",
+   "start_s": 511.233,
+   "end_s": 519.913,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Kind of. I asked during dessert. He pointed at the TV and said, 'Still useful.' Then my mom yelled from the kitchen, 'He means himself.' And he didn't argue. Which, for my dad, is a speech. Anyway. Jrue had eighteen.",
+   "start_s": 519.913,
+   "end_s": 533.633,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "jack",
+   "text": "Still useful. I might steal that.",
+   "start_s": 533.633,
+   "end_s": 536.673,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "Get your own dad.",
+   "start_s": 536.673,
+   "end_s": 537.793,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Quick lap around the league. The Bucks finally won one. They beat Toronto, and it ended a long, ugly losing streak.",
+   "start_s": 538.556,
+   "end_s": 546.236,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "A month of walking into the building expecting to get punched. Somebody in that locker room deserves a drink. Glad it's over.",
+   "start_s": 546.236,
+   "end_s": 553.116,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "The Spurs beat Sacramento, and they did it short. No Wembanyama, their star. No Fox, no Harper. So who ran the show?",
+   "start_s": 553.116,
+   "end_s": 561.276,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "And Stephon Castle, their young guard, ran it. They handed him the keys on a random night, and he drove. That's the patient build. It's why they knocked us out. Still painful. Still correct.",
+   "start_s": 561.276,
+   "end_s": 572.156,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Memphis loses Cameron Boozer, their rookie, with a sprained ankle. And this is a team that's been rolling. You've watched them more than I have. Who eats those minutes?",
+   "start_s": 572.156,
+   "end_s": 580.956,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Honestly, I don't know. That's the fun part. A team that's been rolling has room to find out. A month short-handed is going to show you who they really are.",
+   "start_s": 580.956,
+   "end_s": 590.076,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And Durant had a big night, and Houston beat the Clippers.",
+   "start_s": 590.076,
+   "end_s": 593.836,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "It's a little unfair how easy he still makes it look. Okay. We've got a good stretch at home coming up. And I've got rolls for Thursday.",
+   "start_s": 593.836,
+   "end_s": 601.036,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Store-bought. Good show, Mikey.",
+   "start_s": 601.036,
+   "end_s": 603.116,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Good show? Not fine?",
+   "start_s": 603.116,
+   "end_s": 604.716,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Don't push it. See you next time.",
+   "start_s": 604.716,
+   "end_s": 607.356,
+   "chapter": 4
+  }
+ ],
+ "cost": {
+  "real_usd": 0.8012,
+  "api_usd": 8.8639,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 85,
+    "input_tokens": 170,
+    "output_tokens": 101930,
+    "cache_write": 1107295,
+    "api_usd": 5.4946,
+    "cache_read": 458300,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 56008,
+    "cache_write": 180111,
+    "api_usd": 2.5681,
+    "cache_read": 34879,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 8,
+    "chars": 10015,
+    "real_usd": 0.8012,
+    "api_usd": 0.8012
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-11-22T09:31:24Z",
+    "until": "2026-11-24T09:24:43Z"
+   }
+  ]
+ }
+}

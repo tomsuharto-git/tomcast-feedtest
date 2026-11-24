@@ -469,5 +469,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261123-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261123.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261124",
+    "title": "Sports: Tue Nov 24. Blazers Beat Sixers, Deni and Clingan, Scoot's Second Half, Around the League",
+    "description": "Sports (Mikey and Jack): Blazers Beat Sixers, Deni and Clingan, Scoot's Second Half and Around the League.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261124.mp3",
+    "audio_bytes": 7398548,
+    "duration_s": 616,
+    "published_utc": "2026-11-24T09:24:43.539137Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261124-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261124.episode.json"
   }
 ]
