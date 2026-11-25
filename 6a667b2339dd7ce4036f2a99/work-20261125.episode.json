@@ -1,0 +1,817 @@
+{
+ "schema": 1,
+ "guid": "tomcast-work-20261125",
+ "show": "work",
+ "title": "Coke takes AI off the holiday menu",
+ "date": "2026-11-25",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261125.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261125-art1.png",
+ "duration_s": 982,
+ "published_utc": "2026-11-25T09:40:51.456400Z",
+ "hosts": [
+  "bea",
+  "jack"
+ ],
+ "speech_start_s": 8.995,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "coke-humans-back",
+   "tag": "Coke drops the AI",
+   "headline": "Coke takes AI off the holiday menu: after two years of AI trucks, humans are back",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "creator-agencies-indies",
+   "tag": "Creator shops vs holdcos",
+   "headline": "Creator agencies and independent media shops are taking work from the holding companies",
+   "start_s": 263.204
+  },
+  {
+   "n": 3,
+   "story_id": "kalshi-lakers",
+   "tag": "Kalshi signs the Lakers",
+   "headline": "Kalshi becomes the Lakers' official prediction market as Utah drops its criminal case",
+   "start_s": 425.13
+  },
+  {
+   "n": 4,
+   "story_id": "rtd-heat",
+   "tag": "RTD heat check",
+   "headline": "Cutwater picks a billboard fight with Campari and White Claw goes spontaneous: what 'heat' looks like in RTDs",
+   "start_s": 572.976
+  },
+  {
+   "n": 5,
+   "story_id": "lightning",
+   "tag": "Lightning round",
+   "headline": "Lightning round",
+   "start_s": 750.902
+  },
+  {
+   "n": 6,
+   "story_id": "binet-one-number",
+   "tag": "Binet: one number",
+   "headline": "Les Binet on measurement: decide what you count before you walk into the room",
+   "start_s": 841.025
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Jack! Happy almost-Thanksgiving. Are you cooking tomorrow?",
+   "start_s": 8.995,
+   "end_s": 12.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Cooking is a strong word. I'm bringing rolls to a friend's place in Brooklyn. Store-bought. In a bag with a label on it.",
+   "start_s": 12.835,
+   "end_s": 20.355,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Wait. You labeled the rolls?",
+   "start_s": 20.355,
+   "end_s": 22.835,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "I labeled the bag. It says 'Rolls.' So nobody at the door has to wonder what the quiet guy brought.",
+   "start_s": 22.835,
+   "end_s": 28.755,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "bea",
+   "text": "That label maker is the most loved thing in your apartment.",
+   "start_s": 28.755,
+   "end_s": 33.155,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Short list this week. Nora's staying out west. Two flights for four days didn't make sense. So she's going to a roommate's family. Which I fully support.",
+   "start_s": 33.155,
+   "end_s": 42.115,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "bea",
+   "text": "That was a very fast 'fully support.'",
+   "start_s": 42.115,
+   "end_s": 44.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "I practiced it. Anyway. You driving up to your mom's?",
+   "start_s": 44.675,
+   "end_s": 48.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Five a.m., to beat the traffic. She'll ask if I'm still doing the computer thing before I'm out of the car. And I'm handing her a pie I did not make. Which I think counts as a confession. Okay, speaking of holiday tables. Coke went back to Grandma's.",
+   "start_s": 48.435,
+   "end_s": 64.115,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I saw the headline about their holiday ad. Haven't watched it. What happened?",
+   "start_s": 64.115,
+   "end_s": 68.275,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "bea",
+   "text": "So. The last two years, Coke's Christmas ads were made with generative AI. The red trucks, the little animals, all of it, made by a machine. This year it's called 'Enjoy Joy,' and it's people. A real director. Ogilvy making it, the agency out of WPP. A social series called Grandma's Holiday Table. But here's the part I can't stop chewing on. The AI ads beat Coke's own internal benchmarks. They passed the test! And people were still split on them.",
+   "start_s": 68.275,
+   "end_s": 100.355,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Wait. They passed, and Coke walked away anyway?",
+   "start_s": 100.355,
+   "end_s": 103.635,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "bea",
+   "text": "Yes! The numbers said fine. The culture said ew. That's my whole argument with you, in one ad.",
+   "start_s": 103.635,
+   "end_s": 111.475,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Okay, I'll make my side of it, and I think it actually helps you. Those trucks are a distinctive asset. That's the thing you see and know whose it is before the logo shows up. Coke's trucks might be the best one in the world. But an asset only pays if people see it and think Coke. If they see the truck and think about the machine that made it, Coke spent its best asset on somebody else's story. So I'd bet Coke read those benchmarks and decided the wrong thing was getting noticed.",
+   "start_s": 111.438,
+   "end_s": 141.198,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "bea",
+   "text": "Oh, I like that. The truck got famous for being fake.",
+   "start_s": 141.198,
+   "end_s": 145.758,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Let me play the other side for a second, though. Coke's business is fine. And a big, warm, human holiday campaign is about the safest thing a company that size can do. So maybe this is one year of ducking bad headlines. And next year the robots are back.",
+   "start_s": 145.758,
+   "end_s": 161.438,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "bea",
+   "text": "Could be. But then explain Aerie. Underwear and loungewear, part of American Eagle. October last year, they announced they'd never use AI-generated bodies in their marketing. It became one of their most-liked posts of the year. And sales that fourth quarter? Up twenty-three percent. Their CMO, Stacey McCormick, was talking about keeping humanity in the imagery. So the line sits on the people in the picture. That's my read, anyway.",
+   "start_s": 161.438,
+   "end_s": 189.638,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Aerie I'll give you. It's one brand, and the promise goes back to 2014, when they stopped retouching models. So I wouldn't make it a law. But 'a person made this' as something shoppers actually notice? You've been saying that a while. You get this round.",
+   "start_s": 189.638,
+   "end_s": 204.798,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "bea",
+   "text": "Write down the date.",
+   "start_s": 204.798,
+   "end_s": 207.198,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "Okay, so Tom, here's why this is on your desk. Adobe's Super Bowl brief is creators using Firefly, their AI image and video tool. Your what-if sketches come out of Claude and Firefly. And you've got the December training coming. The first day, somebody's going to ask 'so which parts are we allowed to make with AI?' and you need a straight answer for that.",
+   "start_s": 207.161,
+   "end_s": 229.081,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "bea",
+   "text": "Here's what I'd add. Your vision deck calls AI the agency's nervous system. Nice line. A nervous system lives under the skin, though. So for the training I'd have people label every output 'prototype' or 'final' before they make it. Sketches are great. The danger is the Monday when a sketch is still on screen and everybody's forgotten it was a sketch.",
+   "start_s": 229.081,
+   "end_s": 251.481,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "And with Adobe, who decides when something counts as finished? Them, or you?",
+   "start_s": 251.481,
+   "end_s": 256.201,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "bea",
+   "text": "That's a good question and I hate it. I don't know. Tom, do you?",
+   "start_s": 256.201,
+   "end_s": 262.441,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Speaking of training, and who decides things. There's a pile of Ad Age stuff this week about agencies. And I need you to explain the money side to me like I'm a creative. Because I am one. And the creator shops are actually winning stuff?",
+   "start_s": 263.204,
+   "end_s": 278.924,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "More than they used to. One of them is a shop literally called Influencer. It's pitching creative, media, shopping and AEO, all tied together.",
+   "start_s": 278.924,
+   "end_s": 288.644,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Hang on. AEO?",
+   "start_s": 288.644,
+   "end_s": 290.644,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Answer engine optimization. When somebody asks a chatbot what to buy, getting your brand into the answer. They want creators in on that too.",
+   "start_s": 290.644,
+   "end_s": 299.124,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Okay, so that's a creator shop selling the whole meal. They used to be the garnish. And earlier this month there was another one about brands taking an agency's concept and handing it straight to creators, so the agency loses the production money. That scares me for Tom a little. 'We make culture that converts' is your agency's line, and a creator shop can say that too. And they already live in the feed.",
+   "start_s": 299.124,
+   "end_s": 324.644,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. Specialization wins when the client can see what it's buying. The media shop shows you a fee. The creator shop shows you creators and an audience. Tom, what does a client point at with your agency? Your vision deck has 'Superorganism' as a name candidate. 'Many minds, one body.' Fun on a stage. Terrible answer when a CFO asks what the invoice covers.",
+   "start_s": 324.644,
+   "end_s": 350.324,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "bea",
+   "text": "Ha. Yeah, I'm with you on keeping that out of the headline. It's a stage name for something nobody's decided yet.",
+   "start_s": 350.324,
+   "end_s": 357.364,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "And there's a real moment coming. Tom, I told you on Sunday to write one sentence about what your agency believes, and let the live work try to break it. Did you write it? Because the next time someone puts a microphone in front of your leadership, that sentence gets read out loud.",
+   "start_s": 357.364,
+   "end_s": 372.644,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Can I push on one thing before he answers? I think you'd tell him to say it without the word 'culture.'",
+   "start_s": 372.927,
+   "end_s": 378.927,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I was literally about to.",
+   "start_s": 378.927,
+   "end_s": 380.607,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Don't! Take culture out and you've cut the one thing the creator shops are good at. Then you sound like the bundle. Make the word earn its spot instead. Show the Ad Age person something they can picture. The sentence comes after.",
+   "start_s": 380.607,
+   "end_s": 394.447,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Okay. You win that one. Keep the word. But here's where I think the lane actually is. A creator shop does the local feed beautifully. Holding one idea steady across lots of places is harder for them. Tom, that might be the thing your agency does that they can't. It's a hunch.",
+   "start_s": 394.447,
+   "end_s": 412.207,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "bea",
+   "text": "I like that hunch a lot. And I hate that it's yours. My bet: when the sentence finally comes, it'll be about something your agency made. Nobody remembers what an agency says it is.",
+   "start_s": 412.207,
+   "end_s": 424.287,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, sports betting. I need you for this, because I keep mixing up the two names.",
+   "start_s": 425.13,
+   "end_s": 430.17,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Prediction markets. Apps where you buy a yes or a no on whether something happens. An election, a game, a stock. Polymarket and Kalshi are the two big names. This week the Lakers made Kalshi their official prediction market sponsor.",
+   "start_s": 430.17,
+   "end_s": 444.89,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Okay, picture the fan walking out after. Do they say 'Kalshi' to anybody the next day? That line is wallpaper with a microphone. You can buy a logo. You can't buy a nickname.",
+   "start_s": 444.89,
+   "end_s": 456.81,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "jack",
+   "text": "For the fan walking out, I agree with you. But look at the pattern. The 76ers signed with Kalshi. Now the Lakers. That looks like somebody buying the category one building at a time. So what I'd watch is this. When a casual fan at a game thinks 'prediction market,' whose name comes up first?",
+   "start_s": 456.81,
+   "end_s": 474.97,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "bea",
+   "text": "Okay, that's scarier than the logo. And wait, what's the Utah thing? I saw 'criminal charges' and closed the tab.",
+   "start_s": 474.97,
+   "end_s": 482.81,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Utah went after Kalshi with criminal charges under state gambling law. This week Kalshi stopped trading in Utah, and the attorney general moved to drop the charges. And the civil case keeps going. Also, MGM, the casino company, cut ties with the National Council on Problem Gambling over prediction markets. So it's getting hot around sports specifically.",
+   "start_s": 482.81,
+   "end_s": 504.17,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "bea",
+   "text": "So Kalshi's signing the Lakers with one hand and leaving a state with the other. That reads like a pause with the door held open.",
+   "start_s": 504.17,
+   "end_s": 511.77,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "jack",
+   "text": "That's how I read it too. Tom, I'd bet Polymarket wants to get noticed in mainstream culture, and you can do that without matching a bigger budget. But one question. Does anybody say 'Check Poly' out loud yet? Until people do, it's a slogan.",
+   "start_s": 511.77,
+   "end_s": 527.05,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "bea",
+   "text": "Yeah, and I don't want to wait until March Madness to find out. If 'Ten X the madness' is going to have heat in March, the phrase has to be in people's mouths before then. So, the idea. Find the smallest version of 'Check Poly' a group of fans could do with each other this week. Something creators would use without being paid to. Prototype a few. See which one people steal.",
+   "start_s": 527.013,
+   "end_s": 550.053,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Fine, but who sees it? Say the only people who pick it up are the ones who already have the app. What did you learn? Which joke is catchy. Nothing about reach.",
+   "start_s": 550.053,
+   "end_s": 560.533,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "bea",
+   "text": "Okay, that's fair. Test it on people who've never opened the thing. And honestly, if the sports door narrows with all this legal stuff, the brand that's everywhere else in culture is in the safer seat.",
+   "start_s": 560.533,
+   "end_s": 572.213,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Okay, the drinks story. I want you to drive this one. RTDs. Ready-to-drink, the canned cocktail aisle. Everybody in it keeps saying 'heat.' What does heat actually look like there right now?",
+   "start_s": 572.976,
+   "end_s": 586.496,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Two good examples this week. Cutwater, the canned cocktail brand, put a Lemon Drop Martini billboard right next to a Campari Negroni billboard on a corner in Toronto, and the two brands traded jabs. The joke only works because of the neighbor. Take Campari away and it's just a billboard. Then White Claw, in Australia, with an indie shop called Today the Brave. A phone booth travels around festivals, it rings, whoever answers gets a challenge to do with their friends, and finishing it gets you a guaranteed prize. Headphones, merch, VIP tickets. One's a fight, one's a moment. Both give you something to do or to repeat. That's heat to me.",
+   "start_s": 586.496,
+   "end_s": 628.176,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Does it travel, though? A billboard on one corner. A booth at a few festivals. Most people who buy White Claw will never touch that phone.",
+   "start_s": 628.176,
+   "end_s": 636.176,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Sure, but it's made for social first. The people who answer the phone are the media. Their friends are standing right there filming. And the billboard joke? A stranger can explain it in one breath. One brand parked next to another and they're needling each other. Done.",
+   "start_s": 636.176,
+   "end_s": 652.096,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Okay, the one-breath thing I buy. That's reach through retelling, and I'll take it. So, Tom, the reason this one's here. High Noon. Heat is the word I keep hearing around it. What did the client actually say to your agency about the work? I want to know what they said, not what we'd guess.",
+   "start_s": 652.096,
+   "end_s": 669.776,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Which is why I keep coming back to fidelity. A still slide asks the client to imagine heat. A still can't ring a phone. If the idea moves, the client gets to feel it instead of picturing it.",
+   "start_s": 669.776,
+   "end_s": 682.736,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "I'd want to know what the other idea actually was. And did the client see it move, or just hear it described? Tom, do you know? Because if they watched something move and you showed them stills, that's your answer right there.",
+   "start_s": 682.699,
+   "end_s": 696.059,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "bea",
+   "text": "And the Raiders are the next test. They asked for one mind-bending idea and one easier-to-buy idea. I'd commit to the wild one early and make it move. The easy one can be calmer.",
+   "start_s": 696.059,
+   "end_s": 708.059,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "There I'd push. Calm is how the easy one loses. The easy-to-buy idea is the reach half of the job. It still has to be something a fan finds and remembers. A safe option that's dull is a polite way to lose to somebody else's heat.",
+   "start_s": 708.059,
+   "end_s": 722.899,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "bea",
+   "text": "Ugh. Okay. You're right. Make both move.",
+   "start_s": 722.899,
+   "end_s": 727.499,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "And one question I'd ask the Raiders early. What would they hate to see a rival do? Their brief is all villain energy. Eighties and nineties outlaw NFL. So find out what scares them.",
+   "start_s": 727.499,
+   "end_s": 738.939,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 11,
+   "speaker": "bea",
+   "text": "That only works if you've got someone senior to ask, though. Kristen Banks, their CMO, is on the sign-off path. Tom, can you text her? That's the bat phone lesson in one sentence.",
+   "start_s": 738.939,
+   "end_s": 750.139,
+   "chapter": 4
+  },
+  {
+   "seg": 4,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Lightning round. Unilever reportedly cut its UK TV spend by more than half. And about ninety-two percent of what it spent on Channel 4, one of Britain's big broadcasters.",
+   "start_s": 750.902,
+   "end_s": 762.742,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 1,
+   "speaker": "bea",
+   "text": "Ninety-two percent is basically leaving a note on the fridge. AWS, Amazon's cloud business, overhauled its brand for a wider audience. Including AI agents! So they're designing for software that shops on your behalf.",
+   "start_s": 762.742,
+   "end_s": 777.782,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 2,
+   "speaker": "jack",
+   "text": "First time I've seen a brand openly say robots are in the target. They'll take any buyer. Chasing fame won't drive growth from brand partnerships. Dove did well with Bridgerton this year, but the partnership has to actually fit.",
+   "start_s": 777.782,
+   "end_s": 791.382,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 3,
+   "speaker": "bea",
+   "text": "Tom, that's your Gates brand-partner bucket. Pick partners for fit. The famous ones can wait for the big moment. Ripple is the company behind XRP, the crypto coin. Jack, when Ripple makes news, does the coin get anything out of it?",
+   "start_s": 791.382,
+   "end_s": 806.182,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 4,
+   "speaker": "jack",
+   "text": "That one is a Ripple-the-company story. I'd keep the company and the coin apart in your head.",
+   "start_s": 806.182,
+   "end_s": 811.462,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 5,
+   "speaker": "bea",
+   "text": "Tom, that matters for the Water.org micro-loan story you've been trying to place. If it ever gets told, it probably gets told through RLUSD. Canva, the design app and Adobe's closest rival, reportedly laid off staff ahead of a restructuring.",
+   "start_s": 811.462,
+   "end_s": 826.822,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Tom, worth knowing before your next Adobe meeting. Just don't gloat in it. And a sober one. Pneumonia and Nigerian children.",
+   "start_s": 826.822,
+   "end_s": 835.382,
+   "chapter": 5
+  },
+  {
+   "seg": 4,
+   "line": 7,
+   "speaker": "bea",
+   "text": "That's the reason the Gates work exists. Tom, keep that number somewhere you'll see it.",
+   "start_s": 835.382,
+   "end_s": 840.262,
+   "chapter": 5
+  },
+  {
+   "seg": 5,
+   "line": 0,
+   "speaker": "bea",
+   "text": "Okay, last one. Les Binet. Who is he again, for people who aren't you?",
+   "start_s": 841.025,
+   "end_s": 846.625,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 1,
+   "speaker": "jack",
+   "text": "British researcher. He and Peter Field studied a big pile of ad campaigns to see what actually drives results. This week he was on a strategy podcast with people from Ipsos and Tracksuit, two research firms, talking measurement. The useful part for you, Tom, is boring. Decide what you count before you walk into the room.",
+   "start_s": 846.625,
+   "end_s": 866.465,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 2,
+   "speaker": "bea",
+   "text": "Because right now the XRP numbers are a lost-and-found box.",
+   "start_s": 866.465,
+   "end_s": 870.385,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 3,
+   "speaker": "jack",
+   "text": "They are. The XRP workshop is December second and third. My hunch is that a room like that will have numbers that don't match: an awareness gap quoted one way, a search trend quoted another, and a deck that says something different from the client's data. Tom, which numbers are you actually carrying in?",
+   "start_s": 870.385,
+   "end_s": 888.685,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 4,
+   "speaker": "bea",
+   "text": "That's probably two different date windows. I'd bet on it.",
+   "start_s": 888.685,
+   "end_s": 893.105,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Okay, but here's my question. The perception base. Do you know what each percent is a percent of? If one is out of a smaller group than the other, say so on the slide, and nobody has to be wrong. And the budget. If there are two versions floating around, call the bigger one 'potential' until Noble confirms. A client who catches two budgets stops trusting every other page.",
+   "start_s": 893.105,
+   "end_s": 916.385,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 6,
+   "speaker": "bea",
+   "text": "So one page. Four numbers, one definition each, one date window, one name next to each. And lead with the biggest gap, because that tells the room exactly what the work has to fix. My mom's photo sorter has this exact problem. I never decided what counts as 'the same person,' so it can't count anybody. Define it first. I knew that, and I still started something shinier.",
+   "start_s": 916.385,
+   "end_s": 941.985,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 7,
+   "speaker": "jack",
+   "text": "And if nobody owns measurement, it ends up being you. So, Tom, two things for this week. Before the training, decide where AI stops and people start, and who calls a piece finished. And before the second, get one page of numbers, each with an owner, agreed with Noble.",
+   "start_s": 941.948,
+   "end_s": 959.948,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 8,
+   "speaker": "bea",
+   "text": "And eat something on Thursday that a person made. Even if that person isn't you.",
+   "start_s": 959.948,
+   "end_s": 964.588,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Rolls count. Text me when you get to Fresno.",
+   "start_s": 964.588,
+   "end_s": 968.108,
+   "chapter": 6
+  },
+  {
+   "seg": 5,
+   "line": 10,
+   "speaker": "bea",
+   "text": "I will. Happy Thanksgiving, Tom. Happy Thanksgiving, Jack.",
+   "start_s": 968.108,
+   "end_s": 972.348,
+   "chapter": 6
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2014,
+  "api_usd": 10.7368,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 84052,
+    "cache_write": 253951,
+    "api_usd": 3.7173,
+    "cache_read": 22749,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 134,
+    "input_tokens": 296,
+    "output_tokens": 135554,
+    "cache_read": 997032,
+    "cache_write": 904765,
+    "api_usd": 5.0749,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 303264,
+    "output_tokens": 20690,
+    "api_usd": 0.2407,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 12,
+    "chars": 15018,
+    "real_usd": 1.2014,
+    "api_usd": 1.2014
+   },
+   {
+    "kind": "background",
+    "calls": 7,
+    "real_usd": 0.0,
+    "api_usd": 0.5025,
+    "since": "2026-11-22T09:32:38Z",
+    "until": "2026-11-25T09:40:51Z"
+   }
+  ]
+ }
+}

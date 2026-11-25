@@ -481,5 +481,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261124-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261124.episode.json"
+  },
+  {
+    "guid": "tomcast-work-20261125",
+    "title": "Work: Wed Nov 25. Coke drops the AI, Creator shops vs holdcos, Kalshi signs the Lakers, RTD heat check, Binet: one number",
+    "description": "Work (Bea and Jack): Coke drops the AI, Creator shops vs holdcos, Kalshi signs the Lakers, RTD heat check and Binet: one number.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261125.mp3",
+    "audio_bytes": 11779283,
+    "duration_s": 982,
+    "published_utc": "2026-11-25T09:40:51.456400Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261125-art1.png",
+    "show": "work",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261125.episode.json"
   }
 ]
