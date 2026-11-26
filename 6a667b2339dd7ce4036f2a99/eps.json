@@ -505,5 +505,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261126-art1.png",
     "show": "sports",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261126.episode.json"
+  },
+  {
+    "guid": "tomcast-builder-20261126",
+    "title": "Builder: Thu Nov 26. Eleven v4 voices, OpenAI dots + n8n nod, Managed Agents? Skip it, Claude + Riemann, Anthropic IPO, Gemini 4 Neon, Jensen is back",
+    "description": "Builder (Christina and Bea): Eleven v4 voices, OpenAI dots + n8n nod, Managed Agents? Skip it, Claude + Riemann, Anthropic IPO, Gemini 4 Neon and Jensen is back.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261126.mp3",
+    "audio_bytes": 15798274,
+    "duration_s": 1316,
+    "published_utc": "2026-11-26T09:37:42.199792Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261126-art1.png",
+    "show": "builder",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261126.episode.json"
   }
 ]
