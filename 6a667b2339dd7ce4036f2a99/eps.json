@@ -493,5 +493,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261125-art1.png",
     "show": "work",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/work-20261125.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261126",
+    "title": "Sports: Thu Nov 26. Blazers Beat Spurs, Wemby's 44 Not Enough, Dame, Deni, and Closing",
+    "description": "Sports (Mikey and Jack): Blazers Beat Spurs, Wemby's 44 Not Enough and Dame, Deni, and Closing.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261126.mp3",
+    "audio_bytes": 8551175,
+    "duration_s": 713,
+    "published_utc": "2026-11-26T09:23:42.321563Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261126-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261126.episode.json"
   }
 ]

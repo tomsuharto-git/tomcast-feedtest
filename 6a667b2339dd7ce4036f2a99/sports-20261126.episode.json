@@ -1,0 +1,635 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261126",
+ "show": "sports",
+ "title": "Blazers 116, Spurs 111",
+ "date": "2026-11-26",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261126.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261126-art1.png",
+ "duration_s": 713,
+ "published_utc": "2026-11-26T09:23:42.321563Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Blazers Beat Spurs",
+   "headline": "Blazers 116, Spurs 111: real contender or a hot shooting night?",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Wemby's 44 Not Enough",
+   "headline": "Wemby went for 44 and 16 and still lost: what Portland's defense gave up",
+   "start_s": 287.584
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Dame, Deni, and Closing",
+   "headline": "Dame's first-quarter iso and Deni's banked dagger: who closes for this team",
+   "start_s": 496.513
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack! Happy Thanksgiving. Are you wearing real pants yet?",
+   "start_s": 10.175,
+   "end_s": 13.615,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "It's barely light out, and that's your first question?",
+   "start_s": 13.615,
+   "end_s": 17.455,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "It's a holiday. I'm asking everybody. So what are you actually doing today?",
+   "start_s": 17.455,
+   "end_s": 21.855,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "A neighbor in my building does a stragglers' dinner. Eight people, one oven, everybody brings something. I'm on rolls.",
+   "start_s": 21.855,
+   "end_s": 28.575,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "They put you on rolls.",
+   "start_s": 28.575,
+   "end_s": 30.495,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Store-bought rolls. I think they've met me. Your mom and my neighbor should compare notes.",
+   "start_s": 30.495,
+   "end_s": 35.695,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Ha! Last year my mom handed me the same job. Store-bought rolls. And she said 'store-bought' twice, like I might get ideas. You good with it, though? Doing the day at a neighbor's?",
+   "start_s": 35.695,
+   "end_s": 46.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "I'm on rolls, Mikey. I'm great. And you're the one who should be in a good mood. I watched the last two minutes three times last night. I'm really happy for you.",
+   "start_s": 46.255,
+   "end_s": 56.095,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Okay, joy first, because I'm still a little giddy. Sidy Cissoko dunks on Wemby. On Wemby! I watched that clip on loop at one in the morning like I was fifteen, yelling at my phone alone in my kitchen. But I don't do spin, so I'll say the ugly part myself. We hit nineteen threes. They hit ten. That's a lot of points from deep in a game we won by five. They beat us in the paint, they beat us on the glass. A normal Spurs shooting night and we probably lose.",
+   "start_s": 56.095,
+   "end_s": 85.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Well, you just made my whole opening argument for me.",
+   "start_s": 85.255,
+   "end_s": 88.868,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "I'm generous on holidays.",
+   "start_s": 88.868,
+   "end_s": 90.615,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "So where are you on it? Because I came in leaning hot night, and I just can't make it all luck. Look at who hit them. Deni, five of eight. Dame, five of twelve. Cissoko, four off the bench. One guy gets hot, I call that a fluke. Three guys with three different jobs, all hitting? I don't know what to call that. And Dame going ten for ten at the line, those are the least lucky points in the building.",
+   "start_s": 90.615,
+   "end_s": 114.335,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Yeah, he knows how to make a guy jump at him. So I'm with you, the shots came from somewhere real. But the part I trust most is the boring part. Eight turnovers to their twelve. Thirteen fast-break points to their five. Shooting goes cold on you. Holding onto the ball and running should show up every night. Okay, that's the optimism talking, but I believe it.",
+   "start_s": 114.298,
+   "end_s": 134.858,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "Let me play the other side for a second. The Spurs missed twenty-six threes. Long misses make long rebounds, long rebounds turn into runouts. So is the fast-break edge effort? Or is it the same cold Spurs night showing up in a second column? I'd guess some of both. That's only a hunch. I haven't charted it.",
+   "start_s": 134.858,
+   "end_s": 153.738,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Some of it, sure. But we had eight steals. Cissoko two, Dame two, Deni two. Those came right out of somebody's hands. A missed three doesn't hand you that.",
+   "start_s": 153.738,
+   "end_s": 163.818,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "Fair. Eight steals is eight steals. I'll split it with you. But here's a weird one, since you brought up Cissoko. Sixteen points, the dunk, the two steals. And he's minus sixteen.",
+   "start_s": 163.818,
+   "end_s": 175.098,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Wait, really?",
+   "start_s": 175.098,
+   "end_s": 176.218,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "jack",
+   "text": "Minus sixteen, in thirty minutes. Best night of his you've talked about all week. How do you square that?",
+   "start_s": 176.218,
+   "end_s": 182.618,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "Huh. Okay. I don't love that. I think... a lot of his minutes are with the bench groups, when Dame sits, so there's less around him. That's my guess. But I'll be honest. I watched the dunk forty times and I never once watched the next three possessions. That's the fan in me. The kid does the thing and I stop looking. It doesn't change what I saw, which was a guy scared of nothing. But I can't tell you he won us the game.",
+   "start_s": 182.618,
+   "end_s": 207.098,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "jack",
+   "text": "That's a fair answer. And it's kind of my whole point. A night like this has a lot of noise in it.",
+   "start_s": 207.098,
+   "end_s": 212.858,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "So what would it take for you? Give me the actual test. I want it on the record.",
+   "start_s": 212.858,
+   "end_s": 217.418,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "jack",
+   "text": "Win a close one shooting around 33 percent from three. Against the Spurs again, or a Lakers-level team. If they win because they took care of the ball and ran, and the threes came back to earth, I'll say contender. And honestly, the 44 scares me. If the plan is let Wemby get 44 and then hit nineteen threes, that's a bad plan.",
+   "start_s": 217.381,
+   "end_s": 238.861,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "See, now I'm going to be stingy about your stinginess. We just did the harder thing. Best team in the West, he gets his 44, and we still find a way. De'Aaron Fox, their other star guard, didn't play, I'll give you that. But if we shoot 33 next time and lose by four, you'll call it a good team that ran out of shots. I know you.",
+   "start_s": 238.861,
+   "end_s": 257.061,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "jack",
+   "text": "Probably. That's why I'm putting the number down now, before I can move it. And I'll tell you why I'm careful. Years ago I talked a brand out of signing a young athlete. Too raw, I said. Too risky. He turned into a star and somebody else built ten years on him. So I try not to call it too early either way.",
+   "start_s": 257.061,
+   "end_s": 276.581,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "Wait, you never told me that one.",
+   "start_s": 276.581,
+   "end_s": 278.421,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "jack",
+   "text": "I don't tell it much. Good team, yes. Contender, ask me after one more.",
+   "start_s": 278.421,
+   "end_s": 283.861,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "I'm writing that down. In pen.",
+   "start_s": 283.861,
+   "end_s": 286.821,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Okay, here's the thing I actually can't figure out, and I want your read. Was letting Wemby score a plan? Because watching it live, it felt like survival. Seventeen of thirty, sixteen boards. He did whatever he wanted to whoever was in front of him.",
+   "start_s": 287.584,
+   "end_s": 303.264,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "jack",
+   "text": "I went back and forth. My first answer was they just lost the matchup. Clingan only played 21 minutes, so he wasn't out there long enough to be part of any plan. But then look at everybody else. Seven of twenty-seven from three, from everyone not named Wemby.",
+   "start_s": 303.264,
+   "end_s": 319.504,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Seven of twenty-seven? I knew it was bad. I didn't know it was that bad.",
+   "start_s": 319.504,
+   "end_s": 324.304,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "jack",
+   "text": "And that's what I can't answer from the couch. How many of those twenty-seven were wide open on purpose? Because if Portland looked at Champagnie in the corner and Keldon Johnson and said, those guys can shoot, we'll live with it, then somebody made a choice. A risky one. The night Champagnie makes three of seven instead of one, that choice blows up on you.",
+   "start_s": 324.304,
+   "end_s": 344.544,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "So it's a plan that needs Champagnie to miss.",
+   "start_s": 344.544,
+   "end_s": 347.424,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Yeah. Which is most plans against a guy like that, honestly. You pick who beats you and you pray.",
+   "start_s": 347.424,
+   "end_s": 352.944,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "Okay, but I'm going to push on 'lost the matchup.' Wemby was plus two in thirty-five minutes. We won by five. So in the thirteen minutes he sat, we were up seven. A team that got cooked doesn't look like that. And Clingan. Five points, a tech, six fouls, and he's plus nine. The tech was a kid furious about the whistles. I'll take that over a big man who goes quiet on me, any night. And I liked that they kept sending him back out against Wemby, even when Wemby was hitting shots over him nobody can guard. You don't learn that matchup from the bench.",
+   "start_s": 352.944,
+   "end_s": 385.664,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "jack",
+   "text": "Huh. I hadn't thought of that. I was staring at the 44 and skipped what happened when he sat down. Plus two for a guy with 44 is strange. That's a better case for the plan than mine.",
+   "start_s": 385.627,
+   "end_s": 397.227,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "And Toumani Camara. Thirty-one minutes, a bunch of trips guarding Wemby, plus twelve, eight points. Nobody's cutting a highlight of that. He came here as the throw-in on a trade and every year he's a little better at the dirty stuff. That's my guy. That's the one I'd buy a drink for.",
+   "start_s": 397.227,
+   "end_s": 412.987,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "jack",
+   "text": "Putting Camara on him over and over looks like a coaching choice. Clingan in foul trouble looks like a problem they solved on the fly. So maybe it's half a plan, half scrambling. Which brings me to something I owe you. Last time I said I'd tell you on the show if our rebounding held up against a real center.",
+   "start_s": 412.987,
+   "end_s": 430.187,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Oh, here we go.",
+   "start_s": 430.187,
+   "end_s": 431.707,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "jack",
+   "text": "It didn't. Wemby had sixteen by himself while scoring 44. I'm saying so, like I promised.",
+   "start_s": 431.707,
+   "end_s": 439.387,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "No, see, I'm going to reject your concession. Fourteen offensive rebounds each. Our big guy's in foul trouble all night, plays 21 minutes, and we lose the glass by five total against the tallest human in the sport. I'd call that hanging on against the real thing.",
+   "start_s": 439.387,
+   "end_s": 453.827,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "jack",
+   "text": "You're rejecting me admitting I was wrong in your favor?",
+   "start_s": 453.827,
+   "end_s": 457.334,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "I want a better win than that. Losing the glass by five with Clingan stuck on the bench doesn't count. Not to me.",
+   "start_s": 457.334,
+   "end_s": 462.987,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "jack",
+   "text": "It counts a little. Keldon had twelve rebounds while missing everything he shot. They're bigger than us, and it showed even with Wemby covered. So I'll meet you at a draw. They hung in with Clingan barely out there. They didn't win it. Give me a game where he plays real minutes against a big and we'll settle it.",
+   "start_s": 462.987,
+   "end_s": 479.947,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Fine. Draw. And since you're being nice, I'll give you the part about what lasts. Nineteen threes isn't happening every night. Castle going six for eighteen isn't either. The pressure and the running, I think that travels. The rest, we got a little lucky on who missed.",
+   "start_s": 479.91,
+   "end_s": 495.75,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "So let me ask you the one I've been chewing on since the bank shot. Who closes for this team? I came in thinking Dame, because that's the old script here. Ball in his hands, everybody clears out, he wins it or he doesn't.",
+   "start_s": 496.513,
+   "end_s": 509.393,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "I'm telling you, it's Deni. And I know Dame had the night people remember first. That first quarter. The iso on Wemby. The smallest guy on the floor walks up to the tallest problem in the league and basically says, fine, me. Somebody on the Blazers subreddit called it cold, and it was. But after that quarter his jumper went away. Seven of twenty. Then late, shot clock dying, Deni has no room, and he just throws it off the glass like he's mad at it. Nobody drew that up. A guy with 33 who still wants the ugly one.",
+   "start_s": 509.393,
+   "end_s": 540.513,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Hold on, though. A bank three with the clock dying is a great bucket. It's also the bucket you take when the play already broke. Is that a closer, or a guy bailing out a bad possession? And Dame finished plus thirteen. Deni was plus two.",
+   "start_s": 540.513,
+   "end_s": 555.633,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Jrue was plus thirteen too, on four of fourteen. I love Jrue, seven assists, did a ton of quiet stuff. But nobody's telling me Jrue closes. So I don't trust that number to pick a closer. I trust who wanted the ball when it got ugly. And I'll take a guy who bails out a broken play over a guy who passes out of it.",
+   "start_s": 555.633,
+   "end_s": 573.553,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "My other worry is the Dame iso itself. I love it in November. Does it hold up in April, when a team has a whole series to scout it?",
+   "start_s": 573.553,
+   "end_s": 581.713,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "I think it worked because of what Wemby had to worry about. Dame doesn't miss at the line. Ten for ten. So Wemby can't reach, can't swipe, he has to play him a half step soft, and that half step is the whole look. That part travels to April. Somebody still has to stand in front of him.",
+   "start_s": 581.713,
+   "end_s": 597.713,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Okay. So we're closer than we sound. Dame starts it, Deni finishes it. And with Ja still out, that's probably healthier anyway. If the answer changes by the night, nobody can just sit on one guy. And Scoot had one turnover. Some nights that's been the whole problem. Nobody had to rescue anybody.",
+   "start_s": 597.916,
+   "end_s": 616.236,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Yeah, that's the part I'll remember. Ten points, three of nine, not pretty. But he held onto the ball and kept his fouls clean. Tiny step, but it's the kind I live for. Speaking of steps. My mom called this morning, kind of casual, and said Dad wants me to carve the turkey today.",
+   "start_s": 616.236,
+   "end_s": 633.116,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "He's always done it?",
+   "start_s": 633.116,
+   "end_s": 634.156,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Thirty-some years. Nobody else touches the knife. And she said it like she was asking me to grab ice. From store-bought rolls straight to the knife. I don't know how to carve a turkey, Jack. I'm going to watch a video in the car.",
+   "start_s": 634.156,
+   "end_s": 646.876,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "That's a big promotion. He'll tell you what you did wrong. That's half the point.",
+   "start_s": 646.876,
+   "end_s": 651.756,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "In two languages, probably. Anyway. Friday scares me more than last night did. Warriors in Portland, no Curry, no Butler, no Porzingis. Everybody says that's one we're supposed to win. Which is exactly when we lose.",
+   "start_s": 651.756,
+   "end_s": 665.516,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "That's the one you play down to. And it matters. San Antonio's winning the group, so Portland's shot at the Cup's knockout round is as one of the best second-place teams, and a win Friday keeps that alive. Same night, Lakers at the Spurs, the two best records in the West. I'll be on the couch with leftover rolls watching that one closely.",
+   "start_s": 665.516,
+   "end_s": 684.556,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Watch it for both of us. I'll be at my parents' still trying to fix the turkey. Send me a picture of the rolls.",
+   "start_s": 684.556,
+   "end_s": 690.156,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 14,
+   "speaker": "jack",
+   "text": "Deal. You send me the turkey. Before and after.",
+   "start_s": 690.156,
+   "end_s": 693.116,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "Before only. Happy Thanksgiving, Jack. Say hi to the stragglers.",
+   "start_s": 693.116,
+   "end_s": 697.676,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 16,
+   "speaker": "jack",
+   "text": "Happy Thanksgiving, Mikey. Say hi to your dad. Tom, eat something good. We'll talk Friday.",
+   "start_s": 697.639,
+   "end_s": 703.399,
+   "chapter": 3
+  }
+ ],
+ "cost": {
+  "real_usd": 0.9288,
+  "api_usd": 9.3673,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 66,
+    "input_tokens": 132,
+    "output_tokens": 97158,
+    "cache_write": 1195253,
+    "api_usd": 5.7805,
+    "cache_read": 275973,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 53891,
+    "cache_write": 196930,
+    "api_usd": 2.658,
+    "cache_read": 23445,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 9,
+    "chars": 11610,
+    "real_usd": 0.9288,
+    "api_usd": 0.9288
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-11-24T09:24:43Z",
+    "until": "2026-11-26T09:23:42Z"
+   }
+  ]
+ }
+}
