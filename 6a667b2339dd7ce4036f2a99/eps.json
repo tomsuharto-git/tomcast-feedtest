@@ -517,5 +517,17 @@
     "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261126-art1.png",
     "show": "builder",
     "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/builder-20261126.episode.json"
+  },
+  {
+    "guid": "tomcast-sports-20261128",
+    "title": "Sports: Sat Nov 28. Blazers 116, Warriors 94, Avdija and Scoot, Cup: Memphis next, Lightning round",
+    "description": "Sports (Mikey and Jack): Blazers 116, Warriors 94, Avdija and Scoot, Cup: Memphis next and Lightning round.",
+    "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261128.mp3",
+    "audio_bytes": 7369709,
+    "duration_s": 614,
+    "published_utc": "2026-11-28T09:23:10.258228Z",
+    "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261128-art1.png",
+    "show": "sports",
+    "detail_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261128.episode.json"
   }
 ]

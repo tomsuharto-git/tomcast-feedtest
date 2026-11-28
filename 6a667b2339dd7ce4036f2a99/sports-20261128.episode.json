@@ -1,0 +1,588 @@
+{
+ "schema": 1,
+ "guid": "tomcast-sports-20261128",
+ "show": "sports",
+ "title": "Blazers bury Golden State by 22 while shooting 24 percent from three",
+ "date": "2026-11-28",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261128.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/sports-20261128-art1.png",
+ "duration_s": 614,
+ "published_utc": "2026-11-28T09:23:10.258228Z",
+ "hosts": [
+  "mikey",
+  "jack"
+ ],
+ "speech_start_s": 10.175,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "s1",
+   "tag": "Blazers 116, Warriors 94",
+   "headline": "Blazers bury Golden State by 22 while shooting 24 percent from three",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "s2",
+   "tag": "Avdija and Scoot",
+   "headline": "Avdija, Scoot and the bench carry it without Dame",
+   "start_s": 236.944
+  },
+  {
+   "n": 3,
+   "story_id": "s3",
+   "tag": "Cup: Memphis next",
+   "headline": "Blazers win Cup Group C and get Memphis at home",
+   "start_s": 377.59
+  },
+  {
+   "n": 4,
+   "story_id": "s4",
+   "tag": "Lightning round",
+   "headline": "Lightning round: around the league",
+   "start_s": 509.836
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Jack! You survived Thanksgiving. How was the stragglers' dinner?",
+   "start_s": 10.175,
+   "end_s": 14.175,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "jack",
+   "text": "Fine. Good, actually. Eleven people from my building around a folding table at my neighbor's place. I brought store-bought rolls. In the bag. With the twist tie. And then the guy from the fourth floor walks in with homemade rolls. Still warm. In a basket, with a little cloth over it.",
+   "start_s": 14.175,
+   "end_s": 30.895,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "Oh no.",
+   "start_s": 30.895,
+   "end_s": 32.255,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "jack",
+   "text": "Nobody touched mine. I took most of them home. If you hear crunching, that's what it is. Then Nora sent a photo from her roommate's family. Long table, twenty people, and she's at the kids' end laughing at something. I looked at it more times than I'll say on a microphone. What about you? Did you carve?",
+   "start_s": 32.255,
+   "end_s": 49.295,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "I carved. So my dad has done the turkey every year of my life. This year he just hands me the knife at the counter. Doesn't say a word. And I'd watched a carving video in the car in their driveway. Twice. Engine running, so my mom wouldn't see me sitting out there. It came out okay. A little ragged on one side. He said 'Good,' which from him is a speech. Anyway.",
+   "start_s": 49.295,
+   "end_s": 70.975,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "jack",
+   "text": "Ragged on one side still counts as carving.",
+   "start_s": 70.975,
+   "end_s": 73.535,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "That's what I told myself. Okay. Last night. I woke up grinning, and then I remembered we shot twelve for forty-nine from three. Deni, Jrue, Scoot, Sidy, all bricks. And we won by twenty-two. Jack, you set a test on this show. Win a close one shooting around thirty-three from three, take care of the ball, run, and you'd call us contenders. We shot twenty-four. So. Pay up.",
+   "start_s": 73.535,
+   "end_s": 97.655,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "jack",
+   "text": "I'll pay part of it. Twenty-four is worse than my line, and they still won easy. But I wrote the test, and it says a close win over a real team. This was a blowout over a Warriors team with no Steph Curry and no Jimmy Butler. Partial credit.",
+   "start_s": 97.655,
+   "end_s": 112.186,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Partial! You wrote the test and then graded us on a curve?",
+   "start_s": 112.186,
+   "end_s": 115.935,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "jack",
+   "text": "I get to read my own fine print. Look, the parts I'd keep are the boring parts. Fifty-eight to thirty in the paint. Eleven turnovers to their sixteen. Twenty-two of twenty-three at the line. None of that needs a jumper to drop. Shooting comes and goes. Living at the rim and the line, you can take that to any building.",
+   "start_s": 115.898,
+   "end_s": 134.538,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Twenty-two of twenty-three. Jack, I have never gone twenty-two of twenty-three at anything. Parallel parking. Remembering birthdays. And then Rob Williams comes off the bench, sixteen minutes, five of seven, eight boards. Guys doing the small stuff until the small stuff is the whole game.",
+   "start_s": 134.538,
+   "end_s": 151.818,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "jack",
+   "text": "Let me play the other side for a second. The lead was thirty-six, and then Golden State came at it in the third. Turnovers came back, quick shots came back, and once the Warriors started blitzing the ball screens, the offense got stuck. And they shot thirty-three from three, so they weren't some ice-cold team. They were awful for twelve minutes and fine for thirty-six. I wouldn't bet on that first quarter showing up every night.",
+   "start_s": 151.818,
+   "end_s": 175.338,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "See, you're treating that first quarter like they tripped down the stairs. Watch how it happened. Get a stop. Run. Crash the glass. Clingan going after every miss like it owed him money. That's a decision. Guys choosing to sprint. And choosing to sprint travels to a Tuesday in February in Cleveland.",
+   "start_s": 175.338,
+   "end_s": 193.098,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "jack",
+   "text": "So what does that opening look like against a team that blitzes from the tip, with its best players in? Because that third quarter felt like the preview to me.",
+   "start_s": 193.098,
+   "end_s": 200.898,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Honestly? I don't love the third. A thirty-six-point lead shouldn't make you sweat, and I was sweating on a barstool. Deni bulldozing into three guys. Maybe Dame running things fixes that. Maybe we just got bored, which is a nicer problem to have. I really don't know yet.",
+   "start_s": 200.898,
+   "end_s": 216.538,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "jack",
+   "text": "That's fair. Here's where I land. The paint and the free throws, those repeat. The first quarter probably doesn't. Call it a contender-shaped night. Give me a close one against the Spurs and I'll say the whole word.",
+   "start_s": 216.501,
+   "end_s": 229.861,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Contender-shaped. I'm putting it on a T-shirt. Okay, that's the optimism talking. But it's a good shirt.",
+   "start_s": 229.861,
+   "end_s": 236.181,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Everybody's asking this morning if Deni made the superstar leap. Twenty-six points, sure. But five turnovers, and a lot of them in the second half. The Warriors started sending help from the gaps and he kept driving straight into it. I'd call it a star carrying a heavy load on a rough night. Superstar feels early.",
+   "start_s": 236.944,
+   "end_s": 256.384,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "I'm with you on the turnovers. But there's one play I keep rewinding. He posts up, kicks it to Toumani. Posts again, gets it back, spins baseline, layup. He went oh for six from three, so the jumper's dead, and he just goes and finds a different door. I care more about what a guy does on the bad nights. That's what he does.",
+   "start_s": 256.384,
+   "end_s": 275.584,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "jack",
+   "text": "I'll buy that. Okay, now the one that'll ruin your coffee. You know the lineup everybody's been passing around? The one with Dame, Jrue, Toumani, Deni and Clingan?",
+   "start_s": 275.584,
+   "end_s": 285.024,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Dame, Jrue, Toumani, Deni, Clingan. Yes. I've seen it. I may have screenshotted it.",
+   "start_s": 285.024,
+   "end_s": 291.904,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Absurd. Swap Scoot in for Jrue, same other four, Dame still out there, and that group goes the other way. So Dame's spacing is right there and it still doesn't work. Something about Scoot next to Dame doesn't fit yet.",
+   "start_s": 291.904,
+   "end_s": 305.824,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Oof. Okay. But that first group is a handful of minutes in November. Nobody's that good. The good one's going to come back to earth, and so can the bad one.",
+   "start_s": 305.824,
+   "end_s": 314.784,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "jack",
+   "text": "Agreed, both are small. But you're tossing out the bad half and framing the good half.",
+   "start_s": 314.784,
+   "end_s": 319.904,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Ha. Maybe. Look, I watched Scoot last night and I'll say very little. Zero turnovers in thirty-one minutes. Plus twenty-five. He gets the switch he wants, sees the big on him, and just waits. Floater. Then he fakes the step-back on Brandon Williams, steps through, layup. A year ago that's a sped-up drive into three bodies. When things went stale in the third, he was the guy not coughing it up.",
+   "start_s": 319.904,
+   "end_s": 344.224,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Sure. Without Dame, he had to run everything. Maybe that's the version that works. Which is a strange thing to want from your starting five.",
+   "start_s": 344.187,
+   "end_s": 352.507,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "I flip on this every week. Ask me after Memphis.",
+   "start_s": 352.507,
+   "end_s": 355.627,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "jack",
+   "text": "Deal. The bench I'm sure of. Micah Potter, eleven in thirteen minutes, and in the fourth he blocks Horford and then Podziemski back to back at the rim.",
+   "start_s": 355.627,
+   "end_s": 365.227,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Potter! Fifth-string center all year. Nobody said his name in October. Now half of Portland wants him at the four over Carlson.",
+   "start_s": 365.227,
+   "end_s": 372.987,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "jack",
+   "text": "Let's hold the coronation until he does it against somebody with all their guys.",
+   "start_s": 372.987,
+   "end_s": 376.827,
+   "chapter": 2
+  },
+  {
+   "seg": 2,
+   "line": 0,
+   "speaker": "jack",
+   "text": "So you won your Cup group, which gets you into the knockout round, and you finished it off by watching. Your game was basically over after one quarter, and then you sat around rooting for San Antonio.",
+   "start_s": 377.59,
+   "end_s": 389.67,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "I know. The same Spurs who knocked us out of the playoffs. Spurs ninety-nine, Lakers ninety-six, and I'm cheering for Wemby. I'm grateful. And annoyed at how grateful I am.",
+   "start_s": 389.67,
+   "end_s": 400.71,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 2,
+   "speaker": "jack",
+   "text": "Grateful's fine. You held the tiebreaker over San Antonio, so their win only mattered because you'd handled Golden State. You did your half.",
+   "start_s": 400.71,
+   "end_s": 408.87,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Okay, explain Minnesota to me. They were undefeated going in. How are they out?",
+   "start_s": 408.87,
+   "end_s": 413.67,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Each group winner gets in, plus one wild card, the best runner-up on point differential. Minnesota lost to Memphis last night, so they needed that wild card. And it only slipped away if Portland and San Antonio both won, because then the Spurs were a runner-up with a better margin. Both won. Three and oh going in, and they're home.",
+   "start_s": 413.67,
+   "end_s": 433.51,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Brutal. So we get Memphis at home, December fifth. I'm telling you, that's the scariest kind of game. The whole building thinks it's a stepping stone. And they won their group last night without Cam Boozer, their star rookie.",
+   "start_s": 433.51,
+   "end_s": 446.79,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And a two-way guard, Javon Small, a guy on the fringe of the roster, dropped nineteen on Minnesota. So who's your guy nobody's planning for?",
+   "start_s": 446.79,
+   "end_s": 455.51,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Micah Potter. Last night. That's literally what he was.",
+   "start_s": 455.51,
+   "end_s": 458.966,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Ha. I walked right into that.",
+   "start_s": 458.966,
+   "end_s": 461.23,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "And Reddit's convinced Ja could be back right around then. Ja Morant against Memphis, the team he spent his whole career with before he came here. In a knockout game. I have already pictured it. In detail. With music.",
+   "start_s": 461.23,
+   "end_s": 474.363,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 10,
+   "speaker": "jack",
+   "text": "I'd rather judge the team that just won by twenty-two than one that might exist in a week. And it's one game. One cold night and the Cup's over.",
+   "start_s": 474.363,
+   "end_s": 482.87,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Single elimination is cruel. I'd still take it over playing nothing that matters in December. And if we keep going, the Spurs are out there. I'd love that rematch. I'd just rather it wasn't one game against Wemby with everything riding on it.",
+   "start_s": 482.833,
+   "end_s": 496.593,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 12,
+   "speaker": "jack",
+   "text": "How's your dad going to take all this on Sunday?",
+   "start_s": 496.593,
+   "end_s": 499.073,
+   "chapter": 3
+  },
+  {
+   "seg": 2,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "He'll be talking about the final before he sits down. And I'll be the one saying one game at a time, which is a weird job for me. He's earned getting carried away. I'll let him.",
+   "start_s": 499.073,
+   "end_s": 509.073,
+   "chapter": 3
+  },
+  {
+   "seg": 3,
+   "line": 0,
+   "speaker": "jack",
+   "text": "Couple around the league. Dallas was down twenty-one to the Suns last night, down eighteen with under eleven to play, no Kyrie Irving, and won. Cooper Flagg had thirty-four. So which tells you more about a team: that comeback, or your guys sweating a third quarter with a thirty-six-point cushion?",
+   "start_s": 509.836,
+   "end_s": 528.876,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "The comeback. I judge a team by how it plays when it's losing, and down twenty-one is where you find out who's still sprinting back on defense. That third quarter of ours was the opposite. We had the lead and we stopped moving.",
+   "start_s": 528.876,
+   "end_s": 540.716,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 2,
+   "speaker": "jack",
+   "text": "I'd go the other way. Coming back from twenty-one usually means the other team relaxed. Which is exactly what Portland did last night. Phoenix gave Dallas the gift you almost handed Golden State. I'd judge the Mavs on how they got down twenty-one in the first place.",
+   "start_s": 540.716,
+   "end_s": 555.516,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "Huh. So the comeback is mostly the other guy letting go.",
+   "start_s": 555.516,
+   "end_s": 559.836,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 4,
+   "speaker": "jack",
+   "text": "Mostly. Some of it's heart. I'll give you some.",
+   "start_s": 559.836,
+   "end_s": 562.716,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "Some! I'll take some. Quick ones. Hawks beat the Celtics eighty-seven to eighty-six, and Boston still got in as the wild card off how hard they'd beaten everybody earlier.",
+   "start_s": 562.716,
+   "end_s": 572.316,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 6,
+   "speaker": "jack",
+   "text": "And the Sixers have Embiid, LeBron and Jaylen Brown all out against Houston, second night of a back-to-back. That's a lot of salary in street clothes.",
+   "start_s": 572.316,
+   "end_s": 581.196,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "And Luka got into it with a fan after the Lakers lost. He says it was a wristband toss that went wrong. I'll leave that one right there.",
+   "start_s": 581.196,
+   "end_s": 588.396,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 8,
+   "speaker": "jack",
+   "text": "Wise. So the Memphis test is simple: go hard for forty-eight, no third-quarter nap.",
+   "start_s": 588.396,
+   "end_s": 594.316,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Agreed. Say hi to Nora if she ever texts back. And finish those rolls or toss them, Jack. Don't let them sit on the counter judging you.",
+   "start_s": 594.316,
+   "end_s": 601.356,
+   "chapter": 4
+  },
+  {
+   "seg": 3,
+   "line": 10,
+   "speaker": "jack",
+   "text": "They've earned the right. See you next time, Mikey.",
+   "start_s": 601.356,
+   "end_s": 604.716,
+   "chapter": 4
+  }
+ ],
+ "cost": {
+  "real_usd": 0.8015,
+  "api_usd": 8.3914,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 78,
+    "input_tokens": 156,
+    "output_tokens": 96649,
+    "cache_write": 1065050,
+    "api_usd": 5.265,
+    "cache_read": 379490,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 8,
+    "input_tokens": 16,
+    "output_tokens": 49865,
+    "cache_write": 165083,
+    "api_usd": 2.3249,
+    "cache_read": 34549,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 8,
+    "chars": 10019,
+    "real_usd": 0.8015,
+    "api_usd": 0.8015
+   },
+   {
+    "kind": "background",
+    "calls": 0,
+    "real_usd": 0,
+    "api_usd": 0,
+    "since": "2026-11-26T09:23:42Z",
+    "until": "2026-11-28T09:23:10Z"
+   }
+  ]
+ }
+}
