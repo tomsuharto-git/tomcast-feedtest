@@ -1,0 +1,808 @@
+{
+ "schema": 1,
+ "guid": "tomcast-culture-20261128",
+ "show": "culture",
+ "title": "The movie theater is becoming a youth club again",
+ "date": "2026-11-28",
+ "audio_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261128.mp3",
+ "image_url": "https://tomsuharto-git.github.io/tomcast-feedtest/6a667b2339dd7ce4036f2a99/culture-20261128-art1.png",
+ "duration_s": 948,
+ "published_utc": "2026-11-28T09:25:38.715204Z",
+ "hosts": [
+  "christina",
+  "mikey"
+ ],
+ "speech_start_s": 9.755,
+ "chapters": [
+  {
+   "n": 1,
+   "story_id": "lead",
+   "tag": "attention",
+   "headline": "The movie theater is becoming a youth club again",
+   "start_s": 0
+  },
+  {
+   "n": 2,
+   "story_id": "closer",
+   "tag": "Watch Netflix's 'The Body'",
+   "headline": "Watch Netflix's 'The Body': a provocation that shows how cautious streaming has become",
+   "start_s": 612.136
+  }
+ ],
+ "transcript": [
+  {
+   "seg": 0,
+   "line": 0,
+   "speaker": "christina",
+   "text": "Hi! Hello. This is the culture show. It's two days after Thanksgiving, and Mikey Okada is here, looking like a man who has eaten.",
+   "start_s": 9.755,
+   "end_s": 19.675,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 1,
+   "speaker": "mikey",
+   "text": "I have eaten. My mom sent me home with leftovers in a yogurt tub. MIKEY on the lid, in Sharpie. Like I'm off to summer camp. I'm a grown man.",
+   "start_s": 19.675,
+   "end_s": 29.435,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 2,
+   "speaker": "christina",
+   "text": "That's love, though. That is the most loving container there is.",
+   "start_s": 29.435,
+   "end_s": 33.595,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 3,
+   "speaker": "mikey",
+   "text": "It's love and it's surveillance. She'll want that tub back by Sunday. She counts them. How was yours? Did you do the neighbors thing?",
+   "start_s": 33.595,
+   "end_s": 41.275,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 4,
+   "speaker": "christina",
+   "text": "I did the neighbors thing. Three of us in my tiny house. I made the stuffing in a pan that was way too small, so it came out more like a stuffing tower. Structurally ambitious. And this morning I ate it cold, standing at the counter, reading box office numbers.",
+   "start_s": 41.275,
+   "end_s": 57.875,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 5,
+   "speaker": "mikey",
+   "text": "That is the most Christina sentence anyone has ever said.",
+   "start_s": 57.875,
+   "end_s": 61.235,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 6,
+   "speaker": "christina",
+   "text": "I know. I know! But it's relevant, I swear.",
+   "start_s": 61.235,
+   "end_s": 64.995,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 7,
+   "speaker": "mikey",
+   "text": "Is this about the text you sent me at eleven at night? Just \"movies are a youth club now.\" No context. No punctuation.",
+   "start_s": 64.995,
+   "end_s": 71.915,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 8,
+   "speaker": "christina",
+   "text": "That's the one. And I stand by it.",
+   "start_s": 71.915,
+   "end_s": 74.555,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 9,
+   "speaker": "mikey",
+   "text": "Okay, good, because I actually have one for you. I've got a friend from high school, one of the ones with kids and a group chat I'm not in. She has a sixteen-year-old. So it's Friday, the day after Thanksgiving. The kid doesn't want the mall. Doesn't want to lie on her bed with her phone. She wants to go to the movies with like six friends. And my friend texts me, totally baffled. Is this normal? Am I raising a kid from 1955?",
+   "start_s": 74.555,
+   "end_s": 98.075,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 10,
+   "speaker": "christina",
+   "text": "Ha! Okay, that's perfect, because 1955 is exactly where I want to start. So there's a podcast called The Watch. It's the TV and movies show from The Ringer. Andy Greenwald hosts it, he's a TV writer and critic. A couple weeks ago he had on Sean Fennessey, who's the Ringer's big film guy. They were talking about why movies are suddenly winning this year, after years of everybody writing the theater's obituary. And Sean's point is that the people buying tickets now skew young. A huge chunk are under thirty-five. Older people have pulled way back.",
+   "start_s": 98.038,
+   "end_s": 133.958,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 11,
+   "speaker": "mikey",
+   "text": "Is that a real thing, or just a vibe? Because podcast guys love a vibe.",
+   "start_s": 133.958,
+   "end_s": 139.318,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 12,
+   "speaker": "christina",
+   "text": "The direction holds up. The big openings this year have skewed young, and Sean's point is that the young crowd is the one driving the comeback.",
+   "start_s": 139.318,
+   "end_s": 147.238,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 13,
+   "speaker": "mikey",
+   "text": "Okay, that's a lot of kids. So where does 1955 come in?",
+   "start_s": 147.238,
+   "end_s": 151.678,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 14,
+   "speaker": "christina",
+   "text": "So, the fifties. Television shows up in everybody's living room, and the grown-ups stay home. Hollywood has to figure out who's still coming, and the answer is teenagers. So you get drive-ins. Date night. Cheap monster movies, beach movies. The theater becomes the place you go to get away from your parents' couch.",
+   "start_s": 151.678,
+   "end_s": 171.558,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 15,
+   "speaker": "mikey",
+   "text": "And the couch now is...",
+   "start_s": 171.558,
+   "end_s": 173.638,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 16,
+   "speaker": "christina",
+   "text": "In your pocket. That's my whole thing. The lazy version of this is the one where kids are rotting and should put the phone down. But I think the phone really is the whole story here. Think about a nineteen-year-old. Every other screen in her life is private. Her show, her feed, her headphones. So one room where a few hundred strangers watch the same thing at the same time? That becomes the rare thing. Nobody's buying a ticket for the picture quality. Your TV at home probably looks better than half the theaters in Jersey.",
+   "start_s": 173.638,
+   "end_s": 205.158,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 17,
+   "speaker": "mikey",
+   "text": "See, I'm with you, and I'd go further. The theater is the one room built to say no to the phone. You pay. You sit down. The lights go out. And for two hours nobody in there gets to be somewhere else. And that sixteen-year-old? I don't think she's missing something old. She never had it to miss. She just found the one place where everybody's looking at the same thing. And it turns out she likes it.",
+   "start_s": 205.121,
+   "end_s": 229.521,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 18,
+   "speaker": "christina",
+   "text": "Okay, but nobody's enforcing that. Half the row sneaks a look. And here's the wrinkle. The phone is also how these kids find out what's worth leaving the house for. The trailer is on the phone. The group chat is on the phone. The warning to see it before it gets spoiled is on the phone. Okay, I'm too online, but I think that part is new. In the fifties, the TV and the drive-in were rivals. They never talked to each other. Now the rival is also the marketing department.",
+   "start_s": 229.521,
+   "end_s": 260.481,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 19,
+   "speaker": "mikey",
+   "text": "Huh. Okay, I'll give you the marketing department. My friend's kid found out about the movie from a group chat, obviously. She never saw a poster.",
+   "start_s": 260.481,
+   "end_s": 268.481,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 20,
+   "speaker": "christina",
+   "text": "Thank you. Nobody has seen a poster since 2011.",
+   "start_s": 268.481,
+   "end_s": 272.241,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 21,
+   "speaker": "mikey",
+   "text": "But hang on. I want to push on the Spider-Man thing, because you said it like it helps you. The next Avengers movie, Doomsday, is coming next month, and it'll probably be huge too. So if the youth club is mostly superhero movies, maybe the room doesn't matter. Maybe it's the brand. Those kids would watch Spider-Man on a couch, too, if it was on the couch.",
+   "start_s": 272.241,
+   "end_s": 291.681,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 22,
+   "speaker": "christina",
+   "text": "Would they, though? Would they really?",
+   "start_s": 291.681,
+   "end_s": 294.161,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 23,
+   "speaker": "mikey",
+   "text": "That's the question! I genuinely don't know. Because here's my version of why they wouldn't. The thing a tentpole sells, the giant movie the whole studio year leans on, is that you can't have it later. The phone gave us everything later. Every show, every song, any time, pause it, come back. So a Friday night where you see it first, with everyone, and nobody can spoil it for you, that's the scarce thing. You're buying the night. The movie comes with it.",
+   "start_s": 294.124,
+   "end_s": 322.044,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 24,
+   "speaker": "christina",
+   "text": "Okay, that's better than mine. Honestly. I was going to say the franchise stuff complicates my point, then wave my hands and say it supports me anyway. Yours explains why. I'd been hoping this was kids discovering weird cinema. Because Sean's other point was that the hits in the middle have gotten stranger. Movies like Weapons, the horror movie. Or Backrooms, which started as an internet creepypasta thing. Odd, divisive, mid-budget stuff that used to go straight to a streamer. And that's real. But the giant event of the year is a superhero movie. I have to own that.",
+   "start_s": 322.044,
+   "end_s": 358.964,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 25,
+   "speaker": "mikey",
+   "text": "Wait, back up. What's a creepypasta?",
+   "start_s": 358.964,
+   "end_s": 361.844,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 26,
+   "speaker": "christina",
+   "text": "Ha. It's a scary story that gets passed around online. Copied and pasted from forum to forum until nobody knows who wrote it. Campfire stories for people who don't go camping.",
+   "start_s": 361.844,
+   "end_s": 371.844,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 27,
+   "speaker": "mikey",
+   "text": "And I think the odd ones matter too. Those are the ones where a kid goes because a friend texted at nine p.m. to go in blind. Like that Nathan Fielder documentary. The Elizabeth Holmes one...",
+   "start_s": 371.844,
+   "end_s": 381.884,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 28,
+   "speaker": "christina",
+   "text": "You Can See Everything. Him and Lance Oppenheim. Fielder's the comedian who did The Rehearsal, the show where he builds fake versions of real life to practice it. And Holmes is the Theranos founder, the blood-testing startup that turned out to be a fraud. And that one ran almost entirely on people telling you not to look anything up and just go. Secrecy as a marketing plan.",
+   "start_s": 381.847,
+   "end_s": 405.927,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 29,
+   "speaker": "mikey",
+   "text": "Here's the part of the youth club thing that bugs me, though. Older people aren't gone. Spielberg's movie this summer, Disclosure Day, the alien one? I bet plenty of grown-ups went just because it was Spielberg.",
+   "start_s": 405.927,
+   "end_s": 417.207,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 30,
+   "speaker": "christina",
+   "text": "Oh, that's a good one. Older audiences still show up for their guy, and that's real money.",
+   "start_s": 417.207,
+   "end_s": 423.767,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 31,
+   "speaker": "mikey",
+   "text": "So the old folks didn't leave. They just got picky. They show up for their guy. I'd call it a split by movie, I think. If you call it a handover from one generation to the next, it sounds like the grown-ups turned in their keys. They didn't.",
+   "start_s": 423.767,
+   "end_s": 437.127,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 32,
+   "speaker": "christina",
+   "text": "Okay. I'll take \"split by movie.\" I'll still say the young ones are making it a habit, and the older crowd treats it like a special occasion. Which is kind of the fifties again, honestly. Your parents went to the big movie at Christmas. You went every Friday.",
+   "start_s": 437.127,
+   "end_s": 452.367,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 33,
+   "speaker": "mikey",
+   "text": "Hm. I'm not sure the habit part is proven, though. Young people showing up in a big year? That could be one Spider-Man and done. A habit is my dad and his seats. Thirty years, same section.",
+   "start_s": 452.367,
+   "end_s": 464.087,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 34,
+   "speaker": "christina",
+   "text": "Fair. I'm reading a pattern into a year of numbers, which, yes, is a thing I do. I'll put it this way: they're the ones who decide whether a strange movie lives or dies. A Spielberg crowd shows up for Spielberg. A nineteen-year-old shows up for something her friend won't shut up about.",
+   "start_s": 464.087,
+   "end_s": 481.647,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 35,
+   "speaker": "mikey",
+   "text": "That I'll buy. Taste comes from the group chat.",
+   "start_s": 481.647,
+   "end_s": 484.407,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 36,
+   "speaker": "christina",
+   "text": "How is he, by the way? Your dad, without the seats?",
+   "start_s": 484.407,
+   "end_s": 487.447,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 37,
+   "speaker": "mikey",
+   "text": "He's good. He's in his chair, muttering at the refs in two languages. My mom's asking the score every five minutes. Nobody's on a phone. One room, one thing, everybody yelling at it. And the chair has better sightlines than he'll admit. Which is maybe why I get your argument more than I want to. I know what a room like that is worth. Okay, that's the optimism talking. But I think these kids are figuring out what I figured out on my parents' couch. A room beats a feed.",
+   "start_s": 487.41,
+   "end_s": 513.97,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 38,
+   "speaker": "christina",
+   "text": "Tom, this one's for your work. Last week I said brand work needs a live moment. I'd sharpen that now. If you want people under thirty-five, the premium thing is a room and a start time with no pause button. Make it an event instead of a drop. Let it be a little secret. Then let the phones carry the word afterward.",
+   "start_s": 513.97,
+   "end_s": 534.37,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 39,
+   "speaker": "mikey",
+   "text": "And give the older crowd their Spielberg. Their version of the thing, on their terms. On the couch, if that's where they are.",
+   "start_s": 534.37,
+   "end_s": 540.61,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 40,
+   "speaker": "christina",
+   "text": "Yes, fine, the couch version too. Okay, prediction. When Doomsday opens next month, 18-to-34-year-olds will be more than half the opening-weekend crowd.",
+   "start_s": 540.61,
+   "end_s": 551.13,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 41,
+   "speaker": "mikey",
+   "text": "I'll take that. I think the dads show up for this one. Guys who saw the first Avengers in college and now have a kid old enough to bring. So I say under half. The bartender at my bar would want a number on it, by the way. He doesn't care who's right. He just wants an over-under, a line he can bet above or below.",
+   "start_s": 551.13,
+   "end_s": 566.81,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 42,
+   "speaker": "christina",
+   "text": "Ha. Over-under, fifty percent. Noted.",
+   "start_s": 566.81,
+   "end_s": 570.45,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 43,
+   "speaker": "mikey",
+   "text": "But here's where I still don't buy you. You keep saying the phone is the whole story, because it's the rival and the marketing. I think the theater is valuable because the phone is off. For two hours. That's the product.",
+   "start_s": 570.45,
+   "end_s": 582.21,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 44,
+   "speaker": "christina",
+   "text": "And I think it's valuable because of everything that goes onto the phone afterward. The arguing, the memes, the \"wait, did you see it?\" A secret movie only works if you get to tell people you were in on it. The room is the best thing the feed has to talk about.",
+   "start_s": 582.173,
+   "end_s": 598.173,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 45,
+   "speaker": "mikey",
+   "text": "Refuge from the feed.",
+   "start_s": 598.173,
+   "end_s": 599.773,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 46,
+   "speaker": "christina",
+   "text": "Best thing in the feed.",
+   "start_s": 599.773,
+   "end_s": 601.293,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 47,
+   "speaker": "mikey",
+   "text": "Although, full honesty, I check my phone at the bar every single timeout.",
+   "start_s": 601.293,
+   "end_s": 606.013,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 48,
+   "speaker": "christina",
+   "text": "Ha! You just lost your own argument.",
+   "start_s": 606.013,
+   "end_s": 608.573,
+   "chapter": 1
+  },
+  {
+   "seg": 0,
+   "line": 49,
+   "speaker": "mikey",
+   "text": "I lost a timeout. The argument's still alive.",
+   "start_s": 608.573,
+   "end_s": 611.373,
+   "chapter": 1
+  },
+  {
+   "seg": 1,
+   "line": 0,
+   "speaker": "mikey",
+   "text": "Okay, I'm a sports guy wandering into your TV party. But can I bring the pick this week? Because it ties in. It's a show everyone's going to be arguing about on their phones.",
+   "start_s": 612.136,
+   "end_s": 621.256,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 1,
+   "speaker": "christina",
+   "text": "Please. You bringing a TV pick is like me bringing a trade rumor. What is it?",
+   "start_s": 621.256,
+   "end_s": 626.456,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 2,
+   "speaker": "mikey",
+   "text": "It's called The Body. It's a Netflix series, came out November eleventh. Quinn Shephard made it, she's a young writer-director. Riley Keough's in it, the actress, Elvis's granddaughter. It has a real point of view about desire and religion and sin. And it commits. Catholic schoolgirl imagery. Sex. Some satanic stuff. And people got mad. There's a petition aimed at Peter Rice, Netflix's content chief, the guy who decides what goes on the service. And it's big.",
+   "start_s": 626.456,
+   "end_s": 654.256,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 3,
+   "speaker": "christina",
+   "text": "Okay, and here's what gets me. A few years ago, a show with that much point of view was just said to have a voice. Now it's a provocation. I think that says how small-c conservative Netflix has gotten. Meaning careful. Sanded. Nothing that might make you look up from your phone. And I wonder if the outrage is half a panic.",
+   "start_s": 654.256,
+   "end_s": 675.816,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 4,
+   "speaker": "mikey",
+   "text": "See, I don't think it's fake. Somebody signed that thing. Somebody's aunt, probably. But look at the size of it. The show landed in Netflix's top ten, and there's a fan petition for a second season too. So the outrage is real. It's just small. A small crowd in a big building, booing, while everybody else watches the game.",
+   "start_s": 675.816,
+   "end_s": 694.376,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 5,
+   "speaker": "christina",
+   "text": "So \"panic\" is fair, and \"fake\" is a stretch.",
+   "start_s": 694.376,
+   "end_s": 697.976,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 6,
+   "speaker": "mikey",
+   "text": "That's where I land. Stay with me here, because this is a basketball point. I judge a team by how it plays when it's losing, whether it still has a personality. Cautious streaming feels like a team that only takes the open corner three. Never a pull-up, never anything ugly. And you can't develop anybody that way. Every young Blazer I love has a move that was bad in November, and somebody let him keep shooting it. Craft comes from being allowed to try the weird thing and miss.",
+   "start_s": 697.939,
+   "end_s": 725.219,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 7,
+   "speaker": "christina",
+   "text": "I love that. But I'm going to push on it. You're treating the petition like proof that everything else on the shelf is smooth. Netflix greenlit this, though. And it kept it up, the same week the angry people were angry. So who's being cautious? I almost think the caution is in how the rest of us talk about it. We call one eight-episode show with opinions a \"swing,\" because it's rare enough to need a word.",
+   "start_s": 725.219,
+   "end_s": 751.859,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 8,
+   "speaker": "mikey",
+   "text": "Huh. So you're saying I'm yelling at the coach, and it's really the broadcast booth.",
+   "start_s": 751.859,
+   "end_s": 756.659,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 9,
+   "speaker": "christina",
+   "text": "A little! And here's the other thing. A provocation used to mean a network was scared. Now it's a petition plus a top-ten chart, and the petition is basically free advertising. Every angry post is a trailer. So I'm a bit suspicious of the word. Is this a weird show someone let miss? Or a weird show that showed up with a controversy already attached? Your young-Blazer thing only works for the first one.",
+   "start_s": 756.659,
+   "end_s": 784.979,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 10,
+   "speaker": "mikey",
+   "text": "Okay, that's a real distinction. I'd still say somebody had to let them make it. Somebody in a room said yes to the satanic stuff. But fine, maybe the ones that survive are the ones that can turn a little outrage into viewers. That's a smaller kind of risk than I was cheering for.",
+   "start_s": 784.979,
+   "end_s": 800.739,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 11,
+   "speaker": "christina",
+   "text": "And honestly, it connects to the lead. Right now the theater is rewarding strange movies. The secret ones, the divisive ones. And the home screen is where things get smoothed out. So when a strange thing shows up on the couch, it gets treated like news.",
+   "start_s": 800.702,
+   "end_s": 816.822,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 12,
+   "speaker": "mikey",
+   "text": "Which is kind of sad, when you say it out loud.",
+   "start_s": 816.822,
+   "end_s": 820.462,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 13,
+   "speaker": "christina",
+   "text": "It is. And the reason I care is the bigger picture. Skydance, David Ellison's company, now owns Paramount, and the whole business keeps squeezing into fewer and fewer buyers. Netflix isn't part of that, so this show didn't get hurt by it. But these are the same story. Every time two buyers become one, there's one less door to knock on with something strange.",
+   "start_s": 820.462,
+   "end_s": 844.142,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 14,
+   "speaker": "mikey",
+   "text": "Wait, explain the door thing. If they still make the shows, why does it matter if it's one studio or two?",
+   "start_s": 844.142,
+   "end_s": 849.982,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 15,
+   "speaker": "christina",
+   "text": "Because a writer with a weird idea used to pitch it in two buildings. If one said no, the other might say yes. Now it's one building. One set of bosses, one set of notes. Maybe the same number of shows. But one taste deciding all of them.",
+   "start_s": 849.982,
+   "end_s": 866.062,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 16,
+   "speaker": "mikey",
+   "text": "Fewer teams, fewer roster spots for the weird kid.",
+   "start_s": 866.062,
+   "end_s": 869.182,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 17,
+   "speaker": "christina",
+   "text": "And the weird kid is the one who doesn't get drafted at all.",
+   "start_s": 869.182,
+   "end_s": 872.382,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 18,
+   "speaker": "mikey",
+   "text": "Can I ask about your thing, though? The streaming job offer with the vague title. Because you've been talking about sanding down a voice for five minutes and I can hear it.",
+   "start_s": 872.382,
+   "end_s": 881.422,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 19,
+   "speaker": "christina",
+   "text": "Ugh. You can hear it.",
+   "start_s": 881.422,
+   "end_s": 883.382,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 20,
+   "speaker": "mikey",
+   "text": "I can hear it. So, did they ever answer you?",
+   "start_s": 883.382,
+   "end_s": 886.142,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 21,
+   "speaker": "christina",
+   "text": "They wrote back. To my one question, about what the title actually means. And the answer was, quote, happy to talk it through, unquote. Plus a calendar invite for Tuesday. So I still don't know. I keep wondering whether a place like that wants a point of view, or wants me to sand mine down.",
+   "start_s": 886.142,
+   "end_s": 905.262,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 22,
+   "speaker": "mikey",
+   "text": "Ask them who they're afraid of. On the call. See what they say.",
+   "start_s": 905.262,
+   "end_s": 908.542,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 23,
+   "speaker": "christina",
+   "text": "That's... actually a really good question. Okay. I'm writing it down. How's the yogurt tub?",
+   "start_s": 908.505,
+   "end_s": 914.825,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 24,
+   "speaker": "mikey",
+   "text": "Ha, deflection. It's half empty. I'm rationing.",
+   "start_s": 914.825,
+   "end_s": 919.225,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 25,
+   "speaker": "christina",
+   "text": "Okay, the pick. The Body, on Netflix. Start with the first episode. It tells you what it is pretty fast. Then you can decide which one you're signing, the petition or the fan petition.",
+   "start_s": 919.225,
+   "end_s": 930.905,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 26,
+   "speaker": "mikey",
+   "text": "And then go fight about it with somebody in person. That's the whole point.",
+   "start_s": 930.905,
+   "end_s": 934.265,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 27,
+   "speaker": "christina",
+   "text": "That's the show. Thanks, Mikey. Give your mom her tub back.",
+   "start_s": 934.265,
+   "end_s": 937.945,
+   "chapter": 2
+  },
+  {
+   "seg": 1,
+   "line": 28,
+   "speaker": "mikey",
+   "text": "Sunday. I promise. See you, Christina.",
+   "start_s": 937.945,
+   "end_s": 940.585,
+   "chapter": 2
+  }
+ ],
+ "cost": {
+  "real_usd": 1.2143,
+  "api_usd": 7.9483,
+  "prices_checked": "2026-10-06",
+  "lines": [
+   {
+    "kind": "claude",
+    "model": "claude-opus-5-5",
+    "calls": 10,
+    "input_tokens": 20,
+    "output_tokens": 77568,
+    "cache_write": 274113,
+    "api_usd": 3.7497,
+    "cache_read": 26843,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-sonnet-5-5",
+    "calls": 48,
+    "input_tokens": 114,
+    "output_tokens": 69258,
+    "cache_read": 385401,
+    "cache_write": 473130,
+    "api_usd": 2.6239,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "claude",
+    "model": "claude-haiku-5-5",
+    "input_tokens": 382499,
+    "output_tokens": 26722,
+    "api_usd": 0.2628,
+    "calls": 1,
+    "cache_write": 6124,
+    "real_usd": 0.0
+   },
+   {
+    "kind": "openai",
+    "model": "text-embedding-3-small",
+    "calls": 3,
+    "input_tokens": 56,
+    "real_usd": 0.0,
+    "api_usd": 0.0
+   },
+   {
+    "kind": "elevenlabs",
+    "model": "eleven_v4",
+    "calls": 11,
+    "chars": 15179,
+    "real_usd": 1.2143,
+    "api_usd": 1.2143
+   },
+   {
+    "kind": "background",
+    "calls": 13,
+    "real_usd": 0.0,
+    "api_usd": 0.0976,
+    "since": "2026-11-21T09:28:08Z",
+    "until": "2026-11-28T09:25:38Z"
+   }
+  ]
+ }
+}
